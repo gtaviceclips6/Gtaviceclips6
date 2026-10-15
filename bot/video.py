@@ -1,5 +1,5 @@
 # Vice GTA6 Clips - montaje del video (vertical, titulo, credito, subtitulos)
-import os, subprocess, textwrap
+import os, re, subprocess, textwrap
 from PIL import Image, ImageDraw, ImageFont
 
 HANDLE = "@gtaviceclips6"
@@ -66,6 +66,7 @@ def capa(titulo, streamer, png):
     f_tit = ImageFont.truetype(FUENTE, 92)
     f_peq = ImageFont.truetype(FUENTE, 46)
     limpio = " ".join("".join(c for c in titulo if ord(c) < 0x2000).split())   # sin emojis (salen como cuadrados)
+    limpio = re.sub(r"\b(GTA|Xbox|PS) (?=\S)", "\\1\u00a0", limpio, flags=re.I)  # "GTA 6" no se parte
     lineas = textwrap.wrap(limpio.upper(), 18)[:3] or ["GTA 6"]
     y = 230
     for l in lineas:
