@@ -34,6 +34,8 @@ def main():
     lista = [json.loads(l) for l in pipeline.LISTA.read_text(encoding="utf-8").splitlines()]
     semana = [d for d in lista if (d.get("fecha") or "") >= hace7 and (pipeline.SHORTS / d["archivo"]).exists()]
     ok = {a["id"] for a in tg.aprobados()}
+    fuera = set(tg.DESCARTADOS.read_text().split()) if tg.DESCARTADOS.exists() else set()
+    semana = [d for d in semana if d.get("id") not in fuera]
     semana.sort(key=lambda d: (d.get("id") in ok, d.get("vistas", 0)), reverse=True)
     top = semana[:5]
     if len(top) < 3:
