@@ -155,10 +155,13 @@ def main():
               "-vf", f"scale=8000:-1,zoompan=z='min(zoom+0.0006,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=270:s={W}x{H}:fps=30,format=yuv420p",
               "-t", "9", "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "aac", "-shortest",
               "-movflags", "+faststart", str(mp4)])
-    tags = " ".join("#" + re.sub(r"\W", "", str(x).lstrip("#")) for x in (d.get("hashtags") or []) if x)
+    tags = []
+    for x in "#gta6 #gtavi #gta6españa #noticiasgta6 #rockstargames #vicecity #ultimahora".split() + [
+            "#" + re.sub(r"\W", "", str(x).lstrip("#")).lower() for x in (d.get("hashtags") or []) if x]:
+        if len(x) > 1 and x.lower() not in [t.lower() for t in tags]:
+            tags.append(x)
     texto = (f"🚨 ÚLTIMA HORA: {d.get('titular') or n['titulo']}\n\n{d.get('resumen', '')}\n\n{d.get('comentario', '')}\n\n"
-             f"¿Qué os parece? 👇\nSíguenos para no perderte nada de GTA 6 👉 {HANDLE}\n\n"
-             f"#gta6 #gtavi #gta6españa #noticiasgta6 #rockstargames #vicecity #ultimahora {tags}").strip()
+             f"¿Qué os parece? 👇\nSíguenos para no perderte nada de GTA 6 👉 {HANDLE}\n\n" + " ".join(tags[:14])).strip()
     info = f"\n\n— Noticia: {n['titulo']} ({n['fuente']})\n{n['link']}"
     tg.enviar_video(mp4, (texto + info)[:1024], cid)
     pipeline.guardar(dict(url=n["link"] or cid, streamer="Noticias", vistas=0), mp4, cid,

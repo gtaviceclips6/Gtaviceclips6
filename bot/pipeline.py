@@ -113,6 +113,13 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     titulo, gancho, texto, quien = escribir_textos(item, transcripcion, juicio)
     if juicio:
         quien = f"IA · {'😂 gracioso' if juicio.get('tipo') == 'gracioso' else '😍 escena guapa'} · nota {juicio['nota']:g}/10"
+    # recorte inteligente: fuera silencios y, si es largo, los mejores 40 s
+    if not (juicio and juicio.get("tipo") == "escena_guapa"):
+        ini, fin = video.mejor_tramo(palabras, video.picos_volumen(src), dur)
+        if ini > 0.2 or fin < dur - 0.2:
+            src = video.recortar(src, ini, fin, pathlib.Path(tmp) / f"rec{n}.mp4")
+            palabras = [(w, a - ini, b - ini) for w, a, b in palabras if a >= ini and b <= fin]
+            dur = fin - ini
     final = pathlib.Path(tmp) / f"short{n}.mp4"
     modo = video.montar(src, final, dur, titulo, gancho, palabras, tmp=tmp)
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]

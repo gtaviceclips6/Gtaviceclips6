@@ -54,6 +54,10 @@ def fotogramas(video, n=4, ancho=480):
 
 
 # ---------------------------------------------------------------- transcripcion
+VOCABULARIO = ("GTA 6, GTA VI, Vice City, Leonida, Lucia, Jason, Rockstar, Grassrivers, Port Gellhorn, "
+               "Ambrosia, Mount Kalaga, chat, stream, directo, Twitch, jajaja")
+
+
 def transcribir(video):
     """Lista de (palabra, inicio, fin). Vacia si no hay voz o falla."""
     try:
@@ -61,8 +65,9 @@ def transcribir(video):
         audio = audio_16k(video)
         if not len(audio):
             return []
-        modelo = WhisperModel(os.environ.get("WHISPER", "small"), device="cpu", compute_type="int8")
-        segs, _ = modelo.transcribe(audio, language="es", word_timestamps=True, vad_filter=True)
+        modelo = WhisperModel(os.environ.get("WHISPER", "medium"), device="cpu", compute_type="int8")
+        segs, _ = modelo.transcribe(audio, language="es", word_timestamps=True, vad_filter=True,
+                                    initial_prompt=VOCABULARIO, condition_on_previous_text=False)
         return [(w.word.strip(), w.start, w.end) for s in segs for w in (s.words or []) if w.word.strip()]
     except Exception as e:
         print("Subtitulos:", e)
@@ -75,30 +80,53 @@ def tiempo_ass(s):
     return f"{int(h)}:{int(m):02d}:{s:05.2f}"
 
 
-def ass_karaoke(palabras, ruta, margen_v):
-    """Subtitulos de 3 en 3 palabras; la palabra que suena sale en amarillo y un poco mas grande."""
-    limpia = lambda w: w.upper().replace("{", "").replace("}", "")
+def agrupar(palabras, max_pal=3, max_letras=18, pausa=0.45):
+    """Junta palabras en frases cortas cortando en pausas y signos, como hacen los editores de shorts."""
+    grupos, g = [], []
+    for i, (w, ini, fin) in enumerate(palabras):
+        if g and (len(g) >= max_pal or len(" ".join(x[0] for x in g + [(w, 0, 0)])) > max_letras
+                  or ini - g[-1][2] > pausa):
+            grupos.append(g); g = []
+        g.append((w, ini, fin))
+        if re.search(r"[.!?…,;:]$", w):
+            grupos.append(g); g = []
+    if g:
+        grupos.append(g)
+    return grupos
+
+
+def ass_karaoke(palabras, ruta, margen_v, tam=92, ancho_max=900):
+    """Subtitulos de 1-3 palabras; la que suena en amarillo y mas grande. Siempre caben en pantalla."""
+    from PIL import ImageFont
+    f = ImageFont.truetype(FUENTE, tam)
+    limpia = lambda w: re.sub(r"[{}\\.,;:…\"«»]", "", w).upper()
+    grupos = agrupar(palabras)
     ev = []
-    for i in range(0, len(palabras), 3):
-        g = palabras[i:i + 3]
+    for gi, g in enumerate(grupos):
+        fin_g = g[-1][2] + 0.25
+        if gi + 1 < len(grupos):                          # sin parpadeos: aguanta hasta la siguiente frase si esta cerca
+            sig = grupos[gi + 1][0][1]
+            fin_g = sig if sig - g[-1][2] < 0.7 else fin_g
+        texto = " ".join(limpia(w) for w, _, _ in g)
+        ancho = f.getlength(texto) * 1.1
+        fs = tam if ancho <= ancho_max else max(48, int(tam * ancho_max / ancho))
         for k, (w, ini, fin) in enumerate(g):
-            fin_k = g[k + 1][1] if k + 1 < len(g) else fin + 0.08
+            fin_k = g[k + 1][1] if k + 1 < len(g) else fin_g
             partes = []
             for j, (w2, _, _) in enumerate(g):
-                if j == k:
-                    partes.append(r"{\c&H0000E6FF&\fscx112\fscy112}" + limpia(w2) + r"{\c&H00FFFFFF&\fscx100\fscy100}")
-                else:
-                    partes.append(limpia(w2))
-            ev.append(f"Dialogue: 0,{tiempo_ass(ini)},{tiempo_ass(fin_k)},Sub,,0,0,0,,{' '.join(partes)}")
+                partes.append(r"{\c&H0000E6FF&\fscx115\fscy115}" + limpia(w2) + r"{\c&H00FFFFFF&\fscx100\fscy100}"
+                              if j == k else limpia(w2))
+            pop = r"{\fs%d\fad(70,0)}" % fs if k == 0 else r"{\fs%d}" % fs
+            ev.append(f"Dialogue: 0,{tiempo_ass(ini)},{tiempo_ass(max(fin_k, ini + 0.12))},Sub,,0,0,0,,{pop}{' '.join(partes)}")
     cab = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
 PlayResY: {H}
-WrapStyle: 0
+WrapStyle: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sub,{FAMILIA},92,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,1,0,1,8,4,2,60,60,{margen_v},1
+Style: Sub,{FAMILIA},{tam},&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,1,0,1,8,4,2,90,90,{margen_v},1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -168,6 +196,32 @@ def picos_volumen(video, maximo=3):
         if t > 0.8 and all(abs(t - p) > 4 for p in picos):
             picos.append(t)
     return sorted(picos)
+
+
+def recortar(src, ini, fin, salida):
+    ejecutar(["ffmpeg", "-y", "-loglevel", "error", "-ss", f"{ini:.2f}", "-i", str(src), "-t", f"{fin - ini:.2f}",
+              "-c:v", "libx264", "-preset", "ultrafast", "-crf", "18", "-c:a", "aac", "-b:a", "160k", str(salida)])
+    return salida
+
+
+def mejor_tramo(palabras, picos, dur, max_seg=45, ventana=40):
+    """Quita silencios del principio/final y, si es largo, elige los 'ventana' segundos con mas chicha."""
+    ini, fin = 0.0, dur
+    if palabras:
+        if palabras[0][1] > 1.2:
+            ini = max(0.0, palabras[0][1] - 0.5)
+        if dur - palabras[-1][2] > 2.5:
+            fin = min(dur, palabras[-1][2] + 1.2)
+    if fin - ini > max_seg:
+        mejor, puntos = ini, -1
+        t = ini
+        while t + ventana <= fin + 0.01:
+            p = sum(1 for _, a, _ in palabras if t <= a < t + ventana) + 6 * sum(1 for x in picos if t + 2 <= x < t + ventana - 2)
+            if p > puntos:
+                mejor, puntos = t, p
+            t += 1.0
+        ini, fin = mejor, mejor + ventana
+    return ini, fin
 
 
 # ---------------------------------------------------------------- textos (imagenes)
@@ -245,7 +299,7 @@ def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp"):
                  f"[bg][fg]overlay=(W-w)/2:(H-h)/2[base]")
         png_titulo(titulo, 200, p_tit)
         png_gancho(gancho or titulo, 260, p_gan)
-        margen_subs = 380
+        margen_subs = 640          # encima de la zona de botones/descripcion de TikTok e Instagram
     png_marca(p_mar)
 
     # zoom rapido en los picos de volumen
