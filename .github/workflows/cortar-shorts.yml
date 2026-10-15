@@ -8,6 +8,7 @@ on:
       - ".github/workflows/cortar-shorts.yml"
   # Pasada automatica cada 3 horas (hora UTC). Antes del 18/11 busca clips de la ultima
   # semana; desde el 18/11 solo los del ultimo dia (modo lanzamiento).
+  # La pasada de las 21:17 UTC (23:17 en Madrid) manda ademas el resumen del dia.
   schedule:
     - cron: "17 */3 * * *"
   # Boton "Run workflow" en GitHub (Actions -> Cortar shorts)
@@ -19,8 +20,9 @@ on:
         default: ""
 permissions:
   contents: write
+  actions: read
 concurrency:
-  group: cortar-shorts
+  group: bot-gtaviceclips6
   cancel-in-progress: false
 jobs:
   cortar:
@@ -52,17 +54,19 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # opcional: textos escritos por IA
+          GITHUB_TOKEN: ${{ github.token }}                     # para contar los minutos gastados
           EVENTO: ${{ github.event_name }}
           RANGO: ${{ github.event.inputs.rango }}
           MAX_CLIPS: "10"        # clips como maximo por pasada (cuida los minutos gratis)
           POR_STREAMER: "3"
           MIN_VISTAS: "0"        # sube este numero si llegan demasiados clips flojos
+          MIN_PALABRAS: "3"      # clips donde casi no se habla se descartan
         run: python bot/cortar.py
-      - name: Apuntar lo ya hecho
+      - name: Guardar lo hecho en el repositorio
         if: always()
         run: |
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
-          git add hechos.txt 2>/dev/null || true
-          git add shorts 2>/dev/null || true
+          for f in hechos.txt shorts telegram_chat.txt aprobados.jsonl descartados.txt errores.txt; do git add "$f" 2>/dev/null || true; done
           git diff --cached --quiet || (git commit -m "Clips procesados" && git pull --rebase -q && git push)

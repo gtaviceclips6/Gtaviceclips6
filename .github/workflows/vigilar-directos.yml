@@ -1,0 +1,64 @@
+name: Vigilar directos
+# Corta momentos EN DIRECTO cuando el chat explota. Necesita los secretos TWITCH_CLIENT_ID y TWITCH_CLIENT_SECRET.
+# Automatico: del 18 al 30 de noviembre, cada hora de 13:00 a 03:00 (hora de Madrid).
+# Como gasta muchos minutos, la parte automatica SOLO funciona si el repositorio es publico (minutos ilimitados).
+on:
+  schedule:
+    - cron: "5 12-23,0-2 18-30 11 *"
+  workflow_dispatch:
+    inputs:
+      juego:
+        description: "Juego a vigilar (para probar, por ejemplo: Just Chatting)"
+        required: false
+        default: "Grand Theft Auto VI"
+      minutos:
+        description: "Minutos escuchando el chat"
+        required: false
+        default: "20"
+permissions:
+  contents: write
+concurrency:
+  group: bot-gtaviceclips6
+  cancel-in-progress: false
+jobs:
+  vigilar:
+    if: github.event_name == 'workflow_dispatch' || github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+      - name: Instalar herramientas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q -U -r bot/requirements.txt
+          mkdir -p fonts
+          curl -sSL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || rm -f fonts/Anton-Regular.ttf
+      - name: Vigilar y cortar
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          JUEGO: ${{ github.event.inputs.juego }}
+          MINUTOS_DIRECTO: ${{ github.event.inputs.minutos || '20' }}
+          MAX_DIRECTOS: "3"
+          MAX_MOMENTOS: "2"
+        run: python bot/directo.py
+      - name: Guardar lo hecho en el repositorio
+        if: always()
+        run: |
+          git config user.name "vice-bot"
+          git config user.email "vice-bot@users.noreply.github.com"
+          for f in shorts telegram_chat.txt; do git add "$f" 2>/dev/null || true; done
+          git diff --cached --quiet || (git commit -m "Momentos en directo" && git pull --rebase -q && git push)

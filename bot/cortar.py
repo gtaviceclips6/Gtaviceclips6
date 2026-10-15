@@ -1,127 +1,108 @@
-# Vice GTA6 Clips - cortador de shorts
-# Lee clips.txt (enlaces a mano) y streamers.txt (busca clips de GTA en Twitch),
-# corta cada uno en vertical con titulo, credito y subtitulos, y lo manda a Telegram.
-import os, re, json, pathlib
+# GTA VICE CLIPS 6 - cortador de shorts
+# 1) Apunta los botones ✅/❌ que hayas pulsado en Telegram
+# 2) Busca clips (clips.txt + Twitch), los monta en vertical y te los manda con botones
+# 3) Por la noche te manda un resumen del dia
+import os, json, pathlib, datetime
 import requests
-from video import ejecutar, subtitulos, capa, montar, HANDLE
+import tg, pipeline
 from fuentes import leer_lista, buscar_twitch, elegir_tramo, descargar
+from video import ejecutar
 
-TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-CHAT = os.environ.get("TELEGRAM_CHAT_ID", "")
-MAX_CLIPS = int(os.environ.get("MAX_CLIPS", "5") or 5)   # clips como maximo por pasada
+MAX_CLIPS = int(os.environ.get("MAX_CLIPS", "5") or 5)
 HECHOS = pathlib.Path("hechos.txt")
-SHORTS = pathlib.Path("shorts")   # aqui se guarda cada short para programarlo en Metricool
+ERRORES = pathlib.Path("errores.txt")
 TMP = pathlib.Path("tmp"); TMP.mkdir(exist_ok=True)
 
 
-def tg(metodo, **kw):
-    r = requests.post(f"https://api.telegram.org/bot{TOKEN}/{metodo}", timeout=300, **kw)
-    if not r.ok:
-        print("Telegram:", r.text[:300])
-    return r
+def minutos_del_mes():
+    """Minutos de GitHub Actions gastados este mes (aprox.), para el resumen."""
+    repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
+    if not repo or not token:
+        return None
+    desde = datetime.date.today().replace(day=1).isoformat()
+    total, pagina = 0, 1
+    while pagina < 20:
+        r = requests.get(f"https://api.github.com/repos/{repo}/actions/runs", timeout=30,
+                         headers={"Authorization": f"Bearer {token}"},
+                         params={"created": f">={desde}", "per_page": 100, "page": pagina})
+        runs = r.json().get("workflow_runs", []) if r.ok else []
+        for x in runs:
+            try:
+                a = datetime.datetime.fromisoformat(x["run_started_at"].rstrip("Z"))
+                b = datetime.datetime.fromisoformat(x["updated_at"].rstrip("Z"))
+                total += max(1, -(-int((b - a).total_seconds()) // 60))
+            except Exception:
+                pass
+        if len(runs) < 100:
+            break
+        pagina += 1
+    return total
 
 
-def chat_id():
-    global CHAT
-    if not CHAT:
-        upd = tg("getUpdates").json().get("result", [])
-        ids = [u["message"]["chat"]["id"] for u in upd if "message" in u]
-        CHAT = str(ids[-1]) if ids else ""
-    return CHAT
-
-
-RISAS = ["JAJAJAJAJA 😂😂😂", "JAJSJAJSJ NO PUEDO 💀💀", "😂😂 me estoy meando", "JAJAJA lo he visto 10 veces 😭",
-         "NO PUEDO MÁS 😂😂😂", "JAJAJAJ qué crack 💀"]
-COMENTARIOS = [
-    "{s} ya está más metido en Vice City que en su propia casa 🌴",
-    "{s} el 19/11: 'una partidita rápida'… 14 horas después 💀",
-    "Rockstar, contratad a {s} para el próximo tráiler, por favor 🙏",
-    "{s} lleva 13 años esperando esto y se le nota en la cara 😭",
-    "Que alguien le dé a {s} el GTA 6 ya, que no aguanta más 😂",
-    "El 19 de noviembre {s} no duerme, apostamos lo que queráis 👀",
-    "{s} reaccionando como todos nosotros a las 3 de la mañana 💀",
-    "Nivel de hype de {s}: no apto para cardíacos 🔥",
-]
-
-
-def texto_post(item, frase=""):
-    s = item["streamer"] or "este hombre"
-    tag = re.sub(r"\W", "", (item["streamer"] or "").lower())
-    h = sum(map(ord, item["url"]))                       # elige siempre la misma broma para el mismo clip
-    tit = item["titulo"] or "Reacción a GTA 6"
-    cita = f'\n\n"{frase}" 💀' if frase else ""
-    return (f"{RISAS[h % len(RISAS)]}\n\n{tit} 🌴{cita}\n\n{COMENTARIOS[h % len(COMENTARIOS)].format(s=s)}\n\n"
-            f"¿Y tú cómo vas a reaccionar el 19/11? 👇\nSíguenos para más 👉 {HANDLE}\n\n"
-            "#gta6 #gtavi #gta6españa #humor #clipsgraciosos #viral #parati #fyp #twitch #streamer #vicecity"
-            + (f" #{tag}" if tag else ""))
-
-
-def frase_corta(txt):
-    # una frase llamativa del audio (entre 4 y 12 palabras) para citarla
-    trozos = [t.strip(" ,") for t in re.split(r"[.!?¿¡]", txt) if 4 <= len(t.split()) <= 12]
-    return max(trozos, key=len)[:90] if trozos else ""
-
-
-def procesar(item, n):
-    meta = json.loads(ejecutar(["yt-dlp", "-J", "--no-playlist", item["url"]]))
-    if not item["streamer"]:
-        item["streamer"] = meta.get("uploader") or meta.get("channel") or ""
-    if not item["titulo"]:
-        item["titulo"] = meta.get("title", "")
-    ini, dur, como = elegir_tramo(meta, item["inicio"], item["dur"])
-    crudo, png, ass, final = TMP / f"c{n}.mp4", TMP / f"c{n}.png", TMP / f"c{n}.ass", TMP / f"short{n}.mp4"
-    descargar(item, ini, dur, crudo)
-    capa(item["titulo"], item["streamer"], png)
-    hay_subs = subtitulos(crudo, ass)
-    montar(crudo, png, ass if hay_subs else None, final, dur)
-    txt = ass.with_suffix(".txt")
-    pie = texto_post(item, frase_corta(txt.read_text(encoding="utf-8")) if txt.exists() else "")
-    vistas = f" · 👀 {item['vistas']:,} visitas en Twitch".replace(",", ".") if item.get("vistas") else ""
-    info = f"\n\n— Tramo: {int(ini // 60)}:{int(ini % 60):02d} ({int(dur)} s) · {como}{vistas}"
-    with open(final, "rb") as f:
-        r = tg("sendVideo", data={"chat_id": chat_id(), "caption": (pie + info)[:1024], "supports_streaming": "true"},
-               files={"video": f})
-    if not r.ok:
-        raise RuntimeError("Telegram no aceptó el vídeo: " + r.text[:150])
-    guardar(item, final, pie)
-
-
-def guardar(item, final, pie):
-    SHORTS.mkdir(exist_ok=True)
-    nombre = re.sub(r"[^a-z0-9]+", "-", f"{item['streamer']}-{item['url'].rstrip('/').split('/')[-1]}".lower())[:80]
-    (SHORTS / f"{nombre}.mp4").write_bytes(pathlib.Path(final).read_bytes())
-    with open(SHORTS / "lista.jsonl", "a", encoding="utf-8") as f:
-        f.write(json.dumps(dict(archivo=f"{nombre}.mp4", url=item["url"], streamer=item["streamer"],
-                                titulo=item["titulo"], texto=pie), ensure_ascii=False) + "\n")
+def resumen_diario():
+    hoy = datetime.datetime.utcnow().date().isoformat()
+    lista = [json.loads(l) for l in pipeline.LISTA.read_text(encoding="utf-8").splitlines()] if pipeline.LISTA.exists() else []
+    de_hoy = [d for d in lista if (d.get("fecha") or "").startswith(hoy)]
+    errores = [l for l in (ERRORES.read_text(encoding="utf-8").splitlines() if ERRORES.exists() else []) if l.startswith(hoy)]
+    pendientes = [a for a in tg.aprobados() if not a.get("publicado")]
+    mins = minutos_del_mes()
+    top = sorted(de_hoy, key=lambda d: d.get("vistas", 0), reverse=True)[:3]
+    txt = (f"📊 Resumen del día\n\n🎬 Shorts nuevos: {len(de_hoy)}\n⚠️ Clips descartados o con error: {len(errores)}\n"
+           f"✅ Aprobados pendientes de programar: {len(pendientes)}\n")
+    if mins is not None:
+        txt += f"⏱️ Minutos de GitHub este mes: ~{mins} de 2.000\n"
+    if top:
+        txt += "\n🔥 Los más vistos de hoy:\n" + "\n".join(f"• {d['titulo']} ({d['streamer']})" for d in top)
+    if pendientes:
+        txt += "\n\n👉 Dile a Claude: «programa los aprobados»"
+    tg.mensaje(txt)
 
 
 def main():
-    if not TOKEN or not chat_id():
+    if not tg.TOKEN or not tg.chat_id():
         raise SystemExit("Falta el token o el chat de Telegram")
+    ok, no = tg.procesar_botones()
+    print(f"Botones: {ok} aprobados, {no} descartados")
     hechos = set(HECHOS.read_text(encoding="utf-8").split()) if HECHOS.exists() else set()
     items, vistos = [], set()
     for it in leer_lista() + buscar_twitch():
-        if it["url"] not in hechos and it["url"] not in vistos:
-            vistos.add(it["url"]); items.append(it)
-    if not items:
-        if os.environ.get("EVENTO") != "schedule":   # en las pasadas automaticas no molesta
-            tg("sendMessage", data={"chat_id": CHAT, "text": "🤖 No hay clips nuevos que cortar."})
-        return
-    pendientes = len(items) - MAX_CLIPS
-    items = items[:MAX_CLIPS]
-    aviso = f" (quedan {pendientes} para la próxima pasada)" if pendientes > 0 else ""
-    tg("sendMessage", data={"chat_id": CHAT, "text": f"🤖 Empiezo a cortar {len(items)} clip(s){aviso}…"})
-    bien = mal = 0
-    for n, it in enumerate(items, 1):
-        try:
-            procesar(it, n); bien += 1
+        it.setdefault("vistas", 0)
+        if it["url"] in hechos or it["url"] in vistos:
+            continue
+        if pipeline.ya_hay_igual(it["streamer"], it["titulo"]):
+            hechos.add(it["url"]); continue
+        vistos.add(it["url"]); items.append(it)
+    automatico = os.environ.get("EVENTO") == "schedule"
+    if items:
+        pendientes = len(items) - MAX_CLIPS
+        items = items[:MAX_CLIPS]
+        aviso = f" (quedan {pendientes} para la próxima pasada)" if pendientes > 0 else ""
+        tg.mensaje(f"🤖 Empiezo a cortar {len(items)} clip(s){aviso}…")
+        bien = mal = 0
+        for n, it in enumerate(items, 1):
+            try:
+                meta = json.loads(ejecutar(["yt-dlp", "-J", "--no-playlist", it["url"]]))
+                it["streamer"] = it["streamer"] or meta.get("uploader") or meta.get("channel") or ""
+                it["titulo"] = it["titulo"] or meta.get("title", "")
+                it["vistas"] = it["vistas"] or meta.get("view_count") or 0
+                ini, dur, como = elegir_tramo(meta, it["inicio"], it["dur"])
+                crudo = TMP / f"c{n}.mp4"
+                descargar(it, ini, dur, crudo)
+                pipeline.procesar(it, crudo, n, info_extra=f" · {como}", tmp=TMP)
+                bien += 1
+            except Exception as e:
+                mal += 1
+                with open(ERRORES, "a", encoding="utf-8") as f:
+                    f.write(f"{datetime.datetime.utcnow().isoformat(timespec='minutes')} {it['url']} {e}\n")
+                if not str(e).startswith("descartado"):
+                    tg.mensaje(f"❌ No pude con:\n{it['url']}\nMotivo: {e}")
             hechos.add(it["url"])
-        except Exception as e:
-            mal += 1
-            tg("sendMessage", data={"chat_id": CHAT, "text": f"❌ No pude con:\n{it['url']}\nMotivo: {e}"})
-            hechos.add(it["url"])
-        HECHOS.write_text("\n".join(sorted(hechos)) + "\n", encoding="utf-8")
-    tg("sendMessage", data={"chat_id": CHAT, "text": f"✅ Terminado: {bien} short(s) listos, {mal} con error."})
+            HECHOS.write_text("\n".join(sorted(hechos)) + "\n", encoding="utf-8")
+        tg.mensaje(f"✅ Terminado: {bien} short(s) listos, {mal} descartados o con error.")
+    elif not automatico:
+        tg.mensaje("🤖 No hay clips nuevos que cortar.")
+    if automatico and datetime.datetime.utcnow().hour == 21:   # pasada de las 23:17 (hora de Madrid)
+        resumen_diario()
 
 
 if __name__ == "__main__":

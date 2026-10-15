@@ -2,3 +2,5 @@ yt-dlp
 faster-whisper
 requests
 pillow
+numpy
+opencv-python-headless<5

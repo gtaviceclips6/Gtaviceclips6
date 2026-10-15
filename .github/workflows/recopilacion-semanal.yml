@@ -1,0 +1,42 @@
+name: Recopilación semanal
+# Cada domingo a las 19:30 (hora de Madrid) monta el "TOP 5 momentos de GTA 6 de la semana"
+# y te lo manda a Telegram con los botones ✅/❌.
+on:
+  schedule:
+    - cron: "30 17 * * 0"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: bot-gtaviceclips6
+  cancel-in-progress: false
+jobs:
+  top:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
+      - name: Instalar herramientas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q -U -r bot/requirements.txt
+          mkdir -p fonts
+          curl -sSL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || rm -f fonts/Anton-Regular.ttf
+      - name: Montar y mandar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot/recopilacion.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "vice-bot"
+          git config user.email "vice-bot@users.noreply.github.com"
+          git add shorts telegram_chat.txt 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "Recopilación semanal" && git pull --rebase -q && git push)
