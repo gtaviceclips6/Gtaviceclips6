@@ -1,14 +1,15 @@
 # Vice GTA6 Clips - de donde salen los clips (clips.txt y Twitch) y que tramo cortar
 import os, re, json, pathlib, datetime
 from video import ejecutar
+from config import JUEGO
 
 MAXDUR = 59          # segundos maximos de cada short
 DURDEF = 40          # duracion si no se indica
 POR_STREAMER = int(os.environ.get("POR_STREAMER", "3") or 3)   # clips de Twitch por streamer y pasada
 MIN_VISTAS = int(os.environ.get("MIN_VISTAS", "0") or 0)       # descarta clips con menos visitas
-LANZAMIENTO = datetime.date(2026, 11, 19)
+LANZAMIENTO = datetime.date.fromisoformat(JUEGO["lanzamiento"])
 # Solo clips de GTA 6 (antes cogia cualquier "GTA", incluido GTA 5 o Minecraft)
-CLAVES = re.compile(os.environ.get("FILTRO") or r"gta ?(6|vi\b)|grand theft auto (6|vi\b)|leonida|vice ?city|lucia|jason duval", re.I)
+CLAVES = re.compile(os.environ.get("FILTRO") or JUEGO["palabras_clave"], re.I)
 
 
 def segundos(t):
@@ -59,7 +60,7 @@ def buscar_twitch():
     if os.environ.get("TOP_ESPANOL", "true") == "true":
         try:
             vistos = {c["url"] for c in out}
-            top = clips_top_espanol(os.environ.get("JUEGO_TOP") or "Grand Theft Auto VI")
+            top = clips_top_espanol(os.environ.get("JUEGO_TOP") or JUEGO["nombre_twitch"])
             out += [c for c in top if c["url"] not in vistos]
             print("Top en español de todo Twitch:", len(top))
         except Exception as e:

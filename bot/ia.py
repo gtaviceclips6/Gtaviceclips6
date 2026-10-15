@@ -5,13 +5,14 @@
 #  - Sin ninguna clave: plantillas.
 import os, json, re, pathlib, datetime
 import requests
+from config import MARCA
 
 CLAVE = os.environ.get("ANTHROPIC_API_KEY", "")
 GEMINI = os.environ.get("GEMINI_API_KEY", "")
 MODELOS_GEMINI = [m for m in os.environ.get("MODELO_GEMINI", "gemini-3.5-flash-lite,gemini-3.8-flash,gemini-3.6-flash,gemini-flash-latest").split(",") if m]
 MODELO = os.environ.get("MODELO_IA", "claude-haiku-5-5")
 
-INSTRUCCIONES = """Eres el editor jefe de @gtaviceclips6, una cuenta de fans (no oficial) de GTA 6 para España que sube
+INSTRUCCIONES = "Eres el editor jefe de " + MARCA["handle"] + ", " + MARCA["descripcion_ia"] + """, que sube
 clips cortos de streamers a TikTok, Instagram Reels y YouTube Shorts. Te paso 4 fotogramas del clip y lo que se dice.
 
 1) JUZGA el clip con MUCHA exigencia. Solo vale si es una de estas dos cosas:

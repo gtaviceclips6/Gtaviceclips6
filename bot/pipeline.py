@@ -2,14 +2,15 @@
 # (lo usan cortar.py para clips de Twitch y directo.py para momentos cortados en directo)
 import os, re, json, hashlib, pathlib, datetime
 import video, ia, tg
+from config import HASHTAGS as TAGS, FILTRO
 
 HANDLE = video.HANDLE
 SHORTS = pathlib.Path("shorts")
 LISTA = SHORTS / "lista.jsonl"
 MIN_PALABRAS = int(os.environ.get("MIN_PALABRAS", "3") or 3)   # filtro: clips donde casi no se habla, fuera
-MIN_SEG = 8
-NOTA_MINIMA = float(os.environ.get("NOTA_MINIMA", "7") or 7)          # la IA puntua de 1 a 10; por debajo, fuera
-MIN_VISTAS_SIN_IA = int(os.environ.get("MIN_VISTAS_SIN_IA", "50") or 50)  # si la IA no responde, solo clips muy vistos
+MIN_SEG = int(FILTRO["min_segundos"])
+NOTA_MINIMA = float(os.environ.get("NOTA_MINIMA") or FILTRO["nota_minima"])          # la IA puntua de 1 a 10; por debajo, fuera
+MIN_VISTAS_SIN_IA = int(os.environ.get("MIN_VISTAS_SIN_IA") or FILTRO["min_vistas_sin_ia"])  # si la IA no responde, solo clips muy vistos
 SIMULACRO = os.environ.get("SIMULACRO") == "true"
 
 RISAS = ["JAJAJAJAJA 😂😂😂", "JAJSJAJSJ NO PUEDO 💀💀", "😂😂 me estoy meando", "JAJAJA lo he visto 10 veces 😭",
@@ -30,7 +31,7 @@ NEUTROS = ["{s} no tiene filtro y por eso lo queremos 😂", "Lo que acaba de pa
            "{s} en su máximo esplendor 🔥", "El chat de {s} no se lo podía creer 😭",
            "Momento de {s} que tenía que estar en todos lados 😂"]
 NEUTROS_GANCHO = ["NO PUEDE SER", "MIRA SU CARA", "ESPERA AL FINAL", "QUÉ ACABA DE PASAR"]
-HASHTAGS = "#gta6 #gtavi #gta6españa #humor #clipsgraciosos #viral #parati #fyp #twitch #streamer #vicecity"
+HASHTAGS = TAGS["base"]
 
 
 def norm(t):
@@ -69,7 +70,7 @@ def escribir_textos(item, transcripcion, t=None):
     if t and t.get("titulo") and t.get("comentario"):
         base = HASHTAGS if es_de_gta(item, transcripcion) else "#humor #clipsgraciosos #viral #parati #fyp #twitch #streamer"
         if t.get("tipo") == "escena_guapa":
-            base = "#gta6 #gtavi #gta6españa #vicecity #leonida #graficos #gaming #viral #parati #fyp"
+            base = TAGS["escenas"]
         tags = []
         for x in base.split() + [f"#{tag}"] + ["#" + re.sub(r"\W", "", str(x).lstrip("#")) for x in (t.get("hashtags") or [])]:
             if len(x) > 1 and x.lower() not in [y.lower() for y in tags]:

@@ -4,6 +4,7 @@ on:
     paths:
       - "clips.txt"
       - "streamers.txt"
+      - "config.json"
       - "bot/**"
       - ".github/workflows/cortar-shorts.yml"
   # Pasada automatica cada 3 horas (hora UTC). Antes del 18/11 busca clips de la ultima

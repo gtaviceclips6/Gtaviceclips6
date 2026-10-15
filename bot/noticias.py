@@ -14,8 +14,11 @@ from video import ejecutar, FUENTE, W, H, ROSA, CIAN, AMARILLO, BLANCO, HANDLE
 VISTAS = pathlib.Path("noticias_vistas.txt")
 TMP = pathlib.Path("tmp_noticias"); TMP.mkdir(exist_ok=True)
 HORAS = int(os.environ.get("HORAS_NOTICIA", "12") or 12)
-RSS = ("https://news.google.com/rss/search?q=%22GTA%206%22%20OR%20%22GTA%20VI%22%20when%3A1d"
-       "&hl=es&gl=ES&ceid=ES:es")
+from config import JUEGO, HASHTAGS as TAGS, CFG
+from urllib.parse import quote
+_I = CFG["idioma"]
+RSS = (f"https://news.google.com/rss/search?q={quote(JUEGO['busqueda_noticias'] + ' when:1d')}"
+       f"&hl={_I['codigo']}&gl={_I['pais']}&ceid={_I['pais']}:{_I['codigo']}")
 
 INSTR = """Eres el editor de @gtaviceclips6 (cuenta de fans de GTA 6 para España). Te paso titulares recientes.
 Elige COMO MUCHO UNO que sea una noticia OFICIAL e IMPORTANTE de GTA 6: anuncio o confirmacion de Rockstar Games
@@ -156,7 +159,7 @@ def main():
               "-t", "9", "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "aac", "-shortest",
               "-movflags", "+faststart", str(mp4)])
     tags = []
-    for x in "#gta6 #gtavi #gta6españa #noticiasgta6 #rockstargames #vicecity #ultimahora".split() + [
+    for x in TAGS["noticias"].split() + [
             "#" + re.sub(r"\W", "", str(x).lstrip("#")).lower() for x in (d.get("hashtags") or []) if x]:
         if len(x) > 1 and x.lower() not in [t.lower() for t in tags]:
             tags.append(x)

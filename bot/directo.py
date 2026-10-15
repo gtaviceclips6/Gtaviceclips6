@@ -9,7 +9,8 @@ from video import ejecutar
 
 CID = os.environ.get("TWITCH_CLIENT_ID", "")
 SECRET = os.environ.get("TWITCH_CLIENT_SECRET", "")
-JUEGO = os.environ.get("JUEGO") or "Grand Theft Auto VI"
+from config import JUEGO as _J
+JUEGO = os.environ.get("JUEGO") or _J["nombre_twitch"]
 MINUTOS = float(os.environ.get("MINUTOS_DIRECTO", "20") or 20)     # cuanto rato escucha cada pasada
 MAX_DIRECTOS = int(os.environ.get("MAX_DIRECTOS", "3") or 3)       # cuantos directos a la vez
 MAX_MOMENTOS = int(os.environ.get("MAX_MOMENTOS", "2") or 2)       # momentos por directo y pasada

@@ -9,11 +9,13 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1080, 1920
-HANDLE = "@gtaviceclips6"
+from config import MARCA, JUEGO
+HANDLE = MARCA["handle"]
 FUENTES = ["fonts/Anton-Regular.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
 FUENTE = next((f for f in FUENTES if os.path.exists(f)), FUENTES[-1])
 FAMILIA = "Anton" if "Anton" in FUENTE else "DejaVu Sans"
-ROSA, CIAN, AMARILLO, BLANCO = (255, 46, 136), (0, 229, 255), (255, 230, 0), (255, 255, 255)
+ROSA, CIAN, AMARILLO = tuple(MARCA["color_principal"]), tuple(MARCA["color_secundario"]), tuple(MARCA["color_resaltado"])
+BLANCO = (255, 255, 255)
 CAM_ALTO = 700          # alto del panel de la camara en pantalla partida
 GANCHO_SEG = 2.6        # segundos que se ve el gancho
 
@@ -54,8 +56,7 @@ def fotogramas(video, n=4, ancho=480):
 
 
 # ---------------------------------------------------------------- transcripcion
-VOCABULARIO = ("GTA 6, GTA VI, Vice City, Leonida, Lucia, Jason, Rockstar, Grassrivers, Port Gellhorn, "
-               "Ambrosia, Mount Kalaga, chat, stream, directo, Twitch, jajaja")
+VOCABULARIO = JUEGO["vocabulario"]
 
 
 def transcribir(video):
