@@ -8,6 +8,7 @@ SHORTS = pathlib.Path("shorts")
 LISTA = SHORTS / "lista.jsonl"
 MIN_PALABRAS = int(os.environ.get("MIN_PALABRAS", "3") or 3)   # filtro: clips donde casi no se habla, fuera
 MIN_SEG = 8
+SIMULACRO = os.environ.get("SIMULACRO") == "true"
 
 RISAS = ["JAJAJAJAJA 😂😂😂", "JAJSJAJSJ NO PUEDO 💀💀", "😂😂 me estoy meando", "JAJAJA lo he visto 10 veces 😭",
          "NO PUEDO MÁS 😂😂😂", "JAJAJAJ qué crack 💀"]
@@ -103,8 +104,13 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]
     vistas = f" · 👀 {item['vistas']:,} visitas".replace(",", ".") if item.get("vistas") else ""
     info = f"\n\n— {item['streamer']} · {int(dur)} s · {modo} · textos: {quien}{vistas}{info_extra}"
+    if SIMULACRO:
+        info = "\n\n🧪 SIMULACRO (prueba, no publicar)" + info
     tg.enviar_video(final, texto + info, cid)
     guardar(item, final, cid, titulo, texto, quien)
+    if SIMULACRO:   # los clips de prueba se descartan solos
+        with open(tg.DESCARTADOS, "a") as f:
+            f.write(cid + "\n")
     return cid
 
 

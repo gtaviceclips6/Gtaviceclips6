@@ -15,6 +15,10 @@ on:
         description: "Minutos escuchando el chat"
         required: false
         default: "20"
+      simulacro:
+        description: "Simulacro (los clips llegan marcados y se descartan solos)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -52,6 +56,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # gratis: textos con IA de Google
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           JUEGO: ${{ github.event.inputs.juego }}
+          SIMULACRO: ${{ github.event.inputs.simulacro }}
           MINUTOS_DIRECTO: ${{ github.event.inputs.minutos || '20' }}
           MAX_DIRECTOS: "3"
           MAX_MOMENTOS: "2"
@@ -61,5 +66,5 @@ jobs:
         run: |
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
-          for f in shorts telegram_chat.txt ia_estado.txt errores_directo.txt; do git add "$f" 2>/dev/null || true; done
+          for f in shorts telegram_chat.txt ia_estado.txt errores_directo.txt descartados.txt; do git add "$f" 2>/dev/null || true; done
           git diff --cached --quiet || (git commit -m "Momentos en directo" && git pull --rebase -q && git push)

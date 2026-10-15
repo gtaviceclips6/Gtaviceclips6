@@ -18,6 +18,10 @@ on:
         description: "Desde cuándo buscar clips en Twitch (24hr, 7d, 30d, all). Vacío = automático"
         required: false
         default: ""
+      simulacro:
+        description: "Simulacro con GTA 5 (los clips llegan marcados y se descartan solos)"
+        type: boolean
+        default: false
 permissions:
   contents: write
   actions: read
@@ -59,6 +63,8 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}                     # para contar los minutos gastados
           EVENTO: ${{ github.event_name }}
           RANGO: ${{ github.event.inputs.rango }}
+          SIMULACRO: ${{ github.event.inputs.simulacro }}
+          FILTRO: ${{ github.event.inputs.simulacro == 'true' && 'gta|grand theft auto|rp' || '' }}
           MAX_CLIPS: "10"        # clips como maximo por pasada (cuida los minutos gratis)
           POR_STREAMER: "3"
           MIN_VISTAS: "0"        # sube este numero si llegan demasiados clips flojos

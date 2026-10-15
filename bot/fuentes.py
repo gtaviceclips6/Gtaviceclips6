@@ -8,7 +8,7 @@ POR_STREAMER = int(os.environ.get("POR_STREAMER", "3") or 3)   # clips de Twitch
 MIN_VISTAS = int(os.environ.get("MIN_VISTAS", "0") or 0)       # descarta clips con menos visitas
 LANZAMIENTO = datetime.date(2026, 11, 19)
 # Solo clips de GTA 6 (antes cogia cualquier "GTA", incluido GTA 5 o Minecraft)
-CLAVES = re.compile(r"gta ?(6|vi\b)|grand theft auto (6|vi\b)|leonida|vice ?city|lucia|jason duval", re.I)
+CLAVES = re.compile(os.environ.get("FILTRO") or r"gta ?(6|vi\b)|grand theft auto (6|vi\b)|leonida|vice ?city|lucia|jason duval", re.I)
 
 
 def segundos(t):
