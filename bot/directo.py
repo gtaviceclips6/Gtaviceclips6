@@ -26,8 +26,11 @@ def twitch(ruta, token, **params):
 
 
 def directos_de_gta():
-    token = requests.post("https://id.twitch.tv/oauth2/token", timeout=30, data={
-        "client_id": CID, "client_secret": SECRET, "grant_type": "client_credentials"}).json()["access_token"]
+    r = requests.post("https://id.twitch.tv/oauth2/token", timeout=30, data={
+        "client_id": CID, "client_secret": SECRET, "grant_type": "client_credentials"})
+    if "access_token" not in r.json():
+        raise SystemExit(f"Twitch no acepta las claves (revisa TWITCH_CLIENT_ID y TWITCH_CLIENT_SECRET): {r.text[:150]}")
+    token = r.json()["access_token"]
     juego = twitch("games", token, name=JUEGO)
     if not juego:
         print("Twitch no conoce todavía el juego:", JUEGO)
@@ -135,4 +138,15 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BaseException as e:   # deja constancia del fallo (en Telegram y en el repo) para poder arreglarlo
+        import traceback
+        err = traceback.format_exc()
+        print(err)
+        pathlib.Path("errores_directo.txt").write_text(err, encoding="utf-8")
+        try:
+            tg.mensaje(f"⚠️ Vigilante de directos: {e}")
+        except Exception:
+            pass
+        raise
