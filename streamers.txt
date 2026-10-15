@@ -1,3 +1,6 @@
+# Canales de Twitch que vigila el bot (uno por línea). Las líneas con # no cuentan.
+# Para añadir uno: escribe su nombre tal como sale en twitch.tv/NOMBRE
+# Los grandes
 elxokas
 illojuan
 ibai
@@ -5,3 +8,17 @@ auronplay
 rubius
 thegrefg
 knekro
+# Muy de GTA (roleplay, Marbella Vice…)
+perxitaa
+ampeterby7
+alexby11
+vegetta777
+willyrex
+elspreen
+zeling
+carreraaa
+mayichi
+kidkeo
+reborn_live
+cristinini
+outconsumer

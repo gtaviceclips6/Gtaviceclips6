@@ -53,7 +53,8 @@ def procesar(item, n):
     montar(crudo, png, ass if hay_subs else None, final, dur)
     canal = meta.get("channel") or meta.get("uploader") or ""
     pie = texto_post(item, canal)
-    info = f"\n\n— Tramo: {int(ini // 60)}:{int(ini % 60):02d} ({int(dur)} s) · {como}"
+    vistas = f" · 👀 {item['vistas']:,} visitas en Twitch".replace(",", ".") if item.get("vistas") else ""
+    info = f"\n\n— Tramo: {int(ini // 60)}:{int(ini % 60):02d} ({int(dur)} s) · {como}{vistas}"
     with open(final, "rb") as f:
         r = tg("sendVideo", data={"chat_id": chat_id(), "caption": (pie + info)[:1024], "supports_streaming": "true"},
                files={"video": f})
@@ -80,7 +81,8 @@ def main():
         if it["url"] not in hechos and it["url"] not in vistos:
             vistos.add(it["url"]); items.append(it)
     if not items:
-        tg("sendMessage", data={"chat_id": CHAT, "text": "🤖 No hay clips nuevos que cortar."})
+        if os.environ.get("EVENTO") != "schedule":   # en las pasadas automaticas no molesta
+            tg("sendMessage", data={"chat_id": CHAT, "text": "🤖 No hay clips nuevos que cortar."})
         return
     pendientes = len(items) - MAX_CLIPS
     items = items[:MAX_CLIPS]

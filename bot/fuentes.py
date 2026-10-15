@@ -1,10 +1,12 @@
 # Vice GTA6 Clips - de donde salen los clips (clips.txt y Twitch) y que tramo cortar
-import os, re, json, pathlib
+import os, re, json, pathlib, datetime
 from video import ejecutar
 
 MAXDUR = 59          # segundos maximos de cada short
 DURDEF = 40          # duracion si no se indica
-POR_STREAMER = 3     # clips de Twitch por streamer y pasada
+POR_STREAMER = int(os.environ.get("POR_STREAMER", "3") or 3)   # clips de Twitch por streamer y pasada
+MIN_VISTAS = int(os.environ.get("MIN_VISTAS", "0") or 0)       # descarta clips con menos visitas
+LANZAMIENTO = datetime.date(2026, 11, 19)
 # Solo clips de GTA 6 (antes cogia cualquier "GTA", incluido GTA 5 o Minecraft)
 CLAVES = re.compile(r"gta ?(6|vi\b)|grand theft auto (6|vi\b)|leonida|vice ?city|lucia|jason duval", re.I)
 
@@ -38,7 +40,8 @@ def buscar_twitch():
     p = pathlib.Path("streamers.txt")
     if not p.exists():
         return out
-    rango = os.environ.get("RANGO", "all")  # all, 30d, 7d, 24hr
+    rango = os.environ.get("RANGO") or rango_auto()
+    print("Buscando clips de Twitch, rango:", rango)
     for login in p.read_text(encoding="utf-8").split():
         if login.startswith("#"):
             continue
@@ -53,8 +56,16 @@ def buscar_twitch():
         for e in buenos[:POR_STREAMER]:
             url = e.get("url") or e.get("webpage_url")
             if url:
-                out.append(dict(url=url, streamer=login, titulo=e.get("title", ""), inicio=None, dur=None))
+                out.append(dict(url=url, streamer=login, titulo=e.get("title", ""), inicio=None, dur=None,
+                                vistas=e.get("view_count") or 0))
+    out = [c for c in out if c["vistas"] >= MIN_VISTAS]
+    out.sort(key=lambda c: c["vistas"], reverse=True)   # los clips mas vistos primero
     return out
+
+def rango_auto():
+    # Antes del lanzamiento busca en la ultima semana; desde el 18/11, solo lo del ultimo dia
+    hoy = datetime.date.today()
+    return "24hr" if hoy >= LANZAMIENTO - datetime.timedelta(days=1) else "7d"
 
 def elegir_tramo(meta, inicio, dur):
     total = meta.get("duration") or 0

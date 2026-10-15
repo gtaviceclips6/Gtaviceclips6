@@ -6,7 +6,17 @@ on:
       - "streamers.txt"
       - "bot/**"
       - ".github/workflows/cortar-shorts.yml"
+  # Pasada automatica cada 3 horas (hora UTC). Antes del 18/11 busca clips de la ultima
+  # semana; desde el 18/11 solo los del ultimo dia (modo lanzamiento).
+  schedule:
+    - cron: "17 */3 * * *"
+  # Boton "Run workflow" en GitHub (Actions -> Cortar shorts)
   workflow_dispatch:
+    inputs:
+      rango:
+        description: "Desde cuándo buscar clips en Twitch (24hr, 7d, 30d, all). Vacío = automático"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -15,7 +25,7 @@ concurrency:
 jobs:
   cortar:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,11 +33,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
+      - name: Guardar el modelo de subtítulos entre pasadas (ahorra minutos)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
       - name: Instalar herramientas
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
-          pip install -q -U yt-dlp faster-whisper requests pillow
+          pip install -q -U -r bot/requirements.txt
           mkdir -p fonts
           curl -sSL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || rm -f fonts/Anton-Regular.ttf
       - name: Cortar y mandar a Telegram
@@ -35,7 +52,11 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          MAX_CLIPS: "25"
+          EVENTO: ${{ github.event_name }}
+          RANGO: ${{ github.event.inputs.rango }}
+          MAX_CLIPS: "10"        # clips como maximo por pasada (cuida los minutos gratis)
+          POR_STREAMER: "3"
+          MIN_VISTAS: "0"        # sube este numero si llegan demasiados clips flojos
         run: python bot/cortar.py
       - name: Apuntar lo ya hecho
         if: always()
