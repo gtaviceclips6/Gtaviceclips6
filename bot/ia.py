@@ -1,10 +1,14 @@
 # GTA VICE CLIPS 6 - textos escritos por IA (opcional)
-# Si existe el secreto ANTHROPIC_API_KEY en GitHub, Claude lee lo que dice el streamer y escribe
-# un titulo, un gancho y un comentario gracioso de ESE clip. Si no hay clave, se usan plantillas.
+# Lee lo que dice el streamer y escribe un titulo, un gancho y un comentario gracioso de ESE clip.
+#  - GEMINI_API_KEY (gratis, Google AI Studio): se usa primero. Si se acaba el cupo gratis del dia, plantillas.
+#  - ANTHROPIC_API_KEY (de pago, opcional).
+#  - Sin ninguna clave: plantillas.
 import os, json, re
 import requests
 
 CLAVE = os.environ.get("ANTHROPIC_API_KEY", "")
+GEMINI = os.environ.get("GEMINI_API_KEY", "")
+MODELOS_GEMINI = [m for m in os.environ.get("MODELO_GEMINI", "gemini-3.5-flash-lite,gemini-3.8-flash,gemini-3.6-flash,gemini-flash-latest").split(",") if m]
 MODELO = os.environ.get("MODELO_IA", "claude-haiku-5-5")
 
 INSTRUCCIONES = """Eres el community manager de @gtaviceclips6, una cuenta de fans (no oficial) de GTA 6 para España
@@ -19,19 +23,51 @@ No pongas creditos ni frases tipo "todos los derechos". Responde SOLO con un JSO
 - "hashtags": lista de 4-6 hashtags extra muy concretos de este clip (sin #gta6, ya se pone solo)"""
 
 
+def _pedido(streamer, titulo, transcripcion):
+    return (f"Streamer: {streamer}\nTitulo original del clip: {titulo}\n"
+            f"Lo que dice en el clip: {transcripcion[:1500] or '(no habla)'}")
+
+
+def _leer_json(txt):
+    datos = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
+    return {k: datos.get(k) for k in ("titulo", "gancho", "risa", "comentario", "pregunta", "hashtags")}
+
+
+def con_gemini(streamer, titulo, transcripcion):
+    for modelo in MODELOS_GEMINI:
+        try:
+            r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
+                              params={"key": GEMINI}, timeout=60, json={
+                                  "systemInstruction": {"parts": [{"text": INSTRUCCIONES}]},
+                                  "contents": [{"role": "user", "parts": [{"text": _pedido(streamer, titulo, transcripcion)}]}],
+                                  "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}})
+            if r.status_code in (404, 400):        # modelo con otro nombre: probamos el siguiente
+                print("Gemini", modelo, r.status_code); continue
+            if r.status_code == 429:               # cupo gratis agotado por hoy
+                print("Gemini: cupo gratis agotado"); return None
+            r.raise_for_status()
+            txt = "".join(p.get("text", "") for p in r.json()["candidates"][0]["content"]["parts"])
+            return _leer_json(txt)
+        except Exception as e:
+            print("Gemini:", modelo, e)
+    return None
+
+
 def textos(streamer, titulo, transcripcion):
+    if GEMINI:
+        t = con_gemini(streamer, titulo, transcripcion)
+        if t:
+            return t
     if not CLAVE:
         return None
     try:
         r = requests.post("https://api.anthropic.com/v1/messages", timeout=60, headers={
             "x-api-key": CLAVE, "anthropic-version": "2023-06-01", "content-type": "application/json"},
             json={"model": MODELO, "max_tokens": 500, "system": INSTRUCCIONES, "messages": [{"role": "user",
-                  "content": f"Streamer: {streamer}\nTitulo original del clip: {titulo}\n"
-                             f"Lo que dice en el clip: {transcripcion[:1500] or '(no habla)'}"}]})
+                  "content": _pedido(streamer, titulo, transcripcion)}]})
         r.raise_for_status()
         txt = "".join(b.get("text", "") for b in r.json().get("content", []))
-        datos = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
-        return {k: datos.get(k) for k in ("titulo", "gancho", "risa", "comentario", "pregunta", "hashtags")}
+        return _leer_json(txt)
     except Exception as e:
         print("IA:", e)
         return None

@@ -49,6 +49,7 @@ jobs:
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # gratis: textos con IA de Google
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           JUEGO: ${{ github.event.inputs.juego }}
           MINUTOS_DIRECTO: ${{ github.event.inputs.minutos || '20' }}
