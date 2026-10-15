@@ -65,10 +65,14 @@ def escribir_textos(item, transcripcion):
     h = int(hashlib.md5(item["url"].encode()).hexdigest(), 16)
     t = ia.textos(s, item["titulo"], transcripcion)
     if t and t.get("titulo") and t.get("comentario"):
-        extra = " ".join("#" + re.sub(r"\W", "", x.lstrip("#")) for x in (t.get("hashtags") or []) if x)
+        base = HASHTAGS if es_de_gta(item, transcripcion) else "#humor #clipsgraciosos #viral #parati #fyp #twitch #streamer"
+        tags = []
+        for x in base.split() + [f"#{tag}"] + ["#" + re.sub(r"\W", "", str(x).lstrip("#")) for x in (t.get("hashtags") or [])]:
+            if len(x) > 1 and x.lower() not in [y.lower() for y in tags]:
+                tags.append(x)
         texto = (f"{t.get('risa') or RISAS[h % len(RISAS)]}\n\n{t['comentario']}\n\n"
                  f"{t.get('pregunta') or '¿Tú qué harías? 👇'}\nSíguenos para más 👉 {HANDLE}\n\n"
-                 f"{HASHTAGS} #{tag} {extra}".strip())
+                 + " ".join(tags[:16]))
         return t["titulo"], (t.get("gancho") or GANCHOS[h % len(GANCHOS)]), texto, "IA"
     frase = frase_corta(transcripcion)
     gta = es_de_gta(item, transcripcion)
