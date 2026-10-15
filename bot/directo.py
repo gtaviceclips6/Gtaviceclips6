@@ -124,7 +124,7 @@ def main():
                           "-c:v", "libx264", "-preset", "veryfast", "-c:a", "aac", str(trozo)])
                 ahora = datetime.datetime.utcnow().strftime("%Y%m%d%H%M")
                 item = dict(url=f"https://www.twitch.tv/{l}#{ahora}-{k}", streamer=nombres[l],
-                            titulo=f"{nombres[l]} en directo jugando a GTA 6", vistas=0)
+                            titulo=f"{nombres[l]} en directo" + (" jugando a GTA 6" if "VI" in JUEGO else ""), vistas=0)
                 pipeline.procesar(item, trozo, f"d{l}{k}", info_extra=" · 🔴 cortado del directo", tmp=TMP)
                 hechos += 1
             except Exception as e:
