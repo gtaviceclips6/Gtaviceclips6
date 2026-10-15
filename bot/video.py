@@ -226,11 +226,11 @@ def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp"):
         margen_subs = juego_alto - 330          # subtitulos en la parte alta del juego
     else:
         video = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
-                 f"boxblur=25:2,eq=brightness=-0.2[bg];[0:v]scale={W}:-2[fg];"
+                 f"boxblur=25:2,eq=brightness=-0.2[bg];[0:v]scale={int(W * 1.4)}:-2,crop={W}:ih[fg];"
                  f"[bg][fg]overlay=(W-w)/2:(H-h)/2[base]")
-        png_titulo(titulo, 260, p_tit)
-        png_gancho(gancho or titulo, 330, p_gan)
-        margen_subs = 470
+        png_titulo(titulo, 200, p_tit)
+        png_gancho(gancho or titulo, 260, p_gan)
+        margen_subs = 380
     png_marca(p_mar)
 
     # zoom rapido en los picos de volumen
