@@ -40,6 +40,7 @@ def subtitulos(video, ass):
         return False
     if not palabras:
         return False
+    ass.with_suffix(".txt").write_text(" ".join(w.word.strip() for w in palabras), encoding="utf-8")
     lineas = []
     for i in range(0, len(palabras), 3):
         g = palabras[i:i + 3]
@@ -74,8 +75,7 @@ def capa(titulo, streamer, png):
         d.text(((1080 - w) / 2, y), l, font=f_tit, fill=(255, 255, 255),
                stroke_width=8, stroke_fill=(255, 46, 136))
         y += 110
-    cred = f"CLIP: {streamer.upper()}" if streamer else ""
-    for txt, yy, col in ((cred, 1470, (0, 229, 255)), (HANDLE, 1535, (255, 255, 255))):
+    for txt, yy, col in ((HANDLE, 1535, (255, 255, 255)),):
         if txt:
             w = d.textlength(txt, font=f_peq)
             d.text(((1080 - w) / 2, yy), txt, font=f_peq, fill=col, stroke_width=4, stroke_fill=(0, 0, 0))

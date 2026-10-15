@@ -30,13 +30,36 @@ def chat_id():
     return CHAT
 
 
-def texto_post(item, canal):
+RISAS = ["JAJAJAJAJA 😂😂😂", "JAJSJAJSJ NO PUEDO 💀💀", "😂😂 me estoy meando", "JAJAJA lo he visto 10 veces 😭",
+         "NO PUEDO MÁS 😂😂😂", "JAJAJAJ qué crack 💀"]
+COMENTARIOS = [
+    "{s} ya está más metido en Vice City que en su propia casa 🌴",
+    "{s} el 19/11: 'una partidita rápida'… 14 horas después 💀",
+    "Rockstar, contratad a {s} para el próximo tráiler, por favor 🙏",
+    "{s} lleva 13 años esperando esto y se le nota en la cara 😭",
+    "Que alguien le dé a {s} el GTA 6 ya, que no aguanta más 😂",
+    "El 19 de noviembre {s} no duerme, apostamos lo que queráis 👀",
+    "{s} reaccionando como todos nosotros a las 3 de la mañana 💀",
+    "Nivel de hype de {s}: no apto para cardíacos 🔥",
+]
+
+
+def texto_post(item, frase=""):
+    s = item["streamer"] or "este hombre"
     tag = re.sub(r"\W", "", (item["streamer"] or "").lower())
-    tit = item["titulo"] or "Reaccion a GTA 6"
-    fuente = f"\n📺 Fuente: {canal}" if canal else ""
-    return (f"{tit} 🌴🔥\n\n🎥 Clip de {item['streamer'] or 'su canal'} (todos los créditos para él/ella)"
-            f"{fuente}\nSíguenos para no perderte nada de GTA 6 👉 {HANDLE}\n\n"
-            f"#gta6 #gtavi #gta6españa #vicecity #leonida #rockstargames #streamerespañol #clipsdetwitch #videojuegos #gamingespañol" + (f" #{tag}" if tag else ""))
+    h = sum(map(ord, item["url"]))                       # elige siempre la misma broma para el mismo clip
+    tit = item["titulo"] or "Reacción a GTA 6"
+    cita = f'\n\n"{frase}" 💀' if frase else ""
+    return (f"{RISAS[h % len(RISAS)]}\n\n{tit} 🌴{cita}\n\n{COMENTARIOS[h % len(COMENTARIOS)].format(s=s)}\n\n"
+            f"¿Y tú cómo vas a reaccionar el 19/11? 👇\nSíguenos para más 👉 {HANDLE}\n\n"
+            "#gta6 #gtavi #gta6españa #humor #clipsgraciosos #viral #parati #fyp #twitch #streamer #vicecity"
+            + (f" #{tag}" if tag else ""))
+
+
+def frase_corta(txt):
+    # una frase llamativa del audio (entre 4 y 12 palabras) para citarla
+    trozos = [t.strip(" ,") for t in re.split(r"[.!?¿¡]", txt) if 4 <= len(t.split()) <= 12]
+    return max(trozos, key=len)[:90] if trozos else ""
 
 
 def procesar(item, n):
@@ -51,8 +74,8 @@ def procesar(item, n):
     capa(item["titulo"], item["streamer"], png)
     hay_subs = subtitulos(crudo, ass)
     montar(crudo, png, ass if hay_subs else None, final, dur)
-    canal = meta.get("channel") or meta.get("uploader") or ""
-    pie = texto_post(item, canal)
+    txt = ass.with_suffix(".txt")
+    pie = texto_post(item, frase_corta(txt.read_text(encoding="utf-8")) if txt.exists() else "")
     vistas = f" · 👀 {item['vistas']:,} visitas en Twitch".replace(",", ".") if item.get("vistas") else ""
     info = f"\n\n— Tramo: {int(ini // 60)}:{int(ini % 60):02d} ({int(dur)} s) · {como}{vistas}"
     with open(final, "rb") as f:
