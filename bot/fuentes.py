@@ -90,9 +90,19 @@ def clips_top_espanol(juego="Grand Theft Auto VI", maximo=10):
         print("Twitch no conoce todavía el juego", juego); return []
     horas = 24 if rango_auto() == "24hr" else 24 * 7
     desde = (datetime.datetime.utcnow() - datetime.timedelta(hours=horas)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    datos = requests.get("https://api.twitch.tv/helix/clips", headers=h, timeout=30,
-                         params={"game_id": g[0]["id"], "started_at": desde, "first": 100}).json().get("data", [])
+    datos, cursor = [], None
+    for _ in range(5):                      # hasta 500 clips (los mas vistos primero), y nos quedamos con los de España/español
+        params = {"game_id": g[0]["id"], "started_at": desde, "first": 100}
+        if cursor:
+            params["after"] = cursor
+        r = requests.get("https://api.twitch.tv/helix/clips", headers=h, timeout=30, params=params).json()
+        datos += r.get("data", [])
+        cursor = (r.get("pagination") or {}).get("cursor")
+        if not cursor:
+            break
     es = [c for c in datos if (c.get("language") or "").startswith("es")]
+    pathlib.Path("estado_busqueda.txt").write_text(
+        f"{datetime.datetime.utcnow():%Y-%m-%d %H:%M} {juego}: {len(datos)} clips mirados, {len(es)} en español\n", encoding="utf-8")
     es.sort(key=lambda c: c.get("view_count", 0), reverse=True)
     return [dict(url=c["url"], streamer=c["broadcaster_name"], titulo=c.get("title", ""), inicio=None, dur=None,
                  vistas=c.get("view_count", 0)) for c in es[:maximo]]
