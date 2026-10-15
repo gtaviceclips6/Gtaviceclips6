@@ -36,5 +36,5 @@ jobs:
         run: |
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
-          for f in shorts noticias_vistas.txt telegram_chat.txt; do git add "$f" 2>/dev/null || true; done
+          for f in shorts noticias_vistas.txt telegram_chat.txt errores_noticias.txt; do git add "$f" 2>/dev/null || true; done
           git diff --cached --quiet || (git commit -m "Noticias" && git pull --rebase -q && git push)

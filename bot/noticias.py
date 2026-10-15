@@ -166,4 +166,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BaseException as e:
+        import traceback
+        pathlib.Path("errores_noticias.txt").write_text(traceback.format_exc(), encoding="utf-8")
+        raise
