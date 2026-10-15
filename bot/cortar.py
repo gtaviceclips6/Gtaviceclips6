@@ -10,6 +10,7 @@ TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 CHAT = os.environ.get("TELEGRAM_CHAT_ID", "")
 MAX_CLIPS = int(os.environ.get("MAX_CLIPS", "5") or 5)   # clips como maximo por pasada
 HECHOS = pathlib.Path("hechos.txt")
+SHORTS = pathlib.Path("shorts")   # aqui se guarda cada short para programarlo en Metricool
 TMP = pathlib.Path("tmp"); TMP.mkdir(exist_ok=True)
 
 
@@ -58,6 +59,16 @@ def procesar(item, n):
                files={"video": f})
     if not r.ok:
         raise RuntimeError("Telegram no aceptó el vídeo: " + r.text[:150])
+    guardar(item, final, pie)
+
+
+def guardar(item, final, pie):
+    SHORTS.mkdir(exist_ok=True)
+    nombre = re.sub(r"[^a-z0-9]+", "-", f"{item['streamer']}-{item['url'].rstrip('/').split('/')[-1]}".lower())[:80]
+    (SHORTS / f"{nombre}.mp4").write_bytes(pathlib.Path(final).read_bytes())
+    with open(SHORTS / "lista.jsonl", "a", encoding="utf-8") as f:
+        f.write(json.dumps(dict(archivo=f"{nombre}.mp4", url=item["url"], streamer=item["streamer"],
+                                titulo=item["titulo"], texto=pie), ensure_ascii=False) + "\n")
 
 
 def main():
