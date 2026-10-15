@@ -26,7 +26,14 @@ def subtitulos(video, ass):
         return False
     try:
         modelo = WhisperModel("small", device="cpu", compute_type="int8")
-        segs, _ = modelo.transcribe(str(video), language="es", word_timestamps=True, vad_filter=True)
+        # el audio lo saca ffmpeg (asi no dependemos de PyAV, que daba error con 'metadata_errors')
+        import numpy as np
+        crudo = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", str(video), "-ac", "1", "-ar", "16000",
+                                "-f", "f32le", "-"], capture_output=True).stdout
+        audio = np.frombuffer(crudo, np.float32)
+        if not len(audio):
+            return False
+        segs, _ = modelo.transcribe(audio, language="es", word_timestamps=True, vad_filter=True)
         palabras = [w for s in segs for w in (s.words or [])]
     except Exception as e:   # si falla la transcripcion, el short sale igual pero sin subtitulos
         print("Subtitulos:", e)
