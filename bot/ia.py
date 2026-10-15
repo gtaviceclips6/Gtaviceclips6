@@ -3,7 +3,7 @@
 #  - GEMINI_API_KEY (gratis, Google AI Studio): se usa primero. Si se acaba el cupo gratis del dia, plantillas.
 #  - ANTHROPIC_API_KEY (de pago, opcional).
 #  - Sin ninguna clave: plantillas.
-import os, json, re
+import os, json, re, pathlib, datetime
 import requests
 
 CLAVE = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -33,7 +33,16 @@ def _leer_json(txt):
     return {k: datos.get(k) for k in ("titulo", "gancho", "risa", "comentario", "pregunta", "hashtags")}
 
 
+def _estado(txt):
+    """Apunta como fue la ultima llamada a la IA (para revisar si algo falla)."""
+    try:
+        pathlib.Path("ia_estado.txt").write_text(f"{datetime.datetime.utcnow():%Y-%m-%d %H:%M} {txt}\n", encoding="utf-8")
+    except Exception:
+        pass
+
+
 def con_gemini(streamer, titulo, transcripcion):
+    fallos = []
     for modelo in MODELOS_GEMINI:
         try:
             r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
@@ -42,14 +51,16 @@ def con_gemini(streamer, titulo, transcripcion):
                                   "contents": [{"role": "user", "parts": [{"text": _pedido(streamer, titulo, transcripcion)}]}],
                                   "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}})
             if r.status_code in (404, 400):        # modelo con otro nombre: probamos el siguiente
-                print("Gemini", modelo, r.status_code); continue
+                fallos.append(f"{modelo}={r.status_code}:{r.text[:120]}"); continue
             if r.status_code == 429:               # cupo gratis agotado por hoy
-                print("Gemini: cupo gratis agotado"); return None
+                _estado(f"Gemini {modelo}: cupo gratis agotado"); return None
             r.raise_for_status()
             txt = "".join(p.get("text", "") for p in r.json()["candidates"][0]["content"]["parts"])
+            _estado(f"Gemini {modelo}: OK")
             return _leer_json(txt)
         except Exception as e:
-            print("Gemini:", modelo, e)
+            fallos.append(f"{modelo}: {e}")
+    _estado("Gemini sin respuesta: " + " | ".join(fallos))
     return None
 
 

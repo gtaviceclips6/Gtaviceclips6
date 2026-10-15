@@ -100,16 +100,16 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     vistas = f" · 👀 {item['vistas']:,} visitas".replace(",", ".") if item.get("vistas") else ""
     info = f"\n\n— {item['streamer']} · {int(dur)} s · {modo} · textos: {quien}{vistas}{info_extra}"
     tg.enviar_video(final, texto + info, cid)
-    guardar(item, final, cid, titulo, texto)
+    guardar(item, final, cid, titulo, texto, quien)
     return cid
 
 
-def guardar(item, final, cid, titulo, texto):
+def guardar(item, final, cid, titulo, texto, quien=""):
     SHORTS.mkdir(exist_ok=True)
     nombre = re.sub(r"[^a-z0-9]+", "-", f"{item['streamer']}-{cid}".lower())
     (SHORTS / f"{nombre}.mp4").write_bytes(pathlib.Path(final).read_bytes())
     with open(LISTA, "a", encoding="utf-8") as f:
         f.write(json.dumps(dict(id=cid, archivo=f"{nombre}.mp4", url=item["url"], streamer=item["streamer"],
-                                titulo=titulo, texto=texto, vistas=item.get("vistas") or 0,
+                                titulo=titulo, texto=texto, textos=quien, vistas=item.get("vistas") or 0,
                                 fecha=datetime.datetime.utcnow().isoformat(timespec="minutes")),
                            ensure_ascii=False) + "\n")
