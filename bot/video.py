@@ -65,7 +65,8 @@ def capa(titulo, streamer, png):
     d = ImageDraw.Draw(im)
     f_tit = ImageFont.truetype(FUENTE, 92)
     f_peq = ImageFont.truetype(FUENTE, 46)
-    lineas = textwrap.wrap(titulo.upper(), 18)[:3] or ["GTA 6"]
+    limpio = " ".join("".join(c for c in titulo if ord(c) < 0x2000).split())   # sin emojis (salen como cuadrados)
+    lineas = textwrap.wrap(limpio.upper(), 18)[:3] or ["GTA 6"]
     y = 230
     for l in lineas:
         w = d.textlength(l, font=f_tit)
