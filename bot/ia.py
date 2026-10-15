@@ -11,16 +11,29 @@ GEMINI = os.environ.get("GEMINI_API_KEY", "")
 MODELOS_GEMINI = [m for m in os.environ.get("MODELO_GEMINI", "gemini-3.5-flash-lite,gemini-3.8-flash,gemini-3.6-flash,gemini-flash-latest").split(",") if m]
 MODELO = os.environ.get("MODELO_IA", "claude-haiku-5-5")
 
-INSTRUCCIONES = """Eres el community manager de @gtaviceclips6, una cuenta de fans (no oficial) de GTA 6 para España
-que sube clips cortos de streamers en TikTok, Instagram Reels y YouTube Shorts. Tono: colega, gracioso,
-de risa, español de España, sin insultar a nadie ni inventar cosas graves sobre el streamer.
-PROHIBIDO: bromas o palabras sobre orientacion sexual, genero, raza, religion, fisico, drogas o sexo, y tacos fuertes
-(las redes castigan esos videos). El humor va sobre la situacion, la reaccion o el juego.
-No pongas creditos ni frases tipo "todos los derechos". Responde SOLO con un JSON con estas claves:
-- "titulo": titulo corto y llamativo del clip (max 45 caracteres), con el nombre del streamer si encaja
-- "gancho": 2-4 palabras en mayusculas para los 2 primeros segundos del video (ej: "NO SE LO ESPERABA")
-- "risa": una risa al estilo redes (ej: "JAJAJAJA 😂😂", "NO PUEDO 💀💀")
-- "comentario": 1-2 frases graciosas comentando lo que pasa, como si te hubiera hecho mucha gracia
+INSTRUCCIONES = """Eres el editor jefe de @gtaviceclips6, una cuenta de fans (no oficial) de GTA 6 para España que sube
+clips cortos de streamers a TikTok, Instagram Reels y YouTube Shorts. Te paso 4 fotogramas del clip y lo que se dice.
+
+1) JUZGA el clip con MUCHA exigencia. Solo vale si es una de estas dos cosas:
+   - "gracioso": un momento que hace reir de verdad SIN necesitar contexto (reaccion exagerada, fail, broma buena,
+     situacion absurda, susto, pique). Que el streamer simplemente hable o comente NO es gracioso.
+   - "escena_guapa": una escena del juego espectacular a la vista (paisaje, atardecer, persecucion, explosion,
+     momento cinematografico, graficos impresionantes).
+   - "nada": todo lo demas (menus, pantallas de carga, conducir sin mas, charla normal, no pasa nada, hace falta contexto).
+   "nota" de 1 a 10 = probabilidad de que se haga viral entre fans españoles de GTA. Se duro: la mayoria de clips son 3-6.
+2) Si vale, escribe los textos. Tono: colega y de risa (si es "gracioso") o de flipar (si es "escena_guapa"),
+   español de España, sin insultar a nadie ni inventar cosas graves sobre el streamer.
+   PROHIBIDO: bromas o palabras sobre orientacion sexual, genero, raza, religion, fisico, drogas o sexo, y tacos fuertes
+   (las redes castigan esos videos). El humor va sobre la situacion, la reaccion o el juego. Nada de creditos.
+
+Responde SOLO con un JSON con estas claves:
+- "tipo": "gracioso" | "escena_guapa" | "nada"
+- "nota": numero de 1 a 10
+- "motivo": por que (max 15 palabras)
+- "titulo": titulo corto y llamativo (max 45 caracteres), con el nombre del streamer si encaja
+- "gancho": 2-4 palabras en mayusculas para los 2 primeros segundos (ej: "NO SE LO ESPERABA", "MIRA ESTO")
+- "risa": arranque al estilo redes (ej: "JAJAJAJA 😂😂" si es gracioso, "QUÉ PASADA 😍🔥" si es escena guapa)
+- "comentario": 1-2 frases comentando lo que pasa, como si te hubiera flipado o hecho mucha gracia
 - "pregunta": pregunta corta para que la gente comente
 - "hashtags": lista de 4-6 hashtags extra muy concretos de este clip (sin #gta6, ya se pone solo)"""
 
@@ -30,9 +43,17 @@ def _pedido(streamer, titulo, transcripcion):
             f"Lo que dice en el clip: {transcripcion[:1500] or '(no habla)'}")
 
 
+CLAVES_JSON = ("tipo", "nota", "motivo", "titulo", "gancho", "risa", "comentario", "pregunta", "hashtags")
+
+
 def _leer_json(txt):
     datos = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
-    return {k: datos.get(k) for k in ("titulo", "gancho", "risa", "comentario", "pregunta", "hashtags")}
+    t = {k: datos.get(k) for k in CLAVES_JSON}
+    try:
+        t["nota"] = float(t.get("nota") or 0)
+    except (TypeError, ValueError):
+        t["nota"] = 0
+    return t
 
 
 def _estado(txt):
@@ -43,14 +64,15 @@ def _estado(txt):
         pass
 
 
-def con_gemini(streamer, titulo, transcripcion):
+def con_gemini(streamer, titulo, transcripcion, fotos=()):
     fallos = []
     for modelo in MODELOS_GEMINI:
         try:
             r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
                               params={"key": GEMINI}, timeout=60, json={
                                   "systemInstruction": {"parts": [{"text": INSTRUCCIONES}]},
-                                  "contents": [{"role": "user", "parts": [{"text": _pedido(streamer, titulo, transcripcion)}]}],
+                                  "contents": [{"role": "user", "parts": [{"text": _pedido(streamer, titulo, transcripcion)}] + [
+                                      {"inline_data": {"mime_type": "image/jpeg", "data": f}} for f in fotos]}],
                                   "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}})
             if r.status_code in (404, 400):        # modelo con otro nombre: probamos el siguiente
                 fallos.append(f"{modelo}={r.status_code}:{r.text[:120]}"); continue
@@ -66,9 +88,10 @@ def con_gemini(streamer, titulo, transcripcion):
     return None
 
 
-def textos(streamer, titulo, transcripcion):
+def textos(streamer, titulo, transcripcion, fotos=()):
+    """Juzga el clip y escribe sus textos. Devuelve dict (con tipo y nota) o None si no hay IA disponible."""
     if GEMINI:
-        t = con_gemini(streamer, titulo, transcripcion)
+        t = con_gemini(streamer, titulo, transcripcion, fotos)
         if t:
             return t
     if not CLAVE:

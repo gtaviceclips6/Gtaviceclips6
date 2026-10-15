@@ -69,7 +69,8 @@ jobs:
           RANGO: ${{ github.event.inputs.rango }}
           SIMULACRO: ${{ github.event.inputs.simulacro }}
           FILTRO: ${{ github.event.inputs.simulacro == 'true' && 'gta|grand theft auto|rp' || '' }}
-          MAX_CLIPS: "10"        # clips como maximo por pasada (cuida los minutos gratis)
+          MAX_CLIPS: "20"        # clips que mira por pasada (la IA solo deja pasar los buenos)
+          NOTA_MINIMA: "7"       # nota minima (1-10) que pone la IA para mandarte un clip
           POR_STREAMER: "3"
           MIN_VISTAS: "0"        # sube este numero si llegan demasiados clips flojos
           MIN_PALABRAS: "3"      # clips donde casi no se habla se descartan

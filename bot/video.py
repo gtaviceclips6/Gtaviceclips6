@@ -38,6 +38,21 @@ def audio_16k(video):
     return np.frombuffer(crudo, np.float32)
 
 
+def fotogramas(video, n=4, ancho=480):
+    """n fotogramas repartidos por el clip, en JPEG base64 (para que la IA 'vea' el clip)."""
+    import base64
+    dur = duracion(video) or 10
+    out = []
+    for k in range(n):
+        t = dur * (k + 0.5) / n
+        jpg = subprocess.run(["ffmpeg", "-loglevel", "error", "-ss", f"{t:.2f}", "-i", str(video), "-frames:v", "1",
+                              "-vf", f"scale={ancho}:-2", "-f", "image2", "-c:v", "mjpeg", "-q:v", "6", "-"],
+                             capture_output=True).stdout
+        if jpg:
+            out.append(base64.b64encode(jpg).decode())
+    return out
+
+
 # ---------------------------------------------------------------- transcripcion
 def transcribir(video):
     """Lista de (palabra, inicio, fin). Vacia si no hay voz o falla."""

@@ -32,7 +32,7 @@ def leer_lista():
         if not linea or linea.startswith("#"):
             continue
         c = [x.strip() for x in linea.split("|")] + [""] * 5
-        out.append(dict(url=c[0], streamer=c[1], titulo=c[2], inicio=segundos(c[3]), dur=segundos(c[4])))
+        out.append(dict(url=c[0], streamer=c[1], titulo=c[2], inicio=segundos(c[3]), dur=segundos(c[4]), forzar=True))
     return out
 
 def buscar_twitch():

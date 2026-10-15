@@ -8,6 +8,8 @@ SHORTS = pathlib.Path("shorts")
 LISTA = SHORTS / "lista.jsonl"
 MIN_PALABRAS = int(os.environ.get("MIN_PALABRAS", "3") or 3)   # filtro: clips donde casi no se habla, fuera
 MIN_SEG = 8
+NOTA_MINIMA = float(os.environ.get("NOTA_MINIMA", "7") or 7)          # la IA puntua de 1 a 10; por debajo, fuera
+MIN_VISTAS_SIN_IA = int(os.environ.get("MIN_VISTAS_SIN_IA", "50") or 50)  # si la IA no responde, solo clips muy vistos
 SIMULACRO = os.environ.get("SIMULACRO") == "true"
 
 RISAS = ["JAJAJAJAJA 😂😂😂", "JAJSJAJSJ NO PUEDO 💀💀", "😂😂 me estoy meando", "JAJAJA lo he visto 10 veces 😭",
@@ -60,13 +62,14 @@ def es_de_gta(item, transcripcion):
     return bool(re.search(r"gta|vice ?city|leonida|lucia|jason|rockstar|grand theft", f"{item['titulo']} {transcripcion}", re.I))
 
 
-def escribir_textos(item, transcripcion):
+def escribir_textos(item, transcripcion, t=None):
     s = item["streamer"] or "este hombre"
     tag = re.sub(r"\W", "", (item["streamer"] or "").lower())
     h = int(hashlib.md5(item["url"].encode()).hexdigest(), 16)
-    t = ia.textos(s, item["titulo"], transcripcion)
     if t and t.get("titulo") and t.get("comentario"):
         base = HASHTAGS if es_de_gta(item, transcripcion) else "#humor #clipsgraciosos #viral #parati #fyp #twitch #streamer"
+        if t.get("tipo") == "escena_guapa":
+            base = "#gta6 #gtavi #gta6españa #vicecity #leonida #graficos #gaming #viral #parati #fyp"
         tags = []
         for x in base.split() + [f"#{tag}"] + ["#" + re.sub(r"\W", "", str(x).lstrip("#")) for x in (t.get("hashtags") or [])]:
             if len(x) > 1 and x.lower() not in [y.lower() for y in tags]:
@@ -95,10 +98,21 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     if dur < MIN_SEG:
         raise RuntimeError(f"descartado: demasiado corto ({dur:.0f} s)")
     palabras = video.transcribir(src)
-    if len(palabras) < MIN_PALABRAS:
-        raise RuntimeError("descartado: casi no habla nadie (sin gracia para un short)")
     transcripcion = " ".join(w for w, _, _ in palabras)
-    titulo, gancho, texto, quien = escribir_textos(item, transcripcion)
+    # la IA mira 4 fotogramas + lo que se dice y decide si es gracioso / escena guapa / nada
+    juicio = ia.textos(item["streamer"] or "", item["titulo"], transcripcion, video.fotogramas(src))
+    forzar = item.get("forzar")          # clips que has puesto tu a mano en clips.txt: no se filtran
+    if juicio:
+        if not forzar and (juicio.get("tipo") not in ("gracioso", "escena_guapa") or juicio["nota"] < NOTA_MINIMA):
+            raise RuntimeError(f"descartado: no es bueno ({juicio.get('tipo')}, nota {juicio['nota']:g}: {juicio.get('motivo')})")
+    elif not forzar:
+        if len(palabras) < MIN_PALABRAS:
+            raise RuntimeError("descartado: casi no habla nadie")
+        if (item.get("vistas") or 0) < MIN_VISTAS_SIN_IA:
+            raise RuntimeError("descartado: sin IA no puedo juzgarlo y tiene pocas visitas")
+    titulo, gancho, texto, quien = escribir_textos(item, transcripcion, juicio)
+    if juicio:
+        quien = f"IA · {'😂 gracioso' if juicio.get('tipo') == 'gracioso' else '😍 escena guapa'} · nota {juicio['nota']:g}/10"
     final = pathlib.Path(tmp) / f"short{n}.mp4"
     modo = video.montar(src, final, dur, titulo, gancho, palabras, tmp=tmp)
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]
