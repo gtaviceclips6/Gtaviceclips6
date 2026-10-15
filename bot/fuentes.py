@@ -56,9 +56,47 @@ def buscar_twitch():
             if url:
                 out.append(dict(url=url, streamer=login, titulo=e.get("title", ""), inicio=None, dur=None,
                                 vistas=e.get("view_count") or 0))
+    if os.environ.get("TOP_ESPANOL", "true") == "true":
+        try:
+            vistos = {c["url"] for c in out}
+            top = clips_top_espanol(os.environ.get("JUEGO_TOP") or "Grand Theft Auto VI")
+            out += [c for c in top if c["url"] not in vistos]
+            print("Top en español de todo Twitch:", len(top))
+        except Exception as e:
+            print("Top en español:", e)
     out = [c for c in out if c["vistas"] >= MIN_VISTAS]
     out.sort(key=lambda c: c["vistas"], reverse=True)   # los clips mas vistos primero
     return out
+
+def twitch_token():
+    cid, sec = os.environ.get("TWITCH_CLIENT_ID"), os.environ.get("TWITCH_CLIENT_SECRET")
+    if not (cid and sec):
+        return None, None
+    import requests
+    r = requests.post("https://id.twitch.tv/oauth2/token", timeout=30, data={
+        "client_id": cid, "client_secret": sec, "grant_type": "client_credentials"}).json()
+    return cid, r.get("access_token")
+
+
+def clips_top_espanol(juego="Grand Theft Auto VI", maximo=10):
+    """Los clips en español mas vistos del juego en TODO Twitch (no solo nuestra lista)."""
+    import requests
+    cid, tok = twitch_token()
+    if not tok:
+        return []
+    h = {"Client-Id": cid, "Authorization": f"Bearer {tok}"}
+    g = requests.get("https://api.twitch.tv/helix/games", params={"name": juego}, headers=h, timeout=30).json().get("data", [])
+    if not g:
+        print("Twitch no conoce todavía el juego", juego); return []
+    horas = 24 if rango_auto() == "24hr" else 24 * 7
+    desde = (datetime.datetime.utcnow() - datetime.timedelta(hours=horas)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    datos = requests.get("https://api.twitch.tv/helix/clips", headers=h, timeout=30,
+                         params={"game_id": g[0]["id"], "started_at": desde, "first": 100}).json().get("data", [])
+    es = [c for c in datos if (c.get("language") or "").startswith("es")]
+    es.sort(key=lambda c: c.get("view_count", 0), reverse=True)
+    return [dict(url=c["url"], streamer=c["broadcaster_name"], titulo=c.get("title", ""), inicio=None, dur=None,
+                 vistas=c.get("view_count", 0)) for c in es[:maximo]]
+
 
 def leer_streamers():
     """Nombres de streamers.txt: una linea por canal; las lineas con # son comentarios."""

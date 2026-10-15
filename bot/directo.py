@@ -40,6 +40,11 @@ def directos_de_gta():
     vivos = []
     for i in range(0, len(logins), 100):
         vivos += twitch("streams", token, game_id=juego[0]["id"], user_login=logins[i:i + 100], first=100)
+    # ademas, los directos en español mas vistos del juego aunque no esten en nuestra lista
+    if os.environ.get("TOP_ESPANOL", "true") == "true":
+        ya = {v["user_login"] for v in vivos}
+        vivos += [v for v in twitch("streams", token, game_id=juego[0]["id"], language="es", first=20)
+                  if v["user_login"] not in ya]
     vivos.sort(key=lambda s: s.get("viewer_count", 0), reverse=True)
     return vivos[:MAX_DIRECTOS]
 

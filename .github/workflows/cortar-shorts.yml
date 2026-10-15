@@ -59,6 +59,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # gratis: textos con IA de Google
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}     # para buscar los clips top en español
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          TOP_ESPANOL: "true"
+          JUEGO_TOP: ${{ github.event.inputs.simulacro == 'true' && 'Grand Theft Auto V' || 'Grand Theft Auto VI' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # opcional: textos escritos por IA
           GITHUB_TOKEN: ${{ github.token }}                     # para contar los minutos gastados
           EVENTO: ${{ github.event_name }}
