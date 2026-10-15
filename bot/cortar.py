@@ -36,7 +36,7 @@ def texto_post(item, canal):
     fuente = f"\n📺 Fuente: {canal}" if canal else ""
     return (f"{tit} 🌴🔥\n\n🎥 Clip de {item['streamer'] or 'su canal'} (todos los créditos para él/ella)"
             f"{fuente}\nSíguenos para no perderte nada de GTA 6 👉 {HANDLE}\n\n"
-            f"#gta6 #gtavi #gta6trailer #vicecity #leonida #gaming #clips" + (f" #{tag}" if tag else ""))
+            f"#gta6 #gtavi #gta6españa #vicecity #leonida #rockstargames #streamerespañol #clipsdetwitch #videojuegos #gamingespañol" + (f" #{tag}" if tag else ""))
 
 
 def procesar(item, n):
