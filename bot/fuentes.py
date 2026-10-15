@@ -101,8 +101,18 @@ def clips_top_espanol(juego="Grand Theft Auto VI", maximo=10):
         if not cursor:
             break
     es = [c for c in datos if (c.get("language") or "").startswith("es")]
+    # ademas: los canales en español que estan ahora en directo con el juego -> sus clips de las ultimas horas
+    vivos = requests.get("https://api.twitch.tv/helix/streams", headers=h, timeout=30,
+                         params={"game_id": g[0]["id"], "language": "es", "first": 100}).json().get("data", [])
+    vivos.sort(key=lambda v: v.get("viewer_count", 0), reverse=True)
+    ya = {c["id"] for c in es}
+    for v in vivos[:15]:
+        for c in requests.get("https://api.twitch.tv/helix/clips", headers=h, timeout=30, params={
+                "broadcaster_id": v["user_id"], "started_at": desde, "first": 5}).json().get("data", []):
+            if c.get("game_id") == g[0]["id"] and c["id"] not in ya:
+                es.append(c); ya.add(c["id"])
     pathlib.Path("estado_busqueda.txt").write_text(
-        f"{datetime.datetime.utcnow():%Y-%m-%d %H:%M} {juego}: {len(datos)} clips mirados, {len(es)} en español\n", encoding="utf-8")
+        f"{datetime.datetime.utcnow():%Y-%m-%d %H:%M} {juego}: {len(datos)} clips mirados, {len(vivos)} directos en español, {len(es)} clips en español\n", encoding="utf-8")
     es.sort(key=lambda c: c.get("view_count", 0), reverse=True)
     return [dict(url=c["url"], streamer=c["broadcaster_name"], titulo=c.get("title", ""), inicio=None, dur=None,
                  vistas=c.get("view_count", 0)) for c in es[:maximo]]
