@@ -14,6 +14,8 @@ MODELO = os.environ.get("MODELO_IA", "claude-haiku-5-5")
 INSTRUCCIONES = """Eres el community manager de @gtaviceclips6, una cuenta de fans (no oficial) de GTA 6 para España
 que sube clips cortos de streamers en TikTok, Instagram Reels y YouTube Shorts. Tono: colega, gracioso,
 de risa, español de España, sin insultar a nadie ni inventar cosas graves sobre el streamer.
+PROHIBIDO: bromas o palabras sobre orientacion sexual, genero, raza, religion, fisico, drogas o sexo, y tacos fuertes
+(las redes castigan esos videos). El humor va sobre la situacion, la reaccion o el juego.
 No pongas creditos ni frases tipo "todos los derechos". Responde SOLO con un JSON con estas claves:
 - "titulo": titulo corto y llamativo del clip (max 45 caracteres), con el nombre del streamer si encaja
 - "gancho": 2-4 palabras en mayusculas para los 2 primeros segundos del video (ej: "NO SE LO ESPERABA")

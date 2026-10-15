@@ -126,7 +126,9 @@ def detectar_cam(video):
         return None
     cx, cy = np.mean([c[0] for c in mejor]), np.mean([c[1] for c in mejor])
     tam = np.mean([c[2] for c in mejor])
-    if tam > fh * 0.28:          # cara enorme = camara a pantalla completa (just chatting): sin partir
+    # Solo es facecam si la cara es pequena y esta pegada a un lado (esquina del directo).
+    # Si la cara es grande o esta en el centro, el streamer sale a camara completa: sin partir.
+    if tam > fh * 0.2 or fw * 0.3 < cx < fw * 0.7:
         return None
     w = min(fw, tam * 3.6)
     h = w * CAM_ALTO / W
@@ -193,10 +195,15 @@ def png_gancho(gancho, y0, png):
     im.save(png)
 
 
-def png_marca(png):
+def png_marca(png, y=70):
+    """@gtaviceclips6 arriba a la derecha, en una pastilla oscura (no choca con subtitulos del juego)."""
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
-    _texto(d, 1800, HANDLE, _fuente(48), BLANCO, 5, (0, 0, 0))
+    f = _fuente(40)
+    w = d.textlength(HANDLE, font=f)
+    x = W - w - 60
+    d.rounded_rectangle([x - 22, y - 10, x + w + 22, y + 58], 30, fill=(10, 0, 30, 170))
+    d.text((x, y), HANDLE, font=f, fill=BLANCO)
     im.save(png)
 
 
