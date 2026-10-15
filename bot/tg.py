@@ -30,8 +30,21 @@ def chat_id():
     return _CHAT
 
 
+def silencio():
+    """De 0:00 a 9:00 (hora de Madrid) y en los simulacros, los avisos llegan sin sonar."""
+    if os.environ.get("SIMULACRO") == "true":
+        return True
+    try:
+        from zoneinfo import ZoneInfo
+        h = datetime.datetime.now(ZoneInfo("Europe/Madrid")).hour
+    except Exception:
+        h = (datetime.datetime.utcnow().hour + 2) % 24
+    return h < 9
+
+
 def mensaje(texto):
-    return tg("sendMessage", data={"chat_id": chat_id(), "text": texto[:4000]})
+    return tg("sendMessage", data={"chat_id": chat_id(), "text": texto[:4000],
+                                   "disable_notification": str(silencio()).lower()})
 
 
 def enviar_video(ruta, texto, clip_id):
@@ -39,6 +52,7 @@ def enviar_video(ruta, texto, clip_id):
                                     {"text": "❌ Descartar", "callback_data": f"no:{clip_id}"}]]}
     with open(ruta, "rb") as f:
         r = tg("sendVideo", data={"chat_id": chat_id(), "caption": texto[:1024], "supports_streaming": "true",
+                                  "disable_notification": str(silencio()).lower(),
                                   "reply_markup": json.dumps(botones)}, files={"video": f})
     if not r.ok:
         raise RuntimeError("Telegram no aceptó el vídeo: " + r.text[:150])

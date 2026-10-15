@@ -1,0 +1,40 @@
+name: Noticias GTA 6
+# Cada 2 horas busca noticias OFICIALES de GTA 6 y, si hay una importante, te manda un video "ÚLTIMA HORA".
+on:
+  schedule:
+    - cron: "41 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: bot-gtaviceclips6
+  cancel-in-progress: false
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar herramientas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q requests pillow numpy
+          mkdir -p fonts
+          curl -sSL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || rm -f fonts/Anton-Regular.ttf
+      - name: Buscar noticias y montar el video
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python bot/noticias.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "vice-bot"
+          git config user.email "vice-bot@users.noreply.github.com"
+          for f in shorts noticias_vistas.txt telegram_chat.txt; do git add "$f" 2>/dev/null || true; done
+          git diff --cached --quiet || (git commit -m "Noticias" && git pull --rebase -q && git push)
