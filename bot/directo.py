@@ -35,7 +35,8 @@ def directos_de_gta():
     if not juego:
         print("Twitch no conoce todavía el juego:", JUEGO)
         return []
-    logins = [l for l in pathlib.Path("streamers.txt").read_text(encoding="utf-8").split() if not l.startswith("#")]
+    from fuentes import leer_streamers
+    logins = leer_streamers()
     vivos = []
     for i in range(0, len(logins), 100):
         vivos += twitch("streams", token, game_id=juego[0]["id"], user_login=logins[i:i + 100], first=100)

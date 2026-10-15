@@ -42,9 +42,7 @@ def buscar_twitch():
         return out
     rango = os.environ.get("RANGO") or rango_auto()
     print("Buscando clips de Twitch, rango:", rango)
-    for login in p.read_text(encoding="utf-8").split():
-        if login.startswith("#"):
-            continue
+    for login in leer_streamers():
         try:
             js = json.loads(ejecutar(["yt-dlp", "--flat-playlist", "-J", "--playlist-end", "300",
                                       f"https://www.twitch.tv/{login}/clips?filter=clips&range={rango}"]))
@@ -60,6 +58,18 @@ def buscar_twitch():
                                 vistas=e.get("view_count") or 0))
     out = [c for c in out if c["vistas"] >= MIN_VISTAS]
     out.sort(key=lambda c: c["vistas"], reverse=True)   # los clips mas vistos primero
+    return out
+
+def leer_streamers():
+    """Nombres de streamers.txt: una linea por canal; las lineas con # son comentarios."""
+    p = pathlib.Path("streamers.txt")
+    if not p.exists():
+        return []
+    out = []
+    for l in p.read_text(encoding="utf-8").splitlines():
+        l = l.strip()
+        if l and not l.startswith("#"):
+            out.append(l.split()[0].lower().replace("twitch.tv/", "").strip("/@"))
     return out
 
 def rango_auto():
