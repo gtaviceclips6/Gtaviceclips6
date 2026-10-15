@@ -23,6 +23,10 @@ COMENTARIOS = [
     "{s} reaccionando como todos nosotros a las 3 de la mañana 💀",
     "Nivel de hype de {s}: no apto para cardíacos 🔥",
 ]
+NEUTROS = ["{s} no tiene filtro y por eso lo queremos 😂", "Lo que acaba de pasar en el directo de {s} 💀",
+           "{s} en su máximo esplendor 🔥", "El chat de {s} no se lo podía creer 😭",
+           "Momento de {s} que tenía que estar en todos lados 😂"]
+NEUTROS_GANCHO = ["NO PUEDE SER", "MIRA SU CARA", "ESPERA AL FINAL", "QUÉ ACABA DE PASAR"]
 HASHTAGS = "#gta6 #gtavi #gta6españa #humor #clipsgraciosos #viral #parati #fyp #twitch #streamer #vicecity"
 
 
@@ -40,8 +44,19 @@ def ya_hay_igual(streamer, titulo):
 
 
 def frase_corta(txt):
+    """Una frase real del streamer para citarla (siempre que haya voz)."""
     trozos = [t.strip(" ,") for t in re.split(r"[.!?¿¡]", txt) if 4 <= len(t.split()) <= 12]
-    return max(trozos, key=len)[:90] if trozos else ""
+    if trozos:
+        return max(trozos, key=len)[:90]
+    pal = txt.split()
+    if len(pal) >= 4:                      # sin puntuacion: 8 palabras del centro del clip
+        m = len(pal) // 2
+        return " ".join(pal[max(0, m - 4):m + 4]).strip(" ,")[:90]
+    return ""
+
+
+def es_de_gta(item, transcripcion):
+    return bool(re.search(r"gta|vice ?city|leonida|lucia|jason|rockstar|grand theft", f"{item['titulo']} {transcripcion}", re.I))
 
 
 def escribir_textos(item, transcripcion):
@@ -56,12 +71,17 @@ def escribir_textos(item, transcripcion):
                  f"{HASHTAGS} #{tag} {extra}".strip())
         return t["titulo"], (t.get("gancho") or GANCHOS[h % len(GANCHOS)]), texto, "IA"
     frase = frase_corta(transcripcion)
-    cita = f'\n\n"{frase}" 💀' if frase else ""
-    texto = (f"{RISAS[h % len(RISAS)]}\n\n{item['titulo'] or 'Reacción a GTA 6'} 🌴{cita}\n\n"
-             f"{COMENTARIOS[h % len(COMENTARIOS)].format(s=s)}\n\n"
-             f"¿Y tú cómo vas a reaccionar el 19/11? 👇\nSíguenos para más 👉 {HANDLE}\n\n{HASHTAGS}"
-             + (f" #{tag}" if tag else ""))
-    return item["titulo"] or "Reacción a GTA 6", GANCHOS[h % len(GANCHOS)], texto, "plantilla"
+    gta = es_de_gta(item, transcripcion)
+    titulo = item["titulo"] or "Reacción a GTA 6"
+    if item.get("directo") and frase:      # en directo no hay titulo: usamos lo que dice
+        titulo = f'{s}: "{" ".join(frase.split()[:6])}…"'
+    cita = f'\n\n"{frase}" 💀' if frase and not item.get("directo") else ""
+    comentario = (COMENTARIOS[h % len(COMENTARIOS)] if gta else NEUTROS[h % len(NEUTROS)]).format(s=s)
+    pregunta = "¿Y tú cómo vas a reaccionar el 19/11? 👇" if gta else "¿Qué habrías hecho tú? 👇"
+    etiquetas = HASHTAGS if gta else "#humor #clipsgraciosos #viral #parati #fyp #twitch #streamer #momentosepicos"
+    texto = (f"{RISAS[h % len(RISAS)]}\n\n{titulo} 🔥{cita}\n\n{comentario}\n\n"
+             f"{pregunta}\nSíguenos para más 👉 {HANDLE}\n\n{etiquetas}" + (f" #{tag}" if tag else ""))
+    return titulo, GANCHOS[h % len(GANCHOS)] if gta else NEUTROS_GANCHO[h % len(NEUTROS_GANCHO)], texto, "plantilla"
 
 
 def procesar(item, src, n, info_extra="", tmp="tmp"):
