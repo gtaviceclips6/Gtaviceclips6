@@ -5,7 +5,8 @@ from video import ejecutar
 MAXDUR = 59          # segundos maximos de cada short
 DURDEF = 40          # duracion si no se indica
 POR_STREAMER = 3     # clips de Twitch por streamer y pasada
-CLAVES = re.compile(r"gta|tr[aá]iler|leonida|vice ?city|rockstar|lucia|jason", re.I)
+# Solo clips de GTA 6 (antes cogia cualquier "GTA", incluido GTA 5 o Minecraft)
+CLAVES = re.compile(r"gta ?(6|vi\b)|grand theft auto (6|vi\b)|leonida|vice ?city|lucia|jason duval", re.I)
 
 
 def segundos(t):

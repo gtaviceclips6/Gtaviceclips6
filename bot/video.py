@@ -24,9 +24,13 @@ def subtitulos(video, ass):
         from faster_whisper import WhisperModel
     except ImportError:
         return False
-    modelo = WhisperModel("small", device="cpu", compute_type="int8")
-    segs, _ = modelo.transcribe(str(video), language="es", word_timestamps=True, vad_filter=True)
-    palabras = [w for s in segs for w in (s.words or [])]
+    try:
+        modelo = WhisperModel("small", device="cpu", compute_type="int8")
+        segs, _ = modelo.transcribe(str(video), language="es", word_timestamps=True, vad_filter=True)
+        palabras = [w for s in segs for w in (s.words or [])]
+    except Exception as e:   # si falla la transcripcion, el short sale igual pero sin subtitulos
+        print("Subtitulos:", e)
+        return False
     if not palabras:
         return False
     lineas = []
