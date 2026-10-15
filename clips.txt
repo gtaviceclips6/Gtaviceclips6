@@ -1,0 +1,15 @@
+# LISTA DE CLIPS A CORTAR
+# Una línea por clip:  enlace | streamer | título del short | minuto de inicio | segundos
+# Si no pones minuto, el bot elige solo el momento más visto.
+# Cada vez que guardas este archivo, el bot corta lo nuevo y te lo manda a Telegram.
+# Las líneas que empiezan por # no se usan.
+#
+# ⚠️ YouTube suele bloquear las descargas desde GitHub. Estas reacciones están en
+# pausa (con #). Quita el # de una línea para probarla. Los clips de Twitch funcionan.
+#
+#https://www.youtube.com/watch?v=Z3E79nKT31Y | Xokas | Xokas reacciona al Extended Look de GTA 6 | |
+#https://www.youtube.com/watch?v=zFLIqAx6iHE | IlloJuan | IlloJuan flipa con el Extended Look de GTA 6 | |
+#https://www.youtube.com/watch?v=Km3cNXl3Mhk | Xokas | Xokas ve el primer gameplay de GTA 6 | |
+#https://www.youtube.com/watch?v=S5AsqAgwaZY | IlloJuan | IlloJuan reacciona al primer gameplay de GTA 6 | |
+#https://www.youtube.com/watch?v=1o3XFCbkGDs | IlloJuan | IlloJuan reacciona al tráiler 3 de GTA 6 | |
+#https://www.youtube.com/watch?v=qtkZrKdSsIg | IlloJuan | IlloJuan analiza el tráiler 2 de GTA 6 | |
