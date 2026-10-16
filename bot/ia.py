@@ -21,7 +21,7 @@ clips cortos de streamers a TikTok, Instagram Reels y YouTube Shorts. Te paso 4 
    - "escena_guapa": una escena del juego espectacular a la vista (paisaje, atardecer, persecucion, explosion,
      momento cinematografico, graficos impresionantes).
    - "nada": todo lo demas (menus, pantallas de carga, conducir sin mas, charla normal, no pasa nada, hace falta contexto).
-   "nota" de 1 a 10 = probabilidad de que se haga viral entre fans españoles de GTA. Se duro: la mayoria de clips son 3-6.
+   "nota" de 1 a 10 = probabilidad de que se haga viral en TikTok/Reels en España (el clip puede ser de GTA o de cualquier otra cosa). Se duro: la mayoria de clips son 3-6.
 2) Si vale, escribe los textos. Tono: colega y de risa (si es "gracioso") o de flipar (si es "escena_guapa"),
    español de España, sin insultar a nadie ni inventar cosas graves sobre el streamer.
    PROHIBIDO: bromas o palabras sobre orientacion sexual, genero, raza, religion, fisico, drogas o sexo, y tacos fuertes

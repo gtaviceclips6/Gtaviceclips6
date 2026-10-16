@@ -63,6 +63,8 @@ jobs:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}     # para buscar los clips top en español
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
           TOP_ESPANOL: "true"
+          VIRALES: "true"        # ademas de GTA: los clips en español mas vistos del dia (cualquier tema)
+          MAX_VIRALES: "12"
           JUEGO_TOP: ${{ github.event.inputs.simulacro == 'true' && 'Grand Theft Auto V' || 'Grand Theft Auto VI' }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # opcional: textos escritos por IA
           GITHUB_TOKEN: ${{ github.token }}                     # para contar los minutos gastados
@@ -81,5 +83,5 @@ jobs:
         run: |
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
-          for f in hechos.txt shorts telegram_chat.txt ia_estado.txt estado_busqueda.txt aprobados.jsonl descartados.txt errores.txt; do git add "$f" 2>/dev/null || true; done
+          for f in hechos.txt shorts telegram_chat.txt ia_estado.txt estado_busqueda.txt estado_virales.txt aprobados.jsonl descartados.txt errores.txt; do git add "$f" 2>/dev/null || true; done
           git diff --cached --quiet || (git commit -m "Clips procesados" && git pull --rebase -q && git push)

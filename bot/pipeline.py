@@ -142,6 +142,8 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     modo = video.montar(src, final, dur, titulo, gancho, palabras, tmp=tmp)
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]
     vistas = f" · 👀 {item['vistas']:,} visitas".replace(",", ".") if item.get("vistas") else ""
+    if item.get("viral"):
+        info_extra += " · 🔥 viral del día"
     info = f"\n\n— {item['streamer']} · {int(dur)} s · {modo} · textos: {quien}{vistas}{info_extra}"
     hora = mejor_hora()
     if hora:

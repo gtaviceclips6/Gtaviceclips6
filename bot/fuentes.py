@@ -65,6 +65,14 @@ def buscar_twitch():
             print("Top en español de todo Twitch:", len(top))
         except Exception as e:
             print("Top en español:", e)
+    if os.environ.get("VIRALES", "true") == "true" and not os.environ.get("SIMULACRO") == "true":
+        try:
+            vistos = {c["url"] for c in out}
+            vir = clips_virales_espanol()
+            out += [c for c in vir if c["url"] not in vistos]
+            print("Virales en español (cualquier juego o charla):", len(vir))
+        except Exception as e:
+            print("Virales:", e)
     out = [c for c in out if c["vistas"] >= MIN_VISTAS]
     out.sort(key=lambda c: c["vistas"], reverse=True)   # los clips mas vistos primero
     return out
@@ -117,6 +125,50 @@ def clips_top_espanol(juego="Grand Theft Auto VI", maximo=10):
     es.sort(key=lambda c: c.get("view_count", 0), reverse=True)
     return [dict(url=c["url"], streamer=c["broadcaster_name"], titulo=c.get("title", ""), inicio=None, dur=None,
                  vistas=c.get("view_count", 0)) for c in es[:maximo]]
+
+
+def clips_virales_espanol(maximo=None, canales=40, horas=24):
+    """Los clips en español mas vistos de las ultimas 24 h de TODO Twitch, de cualquier juego o charla
+    (los canales en español con mas espectadores ahora + nuestra lista de streamers). La IA decide luego
+    si de verdad son graciosos."""
+    import requests
+    maximo = maximo or int(os.environ.get("MAX_VIRALES", "12") or 12)
+    cid, tok = twitch_token()
+    if not tok:
+        return []
+    h = {"Client-Id": cid, "Authorization": f"Bearer {tok}"}
+    desde = (datetime.datetime.utcnow() - datetime.timedelta(hours=horas)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    vivos = requests.get("https://api.twitch.tv/helix/streams", headers=h, timeout=30,
+                         params={"language": "es", "first": 100}).json().get("data", [])
+    vivos.sort(key=lambda v: v.get("viewer_count", 0), reverse=True)
+    ids = {v["user_id"]: v["user_name"] for v in vivos[:canales]}
+    logins = leer_streamers()
+    for i in range(0, len(logins), 100):
+        for u in requests.get("https://api.twitch.tv/helix/users", headers=h, timeout=30,
+                              params=[("login", l) for l in logins[i:i + 100]]).json().get("data", []):
+            ids.setdefault(u["id"], u["display_name"])
+    clips = []
+    for bid in ids:
+        try:
+            clips += requests.get("https://api.twitch.tv/helix/clips", headers=h, timeout=30, params={
+                "broadcaster_id": bid, "started_at": desde, "first": 5}).json().get("data", [])
+        except Exception:
+            pass
+    clips = [c for c in clips if (c.get("language") or "es").startswith("es") and 8 <= (c.get("duration") or 30) <= 60]
+    clips.sort(key=lambda c: c.get("view_count", 0), reverse=True)
+    vistos_canal = {}
+    out = []
+    for c in clips:                                  # como mucho 2 por canal, para variar
+        if vistos_canal.get(c["broadcaster_id"], 0) >= 2:
+            continue
+        vistos_canal[c["broadcaster_id"]] = vistos_canal.get(c["broadcaster_id"], 0) + 1
+        out.append(dict(url=c["url"], streamer=c["broadcaster_name"], titulo=c.get("title", ""), inicio=None, dur=None,
+                        vistas=c.get("view_count", 0), viral=True))
+        if len(out) >= maximo:
+            break
+    pathlib.Path("estado_virales.txt").write_text(
+        f"{datetime.datetime.utcnow():%Y-%m-%d %H:%M} {len(ids)} canales, {len(clips)} clips de 24 h, {len(out)} candidatos\n", encoding="utf-8")
+    return out
 
 
 def leer_streamers():
