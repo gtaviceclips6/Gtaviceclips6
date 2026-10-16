@@ -31,6 +31,41 @@ Responde SOLO con JSON:
  "comentario": "1 frase con emoción para el post", "hashtags": ["4-6 hashtags concretos"]}"""
 
 
+MODO = os.environ.get("MODO_NOTICIAS", "gta")      # "gta" (noticias oficiales de GTA 6) o "virales" (tendencias de España)
+TRENDS = f"https://trends.google.com/trending/rss?geo={_I['pais']}"
+INSTR_VIRAL = """Eres el editor de @gtaviceclips6, cuenta de humor y gaming para jovenes de España. Te paso lo que mas se
+esta buscando AHORA en España (tendencia, busquedas y titulares). Elige COMO MUCHO UNO que sea viral y divertido de contar
+en un video corto: deporte (un golazo, un fichaje, un resultado historico), videojuegos, streamers, cine, series, musica,
+tecnologia, internet, algo curioso o sorprendente.
+PROHIBIDO elegir: muertes, accidentes, sucesos, crimenes, guerras, catastrofes, enfermedades, politica, elecciones,
+religion, temas de odio, rumores sin confirmar o cosas de menores. Si ninguno cumple, responde {"indice": null}.
+No inventes datos: usa solo lo que dicen los titulares.
+Responde SOLO con JSON:
+{"indice": numero o null, "titular": "titular corto y llamativo en español (max 60 caracteres)",
+ "resumen": "1-2 frases con lo que ha pasado (solo lo de los titulares)",
+ "comentario": "1 frase de colega con gracia para el post", "hashtags": ["4-6 hashtags concretos"]}"""
+
+
+def leer_tendencias():
+    """Lo que mas se busca ahora en España (Google Trends), con sus titulares."""
+    ns = {"ht": "https://trends.google.com/trending/rss"}
+    r = requests.get(TRENDS, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+    r.raise_for_status()
+    out = []
+    for it in ET.fromstring(r.content).iter("item"):
+        tema = (it.findtext("title") or "").strip()
+        trafico = it.findtext("ht:approx_traffic", namespaces=ns) or ""
+        news = it.findall("ht:news_item", ns)
+        if not news:
+            continue
+        n0 = news[0]
+        titulares = " / ".join((n.findtext("ht:news_item_title", namespaces=ns) or "").strip() for n in news[:3])
+        out.append(dict(titulo=f"{tema} ({trafico} búsquedas): {titulares}", tema=tema,
+                        fuente=(n0.findtext("ht:news_item_source", namespaces=ns) or "").strip(),
+                        link=(n0.findtext("ht:news_item_url", namespaces=ns) or "").strip(), fecha=""))
+    return out
+
+
 def norm(t):
     return re.sub(r"\W+", " ", (t or "").lower()).strip()
 
@@ -54,13 +89,13 @@ def leer_rss():
     return out
 
 
-def elegir(noticias):
+def elegir(noticias, instr=None):
     if not ia.GEMINI:
         print("Sin GEMINI_API_KEY: no elijo noticias (para no publicar rumores)."); return None
     lista = "\n".join(f"{i}. {n['titulo']} ({n['fuente']})" for i, n in enumerate(noticias))
     for modelo in ia.MODELOS_GEMINI:
         r = ia.gemini_post(modelo, {
-                              "systemInstruction": {"parts": [{"text": INSTR}]},
+                              "systemInstruction": {"parts": [{"text": instr or INSTR}]},
                               "contents": [{"role": "user", "parts": [{"text": lista}]}],
                               "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3}})
         if r.status_code in (400, 404) or r.status_code >= 500:   # Google saturado: siguiente modelo
@@ -93,13 +128,13 @@ def fondo():
     return im
 
 
-def cartel(d, ruta):
+def cartel(d, ruta, cinta="ÚLTIMA HORA"):
     f = lambda t: ImageFont.truetype(FUENTE, t)
     im = fondo()
     dr = ImageDraw.Draw(im)
     # cinta roja ULTIMA HORA
     dr.rounded_rectangle([90, 230, W - 90, 380], 40, fill=(230, 20, 40, 255))
-    txt = "ÚLTIMA HORA"
+    txt = cinta
     w = dr.textlength(txt, font=f(110)); dr.text(((W - w) / 2, 248), txt, font=f(110), fill=BLANCO)
     y = 470
     lineas = [l.upper() for l in textwrap.wrap(d.get("titular") or d["noticia"]["titulo"], 16)[:4]]
@@ -140,30 +175,35 @@ def musica(ruta, seg=9):
 
 def main():
     vistas = set(VISTAS.read_text(encoding="utf-8").splitlines()) if VISTAS.exists() else set()
-    nuevas = [n for n in leer_rss() if norm(n["titulo"]) not in vistas][:30]
+    viral = MODO == "virales"
+    fuente = leer_tendencias() if viral else leer_rss()
+    hoy = datetime.date.today().isoformat()
+    clave = (lambda n: f"t:{hoy}:" + norm(n["tema"])) if viral else (lambda n: norm(n["titulo"]))
+    nuevas = [n for n in fuente if clave(n) not in vistas][:30]
     print("Titulares nuevos:", len(nuevas))
     if not nuevas:
         return
-    d = elegir(nuevas)
+    d = elegir(nuevas, INSTR_VIRAL if viral else None)
     with open(VISTAS, "a", encoding="utf-8") as f:
-        f.write("\n".join(norm(n["titulo"]) for n in nuevas) + "\n")
+        f.write("\n".join(clave(n) for n in nuevas) + "\n")
     if not d:
         print("Ninguna noticia oficial importante."); return
     n = d["noticia"]
     cid = "n" + hashlib.md5(n["titulo"].encode()).hexdigest()[:9]
     png, wav, mp4 = TMP / f"{cid}.png", TMP / f"{cid}.wav", TMP / f"{cid}.mp4"
-    cartel(d, png); musica(wav)
+    cartel(d, png, "VIRAL HOY" if viral else "ÚLTIMA HORA"); musica(wav)
     ejecutar(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", str(png), "-i", str(wav),
               "-vf", f"scale=8000:-1,zoompan=z='min(zoom+0.0006,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=270:s={W}x{H}:fps=30,format=yuv420p",
               "-t", "9", "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-c:a", "aac", "-shortest",
               "-movflags", "+faststart", str(mp4)])
     tags = []
-    for x in TAGS["noticias"].split() + [
+    base = "#viral #ultimahora #noticias #españa #parati #fyp #humor" if viral else TAGS["noticias"]
+    for x in base.split() + [
             "#" + re.sub(r"\W", "", str(x).lstrip("#")).lower() for x in (d.get("hashtags") or []) if x]:
         if len(x) > 1 and x.lower() not in [t.lower() for t in tags]:
             tags.append(x)
-    texto = (f"🚨 ÚLTIMA HORA: {d.get('titular') or n['titulo']}\n\n{d.get('resumen', '')}\n\n{d.get('comentario', '')}\n\n"
-             f"¿Qué os parece? 👇\nSíguenos para no perderte nada de GTA 6 👉 {HANDLE}\n\n" + " ".join(tags[:14])).strip()
+    texto = (f"{'🔥 VIRAL' if viral else '🚨 ÚLTIMA HORA'}: {d.get('titular') or n['titulo']}\n\n{d.get('resumen', '')}\n\n{d.get('comentario', '')}\n\n"
+             f"¿Qué os parece? 👇\nSíguenos para más 👉 {HANDLE}\n\n" + " ".join(tags[:14])).strip()
     info = f"\n\n— Noticia: {n['titulo']} ({n['fuente']})\n{n['link']}"
     tg.enviar_video(mp4, (texto + info)[:1024], cid)
     pipeline.guardar(dict(url=n["link"] or cid, streamer="Noticias", vistas=0), mp4, cid,

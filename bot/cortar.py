@@ -65,7 +65,8 @@ def main():
     print(f"Botones: {ok} aprobados, {no} descartados")
     hechos = set(HECHOS.read_text(encoding="utf-8").split()) if HECHOS.exists() else set()
     items, vistos = [], set()
-    for it in leer_lista() + buscar_twitch():
+    lista = [] if os.environ.get("SOLO_VIRALES") == "true" else leer_lista()
+    for it in lista + buscar_twitch():
         it.setdefault("vistas", 0)
         if it["url"] in hechos or it["url"] in vistos:
             continue

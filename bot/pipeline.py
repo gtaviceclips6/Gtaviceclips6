@@ -145,7 +145,7 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]
     vistas = f" · 👀 {item['vistas']:,} visitas".replace(",", ".") if item.get("vistas") else ""
     if item.get("viral"):
-        info_extra += " · 🔥 viral del día"
+        info_extra += " · 🔥 viral" + (f" ({item['ritmo']:,} visitas/hora)".replace(",", ".") if item.get("ritmo") else "")
     info = f"\n\n— {item['streamer']} · {int(dur)} s · {modo} · textos: {quien}{vistas}{info_extra}"
     hora = mejor_hora()
     if hora:

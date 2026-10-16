@@ -38,6 +38,11 @@ def leer_lista():
 
 def buscar_twitch():
     out = []
+    if os.environ.get("SOLO_VIRALES") == "true":        # pasada rapida cada hora: solo lo viral recien salido
+        try:
+            return clips_virales_espanol()
+        except Exception as e:
+            print("Virales:", e); return []
     p = pathlib.Path("streamers.txt")
     if not p.exists():
         return out
@@ -127,12 +132,13 @@ def clips_top_espanol(juego="Grand Theft Auto VI", maximo=10):
                  vistas=c.get("view_count", 0)) for c in es[:maximo]]
 
 
-def clips_virales_espanol(maximo=None, canales=40, horas=24):
+def clips_virales_espanol(maximo=None, canales=40, horas=None):
     """Los clips en español mas vistos de las ultimas 24 h de TODO Twitch, de cualquier juego o charla
     (los canales en español con mas espectadores ahora + nuestra lista de streamers). La IA decide luego
     si de verdad son graciosos."""
     import requests
     maximo = maximo or int(os.environ.get("MAX_VIRALES", "12") or 12)
+    horas = horas or int(os.environ.get("HORAS_VIRALES", "24") or 24)
     cid, tok = twitch_token()
     if not tok:
         return []
@@ -155,7 +161,15 @@ def clips_virales_espanol(maximo=None, canales=40, horas=24):
         except Exception:
             pass
     clips = [c for c in clips if (c.get("language") or "es").startswith("es") and 8 <= (c.get("duration") or 30) <= 60]
-    clips.sort(key=lambda c: c.get("view_count", 0), reverse=True)
+    ahora = datetime.datetime.utcnow()
+
+    def velocidad(c):                                # visitas por hora: detecta lo que esta explotando AHORA
+        try:
+            hecho = datetime.datetime.strptime(c["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+        except Exception:
+            return c.get("view_count", 0) / 24
+        return c.get("view_count", 0) / max(0.5, (ahora - hecho).total_seconds() / 3600)
+    clips.sort(key=velocidad, reverse=True)
     vistos_canal = {}
     out = []
     for c in clips:                                  # como mucho 2 por canal, para variar
@@ -163,7 +177,7 @@ def clips_virales_espanol(maximo=None, canales=40, horas=24):
             continue
         vistos_canal[c["broadcaster_id"]] = vistos_canal.get(c["broadcaster_id"], 0) + 1
         out.append(dict(url=c["url"], streamer=c["broadcaster_name"], titulo=c.get("title", ""), inicio=None, dur=None,
-                        vistas=c.get("view_count", 0), viral=True))
+                        vistas=c.get("view_count", 0), viral=True, ritmo=int(velocidad(c))))
         if len(out) >= maximo:
             break
     pathlib.Path("estado_virales.txt").write_text(
