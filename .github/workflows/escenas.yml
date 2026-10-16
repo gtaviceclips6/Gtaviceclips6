@@ -1,0 +1,51 @@
+name: Escenas de un video
+# Saca varios reels con las mejores escenas de un video (trailer, gameplay oficial...).
+# Uso: Actions -> Escenas de un video -> Run workflow -> pega el enlace.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Enlace del vídeo (YouTube u otro)"
+        required: true
+      reels:
+        description: "Cuántos reels como máximo"
+        required: false
+        default: "5"
+permissions:
+  contents: write
+concurrency:
+  group: bot-gtaviceclips6
+  cancel-in-progress: false
+jobs:
+  escenas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
+      - name: Instalar herramientas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q -U -r bot/requirements.txt
+          mkdir -p fonts
+          curl -sSL -o fonts/Anton-Regular.ttf https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf || rm -f fonts/Anton-Regular.ttf
+      - name: Sacar escenas y mandar a Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          URL_VIDEO: ${{ github.event.inputs.url }}
+          MAX_REELS: ${{ github.event.inputs.reels }}
+        run: python bot/escenas.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "vice-bot"
+          git config user.email "vice-bot@users.noreply.github.com"
+          for f in shorts telegram_chat.txt ia_estado.txt errores_escenas.txt; do git add "$f" 2>/dev/null || true; done
+          git diff --cached --quiet || (git commit -m "Escenas" && git pull --rebase -q && git push)

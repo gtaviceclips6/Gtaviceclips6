@@ -278,11 +278,11 @@ def png_marca(png, y=70):
 
 
 # ---------------------------------------------------------------- montaje
-def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp"):
+def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp", partir=True):
     """Hace el short final. Devuelve el modo usado ('partida' o 'centrado')."""
     tmp = pathlib.Path(tmp); tmp.mkdir(exist_ok=True)
     base = tmp / pathlib.Path(salida).stem
-    cam = detectar_cam(src)
+    cam = detectar_cam(src) if partir else None
     modo = "partida" if cam else "centrado"
     p_tit, p_gan, p_mar, ass = (f"{base}_tit.png", f"{base}_gan.png", f"{base}_mar.png", f"{base}.ass")
     if modo == "partida":
