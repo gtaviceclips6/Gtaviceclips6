@@ -48,4 +48,4 @@ jobs:
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
           for f in shorts telegram_chat.txt ia_estado.txt errores_escenas.txt; do git add "$f" 2>/dev/null || true; done
-          git diff --cached --quiet || (git commit -m "Escenas" && git pull --rebase -q && git push)
+          git diff --cached --quiet || (git commit -m "Escenas" && for i in 1 2 3; do git pull --rebase -X theirs -q && git push && break; sleep 5; done)

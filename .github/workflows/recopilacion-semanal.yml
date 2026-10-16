@@ -39,4 +39,4 @@ jobs:
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
           git add shorts telegram_chat.txt 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "Recopilación semanal" && git pull --rebase -q && git push)
+          git diff --cached --quiet || (git commit -m "Recopilación semanal" && for i in 1 2 3; do git pull --rebase -X theirs -q && git push && break; sleep 5; done)
