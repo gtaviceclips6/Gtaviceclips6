@@ -1,1 +1,13 @@
-2026-10-16 16:18 Gemini sin respuesta: gemini-3.5-flash-lite=401 (clave no válida: hay que poner una nueva en GEMINI_API_KEY)
+2026-10-16 16:35 Gemini sin respuesta: gemini-3.5-flash-lite=503:{
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are u | gemini-3.8-flash=503:{
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are u | gemini-3.6-flash=503:{
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are u | gemini-flash-latest=503:{
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are u
