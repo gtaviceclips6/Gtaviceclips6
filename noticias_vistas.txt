@@ -122,3 +122,6 @@ t:2026-10-16:igor yebra
 t:2026-10-16:petróleo
 t:2026-10-16:sara carbonero
 t:2026-10-16:centro nacional de inteligencia
+t:2026-10-16:ibex 35
+t:2026-10-16:yankuba sima
+t:2026-10-16:javier chicote
