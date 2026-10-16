@@ -2,7 +2,7 @@
 # (lo usan cortar.py para clips de Twitch y directo.py para momentos cortados en directo)
 import os, re, json, hashlib, pathlib, datetime
 import video, ia, tg
-from config import HASHTAGS as TAGS, FILTRO
+from config import HASHTAGS as TAGS, FILTRO, HORARIOS
 
 HANDLE = video.HANDLE
 SHORTS = pathlib.Path("shorts")
@@ -93,6 +93,23 @@ def escribir_textos(item, transcripcion, t=None):
     return titulo, GANCHOS[h % len(GANCHOS)] if gta else NEUTROS_GANCHO[h % len(NEUTROS_GANCHO)], texto, "plantilla"
 
 
+def mejor_hora():
+    """Siguiente hueco bueno para publicar (config.json -> horarios), p. ej. 'hoy 18:00' o 'mañana 12:00'."""
+    try:
+        from zoneinfo import ZoneInfo
+        ahora = datetime.datetime.now(ZoneInfo(HORARIOS.get("zona", "Europe/Madrid")))
+        horas = sorted(HORARIOS.get("clips") or [])
+        for dia, nombre in ((0, "hoy"), (1, "mañana")):
+            for h in horas:
+                hh, mm = map(int, h.split(":"))
+                t = (ahora + datetime.timedelta(days=dia)).replace(hour=hh, minute=mm, second=0, microsecond=0)
+                if t > ahora + datetime.timedelta(minutes=30):
+                    return f"{nombre} {h}"
+    except Exception:
+        pass
+    return ""
+
+
 def procesar(item, src, n, info_extra="", tmp="tmp"):
     """item: url, streamer, titulo, vistas. src: video ya descargado/cortado. Lanza error si se descarta."""
     dur = min(video.duracion(src), 59)
@@ -126,6 +143,9 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]
     vistas = f" · 👀 {item['vistas']:,} visitas".replace(",", ".") if item.get("vistas") else ""
     info = f"\n\n— {item['streamer']} · {int(dur)} s · {modo} · textos: {quien}{vistas}{info_extra}"
+    hora = mejor_hora()
+    if hora:
+        info += f"\n🕒 Mejor hora para publicarlo: {hora}"
     if SIMULACRO:
         info = "\n\n🧪 SIMULACRO (prueba, no publicar)" + info
     tg.enviar_video(final, texto + info, cid)

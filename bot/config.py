@@ -14,6 +14,7 @@ _DEF = {
                  "escenas": "#gta6 #gtavi #gta6españa #vicecity #leonida #graficos #gaming #viral #parati #fyp",
                  "noticias": "#gta6 #gtavi #gta6españa #noticiasgta6 #rockstargames #vicecity #ultimahora"},
     "filtro": {"nota_minima": 7, "min_vistas_sin_ia": 50, "min_segundos": 8, "max_segundos": 45},
+    "horarios": {"zona": "Europe/Madrid", "clips": ["12:00", "18:00"]},
 }
 
 
@@ -36,4 +37,4 @@ def cargar():
 
 
 CFG = cargar()
-MARCA, JUEGO, HASHTAGS, FILTRO = CFG["marca"], CFG["juego"], CFG["hashtags"], CFG["filtro"]
+MARCA, JUEGO, HASHTAGS, FILTRO, HORARIOS = CFG["marca"], CFG["juego"], CFG["hashtags"], CFG["filtro"], CFG["horarios"]
