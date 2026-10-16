@@ -65,16 +65,31 @@ def _estado(txt):
         pass
 
 
+def gemini_post(modelo, cuerpo):
+    """Llama a Gemini. Primero con la clave en la cabecera; si Google no la acepta asi, en la direccion.
+    Nunca devuelve ni guarda la clave en los mensajes de error."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+    r = requests.post(url, headers={"x-goog-api-key": GEMINI}, timeout=60, json=cuerpo)
+    if r.status_code in (401, 403):
+        r = requests.post(url, params={"key": GEMINI}, timeout=60, json=cuerpo)
+    return r
+
+
+def _tapar(txt):
+    return str(txt).replace(GEMINI, "***") if GEMINI else str(txt)
+
+
 def con_gemini(streamer, titulo, transcripcion, fotos=()):
     fallos = []
     for modelo in MODELOS_GEMINI:
         try:
-            r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
-                              headers={"x-goog-api-key": GEMINI}, timeout=60, json={
+            r = gemini_post(modelo, {
                                   "systemInstruction": {"parts": [{"text": INSTRUCCIONES}]},
                                   "contents": [{"role": "user", "parts": [{"text": _pedido(streamer, titulo, transcripcion)}] + [
                                       {"inline_data": {"mime_type": "image/jpeg", "data": f}} for f in fotos]}],
                                   "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}})
+            if r.status_code in (401, 403):
+                fallos.append(f"{modelo}={r.status_code} (clave no válida: hay que poner una nueva en GEMINI_API_KEY)"); break
             if r.status_code in (404, 400) or r.status_code >= 500:   # otro nombre o Google saturado: probamos el siguiente
                 fallos.append(f"{modelo}={r.status_code}:{r.text[:120]}"); continue
             if r.status_code == 429:               # cupo gratis agotado por hoy
@@ -84,7 +99,7 @@ def con_gemini(streamer, titulo, transcripcion, fotos=()):
             _estado(f"Gemini {modelo}: OK")
             return _leer_json(txt)
         except Exception as e:
-            fallos.append(f"{modelo}: {e}")
+            fallos.append(f"{modelo}: {_tapar(e)}")
     _estado("Gemini sin respuesta: " + " | ".join(fallos))
     return None
 

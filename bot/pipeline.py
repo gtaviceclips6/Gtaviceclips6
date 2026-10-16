@@ -124,6 +124,8 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
         if not forzar and (juicio.get("tipo") not in ("gracioso", "escena_guapa") or juicio["nota"] < NOTA_MINIMA):
             raise RuntimeError(f"descartado: no es bueno ({juicio.get('tipo')}, nota {juicio['nota']:g}: {juicio.get('motivo')})")
     elif not forzar:
+        if item.get("viral"):
+            raise RuntimeError("descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)")
         if len(palabras) < MIN_PALABRAS:
             raise RuntimeError("descartado: casi no habla nadie")
         if (item.get("vistas") or 0) < MIN_VISTAS_SIN_IA:

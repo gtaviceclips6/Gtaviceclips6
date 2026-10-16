@@ -59,8 +59,7 @@ def elegir(noticias):
         print("Sin GEMINI_API_KEY: no elijo noticias (para no publicar rumores)."); return None
     lista = "\n".join(f"{i}. {n['titulo']} ({n['fuente']})" for i, n in enumerate(noticias))
     for modelo in ia.MODELOS_GEMINI:
-        r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
-                          headers={"x-goog-api-key": ia.GEMINI}, timeout=60, json={
+        r = ia.gemini_post(modelo, {
                               "systemInstruction": {"parts": [{"text": INSTR}]},
                               "contents": [{"role": "user", "parts": [{"text": lista}]}],
                               "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3}})
