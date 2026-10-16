@@ -38,6 +38,9 @@ def leer_lista():
 
 def buscar_twitch():
     out = []
+    import ajustes
+    if os.environ.get("SOLO_VIRALES") == "true" and not ajustes.leer()["virales"]:
+        return []
     if os.environ.get("SOLO_VIRALES") == "true":        # pasada rapida cada hora: solo lo viral recien salido
         try:
             return clips_virales_espanol()
@@ -70,7 +73,7 @@ def buscar_twitch():
             print("Top en español de todo Twitch:", len(top))
         except Exception as e:
             print("Top en español:", e)
-    if os.environ.get("VIRALES", "true") == "true" and not os.environ.get("SIMULACRO") == "true":
+    if os.environ.get("VIRALES", "true") == "true" and ajustes.leer()["virales"] and not os.environ.get("SIMULACRO") == "true":
         try:
             vistos = {c["url"] for c in out}
             vir = clips_virales_espanol()

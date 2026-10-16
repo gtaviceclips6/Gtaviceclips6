@@ -100,6 +100,9 @@ def picos(cont, maximo):
 
 
 def main():
+    import ajustes
+    if ajustes.en_pausa():
+        print("Bot en pausa (desde el menú de Telegram)"); return
     if not (CID and SECRET):
         raise SystemExit("Faltan los secretos TWITCH_CLIENT_ID y TWITCH_CLIENT_SECRET")
     if not tg.chat_id():

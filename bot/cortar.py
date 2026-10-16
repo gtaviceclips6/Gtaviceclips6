@@ -59,6 +59,9 @@ def resumen_diario():
 
 
 def main():
+    import ajustes
+    if ajustes.en_pausa():
+        print("Bot en pausa (desde el menú de Telegram)"); return
     if not tg.TOKEN or not tg.chat_id():
         raise SystemExit("Falta el token o el chat de Telegram")
     ok, no = (0, 0) if os.environ.get("BOTONES_APARTE", "true") == "true" else tg.procesar_botones()   # los lee "Botones" cada 5 min

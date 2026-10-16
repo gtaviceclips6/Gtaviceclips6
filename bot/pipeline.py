@@ -9,7 +9,8 @@ SHORTS = pathlib.Path("shorts")
 LISTA = SHORTS / "lista.jsonl"
 MIN_PALABRAS = int(os.environ.get("MIN_PALABRAS", "3") or 3)   # filtro: clips donde casi no se habla, fuera
 MIN_SEG = int(FILTRO["min_segundos"])
-NOTA_MINIMA = float(os.environ.get("NOTA_MINIMA") or FILTRO["nota_minima"])          # la IA puntua de 1 a 10; por debajo, fuera
+import ajustes as _aj
+NOTA_MINIMA = float(_aj.leer()["nota_minima"] or os.environ.get("NOTA_MINIMA") or FILTRO["nota_minima"])          # la IA puntua de 1 a 10; por debajo, fuera
 MIN_VISTAS_SIN_IA = int(os.environ.get("MIN_VISTAS_SIN_IA") or FILTRO["min_vistas_sin_ia"])  # si la IA no responde, solo clips muy vistos
 SIMULACRO = os.environ.get("SIMULACRO") == "true"
 

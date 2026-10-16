@@ -174,8 +174,13 @@ def musica(ruta, seg=9):
 
 
 def main():
+    import ajustes
+    if ajustes.en_pausa():
+        print("Bot en pausa (desde el menú de Telegram)"); return
     vistas = set(VISTAS.read_text(encoding="utf-8").splitlines()) if VISTAS.exists() else set()
     viral = MODO == "virales"
+    if not ajustes.leer()["tendencias" if viral else "noticias_gta"] and os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+        print("Desactivado en ajustes"); return
     fuente = leer_tendencias() if viral else leer_rss()
     hoy = datetime.date.today().isoformat()
     clave = (lambda n: f"t:{hoy}:" + norm(n["tema"])) if viral else (lambda n: norm(n["titulo"]))

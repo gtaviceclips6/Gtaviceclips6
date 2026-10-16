@@ -28,6 +28,9 @@ def a_video(png, seg, salida):
 
 
 def main():
+    import ajustes
+    if ajustes.en_pausa():
+        print("Bot en pausa (desde el menú de Telegram)"); return
     if not pipeline.LISTA.exists():
         print("No hay shorts todavía"); return
     hace7 = (datetime.datetime.utcnow() - datetime.timedelta(days=7)).isoformat()
