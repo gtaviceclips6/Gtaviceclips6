@@ -1,4 +1,5 @@
 name: Botones de Telegram
+# Ademas entiende enlaces y comandos (/estado /virales /ayuda) que le escribas al bot.
 # Cada 5 minutos apunta los ✅/❌ que pulses en Telegram (aprobados.jsonl / descartados.txt).
 # La tarea "Publicar aprobados" de Claude los programa enseguida en las 3 redes.
 on:
@@ -7,6 +8,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: botones
   cancel-in-progress: false
@@ -20,9 +22,10 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           pip install -q requests
-          PYTHONPATH=bot python -c "import tg; print('Botones:', tg.procesar_botones())"
+          PYTHONPATH=bot python bot/comandos.py
       - name: Guardar
         run: |
           git config user.name "vice-bot"

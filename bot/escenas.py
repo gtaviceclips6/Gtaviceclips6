@@ -13,7 +13,7 @@ NOTA = float(os.environ.get("NOTA_ESCENAS", "6") or 6)
 MIN_S, MAX_S = 8, 15
 TMP = pathlib.Path("tmp_escenas"); TMP.mkdir(exist_ok=True)
 ERR = pathlib.Path("errores_escenas.txt")
-CONTEXTO = os.environ.get("CONTEXTO", "Escena del tráiler oficial de GTA 6 (no es un streamer)")
+CONTEXTO = os.environ.get("CONTEXTO") or "Escena del tráiler oficial de GTA 6 (no es un streamer)"
 
 
 def descargar(url):
@@ -62,10 +62,24 @@ def trozos(src):
     return out
 
 
+def clip_corto(src):
+    """Video corto (un clip, un tuit...): un solo reel entero con subtitulos y textos de IA."""
+    try:
+        meta = json.loads(ejecutar(["yt-dlp", "-J", "--no-playlist", URL]))
+    except Exception:
+        meta = {}
+    item = dict(url=URL, streamer=meta.get("uploader") or meta.get("channel") or "", vistas=meta.get("view_count") or 0,
+                titulo=(meta.get("title") or "")[:80], forzar=True)
+    pipeline.procesar(item, src, "e0", info_extra=" · 📩 enviado por ti", tmp=TMP)
+    tg.mensaje("🎬 Listo: tu reel está arriba con los botones ✅/❌.")
+
+
 def main():
     if not URL:
         raise SystemExit("Falta el enlace del vídeo (URL_VIDEO)")
     src = descargar(URL)
+    if video.duracion(src) <= 75:
+        return clip_corto(src)
     lista = trozos(src)
     print("Trozos candidatos:", len(lista))
     puntuados = []
@@ -83,8 +97,8 @@ def main():
     puntuados.sort(key=lambda x: -x[0])
     hechos = 0
     for nota, k, a, b, t, j in sorted(puntuados[:MAX_REELS], key=lambda x: x[2]):   # en orden del video
-        item = dict(url=f"{URL}#t={a:.0f}", streamer="", titulo=j.get("titulo") or "GTA 6", vistas=0)
-        titulo, gancho, texto, _ = pipeline.escribir_textos(item, "gta 6", j)
+        item = dict(url=f"{URL}#t={a:.0f}", streamer="", titulo=j.get("titulo") or "Mira esto", vistas=0)
+        titulo, gancho, texto, _ = pipeline.escribir_textos(item, "gta 6" if "GTA" in CONTEXTO else "", j)
         final = TMP / f"reel{k}.mp4"
         video.montar(t, final, b - a, titulo, gancho, None, tmp=TMP, partir=False)
         cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]

@@ -11,10 +11,14 @@ on:
         description: "Cuántos reels como máximo"
         required: false
         default: "5"
+      contexto:
+        description: "Contexto para la IA (opcional)"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
-  group: bot-gtaviceclips6
+  group: escenas-${{ github.run_id }}
   cancel-in-progress: false
 jobs:
   escenas:
@@ -27,6 +31,10 @@ jobs:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: bot/requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-medium-v1
       - name: Instalar herramientas
         run: |
           sudo apt-get update -qq
@@ -41,11 +49,12 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           URL_VIDEO: ${{ github.event.inputs.url }}
           MAX_REELS: ${{ github.event.inputs.reels }}
+          CONTEXTO: ${{ github.event.inputs.contexto }}
         run: python bot/escenas.py
       - name: Guardar
         if: always()
         run: |
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
-          for f in shorts telegram_chat.txt ia_estado.txt errores_escenas.txt; do git add "$f" 2>/dev/null || true; done
+          for f in shorts telegram_chat.txt ia_estado.txt errores_escenas.txt hechos.txt; do git add "$f" 2>/dev/null || true; done
           git diff --cached --quiet || (git commit -m "Escenas" && for i in 1 2 3; do git pull --rebase -X theirs -q && git push && break; sleep 5; done)

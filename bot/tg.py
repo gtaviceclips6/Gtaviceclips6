@@ -7,6 +7,7 @@ _CHAT = os.environ.get("TELEGRAM_CHAT_ID", "")
 CHAT_FILE = pathlib.Path("telegram_chat.txt")      # se guarda solo la primera vez
 APROBADOS = pathlib.Path("aprobados.jsonl")        # clips que has marcado con ✅
 DESCARTADOS = pathlib.Path("descartados.txt")      # clips que has marcado con ❌
+MENSAJES = []                                       # textos que el dueño escribe al bot (enlaces y comandos)
 
 
 def tg(metodo, **kw):
@@ -84,6 +85,9 @@ def procesar_botones():
     no = set(DESCARTADOS.read_text().split()) if DESCARTADOS.exists() else set()
     n_ok = n_no = 0
     for u in upd:
+        m = u.get("message") or {}
+        if m.get("text") and str(m.get("chat", {}).get("id")) == str(chat_id()):   # solo el dueño
+            MENSAJES.append(m["text"])
         cq = u.get("callback_query")
         if not cq or ":" not in (cq.get("data") or ""):
             continue
