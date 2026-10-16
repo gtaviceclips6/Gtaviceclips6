@@ -61,7 +61,7 @@ def resumen_diario():
 def main():
     if not tg.TOKEN or not tg.chat_id():
         raise SystemExit("Falta el token o el chat de Telegram")
-    ok, no = tg.procesar_botones()
+    ok, no = (0, 0) if os.environ.get("BOTONES_APARTE", "true") == "true" else tg.procesar_botones()   # los lee "Botones" cada 5 min
     print(f"Botones: {ok} aprobados, {no} descartados")
     hechos = set(HECHOS.read_text(encoding="utf-8").split()) if HECHOS.exists() else set()
     items, vistos = [], set()

@@ -1,0 +1,31 @@
+name: Botones de Telegram
+# Cada 5 minutos apunta los ✅/❌ que pulses en Telegram (aprobados.jsonl / descartados.txt).
+# La tarea "Publicar aprobados" de Claude los programa enseguida en las 3 redes.
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: botones
+  cancel-in-progress: false
+jobs:
+  botones:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Leer botones
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          pip install -q requests
+          PYTHONPATH=bot python -c "import tg; print('Botones:', tg.procesar_botones())"
+      - name: Guardar
+        run: |
+          git config user.name "vice-bot"
+          git config user.email "vice-bot@users.noreply.github.com"
+          for f in aprobados.jsonl descartados.txt telegram_chat.txt; do git add "$f" 2>/dev/null || true; done
+          git diff --cached --quiet || (git commit -m "Botones" && for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; git rebase --abort 2>/dev/null; sleep 7; done)

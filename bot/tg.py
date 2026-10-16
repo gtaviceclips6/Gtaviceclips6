@@ -94,7 +94,7 @@ def procesar_botones():
                 f.write(json.dumps({"id": cid, "fecha": datetime.datetime.utcnow().isoformat(timespec="minutes"),
                                     "publicado": False}) + "\n")
             ya.add(cid); n_ok += 1
-            etiqueta = "✅ Aprobado: Claude lo programará"
+            etiqueta = "✅ Aprobado: sale en unos minutos en las 3 redes"
         elif accion == "no" and cid not in no:
             with open(DESCARTADOS, "a") as f:
                 f.write(cid + "\n")
