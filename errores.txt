@@ -28,3 +28,4 @@
 2026-10-16T17:08 https://www.twitch.tv/peereira7/clip/AnnoyingTubularTortoiseFeelsBadMan-OEFwpLjWVfKN2Rj3 descartado: no es bueno (nada, nota 3: Comentario flojo sin gracia que necesita contexto y no aporta nada especial.)
 2026-10-16T17:47 https://www.twitch.tv/carola/clip/BombasticDignifiedMonkeyDancingBaby-ZHLdAiM4XU2_WnBS descartado: no es bueno (nada, nota 3: Es solo el streamer hablando a camara sobre un reto, requiere bastante contexto.)
 2026-10-16T17:47 https://www.twitch.tv/elxokas/clip/RespectfulZealousAsteriskJKanStyle-mxY_9LJzb-1U2H41 descartado: no es bueno (nada, nota 3: Es solo el Xokas comentando la IA de un juego sin que pase nada relevante.)
+2026-10-16T20:02 https://www.twitch.tv/kestico/clip/MotionlessPlayfulPorpoiseDoritosChip-DnXiY2jqyMFcZqvA descartado: no es bueno (nada, nota 3: Es una cinemática con gameplay normal de campaña, sin momentos especialmente graciosos ni espectaculares.)
