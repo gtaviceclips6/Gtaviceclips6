@@ -23,6 +23,9 @@ Funciona entero en GitHub Actions, **sin servidor y sin coste** (IA de Google co
 | 📲 | **Aprobación en Telegram** | Cada short llega con botones ✅ Publicar / ❌ Descartar y la **mejor hora para publicarlo** (según datos de audiencia). |
 | 🔴 | **Vigilante de directos** | Graba los directos del juego, escucha el chat y corta el momento exacto en que el chat explota (risas, KEKW, WTF…). El clip llega minutos después de que pase. |
 | 🚨 | **Noticias al momento** | Cada 2 h lee Google Noticias; la IA solo elige noticias **oficiales** (nunca rumores) y monta un vídeo «ÚLTIMA HORA». |
+| ⚡ | **Virales al momento** | Cada hora: clips en español que más rápido suben (visitas/hora) de todo Twitch y tendencias de Google del país → vídeo «VIRAL HOY». |
+| 📎 | **Mándale un enlace** | Escribe al bot un enlace (X, Twitch, Kick, TikTok…) y te devuelve el reel montado; si es largo, las mejores escenas. Comandos `/estado`, `/virales`, `/ayuda`. |
+| 🚀 | **Publicación automática** | Lo que apruebas con ✅ se publica a la vez en TikTok, Reels y Shorts (vía Metricool) en menos de una hora. |
 | 🏆 | **TOP 5 semanal** | Domingos: recopilación «TOP 5 momentos de la semana» con los aprobados. |
 | 📊 | **Resumen diario** | Cada noche: shorts hechos, descartados, pendientes y minutos gastados. |
 | 🌙 | **No molesta** | De 0:00 a 9:00 los avisos llegan en silencio. Si no hay nada bueno, no manda nada. |
