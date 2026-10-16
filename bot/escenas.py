@@ -103,7 +103,7 @@ if __name__ == "__main__":
         main()
     except BaseException as e:
         import traceback
-        ERR.write_text(traceback.format_exc(), encoding="utf-8")
+        ERR.write_text(tg.sin_claves(traceback.format_exc()), encoding="utf-8")
         try:
             if "descargar" in str(e) and re.search(r"youtu\.?be", URL):
                 tg.mensaje("⚠️ YouTube no deja descargar vídeos desde el bot (pide iniciar sesión).\n\n"

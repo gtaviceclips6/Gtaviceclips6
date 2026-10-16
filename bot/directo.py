@@ -151,7 +151,7 @@ if __name__ == "__main__":
         import traceback
         err = traceback.format_exc()
         print(err)
-        pathlib.Path("errores_directo.txt").write_text(err, encoding="utf-8")
+        pathlib.Path("errores_directo.txt").write_text(tg.sin_claves(err), encoding="utf-8")
         try:
             tg.mensaje(f"⚠️ Vigilante de directos: {e}")
         except Exception:

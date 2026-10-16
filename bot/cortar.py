@@ -93,7 +93,7 @@ def main():
             except Exception as e:
                 mal += 1
                 with open(ERRORES, "a", encoding="utf-8") as f:
-                    f.write(f"{datetime.datetime.utcnow().isoformat(timespec='minutes')} {it['url']} {e}\n")
+                    f.write(tg.sin_claves(f"{datetime.datetime.utcnow().isoformat(timespec='minutes')} {it['url']} {e}") + "\n")
                 if not str(e).startswith("descartado"):
                     tg.mensaje(f"❌ No pude con:\n{it['url']}\nMotivo: {e}")
             hechos.add(it["url"])

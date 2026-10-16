@@ -70,12 +70,12 @@ def con_gemini(streamer, titulo, transcripcion, fotos=()):
     for modelo in MODELOS_GEMINI:
         try:
             r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
-                              params={"key": GEMINI}, timeout=60, json={
+                              headers={"x-goog-api-key": GEMINI}, timeout=60, json={
                                   "systemInstruction": {"parts": [{"text": INSTRUCCIONES}]},
                                   "contents": [{"role": "user", "parts": [{"text": _pedido(streamer, titulo, transcripcion)}] + [
                                       {"inline_data": {"mime_type": "image/jpeg", "data": f}} for f in fotos]}],
                                   "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}})
-            if r.status_code in (404, 400):        # modelo con otro nombre: probamos el siguiente
+            if r.status_code in (404, 400) or r.status_code >= 500:   # otro nombre o Google saturado: probamos el siguiente
                 fallos.append(f"{modelo}={r.status_code}:{r.text[:120]}"); continue
             if r.status_code == 429:               # cupo gratis agotado por hoy
                 _estado(f"Gemini {modelo}: cupo gratis agotado"); return None

@@ -1,5 +1,5 @@
 # GTA VICE CLIPS 6 - todo lo de Telegram: mensajes, videos con botones y lectura de los botones pulsados
-import os, json, pathlib, datetime
+import os, re, json, pathlib, datetime
 import requests
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
@@ -28,6 +28,16 @@ def chat_id():
     if _CHAT and not CHAT_FILE.exists():
         CHAT_FILE.write_text(_CHAT)
     return _CHAT
+
+
+def sin_claves(txt):
+    """Tapa cualquier clave o token antes de guardar un error (el repo es publico)."""
+    txt = str(txt)
+    for k in ("GEMINI_API_KEY", "TELEGRAM_BOT_TOKEN", "TWITCH_CLIENT_SECRET", "ANTHROPIC_API_KEY", "TWITCH_CLIENT_ID"):
+        v = os.environ.get(k)
+        if v and len(v) > 6:
+            txt = txt.replace(v, "***")
+    return re.sub(r"(key=|bot)[A-Za-z0-9_.:-]{20,}", r"\1***", txt)
 
 
 def silencio():

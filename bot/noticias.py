@@ -60,11 +60,11 @@ def elegir(noticias):
     lista = "\n".join(f"{i}. {n['titulo']} ({n['fuente']})" for i, n in enumerate(noticias))
     for modelo in ia.MODELOS_GEMINI:
         r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent",
-                          params={"key": ia.GEMINI}, timeout=60, json={
+                          headers={"x-goog-api-key": ia.GEMINI}, timeout=60, json={
                               "systemInstruction": {"parts": [{"text": INSTR}]},
                               "contents": [{"role": "user", "parts": [{"text": lista}]}],
                               "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3}})
-        if r.status_code in (400, 404):
+        if r.status_code in (400, 404) or r.status_code >= 500:   # Google saturado: siguiente modelo
             continue
         if r.status_code == 429:
             print("Gemini: cupo agotado"); return None
@@ -176,5 +176,5 @@ if __name__ == "__main__":
         main()
     except BaseException as e:
         import traceback
-        pathlib.Path("errores_noticias.txt").write_text(traceback.format_exc(), encoding="utf-8")
+        pathlib.Path("errores_noticias.txt").write_text(tg.sin_claves(traceback.format_exc()), encoding="utf-8")
         raise
