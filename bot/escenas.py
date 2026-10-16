@@ -68,7 +68,9 @@ def clip_corto(src):
         meta = json.loads(ejecutar(["yt-dlp", "-J", "--no-playlist", URL]))
     except Exception:
         meta = {}
-    item = dict(url=URL, streamer=meta.get("uploader") or meta.get("channel") or "", vistas=meta.get("view_count") or 0,
+    tw = re.search(r"twitch\.tv/([^/?#]+)/clip", URL)
+    autor = tw.group(1) if tw else (meta.get("channel") or meta.get("uploader") or "")   # en Twitch "uploader" es quien hizo el clip
+    item = dict(url=URL, streamer=autor, vistas=meta.get("view_count") or 0,
                 titulo=(meta.get("title") or "")[:80], forzar=True)
     pipeline.procesar(item, src, "e0", info_extra=" · 📩 enviado por ti", tmp=TMP)
     tg.mensaje("🎬 Listo: tu reel está arriba con los botones ✅/❌.")

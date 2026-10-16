@@ -132,7 +132,8 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
             raise RuntimeError("descartado: sin IA no puedo juzgarlo y tiene pocas visitas")
     titulo, gancho, texto, quien = escribir_textos(item, transcripcion, juicio)
     if juicio:
-        quien = f"IA · {'😂 gracioso' if juicio.get('tipo') == 'gracioso' else '😍 escena guapa'} · nota {juicio['nota']:g}/10"
+        etiqueta = {"gracioso": "😂 gracioso", "escena_guapa": "😍 escena guapa"}.get(juicio.get("tipo"), "😐 normalito")
+        quien = f"IA · {etiqueta} · nota {juicio['nota']:g}/10"
     # recorte inteligente: fuera silencios y, si es largo, los mejores 40 s
     if not (juicio and juicio.get("tipo") == "escena_guapa"):
         ini, fin = video.mejor_tramo(palabras, video.picos_volumen(src), dur)
