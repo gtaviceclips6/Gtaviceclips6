@@ -1,7 +1,6 @@
 name: Virales al momento
 # Cada hora (de 9:35 a 01:35 en Madrid): lo que esta explotando AHORA.
 #  1) Clips de Twitch en español de las ultimas 6 h ordenados por visitas/hora (la IA solo deja pasar los graciosos).
-#  2) Tendencias de Google en España -> video "VIRAL HOY" si hay algo divertido (nunca sucesos ni politica).
 on:
   schedule:
     - cron: "35 7-23 * * *"
@@ -48,15 +47,6 @@ jobs:
           NOTA_MINIMA: "7"
           EVENTO: "virales"
         run: python bot/cortar.py
-      - name: Tendencias virales de España
-        continue-on-error: true
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          MODO_NOTICIAS: "virales"
-          HORAS_NOTICIA: "6"
-        run: python bot/noticias.py
       - name: Guardar
         if: always()
         run: |

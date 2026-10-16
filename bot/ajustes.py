@@ -2,7 +2,7 @@
 import os, json, pathlib
 
 RUTA = pathlib.Path("ajustes.json")
-DEF = {"pausa": False, "nota_minima": None, "virales": True, "tendencias": True, "noticias_gta": True}
+DEF = {"pausa": False, "nota_minima": None, "virales": True, "tendencias": False, "noticias_gta": False}
 
 
 def leer():

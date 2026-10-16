@@ -1,8 +1,7 @@
 name: Noticias GTA 6
 # Cada 2 horas busca noticias OFICIALES de GTA 6 y, si hay una importante, te manda un video "ÚLTIMA HORA".
+# DESACTIVADO (16-oct-2026): el dueño no quiere vídeos-cartel de noticias.
 on:
-  schedule:
-    - cron: "41 */2 * * *"
   workflow_dispatch:
     inputs:
       modo:

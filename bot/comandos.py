@@ -31,7 +31,7 @@ def teclado(filas):
 
 def menu_principal():
     pausa = ajustes.leer()["pausa"]
-    return teclado([[B_VIRALES, B_GTA], [B_NOTICIAS, B_TENDENCIAS], [B_ENLACE, B_IDEAS],
+    return teclado([[B_VIRALES, B_GTA], [B_ENLACE, B_IDEAS],
                     [B_ESTADO, B_PENDIENTES], [B_TOP5, B_SIMULACRO],
                     [B_SEGUIR if pausa else B_PAUSA, B_AJUSTES], [B_AYUDA]])
 
@@ -77,8 +77,6 @@ AYUDA = """🤖 GTA VICE CLIPS 6 · Menú
 
 🔥 Virales ya → busco AHORA los clips que están explotando en Twitch (cualquier tema).
 🎮 Clips GTA 6 → busco clips de GTA 6 de tus streamers y de todo Twitch.
-📰 Noticias GTA 6 → miro si hay noticia oficial y te monto el vídeo «ÚLTIMA HORA».
-🌍 Tendencias España → lo más buscado ahora en España → vídeo «VIRAL HOY».
 🎬 Reel de un enlace → pega un enlace (X, Twitch, Kick, TikTok…) y te devuelvo el reel.
 💡 Ideas para hoy → la IA te propone vídeos para petarlo hoy.
 📊 Estado → cómo va el día · 📋 Pendientes → lo aprobado que va a salir.
@@ -162,12 +160,8 @@ def _atender(texto):
     if t == B_GTA:
         lanzar("cortar-shorts.yml", rango="", simulacro="false")
         return enviar("🎮 Buscando clips de GTA 6… En 10-20 min te llegan los buenos.")
-    if t == B_NOTICIAS:
-        lanzar("noticias.yml", modo="gta")
-        return enviar("📰 Mirando noticias oficiales de GTA 6… Si hay algo importante, te llega el vídeo en 5 min.")
-    if t == B_TENDENCIAS:
-        lanzar("noticias.yml", modo="virales")
-        return enviar("🌍 Mirando lo más buscado en España… Si hay algo divertido, te llega «VIRAL HOY» en 5 min.")
+    if t in (B_NOTICIAS, B_TENDENCIAS):
+        return enviar("⛔ Los vídeos de noticias/tendencias (cartel con texto) están desactivados.", menu_principal())
     if t == B_ENLACE:
         return enviar("🎬 Pega aquí el enlace (X, Twitch, Kick, TikTok, Instagram…).\n"
                       "Si quieres, escribe algo después para darme contexto. Ej.:\nhttps://x.com/... golazo en el último minuto")

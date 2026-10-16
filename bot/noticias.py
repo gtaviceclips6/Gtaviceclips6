@@ -174,6 +174,8 @@ def musica(ruta, seg=9):
 
 
 def main():
+    # Desactivado por el dueño (16-oct-2026): nada de vídeos-cartel de texto («VIRAL HOY» / «ÚLTIMA HORA»).
+    print("Vídeos de noticias/tendencias desactivados"); return
     import ajustes
     if ajustes.en_pausa():
         print("Bot en pausa (desde el menú de Telegram)"); return
