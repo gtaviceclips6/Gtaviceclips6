@@ -2,7 +2,7 @@
 #  - Apunta los botones ✅/❌ de cada vídeo.
 #  - Menú fijo abajo con botones para lanzar todo a mano, ver el estado y cambiar ajustes.
 #  - Si le mandas un ENLACE (X/Twitter, Twitch, Kick, TikTok, Instagram...), te devuelve el reel montado.
-import os, re, json, datetime, pathlib
+import os, re, json, time, datetime, pathlib
 import requests
 import tg, ajustes
 
@@ -45,7 +45,23 @@ def enviar(texto, teclado_=None):
                                "reply_markup": teclado_ or menu_principal()})
 
 
+class YaEnMarcha(Exception):
+    pass
+
+
 def lanzar(workflow, **inputs):
+    """Lanza un trabajo en GitHub. Si ya lo pediste hace menos de 10 min, no lo repite."""
+    clave = workflow + json.dumps(inputs, sort_keys=True)
+    reg = pathlib.Path("lanzados.json")
+    try:
+        hechos = json.loads(reg.read_text())
+    except Exception:
+        hechos = {}
+    hace = time.time() - hechos.get(clave, 0)
+    if hace < 600:
+        raise YaEnMarcha(int(hace // 60))
+    hechos[clave] = time.time()
+    reg.write_text(json.dumps(hechos))
     r = requests.post(f"https://api.github.com/repos/{REPO}/actions/workflows/{workflow}/dispatches", timeout=30,
                       headers={"Authorization": f"Bearer {GH}", "Accept": "application/vnd.github+json"},
                       json={"ref": "main", "inputs": inputs})
@@ -72,7 +88,7 @@ AYUDA = """🤖 GTA VICE CLIPS 6 · Menú
 ⚙️ Ajustes → exigencia de la IA y qué buscar.
 
 ✅ / ❌ en cada vídeo → lo aprobado sale solo en las 3 redes en menos de 1 hora.
-⏱️ Leo tus botones y mensajes cada 5 minutos.
+⚡ Respondo al momento. Las búsquedas tardan 5-15 min en terminar.
 ⚠️ Enlaces de YouTube no funcionan (bloquea descargas): usa el de X."""
 
 
@@ -122,6 +138,13 @@ def ideas():
 
 
 def atender(texto):
+    try:
+        return _atender(texto)
+    except YaEnMarcha as e:
+        enviar(f"⏳ Ya estoy en ello (me lo pediste hace {e.args[0]} min). En cuanto termine te llega aquí 👌")
+
+
+def _atender(texto):
     t = texto.strip()
     tl = t.lower()
     a = ajustes.leer()

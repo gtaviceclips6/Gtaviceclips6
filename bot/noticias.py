@@ -186,13 +186,21 @@ def main():
     clave = (lambda n: f"t:{hoy}:" + norm(n["tema"])) if viral else (lambda n: norm(n["titulo"]))
     nuevas = [n for n in fuente if clave(n) not in vistas][:30]
     print("Titulares nuevos:", len(nuevas))
+    a_mano = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
     if not nuevas:
+        if a_mano:
+            tg.mensaje("🌍 No hay titulares nuevos desde la última vez. Prueba en un rato." if viral
+                       else "📰 No hay noticias nuevas de GTA 6 desde la última vez.")
         return
     d = elegir(nuevas, INSTR_VIRAL if viral else None)
     with open(VISTAS, "a", encoding="utf-8") as f:
         f.write("\n".join(clave(n) for n in nuevas) + "\n")
     if not d:
-        print("Ninguna noticia oficial importante."); return
+        print("Ninguna noticia oficial importante.")
+        if a_mano:
+            tg.mensaje(f"🌍 He mirado {len(nuevas)} tendencias de España y ninguna es divertida para un vídeo (eran sucesos, política…)."
+                       if viral else f"📰 He mirado {len(nuevas)} titulares y ninguno es una noticia OFICIAL de GTA 6. Nada que publicar.")
+        return
     n = d["noticia"]
     cid = "n" + hashlib.md5(n["titulo"].encode()).hexdigest()[:9]
     png, wav, mp4 = TMP / f"{cid}.png", TMP / f"{cid}.wav", TMP / f"{cid}.mp4"

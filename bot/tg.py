@@ -75,12 +75,15 @@ def aprobados():
     return [json.loads(l) for l in APROBADOS.read_text(encoding="utf-8").splitlines() if l.strip()]
 
 
-def procesar_botones():
-    """Lee los botones pulsados desde la ultima pasada y los apunta. Devuelve (aprobados, descartados) nuevos."""
+def procesar_botones(upd=None):
+    """Lee los botones pulsados y los apunta. Devuelve (aprobados, descartados) nuevos.
+    Si se le pasan las actualizaciones (modo escucha), no vuelve a pedirlas ni las marca como leidas."""
     if not TOKEN:
         return 0, 0
     chat_id()   # guarda el chat antes de vaciar la cola
-    upd = tg("getUpdates", data={"allowed_updates": json.dumps(["message", "callback_query"])}).json().get("result", [])
+    propio = upd is None
+    if propio:
+        upd = tg("getUpdates", data={"allowed_updates": json.dumps(["message", "callback_query"])}).json().get("result", [])
     ya = {a["id"] for a in aprobados()}
     no = set(DESCARTADOS.read_text().split()) if DESCARTADOS.exists() else set()
     n_ok = n_no = 0
@@ -111,6 +114,6 @@ def procesar_botones():
             tg("editMessageReplyMarkup", data={"chat_id": msg["chat"]["id"], "message_id": msg["message_id"],
                                                 "reply_markup": json.dumps({"inline_keyboard": [[
                                                     {"text": etiqueta, "callback_data": "x:0"}]]})})
-    if upd:   # marca todo como leido
+    if upd and propio:   # marca todo como leido
         tg("getUpdates", data={"offset": upd[-1]["update_id"] + 1})
     return n_ok, n_no

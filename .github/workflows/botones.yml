@@ -1,10 +1,9 @@
 name: Botones de Telegram
-# Ademas entiende enlaces y comandos (/estado /virales /ayuda) que le escribas al bot.
-# Cada 5 minutos apunta los ✅/❌ que pulses en Telegram (aprobados.jsonl / descartados.txt).
-# La tarea "Publicar aprobados" de Claude los programa enseguida en las 3 redes.
+# El bot ESCUCHA Telegram todo el rato y responde al momento a los botones ✅/❌, al menú y a los enlaces.
+# Cada turno dura ~5 h 40 min; cada 30 min queda otro en cola para relevarlo sin cortes.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,22 +12,20 @@ concurrency:
   group: botones
   cancel-in-progress: false
 jobs:
-  botones:
+  escuchar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
-      - name: Leer botones
+      - name: Escuchar Telegram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
+          DURACION_MIN: "340"
         run: |
           pip install -q requests
-          PYTHONPATH=bot python bot/comandos.py
-      - name: Guardar
-        run: |
           git config user.name "vice-bot"
           git config user.email "vice-bot@users.noreply.github.com"
-          for f in aprobados.jsonl descartados.txt telegram_chat.txt ajustes.json menu_enviado.txt; do git add "$f" 2>/dev/null || true; done
-          git diff --cached --quiet || (git commit -m "Botones" && for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; git rebase --abort 2>/dev/null; sleep 7; done)
+          PYTHONPATH=bot python bot/escuchar.py

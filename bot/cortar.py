@@ -76,13 +76,14 @@ def main():
         if pipeline.ya_hay_igual(it["streamer"], it["titulo"]):
             hechos.add(it["url"]); continue
         vistos.add(it["url"]); items.append(it)
-    automatico = os.environ.get("EVENTO") == "schedule"
+    automatico = os.environ.get("GITHUB_EVENT_NAME", os.environ.get("EVENTO")) == "schedule"   # pasadas solas: sin mensajes si no hay nada
     if items:
         pendientes = len(items) - MAX_CLIPS
         items = items[:MAX_CLIPS]
         aviso = f" (quedan {pendientes} para la próxima pasada)" if pendientes > 0 else ""
         tg.mensaje(f"🤖 Empiezo a cortar {len(items)} clip(s){aviso}…")
         bien = mal = 0
+        motivos = []
         for n, it in enumerate(items, 1):
             try:
                 meta = json.loads(ejecutar(["yt-dlp", "-J", "--no-playlist", it["url"]]))
@@ -98,6 +99,8 @@ def main():
                 mal += 1
                 with open(ERRORES, "a", encoding="utf-8") as f:
                     f.write(tg.sin_claves(f"{datetime.datetime.utcnow().isoformat(timespec='minutes')} {it['url']} {e}") + "\n")
+                if str(e).startswith("descartado"):
+                    motivos.append(f"• {it['streamer']}: {str(e).replace('descartado: ', '')[:110]}")
                 if not str(e).startswith("descartado"):
                     tg.mensaje(f"❌ No pude con:\n{it['url']}\nMotivo: {e}")
                 if "la IA no responde" not in str(e):   # si la IA estaba saturada, se reintenta en la siguiente pasada
@@ -105,10 +108,14 @@ def main():
             else:
                 hechos.add(it["url"])
             HECHOS.write_text("\n".join(sorted(hechos)) + "\n", encoding="utf-8")
-        tg.mensaje(f"✅ Terminado: {bien} short(s) listos, {mal} descartados o con error.")
+        txt = f"✅ Terminado: {bien} vídeo(s) buenos te han llegado" if bien else "🤷 Esta vez nada bueno"
+        txt += f", {mal} descartado(s)." if mal else "."
+        if motivos:
+            txt += "\n\nLa IA descartó:\n" + "\n".join(motivos[:5])
+        tg.mensaje(txt)
     elif not automatico:
         tg.mensaje("🤖 No hay clips nuevos que cortar.")
-    if automatico and datetime.datetime.utcnow().hour == 21:   # pasada de las 23:17 (hora de Madrid)
+    if os.environ.get("EVENTO") == "schedule" and datetime.datetime.utcnow().hour == 21:   # pasada de las 23:17 (hora de Madrid)
         resumen_diario()
 
 
