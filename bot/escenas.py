@@ -105,7 +105,11 @@ if __name__ == "__main__":
         import traceback
         ERR.write_text(traceback.format_exc(), encoding="utf-8")
         try:
-            tg.mensaje(f"⚠️ Escenas: {str(e)[:300]}")
+            if "descargar" in str(e) and re.search(r"youtu\.?be", URL):
+                tg.mensaje("⚠️ YouTube no deja descargar vídeos desde el bot (pide iniciar sesión).\n\n"
+                           "👉 Mándale a Claude el enlace del mismo vídeo en X (Twitter) o el archivo del vídeo.")
+            else:
+                tg.mensaje(f"⚠️ Escenas: {str(e)[:300]}")
         except Exception:
             pass
         raise
