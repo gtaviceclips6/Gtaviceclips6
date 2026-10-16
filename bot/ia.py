@@ -69,7 +69,12 @@ def gemini_post(modelo, cuerpo):
     """Llama a Gemini. Primero con la clave en la cabecera; si Google no la acepta asi, en la direccion.
     Nunca devuelve ni guarda la clave en los mensajes de error."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-    r = requests.post(url, headers={"x-goog-api-key": GEMINI}, timeout=60, json=cuerpo)
+    import time
+    for espera in (0, 6, 20):                       # Google saturado (503): esperamos un poco y reintentamos
+        time.sleep(espera)
+        r = requests.post(url, headers={"x-goog-api-key": GEMINI}, timeout=60, json=cuerpo)
+        if r.status_code < 500:
+            break
     if r.status_code in (401, 403):
         r = requests.post(url, params={"key": GEMINI}, timeout=60, json=cuerpo)
     return r

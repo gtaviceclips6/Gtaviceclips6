@@ -97,7 +97,10 @@ def main():
                     f.write(tg.sin_claves(f"{datetime.datetime.utcnow().isoformat(timespec='minutes')} {it['url']} {e}") + "\n")
                 if not str(e).startswith("descartado"):
                     tg.mensaje(f"❌ No pude con:\n{it['url']}\nMotivo: {e}")
-            hechos.add(it["url"])
+                if "la IA no responde" not in str(e):   # si la IA estaba saturada, se reintenta en la siguiente pasada
+                    hechos.add(it["url"])
+            else:
+                hechos.add(it["url"])
             HECHOS.write_text("\n".join(sorted(hechos)) + "\n", encoding="utf-8")
         tg.mensaje(f"✅ Terminado: {bien} short(s) listos, {mal} descartados o con error.")
     elif not automatico:
