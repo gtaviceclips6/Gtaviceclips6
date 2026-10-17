@@ -44,3 +44,8 @@
 2026-10-17T01:03 https://www.twitch.tv/marinaifx/clip/CleanFineSpiderDBstyle-z1lxvSJPeidrFPhJ descartado: no es bueno (nada, nota 3: Comentario desafortunado que requiere mucho contexto y puede generar polémica innecesaria en redes.)
 2026-10-17T01:04 https://www.twitch.tv/gorilon/clip/CuriousCoyBoarVoHiYo-TMW8vJXFVUjKAo8l descartado: no es bueno (nada, nota 3: Conversacion aburrida sobre agregar a alguien, cero gracia y requiere contexto.)
 2026-10-17T01:04 https://www.twitch.tv/roxasorg13th/clip/InterestingRelentlessWolfAliens-F9oPho2fPWgJoosX descartado: no es bueno (nada, nota 3: Reacción repetitiva sin contexto fuerte fuera del juego de fútbol.)
+2026-10-17T03:50 https://www.twitch.tv/staryuuki/clip/SmilingGiantCurlewChocolateRain-eCiZGvTiC9tmKGF7 descartado: no es bueno (nada, nota 3: Es solo Staryuuki mostrando un cosplay sin ninguna situacion graciosa ni nada relevante.)
+2026-10-17T03:50 https://www.twitch.tv/staryuuki/clip/TardyCulturedSageYouDontSay-9iZFKrM9crfp6UMB descartado: no es bueno (nada, nota 3: Es solo Staryuuki enseñando un cosplay sin ninguna accion relevante, fail o gracia.)
+2026-10-17T03:51 https://www.twitch.tv/rivers_gg/clip/RelentlessCrispyLadiesKAPOW-OFKGHghvoAHT_5c0 descartado: no es bueno (nada, nota 3: Conversacion informal entre streamers sin gracia ni momentos virales claros.)
+2026-10-17T03:51 https://www.twitch.tv/keznit1/clip/WealthyCloudySproutKAPOW-6o4dDOIWxsq873oY descartado: no es bueno (nada, nota 3: Es un clip antiguo de H1Z1 sin ninguna reacción fuerte o momento gracioso.)
+2026-10-17T03:52 https://www.twitch.tv/jimrsng/clip/ArbitrarySneakyOysterCurseLit-Sih8nyUAPM5QNq4_ descartado: no es bueno (nada, nota 3: Es charla técnica de juego y desconcierto sin contexto claro ni gracia evidente.)
