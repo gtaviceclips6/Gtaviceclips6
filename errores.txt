@@ -57,3 +57,6 @@
 2026-10-17T07:59 https://www.twitch.tv/cowi/clip/PatientWanderingGoshawkOMGScoots-i7g6R8jcONpLSWNy descartado: no es bueno (nada, nota 2: Es un stream estático de VTuber sin diálogo ni ninguna acción destacable.)
 2026-10-17T07:59 https://www.twitch.tv/mumusiraneitor/clip/ObliviousSillyShingleRaccAttack-cmYs7SNdFwBGGBQg descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer saludando sin ninguna situacion graciosa ni relevante.)
 2026-10-17T07:59 https://www.twitch.tv/auronplay/clip/ArtisticSavageFriesKeepo-R7jHxQ1T5Fyvh8yb descartado: no es bueno (nada, nota 3: Es solo charleta del streamer hablando de polémicas sin contexto visual potente ni gracia.)
+2026-10-17T08:58 https://www.twitch.tv/mixwell/clip/LaconicSullenKuduM4xHeh-XiYdBxHUE3wVjyIC descartado: no es bueno (nada, nota 3: Es un análisis técnico de eSports de Valorant que requiere contexto competitivo.)
+2026-10-17T08:58 https://www.twitch.tv/alanalarana/clip/AntsyRelievedGoldfishCharlietheUnicorn-A0C6o3A7q0OG4LVy descartado: no es bueno (nada, nota 3: Es un stream IRL de discoteca sin ninguna situacion graciosa ni relevante.)
+2026-10-17T08:59 https://www.twitch.tv/mumusiraneitor/clip/FastGlamorousAdminPJSalt-y5fG7rADAmsHU8JX descartado: no es bueno (nada, nota 3: Conversación sin contexto y charla normal de chat, nada gracioso ni relevante.)
