@@ -301,8 +301,8 @@ def png_marca(png, y=70):
 
 
 # ---------------------------------------------------------------- montaje
-def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp", partir=True):
-    """Hace el short final. Devuelve el modo usado ('partida' o 'centrado')."""
+def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp", partir=False):
+    """Hace el short final. Por defecto, el video ENTERO y tal cual (sin recortar ni mover la camara del streamer). Devuelve el modo usado ('partida' o 'centrado')."""
     tmp = pathlib.Path(tmp); tmp.mkdir(exist_ok=True)
     base = tmp / pathlib.Path(salida).stem
     cam = detectar_cam(src) if partir else None
@@ -330,7 +330,8 @@ def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp", partir
     png_marca(p_mar)
 
     # zoom rapido en los picos de volumen
-    zonas = "+".join(f"between(t,{max(0, p - 0.15):.2f},{p + 0.6:.2f})" for p in picos_volumen(src))
+    # (solo en pantalla partida: en el video entero el zoom cortaria los bordes)
+    zonas = "+".join(f"between(t,{max(0, p - 0.15):.2f},{p + 0.6:.2f})" for p in picos_volumen(src)) if modo == "partida" else ""
     zoom = (f";[base]scale=w='{W}*(1+0.05*({zonas}))':h=-2:eval=frame,crop={W}:{H}[z]" if zonas
             else ";[base]null[z]")
     f = video + zoom
