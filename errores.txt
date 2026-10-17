@@ -41,3 +41,6 @@
 2026-10-16T22:58 https://www.twitch.tv/elxokas/clip/HyperTenderSnakeSoonerLater-d9jdMcNkBGgQXLr0 descartado: no es bueno (nada, nota 3: Es una charla técnica de un juego que requiere mucho contexto y no resulta gracioso.)
 2026-10-16T22:58 https://www.twitch.tv/tozeo/clip/FastBrightAntelopePraiseIt-4h0fMO-bkYUIyT7b descartado: no es bueno (nada, nota 3: Jugando a Fortnite construyendo, nada destacable ni gracioso fuera de contexto.)
 2026-10-16T22:58 https://www.twitch.tv/tozeo/clip/FastFrigidGiraffeDatBoi-i3NfPyETRANZRUuX descartado: no es bueno (nada, nota 3: Es solo el streamer pidiendo que le caigan en una partida, sin gracia ni accion.)
+2026-10-17T01:03 https://www.twitch.tv/marinaifx/clip/CleanFineSpiderDBstyle-z1lxvSJPeidrFPhJ descartado: no es bueno (nada, nota 3: Comentario desafortunado que requiere mucho contexto y puede generar polémica innecesaria en redes.)
+2026-10-17T01:04 https://www.twitch.tv/gorilon/clip/CuriousCoyBoarVoHiYo-TMW8vJXFVUjKAo8l descartado: no es bueno (nada, nota 3: Conversacion aburrida sobre agregar a alguien, cero gracia y requiere contexto.)
+2026-10-17T01:04 https://www.twitch.tv/roxasorg13th/clip/InterestingRelentlessWolfAliens-F9oPho2fPWgJoosX descartado: no es bueno (nada, nota 3: Reacción repetitiva sin contexto fuerte fuera del juego de fútbol.)
