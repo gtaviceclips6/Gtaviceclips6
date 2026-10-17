@@ -88,3 +88,6 @@
 2026-10-17T15:58 https://www.twitch.tv/peereira7/clip/AwkwardRockyCrowNotLikeThis-m16QdaDxylXccVTE descartado: no es bueno (nada, nota 3: Es solo charla de streamer sin contexto ni gracia visual.)
 2026-10-17T15:58 https://www.twitch.tv/peereira7/clip/DifficultSavoryPlumberRiPepperonis-hq8BsZJIJM5mBSMA descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla sin gracia ni salseo potente.)
 2026-10-17T16:58 https://www.twitch.tv/souzacarlostv/clip/HeadstrongIncredulousSpindleTheTarFu-oZH_PNGeVyOr2dAB descartado: no es bueno (nada, nota 3: Requiere demasiado contexto sobre un torneo de un juego y una broma interna.)
+2026-10-17T17:54 https://www.twitch.tv/elxokas/clip/BumblingHardElephantImGlitch-xGOLgayH9WxFfP7y descartado: no es bueno (nada, nota 3: Es solo un directo de World of Warcraft sin contexto ni gracia visual clara.)
+2026-10-17T17:57 https://www.twitch.tv/elchiringuitotv/clip/SwissRockyDoveArsonNoSexy-ZfQLY-8R5PnWelzq descartado: no es bueno (nada, nota 3: Es una retransmisión de fútbol convencional y falta contexto visual del gol.)
+2026-10-17T17:57 https://www.twitch.tv/toadamarillo/clip/DependableThirstyInternKevinTurtle-Em3jxCBqTh_6p5MO descartado: no es bueno (nada, nota 3: Es una queja seria del streamer sobre su equipo, sin gracia ni humor real.)
