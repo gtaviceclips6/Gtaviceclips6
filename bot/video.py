@@ -17,6 +17,7 @@ FAMILIA = "Anton" if "Anton" in FUENTE else "DejaVu Sans"
 ROSA, CIAN, AMARILLO = tuple(MARCA["color_principal"]), tuple(MARCA["color_secundario"]), tuple(MARCA["color_resaltado"])
 BLANCO = (255, 255, 255)
 CAM_ALTO = 700          # alto del panel de la camara en pantalla partida
+JUEGO_Y = 760           # donde empieza el directo entero, debajo de la camara
 GANCHO_SEG = 2.6        # segundos que se ve el gancho
 
 
@@ -136,8 +137,24 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
 # ---------------------------------------------------------------- analisis del video
+YUNET = os.path.join(os.path.dirname(os.path.abspath(__file__)), "yunet.onnx")
+
+
+def _caras(cv2, fr):
+    """Caras de un fotograma como (cx, cy, lado). YuNet (ve caras con cascos y de 3/4); si falta, Haar."""
+    fh, fw = fr.shape[:2]
+    if os.path.exists(YUNET):
+        det = cv2.FaceDetectorYN.create(YUNET, "", (fw, fh), 0.7, 0.3, 50)
+        _, res = det.detect(fr)
+        return [(x + w / 2, y + h / 2, max(w, h)) for x, y, w, h in (r[:4] for r in (res if res is not None else []))
+                if max(w, h) >= fh * 0.04]
+    cas = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    gris = cv2.cvtColor(fr, cv2.COLOR_BGR2GRAY)
+    return [(x + w / 2, y + h / 2, w) for (x, y, w, h) in cas.detectMultiScale(gris, 1.1, 6, minSize=(int(fh * 0.05),) * 2)]
+
+
 def detectar_cam(video):
-    """Busca una facecam pequena y fija (esquina del directo). Devuelve (x, y, w, h) a recortar o None."""
+    """Busca la facecam del directo (cara pequena, fija, hacia un borde). Devuelve (x, y, w, h) a recortar o None."""
     try:
         import cv2
     except ImportError:
@@ -147,35 +164,41 @@ def detectar_cam(video):
     fw, fh = cap.get(cv2.CAP_PROP_FRAME_WIDTH), cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
     if not fw or fh > fw:
         return None
-    cas = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
-    caras, muestras = [], 10
+    caras, muestras, leidas = [], 16, 0
     for k in range(muestras):
         cap.set(cv2.CAP_PROP_POS_FRAMES, int(total * (k + 0.5) / muestras))
         ok, fr = cap.read()
         if not ok:
             continue
-        gris = cv2.cvtColor(fr, cv2.COLOR_BGR2GRAY)
-        for (x, y, w, h) in cas.detectMultiScale(gris, 1.1, 6, minSize=(int(fh * 0.05), int(fh * 0.05))):
-            caras.append((x + w / 2, y + h / 2, w, h))
+        leidas += 1
+        caras += [(cx, cy, t, k) for cx, cy, t in _caras(cv2, fr)]
     cap.release()
-    if not caras:
+    if not caras or not leidas:
         return None
-    # agrupa caras en la misma posicion: la facecam es la que se repite en casi todos los fotogramas
-    mejor, votos = None, 0
+    # Agrupa las caras que se repiten en el mismo sitio: la facecam esta en casi todos los fotogramas.
+    grupos = []
     for c in caras:
-        cerca = [d for d in caras if abs(d[0] - c[0]) < fw * 0.04 and abs(d[1] - c[1]) < fh * 0.04]
-        if len(cerca) > votos:
-            mejor, votos = cerca, len(cerca)
-    if votos < muestras * 0.5:
+        cerca = [d for d in caras if abs(d[0] - c[0]) < fw * 0.04 and abs(d[1] - c[1]) < fh * 0.05]
+        fot = len({d[3] for d in cerca})
+        if fot >= leidas * 0.5:
+            grupos.append((cerca, fot))
+    candidatos = []
+    for cerca, fot in grupos:
+        cx, cy = np.mean([c[0] for c in cerca]), np.mean([c[1] for c in cerca])
+        tam = np.mean([c[2] for c in cerca])
+        if tam > fh * 0.25:
+            continue                      # cara enorme: el streamer sale a camara completa, sin partir
+        bx, by = abs(cx / fw - 0.5), abs(cy / fh - 0.5)
+        if bx < 0.2 and by < 0.2:
+            continue                      # cara en el centro: es el video que esta viendo, no su camara
+        # mas al borde, mas estable y mas grande, mejor (las caras del juego se mueven y suelen ser pequenas)
+        candidatos.append((max(bx, by) + fot / leidas * 0.2 + tam / fh * 2, cx, cy, tam))
+    if not candidatos:
         return None
-    cx, cy = np.mean([c[0] for c in mejor]), np.mean([c[1] for c in mejor])
-    tam = np.mean([c[2] for c in mejor])
-    # Solo es facecam si la cara es pequena y esta pegada a un lado (esquina del directo).
-    # Si la cara es grande o esta en el centro, el streamer sale a camara completa: sin partir.
-    if tam > fh * 0.2 or fw * 0.3 < cx < fw * 0.7:
-        return None
+    _, cx, cy, tam = max(candidatos)
     w = min(fw, tam * 3.6)
-    h = w * CAM_ALTO / W
+    h = min(fh, w * CAM_ALTO / W)
+    w = h * W / CAM_ALTO
     x = min(max(0, cx - w / 2), fw - w)
     y = min(max(0, cy - h * 0.45), fh - h)
     return int(x) // 2 * 2, int(y) // 2 * 2, int(w) // 2 * 2, int(h) // 2 * 2
@@ -288,15 +311,18 @@ def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp", partir
     if modo == "partida":
         x, y, w, h = cam
         juego_alto = H - CAM_ALTO
+        # Abajo, el directo ENTERO (sin recortar) sobre un fondo difuminado del propio video.
         video = (f"[0:v]crop={w}:{h}:{x}:{y},scale={W}:{CAM_ALTO}[cam];"
-                 f"[0:v]scale=-2:{juego_alto},crop={W}:{juego_alto}[juego];"
+                 f"[0:v]split[a][b];[a]scale={W}:{juego_alto}:force_original_aspect_ratio=increase,crop={W}:{juego_alto},"
+                 f"boxblur=25:2,eq=brightness=-0.25[fondo];[b]scale={W}:-2[entero];"
+                 f"[fondo][entero]overlay=0:{JUEGO_Y - CAM_ALTO}[juego];"
                  f"[cam][juego]vstack[base]")
         png_titulo(titulo, CAM_ALTO - 115, p_tit, tam=70, ancho=24, lineas_max=2)
         png_gancho(gancho or titulo, CAM_ALTO - 120, p_gan)
-        margen_subs = juego_alto - 330          # subtitulos en la parte alta del juego
+        margen_subs = 420                       # debajo del directo, encima de los botones de TikTok/Instagram
     else:
         video = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
-                 f"boxblur=25:2,eq=brightness=-0.2[bg];[0:v]scale={int(W * 1.4)}:-2,crop={W}:ih[fg];"
+                 f"boxblur=25:2,eq=brightness=-0.2[bg];[0:v]scale={W}:-2[fg];"   # video entero: no se corta a nadie
                  f"[bg][fg]overlay=(W-w)/2:(H-h)/2[base]")
         png_titulo(titulo, 200, p_tit)
         png_gancho(gancho or titulo, 260, p_gan)
@@ -305,7 +331,7 @@ def montar(src, salida, dur, titulo, gancho="", palabras=None, tmp="tmp", partir
 
     # zoom rapido en los picos de volumen
     zonas = "+".join(f"between(t,{max(0, p - 0.15):.2f},{p + 0.6:.2f})" for p in picos_volumen(src))
-    zoom = (f";[base]scale=w='{W}*(1+0.09*({zonas}))':h=-2:eval=frame,crop={W}:{H}[z]" if zonas
+    zoom = (f";[base]scale=w='{W}*(1+0.05*({zonas}))':h=-2:eval=frame,crop={W}:{H}[z]" if zonas
             else ";[base]null[z]")
     f = video + zoom
     f += f";[z][1:v]overlay=0:0:enable='gte(t,{GANCHO_SEG})'[v1]"
