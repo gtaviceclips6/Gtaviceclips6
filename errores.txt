@@ -106,3 +106,5 @@
 2026-10-17T22:17 https://www.twitch.tv/baltha_tv/clip/SmokyBoredWeaselPogChamp-2adcqu4yP3zw_o3J descartado: no es bueno (nada, nota 3: Es una partida normal de WoW sin ninguna reaccion exagerada ni momento impactante.)
 2026-10-17T22:54 https://www.twitch.tv/rubius/clip/FantasticTacitFinchKAPOW-mpQ9igScuOEf5Wio descartado: no es bueno (nada, nota 3: Es Rubius quejándose jugando al Minecraft sin ninguna situación graciosa real.)
 2026-10-17T22:55 https://www.twitch.tv/elxokas/clip/SillyRespectfulTruffleM4xHeh-wHoa4vgx5Ray9kMp descartado: no es bueno (nada, nota 3: Comentario exagerado de Xokas pero sin contexto de juego ni gracia real para TikTok.)
+2026-10-17T23:51 https://www.twitch.tv/muchamiel/clip/SplendidSpineyWhaleUWot-o_pIUO2cFA69A4Py ERROR: list index out of range
+2026-10-17T23:51 https://www.twitch.tv/rubius/clip/MildFilthyChowderDancingBaby-6wCQe5yMEKKq1p9F descartado: no es bueno (nada, nota 3: Es Rubius jugando a Minecraft hablando solo, no tiene gracia ni contexto viral.)
