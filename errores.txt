@@ -163,3 +163,5 @@
 2026-10-18T21:52 https://www.twitch.tv/illojuan/clip/HonestDeadPterodactylCoolStoryBro-dhG6LfWFG1im7L74 descartado: no es bueno (nada, nota 3: Es solo un streamer leyendo un artículo y comentando sobre una fecha de lanzamiento.)
 2026-10-18T22:56 https://www.twitch.tv/sergicabrer3/clip/SmoggyHomelyMooseUncleNox-_YGGFAGmYcFkDzSi descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve una situacion absurda sin gracia real.)
 2026-10-18T22:57 https://www.twitch.tv/elxokas/clip/SlickTenderTarsierBIRB-ry3UbPZL3f-Gl3aW descartado: no es bueno (nada, nota 3: Rabia jugando al WoW que solo interesa a su comunidad, falta contexto general.)
+2026-10-18T23:52 https://www.twitch.tv/elxokas/clip/RelentlessAmericanCaterpillarHumbleLife-qimrO1e_BpJvtA-S descartado: no es bueno (nada, nota 3: Comentario aislado sin contexto gracioso ni impacto visual para redes.)
+2026-10-18T23:52 https://www.twitch.tv/elxokas/clip/CoyElatedCasetteCeilingCat-1ucm2T5XnwfUw5I9 descartado: no es bueno (nada, nota 3: Combate de World of Warcraft sin contexto relevante para un público general.)
