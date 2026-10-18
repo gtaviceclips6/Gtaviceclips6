@@ -24,7 +24,8 @@ GANCHO_SEG = 2.6        # segundos que se ve el gancho
 def ejecutar(cmd):
     p = subprocess.run(cmd, capture_output=True, text=True)
     if p.returncode != 0:
-        raise RuntimeError((p.stderr or p.stdout).strip().splitlines()[-1][:300])
+        lineas = (p.stderr or p.stdout or "").strip().splitlines()
+        raise RuntimeError(lineas[-1][:300] if lineas else f"{pathlib.Path(cmd[0]).name} se cortó sin decir nada (código {p.returncode})")
     return p.stdout
 
 

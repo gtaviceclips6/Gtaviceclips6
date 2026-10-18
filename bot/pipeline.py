@@ -139,9 +139,12 @@ def procesar(item, src, n, info_extra="", tmp="tmp"):
     if not (juicio and juicio.get("tipo") == "escena_guapa"):
         ini, fin = video.mejor_tramo(palabras, video.picos_volumen(src), dur)
         if ini > 0.2 or fin < dur - 0.2:
-            src = video.recortar(src, ini, fin, pathlib.Path(tmp) / f"rec{n}.mp4")
-            palabras = [(w, a - ini, b - ini) for w, a, b in palabras if a >= ini and b <= fin]
-            dur = fin - ini
+            try:
+                src = video.recortar(src, ini, fin, pathlib.Path(tmp) / f"rec{n}.mp4")
+                palabras = [(w, a - ini, b - ini) for w, a, b in palabras if a >= ini and b <= fin]
+                dur = fin - ini
+            except Exception as e:      # si falla el recorte, sigue con el clip entero
+                print("Recorte:", e)
     final = pathlib.Path(tmp) / f"short{n}.mp4"
     modo = video.montar(src, final, dur, titulo, gancho, palabras, tmp=tmp)
     cid = hashlib.md5(item["url"].encode()).hexdigest()[:10]
