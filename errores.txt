@@ -147,3 +147,6 @@
 2026-10-18T17:01 https://www.twitch.tv/skain/clip/ZealousPopularShallotBCWarrior-y5uwg4VCzIDYTril descartado: no es bueno (nada, nota 3: Conversacion informal de paseo nocturno sin punchline gracioso ni accion relevante.)
 2026-10-18T17:54 https://www.twitch.tv/elxokas/clip/CarelessFrozenCheddarDoritosChip-x8jFbNk0Pt_S5wN7 descartado: no es bueno (nada, nota 3: Es una charla política seria de Xokas sin gracia ni nada visualmente llamativo.)
 2026-10-18T17:55 https://www.twitch.tv/elxokas/clip/WiseSuccessfulHumanShazBotstix-tbQZ1PeZ7-464OP_ descartado: no es bueno (nada, nota 3: Comentario político controvertido y charla de streamers que puede ser penalizada en redes.)
+2026-10-18T18:50 https://www.twitch.tv/elxokas/clip/OptimisticManlySmoothieRitzMitz-pSC0IFUXk91snI9i descartado: no es bueno (nada, nota 3: Es solo gameplay aburrido de WoW sin ninguna reaccion destacable del streamer.)
+2026-10-18T18:50 https://www.twitch.tv/gorilon/clip/PatientCogentApeOSkomodo-PguO8em8zkC1DBg0 descartado: no es bueno (nada, nota 3: Es solo el streamer hablando de componentes de PC mientras juega sin que pase nada relevante.)
+2026-10-18T18:50 https://www.twitch.tv/revenant/clip/PlainCoweringMeerkatOneHand-kbUcm0YntTvSdKJY descartado: no es bueno (nada, nota 3: Es un momento de menus y explicacion de juego que requiere contexto, sin gracia.)
