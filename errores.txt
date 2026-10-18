@@ -150,3 +150,6 @@
 2026-10-18T18:50 https://www.twitch.tv/elxokas/clip/OptimisticManlySmoothieRitzMitz-pSC0IFUXk91snI9i descartado: no es bueno (nada, nota 3: Es solo gameplay aburrido de WoW sin ninguna reaccion destacable del streamer.)
 2026-10-18T18:50 https://www.twitch.tv/gorilon/clip/PatientCogentApeOSkomodo-PguO8em8zkC1DBg0 descartado: no es bueno (nada, nota 3: Es solo el streamer hablando de componentes de PC mientras juega sin que pase nada relevante.)
 2026-10-18T18:50 https://www.twitch.tv/revenant/clip/PlainCoweringMeerkatOneHand-kbUcm0YntTvSdKJY descartado: no es bueno (nada, nota 3: Es un momento de menus y explicacion de juego que requiere contexto, sin gracia.)
+2026-10-18T19:00 https://www.twitch.tv/rubius/clip/SullenHotPepperGrammarKing-Q_SbZyNI6X6hcDr3 descartado: no es bueno (nada, nota 3: Es solo charla sobre un posible cosplay sin ninguna reaccion fuerte ni momento gracioso.)
+2026-10-18T19:01 https://www.twitch.tv/paache_/clip/AlertManlyHippoAMPEnergyCherry-PXPlqclqH_SwVj02 descartado: no es bueno (nada, nota 3: Es una jugada normal de Rocket League sin ninguna reaccion exagerada ni humor especial.)
+2026-10-18T19:01 https://www.twitch.tv/carola/clip/MagnificentFurtiveLobsterTinyFace-AqKGWh0SBneZ5Ehg descartado: no es bueno (nada, nota 3: Falta contexto visual claro y es solo Carola reaccionando a un video sin mostrarlo.)
