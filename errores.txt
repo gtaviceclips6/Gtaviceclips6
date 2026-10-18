@@ -135,3 +135,5 @@
 2026-10-18T13:06 https://www.twitch.tv/zeling/clip/PuzzledObedientTildeYouDontSay-7VnXkSkHRe6BbYuh descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo un grito sin gracia.)
 2026-10-18T13:06 https://www.twitch.tv/alpax/clip/BetterSpookyWitchCoolCat-riFEf9qyRk4Wh0so descartado: no es bueno (nada, nota 3: Jugada normal de shooter sin contexto ni comedia relevante.)
 2026-10-18T13:06 https://www.twitch.tv/alpax/clip/TrustworthyApatheticGoatRitzMitz-WGmdcdbX7u7eOi6y descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter con un comentario sin gracia especial.)
+2026-10-18T13:57 https://www.twitch.tv/skain/clip/UnsightlyTacitOrcaBrokeBack-zw-H4gYSNH02N73y descartado: no es bueno (nada, nota 3: Es una charla informal sobre coches sin ninguna situación graciosa o relevante.)
+2026-10-18T13:59 https://www.twitch.tv/alimentacionchino/clip/StylishBlushingWeaselBatChest-vXqS8IzJmyUCL1zs descartado: no es bueno (nada, nota 3: Conversacion cotidiana confusa pidiendo comida sin gracia ni situacion relevante para redes.)
