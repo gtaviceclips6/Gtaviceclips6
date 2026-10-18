@@ -157,3 +157,7 @@
 2026-10-18T19:56 https://www.twitch.tv/gorilon/clip/TangentialRelatedBulgogiDxAbomb-i2BfNxJdPrrPLtZT descartado: no es bueno (nada, nota 3: Es solo un streamer comentando su puntuación en una partida sin ninguna gracia especial.)
 2026-10-18T20:58 https://www.twitch.tv/elxokas/clip/SpikyOddWormShadyLulu--VRxC3g1SWce5SuK descartado: no es bueno (nada, nota 3: Comentario fuera de tono y lenguaje prohibido por las normas de las plataformas.)
 2026-10-18T20:58 https://www.twitch.tv/rubius/clip/FuriousFilthyGoatSuperVinlin-4sECOC5gtzFLUuwX descartado: no es bueno (nada, nota 3: Es una muerte típica de Minecraft sin ninguna reacción graciosa o especial.)
+2026-10-18T21:49 https://www.twitch.tv/ibai/clip/ColdbloodedSourHeronHoneyBadger-A28uP21X4UNvsOhJ descartado: no es bueno (nada, nota 3: Es una reaccion a esports o un simulador sin contexto de humor claro ni juego.)
+2026-10-18T21:50 https://www.twitch.tv/ibai/clip/SecretiveShinyHorseradishSquadGoals-36Nli_PHPkefuaBd descartado: no es bueno (nada, nota 3: Es Ibai comentando una quiniela o simulacion de esports sin contexto relevante ni gracia.)
+2026-10-18T21:51 https://www.twitch.tv/paache_/clip/GiftedTenuousPandaVoteYea-KQp4rMaQkAhRcL_G descartado: no es bueno (nada, nota 2: Comentario desagradable y sin gracia, no apto para las normas de las plataformas.)
+2026-10-18T21:52 https://www.twitch.tv/illojuan/clip/HonestDeadPterodactylCoolStoryBro-dhG6LfWFG1im7L74 descartado: no es bueno (nada, nota 3: Es solo un streamer leyendo un artículo y comentando sobre una fecha de lanzamiento.)
