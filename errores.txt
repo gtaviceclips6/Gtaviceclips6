@@ -108,3 +108,7 @@
 2026-10-17T22:55 https://www.twitch.tv/elxokas/clip/SillyRespectfulTruffleM4xHeh-wHoa4vgx5Ray9kMp descartado: no es bueno (nada, nota 3: Comentario exagerado de Xokas pero sin contexto de juego ni gracia real para TikTok.)
 2026-10-17T23:51 https://www.twitch.tv/muchamiel/clip/SplendidSpineyWhaleUWot-o_pIUO2cFA69A4Py ERROR: list index out of range
 2026-10-17T23:51 https://www.twitch.tv/rubius/clip/MildFilthyChowderDancingBaby-6wCQe5yMEKKq1p9F descartado: no es bueno (nada, nota 3: Es Rubius jugando a Minecraft hablando solo, no tiene gracia ni contexto viral.)
+2026-10-18T00:12 https://www.twitch.tv/muchamiel/clip/SplendidSpineyWhaleUWot-o_pIUO2cFA69A4Py descartado: no es bueno (nada, nota 3: Es solo un momento de juego sin gracia ni contexto suficiente para viralizar.)
+2026-10-18T00:12 https://www.twitch.tv/marinaifx/clip/TacitInexpensiveTomatoHotPokket-suSTKn9qyiT9UPGc descartado: no es bueno (nada, nota 3: Conversación aburrida y sin gracia, requiere mucho contexto para entenderse.)
+2026-10-18T00:13 https://www.twitch.tv/ibai/clip/PluckyCrepuscularButterDBstyle-0mA6ItZieU_uwyCc descartado: no es bueno (nada, nota 3: Conversacion confusa y sin contexto claro de humor para redes.)
+2026-10-18T00:15 https://www.twitch.tv/baptistao/clip/SillyUnusualHawkKeepo-VbRHOXxX2qZVJfvt descartado: no es bueno (nada, nota 3: Es solo un gameplay de fútbol aburrido con un comentario sin gracia ni contexto claro.)
