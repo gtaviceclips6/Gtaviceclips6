@@ -161,3 +161,5 @@
 2026-10-18T21:50 https://www.twitch.tv/ibai/clip/SecretiveShinyHorseradishSquadGoals-36Nli_PHPkefuaBd descartado: no es bueno (nada, nota 3: Es Ibai comentando una quiniela o simulacion de esports sin contexto relevante ni gracia.)
 2026-10-18T21:51 https://www.twitch.tv/paache_/clip/GiftedTenuousPandaVoteYea-KQp4rMaQkAhRcL_G descartado: no es bueno (nada, nota 2: Comentario desagradable y sin gracia, no apto para las normas de las plataformas.)
 2026-10-18T21:52 https://www.twitch.tv/illojuan/clip/HonestDeadPterodactylCoolStoryBro-dhG6LfWFG1im7L74 descartado: no es bueno (nada, nota 3: Es solo un streamer leyendo un artículo y comentando sobre una fecha de lanzamiento.)
+2026-10-18T22:56 https://www.twitch.tv/sergicabrer3/clip/SmoggyHomelyMooseUncleNox-_YGGFAGmYcFkDzSi descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve una situacion absurda sin gracia real.)
+2026-10-18T22:57 https://www.twitch.tv/elxokas/clip/SlickTenderTarsierBIRB-ry3UbPZL3f-Gl3aW descartado: no es bueno (nada, nota 3: Rabia jugando al WoW que solo interesa a su comunidad, falta contexto general.)
