@@ -110,3 +110,7 @@
 2026-10-17T23:51 https://www.twitch.tv/rubius/clip/MildFilthyChowderDancingBaby-6wCQe5yMEKKq1p9F descartado: no es bueno (nada, nota 3: Es Rubius jugando a Minecraft hablando solo, no tiene gracia ni contexto viral.)
 2026-10-18T00:17 https://www.twitch.tv/muchamiel/clip/SplendidSpineyWhaleUWot-o_pIUO2cFA69A4Py descartado: no es bueno (nada, nota 3: Es un momento de juego normal sin ninguna reaccion destacable o gracia especial.)
 2026-10-18T01:02 https://www.twitch.tv/crystalmolly/clip/SpinelessWrongWerewolfPlanking-LmGFd4tiVxBpzb3U descartado: no es bueno (nada, nota 2: Es una pantalla de inicio o pausa sin gameplay ni situaciones graciosas.)
+2026-10-18T03:51 https://www.twitch.tv/staryuuki/clip/SpoopyFantasticFiddleheadsDatSheffy-RNsQSqLxCiuhxXc1 descartado: no es bueno (nada, nota 3: Es solo Staryuuki enseñando un mono a su chat, sin gracia ni accion relevante.)
+2026-10-18T03:53 https://www.twitch.tv/vela/clip/HungryScaryDonutFunRun--1bq2G9V4VEhy3ir descartado: no es bueno (nada, nota 2: Es el streamer explicando las reglas de un sorteo en Discord, cero interés para redes.)
+2026-10-18T03:53 https://www.twitch.tv/luchimichurri_/clip/ProductiveRelievedBurritoSwiftRage-IBjtJzuKQYkUbzTV descartado: no es bueno (nada, nota 3: Es una charla de streamers reaccionando a una peli sin ninguna gracia especial.)
+2026-10-18T03:53 https://www.twitch.tv/gamstergaming/clip/MushySmokyLardJebaited-3gtTJxOqe_lyWLIj descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla sin gracia evidente para TikTok.)
