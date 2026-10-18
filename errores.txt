@@ -114,3 +114,5 @@
 2026-10-18T03:53 https://www.twitch.tv/vela/clip/HungryScaryDonutFunRun--1bq2G9V4VEhy3ir descartado: no es bueno (nada, nota 2: Es el streamer explicando las reglas de un sorteo en Discord, cero interés para redes.)
 2026-10-18T03:53 https://www.twitch.tv/luchimichurri_/clip/ProductiveRelievedBurritoSwiftRage-IBjtJzuKQYkUbzTV descartado: no es bueno (nada, nota 3: Es una charla de streamers reaccionando a una peli sin ninguna gracia especial.)
 2026-10-18T03:53 https://www.twitch.tv/gamstergaming/clip/MushySmokyLardJebaited-3gtTJxOqe_lyWLIj descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla sin gracia evidente para TikTok.)
+2026-10-18T07:00 https://www.twitch.tv/mixwell/clip/RoughScaryBarracudaAsianGlow-tDmsZFyHJkFpzdsF descartado: no es bueno (nada, nota 3: Es Mixwell viendo un directo sin gracia ni contexto suficiente para viralizar.)
+2026-10-18T07:00 https://www.twitch.tv/skyshocktv/clip/SucculentAbstruseMuleBatChest-ASlHisSIZ3rX29c1 descartado: no es bueno (nada, nota 3: Charla larga y contexto local de Mexico que no engancha en España)
