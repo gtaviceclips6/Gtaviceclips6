@@ -119,3 +119,5 @@
 2026-10-18T07:59 https://www.twitch.tv/danielaazuaje_/clip/InventiveWittyWeaselBCouch-3G_uDSJ1SW_WJbb8 descartado: no es bueno (nada, nota 3: Charla informal de la streamer con el chat sin nada relevante ni gracioso.)
 2026-10-18T08:00 https://www.twitch.tv/danielaazuaje_/clip/ResourcefulLitigiousGerbilPRChase-akUemlwZk04VouAD descartado: no es bueno (nada, nota 2: Charla normal de inicio de stream saludando al chat sin ninguna situación graciosa.)
 2026-10-18T08:00 https://www.twitch.tv/valorant_la/clip/EsteemedPlayfulKathyNotATK-BfLR37m8eAfYDwIv descartado: no es bueno (nada, nota 3: Es un clip de esports de Valorant y no encaja con la temática de GTA 6.)
+2026-10-18T08:58 https://www.twitch.tv/mixwell/clip/SmellyTsundereMeerkatOneHand-5nh6Kis2fyZIw81H descartado: no es bueno (nada, nota 3: Es solo charla técnica analizando habilidades, sin humor ni momentos visuales impactantes.)
+2026-10-18T08:59 https://www.twitch.tv/auronplay/clip/CuriousLuckyCakeFUNgineer-Qfpqsk3ZmTIUPCCM descartado: no es bueno (nada, nota 3: Es una charla sobre un regalo comercial sin momentos graciosos ni juego.)
