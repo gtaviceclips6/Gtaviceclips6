@@ -172,3 +172,5 @@
 2026-10-19T03:56 https://www.twitch.tv/vegetta777/clip/GorgeousTiredBasenjiPicoMause-NX38d1-fS6hjEJUN descartado: no es bueno (nada, nota 3: Es solo charla normal de un stream, no tiene gracia ni contexto viral.)
 2026-10-19T03:56 https://www.twitch.tv/alkapone/clip/BlushingVenomousPineapplePermaSmug-x4tfHeVKQ_LHGAuZ descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro creador, sin humor directo ni accion visual relevante.)
 2026-10-19T03:56 https://www.twitch.tv/xchronofox/clip/DeterminedBrainyTaroTooSpicy-uClvUVHPgshMfAeR descartado: no es bueno (nada, nota 3: Es una conversacion aburrida sobre proteina tras una donacion pequena, sin gracia ni accion.)
+2026-10-19T07:12 https://www.twitch.tv/cristinini/clip/PlumpInquisitiveOxHeyGirl-IKcgt2VbxrsTOwD3 descartado: no es bueno (nada, nota 3: Es una charla sobre fechas y especulaciones jugando al LoL sin gracia especial ni contexto fuerte.)
+2026-10-19T07:13 https://www.twitch.tv/knekro/clip/MoldySpinelessSquirrelFUNgineer-R19nvZgfkn5vNUiZ descartado: no es bueno (nada, nota 3: Es un momento de gameplay normal desorientado sin gracia especial ni contexto fuerte.)
