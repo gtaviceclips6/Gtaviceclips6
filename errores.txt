@@ -183,3 +183,6 @@
 2026-10-19T09:14 https://www.twitch.tv/querubinzz/clip/PlausiblePoliteJackalTebowing-PD3beqegkPu5LQ_w descartado: no es bueno (nada, nota 3: Es una charla normal revisando inventario sin ninguna reaccion destacable o graciosa.)
 2026-10-19T09:14 https://www.twitch.tv/opoartstudy/clip/RacyHandsomeOrcaDoritosChip-tX3t5p0EpabE0TCK descartado: no es bueno (nada, nota 3: Conversacion cotidiana de estudio sin punchline ni gracia relevante fuera de contexto.)
 2026-10-19T09:59 https://www.twitch.tv/skain/clip/HeadstrongTriumphantTermitePeteZarollTie-PRA49semFF5od20L descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia especial ni contexto de juego.)
+2026-10-19T10:10 https://www.twitch.tv/zeling/clip/ExpensiveTallTaroTheTarFu-hlGprYBnYSbMvsKI descartado: no es bueno (nada, nota 3: Conversacion aburrida y sin gracia sobre un fregadero, falta contexto potente.)
+2026-10-19T10:11 https://www.twitch.tv/elxokas/clip/CoySquareMomWOOP-hkAGN3rZpPvpHQyP descartado: no es bueno (nada, nota 3: Es solo el Xokas comentando un directo sin ninguna reacción fuerte o graciosa.)
+2026-10-19T10:11 https://www.twitch.tv/zeling/clip/AmazingExcitedLettuceEleGiggle-fboF7KCj5DKVAWTu descartado: no es bueno (nada, nota 3: Muestra ganancias bajas de YouTube sin aportar humor ni contexto interesante.)
