@@ -180,3 +180,5 @@
 2026-10-19T08:17 https://www.twitch.tv/ic0nic/clip/BoredAmazonianNostrilNomNom-N5jT2em4tVgsh9kB descartado: no es bueno (nada, nota 3: Conversacion confusa de partida sin ningun momento gracioso o visualmente llamativo.)
 2026-10-19T08:17 https://www.twitch.tv/natymoon/clip/GenerousConfidentCakeMrDestructoid-YyJJCeyMVvfdspIl descartado: no es bueno (nada, nota 3: Es un clip de ASMR típico sin ninguna situación graciosa o relevante para destacar.)
 2026-10-19T08:17 https://www.twitch.tv/outconsumer/clip/RespectfulFrailHerbsMikeHogu-SOEA6tkpHk7S1CP1 descartado: no es bueno (nada, nota 3: Es solo un comentario hablando con el chat sin contexto de juego.)
+2026-10-19T09:14 https://www.twitch.tv/querubinzz/clip/PlausiblePoliteJackalTebowing-PD3beqegkPu5LQ_w descartado: no es bueno (nada, nota 3: Es una charla normal revisando inventario sin ninguna reaccion destacable o graciosa.)
+2026-10-19T09:14 https://www.twitch.tv/opoartstudy/clip/RacyHandsomeOrcaDoritosChip-tX3t5p0EpabE0TCK descartado: no es bueno (nada, nota 3: Conversacion cotidiana de estudio sin punchline ni gracia relevante fuera de contexto.)
