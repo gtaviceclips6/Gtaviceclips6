@@ -186,3 +186,7 @@
 2026-10-19T10:10 https://www.twitch.tv/zeling/clip/ExpensiveTallTaroTheTarFu-hlGprYBnYSbMvsKI descartado: no es bueno (nada, nota 3: Conversacion aburrida y sin gracia sobre un fregadero, falta contexto potente.)
 2026-10-19T10:11 https://www.twitch.tv/elxokas/clip/CoySquareMomWOOP-hkAGN3rZpPvpHQyP descartado: no es bueno (nada, nota 3: Es solo el Xokas comentando un directo sin ninguna reacción fuerte o graciosa.)
 2026-10-19T10:11 https://www.twitch.tv/zeling/clip/AmazingExcitedLettuceEleGiggle-fboF7KCj5DKVAWTu descartado: no es bueno (nada, nota 3: Muestra ganancias bajas de YouTube sin aportar humor ni contexto interesante.)
+2026-10-19T11:05 https://www.twitch.tv/elvirayuki/clip/AttractiveChillyTigerDoubleRainbow-4tRizqSaNWICQm4Q descartado: no es bueno (nada, nota 3: Charla casual de streamers en la calle, falta contexto y no hay remate.)
+2026-10-19T11:06 https://www.twitch.tv/arrozydesgracias/clip/TolerantInterestingGoldfishFunRun-JAcmdThFsnCEatvL descartado: no es bueno (nada, nota 3: Es una explicación técnica del juego y charla normal sin gracia ni acción destacable.)
+2026-10-19T11:06 https://www.twitch.tv/adcshiiro/clip/ApatheticAmusedSnoodYouDontSay-8OZkVeHxEyubip5- descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-19T11:07 https://www.twitch.tv/adcshiiro/clip/SpikyDarkGnatKappaWealth-CWahrVnhPU_EqkGG descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin ninguna reacción especial o graciosa.)
