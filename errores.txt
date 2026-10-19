@@ -165,3 +165,6 @@
 2026-10-18T22:57 https://www.twitch.tv/elxokas/clip/SlickTenderTarsierBIRB-ry3UbPZL3f-Gl3aW descartado: no es bueno (nada, nota 3: Rabia jugando al WoW que solo interesa a su comunidad, falta contexto general.)
 2026-10-18T23:52 https://www.twitch.tv/elxokas/clip/RelentlessAmericanCaterpillarHumbleLife-qimrO1e_BpJvtA-S descartado: no es bueno (nada, nota 3: Comentario aislado sin contexto gracioso ni impacto visual para redes.)
 2026-10-18T23:52 https://www.twitch.tv/elxokas/clip/CoyElatedCasetteCeilingCat-1ucm2T5XnwfUw5I9 descartado: no es bueno (nada, nota 3: Combate de World of Warcraft sin contexto relevante para un público general.)
+2026-10-19T01:05 https://www.twitch.tv/tvander/clip/YummyCoweringKaleWutFace-4SkmBhItdlwz0VND descartado: no es bueno (nada, nota 3: Es un clip jugando al Minecraft sin gracia ni contexto relevante para la cuenta.)
+2026-10-19T01:06 https://www.twitch.tv/uafg/clip/FurtiveAdventurousOkapiPipeHype-_HBlgPolfBbNwXmK descartado: no es bueno (nada, nota 3: Es un combate de Street Fighter competitivo; requiere contexto y no encaja con GTA.)
+2026-10-19T01:07 https://www.twitch.tv/illojuan/clip/TangentialCrispyHerbsOpieOP-Gf_ZGy2Uz3cdYcOx descartado: no es bueno (nada, nota 3: Es solo charla normal de inicio de directo sin ninguna situación graciosa o relevante.)
