@@ -168,3 +168,7 @@
 2026-10-19T01:05 https://www.twitch.tv/tvander/clip/YummyCoweringKaleWutFace-4SkmBhItdlwz0VND descartado: no es bueno (nada, nota 3: Es un clip jugando al Minecraft sin gracia ni contexto relevante para la cuenta.)
 2026-10-19T01:06 https://www.twitch.tv/uafg/clip/FurtiveAdventurousOkapiPipeHype-_HBlgPolfBbNwXmK descartado: no es bueno (nada, nota 3: Es un combate de Street Fighter competitivo; requiere contexto y no encaja con GTA.)
 2026-10-19T01:07 https://www.twitch.tv/illojuan/clip/TangentialCrispyHerbsOpieOP-Gf_ZGy2Uz3cdYcOx descartado: no es bueno (nada, nota 3: Es solo charla normal de inicio de directo sin ninguna situación graciosa o relevante.)
+2026-10-19T03:55 https://www.twitch.tv/gamstergaming/clip/RamshackleSmilingWombatTF2John-1peS3xDNPz71eUAF descartado: no es bueno (nada, nota 3: Conversación de stream confusa y contexto demasiado largo para enganchar en TikTok.)
+2026-10-19T03:56 https://www.twitch.tv/vegetta777/clip/GorgeousTiredBasenjiPicoMause-NX38d1-fS6hjEJUN descartado: no es bueno (nada, nota 3: Es solo charla normal de un stream, no tiene gracia ni contexto viral.)
+2026-10-19T03:56 https://www.twitch.tv/alkapone/clip/BlushingVenomousPineapplePermaSmug-x4tfHeVKQ_LHGAuZ descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro creador, sin humor directo ni accion visual relevante.)
+2026-10-19T03:56 https://www.twitch.tv/xchronofox/clip/DeterminedBrainyTaroTooSpicy-uClvUVHPgshMfAeR descartado: no es bueno (nada, nota 3: Es una conversacion aburrida sobre proteina tras una donacion pequena, sin gracia ni accion.)
