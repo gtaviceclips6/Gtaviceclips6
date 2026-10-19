@@ -202,3 +202,7 @@
 2026-10-19T15:13 https://www.twitch.tv/agorafutbol/clip/EsteemedOptimisticPieMikeHogu-iggFrCnLGF3WOwhL descartado: no es bueno (nada, nota 3: Charla técnica de fútbol aburrida sin ningún momento gracioso o visualmente impactante.)
 2026-10-19T15:13 https://www.twitch.tv/peereira7/clip/RefinedAssiduousChickenAMPTropPunch-NwmAl0ciL90KeThd descartado: no es bueno (nada, nota 3: Falta contexto claro y lenguaje no apto para redes sociales.)
 2026-10-19T15:15 https://www.twitch.tv/agustin51/clip/StupidVastMagpieAsianGlow-N8TovIngPs62Lwsx descartado: no es bueno (nada, nota 3: Es solo el juego crasheando al empezar, no tiene la gracia ni el dinamismo necesario para viralizar.)
+2026-10-19T15:54 https://www.twitch.tv/peereira7/clip/WildRelentlessLadiesResidentSleeper-KHI3ZX7wnPQkQYEL descartado: no es bueno (nada, nota 3: Es un streamer reaccionando a un TikTok de edits falsos con IA.)
+2026-10-19T15:54 https://www.twitch.tv/peereira7/clip/ObesePoorHareOhMyDog-tCxqgd6rzjxAGE5Q descartado: no es bueno (nada, nota 3: Reaccion simple viendo videos sin contexto claro de lo que pasa en pantalla.)
+2026-10-19T15:55 https://www.twitch.tv/gerardromero/clip/HonorableDeterminedKiwiWoofer-8af9lrOYXeT8OQyX descartado: no es bueno (nada, nota 3: Es una charla seria de futbol, analisis largo sin humor ni accion.)
+2026-10-19T15:59 https://www.twitch.tv/viizzzm/clip/AffluentVastMartenYouWHY-RzADkT976e9Gqnm9 descartado: no es bueno (nada, nota 3: Es una partida normal de Valorant sin ninguna jugada destacada o graciosa.)
