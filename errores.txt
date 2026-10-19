@@ -190,3 +190,7 @@
 2026-10-19T11:06 https://www.twitch.tv/arrozydesgracias/clip/TolerantInterestingGoldfishFunRun-JAcmdThFsnCEatvL descartado: no es bueno (nada, nota 3: Es una explicación técnica del juego y charla normal sin gracia ni acción destacable.)
 2026-10-19T11:06 https://www.twitch.tv/adcshiiro/clip/ApatheticAmusedSnoodYouDontSay-8OZkVeHxEyubip5- descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-19T11:07 https://www.twitch.tv/adcshiiro/clip/SpikyDarkGnatKappaWealth-CWahrVnhPU_EqkGG descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin ninguna reacción especial o graciosa.)
+2026-10-19T12:07 https://www.twitch.tv/x6flipin/clip/HealthyUglyArugulaM4xHeh-flDb7qV4YRTO0yXs descartado: no es bueno (nada, nota 3: Charla sin contexto y aburrida sobre mirar con otros ojos.)
+2026-10-19T12:07 https://www.twitch.tv/x6flipin/clip/ColdbloodedSecretiveDinosaurTTours-iJM5thfOCBkoBNHO descartado: no es bueno (nada, nota 3: Es solo un momento normal de configuracion de volumen en partida sin gracia especial.)
+2026-10-19T12:07 https://www.twitch.tv/zeling/clip/DeadBenevolentChickpeaSpicyBoy-Q5WLaLBl_hoflaox descartado: no es bueno (nada, nota 3: Es una charla normal enseñando fotos de un perro, sin gracia especial ni viralidad.)
+2026-10-19T12:08 https://www.twitch.tv/elvirayuki/clip/ToughPlayfulChimpanzeeCharlietheUnicorn-VVF0ZDiLaaRFTsuB descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una charla en un restaurante sin gracia.)
