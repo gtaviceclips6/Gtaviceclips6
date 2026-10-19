@@ -217,3 +217,8 @@
 2026-10-19T20:06 https://www.twitch.tv/knekro/clip/MoistCuriousTarsierDendiFace-yo23k-liEuQODwUX descartado: no es bueno (nada, nota 3: Es una queja normal del streamer con el juego sin gracia ni momentos impactantes.)
 2026-10-19T20:07 https://www.twitch.tv/paache_/clip/BenevolentPeacefulScallionTBTacoLeft-lN_ucbKpCvZrVZwm descartado: no es bueno (nada, nota 3: Es una jugada normal de Rocket League con una reacción exagerada sin gracia especial.)
 2026-10-19T21:03 https://www.twitch.tv/peereira7/clip/HonorableLuckyJayThisIsSparta-_Z7tYrN87-RTeBlW descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo un gesto confuso del streamer sin gracia real.)
+2026-10-19T21:50 https://www.twitch.tv/ikiimartin/clip/AuspiciousSleepyMilkVoHiYo-iJxQ5LZFqmoTfeFY descartado: no es bueno (nada, nota 3: Es solo un rage quit normal en un partido de FIFA sin reacción especial.)
+2026-10-19T21:52 https://www.twitch.tv/caresapo/clip/LuckyToughTeaPeoplesChamp-WQL5IythA0Ucly23 descartado: no es bueno (nada, nota 3: Comentario fuera de lugar y sin gracia que no aporta nada interesante al clip.)
+2026-10-19T21:53 https://www.twitch.tv/norgannonhh/clip/GleamingTallPoxHoneyBadger-fNbemhyHz3VLzvH8 descartado: no es bueno (nada, nota 3: Es una opinion seria y larga hablando de un juego, sin accion ni gracia.)
+2026-10-19T21:54 https://www.twitch.tv/paache_/clip/FilthyIncredulousDoveDerp-s-gLllc77SHPrv1z descartado: no es bueno (nada, nota 3: Explicacion aburrida de jugadas y chat que no genera risa fuera de contexto.)
+2026-10-19T21:54 https://www.twitch.tv/gorilon/clip/CaringPiercingLasagnaRalpherZ-KgISsTu8K0UKcusi descartado: no es bueno (nada, nota 3: Es una charla de mentalidad y juego competitivo sin un remate gracioso o impactante.)
