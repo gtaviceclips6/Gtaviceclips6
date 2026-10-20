@@ -247,3 +247,6 @@
 2026-10-20T11:12 https://www.twitch.tv/fromguer/clip/PrettyTolerantSwanDAESuppy-LSiXNyTqMuVKnfib descartado: no es bueno (nada, nota 3: Es un directo hablando y tocando el piano sin ninguna situación graciosa o destacable.)
 2026-10-20T12:03 https://www.twitch.tv/skain/clip/AttractiveLovelyWoodcockPeoplesChamp-hSpV61vB-38E8AhM descartado: no es bueno (nada, nota 3: Conversacion informal sin gracia ni contexto suficiente para viralizar.)
 2026-10-20T13:06 https://www.twitch.tv/skain/clip/CreativeRichNeanderthalDatSheffy-mtM2thdJoNHPFFyX descartado: no es bueno (nada, nota 3: Es una opinion seria sobre un club de esports que requiere contexto previo.)
+2026-10-20T14:16 https://www.twitch.tv/skain/clip/SquarePoorRedpandaArgieB8-O7A1EEuWqB2u-o3g descartado: no es bueno (nada, nota 3: Es solo charla de sobremesa sin ninguna reaccion fuerte ni situacion graciosa.)
+2026-10-20T14:20 https://www.twitch.tv/bystaxx/clip/BigWildAnteaterVoteYea-5lgQdCaXLe43prGR descartado: no es bueno (nada, nota 3: Jugada normal de Counter Strike sin momento cómico ni escena visualmente impactante.)
+2026-10-20T14:23 https://www.twitch.tv/viizzzm/clip/EvilCourteousPorpoiseHoneyBadger-jLhDfVNx95yM0Rx2 descartado: no es bueno (nada, nota 3: Jugada normal de shooter sin contexto ni gracia especial.)
