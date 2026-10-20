@@ -224,3 +224,8 @@
 2026-10-19T21:54 https://www.twitch.tv/gorilon/clip/CaringPiercingLasagnaRalpherZ-KgISsTu8K0UKcusi descartado: no es bueno (nada, nota 3: Es una charla de mentalidad y juego competitivo sin un remate gracioso o impactante.)
 2026-10-20T00:00 https://www.twitch.tv/tozeo/clip/CogentPatientCoffeeAsianGlow-4jeqwTsWB4FhHyxa descartado: no es bueno (nada, nota 3: Es una charla seria sobre normas de streaming que requiere demasiado contexto previo.)
 2026-10-20T00:01 https://www.twitch.tv/gorilon/clip/AntediluvianRelentlessSardineMikeHogu-FGsj2f6L1IoZyVBt descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin contexto ni gracia especial para redes.)
+2026-10-20T01:06 https://www.twitch.tv/gorilon/clip/CleverSlickWaterUncleNox-lD-e0ReoKyOZbMbR descartado: no es bueno (nada, nota 3: Es un monólogo hablando solo por estar mute, sin contexto suficiente ni gracia general.)
+2026-10-20T01:06 https://www.twitch.tv/v1nchenso7/clip/HotTolerantGerbilUncleNox-Wp1KNwJ0bFfrPiTC descartado: no es bueno (nada, nota 3: Es solo el streamer comentando una jugada de una IA, falta contexto y gracia.)
+2026-10-20T01:06 https://www.twitch.tv/illojuan/clip/CheerfulFairYogurtVoteNay-Kf-EALDAdsgD3g0t descartado: no es bueno (nada, nota 3: Es solo conducción normal por la calle sin ninguna reacción destacable ni momento divertido.)
+2026-10-20T01:07 https://www.twitch.tv/peereira7_offline/clip/SincereFriendlyRabbitBuddhaBar-zpCBjI4itZsziKtT descartado: no es bueno (nada, nota 3: Es una queja normal por un bug o desconexión sin gracia especial.)
+2026-10-20T01:08 https://www.twitch.tv/gorilon/clip/JollySpinelessCardBatChest-NUfMGBwKq8dsZM6k descartado: no es bueno (nada, nota 3: Es una charla normal de streaming con un insulto flojo, falta humor visual claro.)
