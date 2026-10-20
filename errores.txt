@@ -233,3 +233,7 @@
 2026-10-20T03:58 https://www.twitch.tv/lolmechs/clip/DiligentHungryTarsierRlyTho-pTcEQqggXWqOM0AY descartado: no es bueno (nada, nota 3: Jugada estándar de League of Legends que requiere contexto del juego para entenderse.)
 2026-10-20T03:58 https://www.twitch.tv/jimrsng/clip/HomelyBeautifulPresidentPrimeMe-nP1CDq1r05uo-qsB descartado: no es bueno (nada, nota 3: Muerte rápida sin ninguna reacción especial ni momento cómico destacable.)
 2026-10-20T03:59 https://www.twitch.tv/srtumbao/clip/ResilientDeadMarjoramNerfBlueBlaster-9HX1XzWjGxBRR2x0 descartado: no es bueno (nada, nota 3: Charla innecesaria del streamer sin contexto de juego ni humor real.)
+2026-10-20T07:06 https://www.twitch.tv/ache/clip/FitCalmAirGuitarStinkyCheese-79XwslTEofpe_Dem descartado: no es bueno (nada, nota 3: Es el streamer explicando un programa y divagando, falta humor y chiste.)
+2026-10-20T07:07 https://www.twitch.tv/mumusiraneitor/clip/CrispyAmazonianPotatoUnSane-LNsEJyFjHqz_ikWs descartado: no es bueno (nada, nota 3: Es una charla larga y anecdotica sin suficiente gracia ni accion visual.)
+2026-10-20T07:08 https://www.twitch.tv/mumusiraneitor/clip/MotionlessTalentedPlumberAMPEnergyCherry-6jCl51KDABuaOaAt descartado: no es bueno (nada, nota 3: Es una charla casual contando una anécdota sin gracia destacable ni valor visual.)
+2026-10-20T07:08 https://www.twitch.tv/cone1996fc/clip/AthleticPiercingYakinikuChocolateRain-RnuV2jIicqNp6Lf8 descartado: no es bueno (nada, nota 3: Es una queja típica de un videojuego de fútbol, falta contexto y gracia general.)
