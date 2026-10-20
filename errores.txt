@@ -222,3 +222,5 @@
 2026-10-19T21:53 https://www.twitch.tv/norgannonhh/clip/GleamingTallPoxHoneyBadger-fNbemhyHz3VLzvH8 descartado: no es bueno (nada, nota 3: Es una opinion seria y larga hablando de un juego, sin accion ni gracia.)
 2026-10-19T21:54 https://www.twitch.tv/paache_/clip/FilthyIncredulousDoveDerp-s-gLllc77SHPrv1z descartado: no es bueno (nada, nota 3: Explicacion aburrida de jugadas y chat que no genera risa fuera de contexto.)
 2026-10-19T21:54 https://www.twitch.tv/gorilon/clip/CaringPiercingLasagnaRalpherZ-KgISsTu8K0UKcusi descartado: no es bueno (nada, nota 3: Es una charla de mentalidad y juego competitivo sin un remate gracioso o impactante.)
+2026-10-20T00:00 https://www.twitch.tv/tozeo/clip/CogentPatientCoffeeAsianGlow-4jeqwTsWB4FhHyxa descartado: no es bueno (nada, nota 3: Es una charla seria sobre normas de streaming que requiere demasiado contexto previo.)
+2026-10-20T00:01 https://www.twitch.tv/gorilon/clip/AntediluvianRelentlessSardineMikeHogu-FGsj2f6L1IoZyVBt descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin contexto ni gracia especial para redes.)
