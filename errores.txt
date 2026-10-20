@@ -264,3 +264,5 @@
 2026-10-20T17:15 https://www.twitch.tv/auronplay/clip/SnappyIronicElkRalpherZ-4TSHRMJcVXOT96Gi descartado: no es bueno (nada, nota 3: Conversacion entre streamers sin contexto visual ni momento especialmente gracioso fuera de su comunidad.)
 2026-10-20T17:19 https://www.twitch.tv/paache_/clip/RelievedMoralSproutPicoMause-Nkw7oAJpyMcubE-u descartado: no es bueno (nada, nota 3: Es una charla nostálgica sobre una serie pasada y no resulta gracioso sin contexto.)
 2026-10-20T18:04 https://www.twitch.tv/rubius/clip/BloodyFlaccidMartenDoggo-2vKe9yn5406CA2jE descartado: no es bueno (nada, nota 3: Es un momento tierno con su gato pero no resulta gracioso ni espectacular para redes.)
+2026-10-20T19:01 https://www.twitch.tv/elchiringuitotv/clip/BloodyAgreeableBulgogiHumbleLife-PEFjKWETqIFjscjb descartado: no es bueno (nada, nota 3: Es una rueda de prensa seria hablando de fútbol, no encaja como clip de risa ni escena espectacular.)
+2026-10-20T19:08 https://www.twitch.tv/rubius/clip/TangibleChillyFungusLeeroyJenkins-YZIVITxqurXdjKjx descartado: no es bueno (nada, nota 3: Es una llamada telefónica normal sin ninguna situación graciosa o relevante.)
