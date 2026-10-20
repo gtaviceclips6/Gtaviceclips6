@@ -260,3 +260,6 @@
 2026-10-20T16:08 https://www.twitch.tv/auronplay/clip/CarefulCarelessDragonHoneyBadger-XdHiUom3Hf9u0VeW descartado: no es bueno (nada, nota 3: Es una charla normal opinando sobre un streamer, falta humor o accion real.)
 2026-10-20T16:09 https://www.twitch.tv/auronplay/clip/TangibleCrazyInternNotLikeThis-Xn7Im1PGPTUyGiG7 descartado: no es bueno (nada, nota 3: Es una charla opinando sobre un producto sin gracia ni accion destacable.)
 2026-10-20T16:10 https://www.twitch.tv/agustin51/clip/ElatedYummyWalletCoolStoryBro-e4HE9Loc5KxOaUbc descartado: no es bueno (nada, nota 3: Comentario desafortunado abriendo cartas que no aporta humor ni escena visual interesante.)
+2026-10-20T17:14 https://www.twitch.tv/paache_/clip/FantasticSpotlessCarrotFrankerZ-cx83xbwV--GNUDrE descartado: no es bueno (nada, nota 3: Comentario fuera de tono y vulgar que no aporta ninguna situación graciosa real.)
+2026-10-20T17:15 https://www.twitch.tv/auronplay/clip/SnappyIronicElkRalpherZ-4TSHRMJcVXOT96Gi descartado: no es bueno (nada, nota 3: Conversacion entre streamers sin contexto visual ni momento especialmente gracioso fuera de su comunidad.)
+2026-10-20T17:19 https://www.twitch.tv/paache_/clip/RelievedMoralSproutPicoMause-Nkw7oAJpyMcubE-u descartado: no es bueno (nada, nota 3: Es una charla nostálgica sobre una serie pasada y no resulta gracioso sin contexto.)
