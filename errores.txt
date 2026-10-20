@@ -257,3 +257,6 @@
 2026-10-20T15:55 https://www.twitch.tv/llunaclark/clip/CooperativeIronicApeBloodTrail-P7K9K9DT2KlIxuH_ descartado: no es bueno (nada, nota 3: Es una charla cotidiana sin humor ni accion relevante para redes.)
 2026-10-20T15:56 https://www.twitch.tv/rxiirl/clip/SmellyMildReubenTBTacoRight-KT8rtA4rLMk53Jo- descartado: no es bueno (nada, nota 3: Es una jugada normal de videojuego sin contexto ni gracia especial para redes.)
 2026-10-20T15:57 https://www.twitch.tv/carola/clip/AmusedPowerfulGrouseBIRB-7D7OwcGJONfPhvbp descartado: no es bueno (nada, nota 3: Es solo charleta de streamer pidiendo contexto sobre salseo, no es ni gracioso ni visual.)
+2026-10-20T16:08 https://www.twitch.tv/auronplay/clip/CarefulCarelessDragonHoneyBadger-XdHiUom3Hf9u0VeW descartado: no es bueno (nada, nota 3: Es una charla normal opinando sobre un streamer, falta humor o accion real.)
+2026-10-20T16:09 https://www.twitch.tv/auronplay/clip/TangibleCrazyInternNotLikeThis-Xn7Im1PGPTUyGiG7 descartado: no es bueno (nada, nota 3: Es una charla opinando sobre un producto sin gracia ni accion destacable.)
+2026-10-20T16:10 https://www.twitch.tv/agustin51/clip/ElatedYummyWalletCoolStoryBro-e4HE9Loc5KxOaUbc descartado: no es bueno (nada, nota 3: Comentario desafortunado abriendo cartas que no aporta humor ni escena visual interesante.)
