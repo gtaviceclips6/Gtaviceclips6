@@ -253,3 +253,7 @@
 2026-10-20T15:12 https://www.twitch.tv/elvirayuki/clip/AnimatedNeighborlySwordDatSheffy-u0B7ssOUz8aExMaC descartado: no es bueno (nada, nota 3: Conversacion cotidiana entre streamers sin chiste ni accion relevante para redes.)
 2026-10-20T15:12 https://www.twitch.tv/agustin51/clip/SavoryBashfulNeanderthalStoneLightning-UhOiMhCyYvb8P9ku descartado: no es bueno (nada, nota 3: Tiene lenguaje inadecuado y no aporta nada gracioso ni espectacular sin contexto.)
 2026-10-20T15:14 https://www.twitch.tv/alvarostorm/clip/IntelligentTiredCaterpillarLitty-hjrt_SF2Ns7fyuem descartado: no es bueno (nada, nota 3: Jugada confusa del League of Legends que requiere contexto para entender la gracia.)
+2026-10-20T15:54 https://www.twitch.tv/llunaclark/clip/AmusedClumsyBadgerNomNom-hXDkgFdUFaa2Ow1l descartado: no es bueno (nada, nota 3: Charla sin contexto claro ni situación cómica o visualmente destacable.)
+2026-10-20T15:55 https://www.twitch.tv/llunaclark/clip/CooperativeIronicApeBloodTrail-P7K9K9DT2KlIxuH_ descartado: no es bueno (nada, nota 3: Es una charla cotidiana sin humor ni accion relevante para redes.)
+2026-10-20T15:56 https://www.twitch.tv/rxiirl/clip/SmellyMildReubenTBTacoRight-KT8rtA4rLMk53Jo- descartado: no es bueno (nada, nota 3: Es una jugada normal de videojuego sin contexto ni gracia especial para redes.)
+2026-10-20T15:57 https://www.twitch.tv/carola/clip/AmusedPowerfulGrouseBIRB-7D7OwcGJONfPhvbp descartado: no es bueno (nada, nota 3: Es solo charleta de streamer pidiendo contexto sobre salseo, no es ni gracioso ni visual.)
