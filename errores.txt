@@ -267,3 +267,4 @@
 2026-10-20T19:01 https://www.twitch.tv/elchiringuitotv/clip/BloodyAgreeableBulgogiHumbleLife-PEFjKWETqIFjscjb descartado: no es bueno (nada, nota 3: Es una rueda de prensa seria hablando de fútbol, no encaja como clip de risa ni escena espectacular.)
 2026-10-20T19:08 https://www.twitch.tv/rubius/clip/TangibleChillyFungusLeeroyJenkins-YZIVITxqurXdjKjx descartado: no es bueno (nada, nota 3: Es una llamada telefónica normal sin ninguna situación graciosa o relevante.)
 2026-10-20T19:15 https://www.twitch.tv/rubius/clip/CredulousIcyBeanGivePLZ-ZznzNfOeAHQ-Yf0R descartado: no es bueno (nada, nota 3: Es solo Rubius mirando un menú de habilidades sin contexto gracioso.)
+2026-10-20T21:03 https://www.twitch.tv/rubius/clip/PolishedObservantMetalKevinTurtle-u1_yZ6e-EmXuRzbd descartado: no es bueno (nada, nota 3: Es Rubius comentando jugabilidad normal y menús sin ninguna reacción especialmente divertida o caótica.)
