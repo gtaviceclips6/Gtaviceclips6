@@ -250,3 +250,6 @@
 2026-10-20T14:16 https://www.twitch.tv/skain/clip/SquarePoorRedpandaArgieB8-O7A1EEuWqB2u-o3g descartado: no es bueno (nada, nota 3: Es solo charla de sobremesa sin ninguna reaccion fuerte ni situacion graciosa.)
 2026-10-20T14:20 https://www.twitch.tv/bystaxx/clip/BigWildAnteaterVoteYea-5lgQdCaXLe43prGR descartado: no es bueno (nada, nota 3: Jugada normal de Counter Strike sin momento cómico ni escena visualmente impactante.)
 2026-10-20T14:23 https://www.twitch.tv/viizzzm/clip/EvilCourteousPorpoiseHoneyBadger-jLhDfVNx95yM0Rx2 descartado: no es bueno (nada, nota 3: Jugada normal de shooter sin contexto ni gracia especial.)
+2026-10-20T15:12 https://www.twitch.tv/elvirayuki/clip/AnimatedNeighborlySwordDatSheffy-u0B7ssOUz8aExMaC descartado: no es bueno (nada, nota 3: Conversacion cotidiana entre streamers sin chiste ni accion relevante para redes.)
+2026-10-20T15:12 https://www.twitch.tv/agustin51/clip/SavoryBashfulNeanderthalStoneLightning-UhOiMhCyYvb8P9ku descartado: no es bueno (nada, nota 3: Tiene lenguaje inadecuado y no aporta nada gracioso ni espectacular sin contexto.)
+2026-10-20T15:14 https://www.twitch.tv/alvarostorm/clip/IntelligentTiredCaterpillarLitty-hjrt_SF2Ns7fyuem descartado: no es bueno (nada, nota 3: Jugada confusa del League of Legends que requiere contexto para entender la gracia.)
