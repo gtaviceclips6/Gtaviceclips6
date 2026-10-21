@@ -291,3 +291,7 @@
 2026-10-21T09:11 https://www.twitch.tv/caprimint/clip/SpikyFaithfulShallotPastaThat-Ja5BjLpLWSjMuRFM descartado: no es bueno (nada, nota 3: Es una streamer mostrando un maquillaje sin ninguna situación graciosa o escena destacable.)
 2026-10-21T09:12 https://www.twitch.tv/yosoyricklive/clip/InterestingCrepuscularSnailPhilosoraptor-gTwxYjOugF1PI5wk descartado: no es bueno (nada, nota 2: Es solo spam o anuncio de un torneo y un emote, no aporta nada gracioso ni visual.)
 2026-10-21T09:14 https://www.twitch.tv/auronplay/clip/SpikyAcceptableBadgerDoggo-d3Yffl8xz7xt2eyQ descartado: no es bueno (nada, nota 3: Conversacion larga de streamers hablando de anecdotas random sin contexto visual fuerte.)
+2026-10-21T09:54 https://www.twitch.tv/ache/clip/BreakablePlacidFoxKeyboardCat-YwQ0o9S48XXonYO5 descartado: no es bueno (nada, nota 3: El streamer solo lee descripciones del juego sin gracia ni momentos impactantes.)
+2026-10-21T09:54 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-21T09:54 https://www.twitch.tv/xentayah/clip/PrettyRepleteKuduSoonerLater-n7EwND0p0w4lFUsW descartado: no es bueno (nada, nota 3: Es una jugada normal del juego comentada sin gracia ni momentos divertidos.)
+2026-10-21T09:54 https://www.twitch.tv/xentayah/clip/VivaciousVenomousRuffHeyGuys-ITTOAC89ioNBZjvK descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin ninguna reacción especial ni fail gracioso.)
