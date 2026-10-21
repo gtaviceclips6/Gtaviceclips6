@@ -287,3 +287,7 @@
 2026-10-21T08:12 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-21T08:13 https://www.twitch.tv/mumusiraneitor/clip/StrongCrackyFungusStoneLightning-TYvJEjooZFVSET39 descartado: no es bueno (nada, nota 2: Es solo una pantalla de inicio estática con animales de IA y texto genérico.)
 2026-10-21T08:16 https://www.twitch.tv/skyshocktv/clip/HardTentativeKimchiBleedPurple-AiGgeBeBblEq3S53 descartado: no es bueno (nada, nota 3: Conversación de calle irrelevante y sin gracia que requiere demasiado contexto previo.)
+2026-10-21T09:10 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-21T09:11 https://www.twitch.tv/caprimint/clip/SpikyFaithfulShallotPastaThat-Ja5BjLpLWSjMuRFM descartado: no es bueno (nada, nota 3: Es una streamer mostrando un maquillaje sin ninguna situación graciosa o escena destacable.)
+2026-10-21T09:12 https://www.twitch.tv/yosoyricklive/clip/InterestingCrepuscularSnailPhilosoraptor-gTwxYjOugF1PI5wk descartado: no es bueno (nada, nota 2: Es solo spam o anuncio de un torneo y un emote, no aporta nada gracioso ni visual.)
+2026-10-21T09:14 https://www.twitch.tv/auronplay/clip/SpikyAcceptableBadgerDoggo-d3Yffl8xz7xt2eyQ descartado: no es bueno (nada, nota 3: Conversacion larga de streamers hablando de anecdotas random sin contexto visual fuerte.)
