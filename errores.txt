@@ -305,3 +305,5 @@
 2026-10-21T12:04 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-21T12:05 https://www.twitch.tv/skain/clip/BoringSavoryBearCoolCat-3873x9l_z1o9qV7c descartado: no es bueno (nada, nota 3: Comentario sin gracia y falta de contexto impactante para redes.)
 2026-10-21T12:06 https://www.twitch.tv/skain/clip/RepleteLivelyLemur4Head-fHyWLpf3zaBEFA2p descartado: no es bueno (nada, nota 3: Conversación aburrida y caótica sobre buscar una reserva sin contexto claro.)
+2026-10-21T13:07 https://www.twitch.tv/skain/clip/HonorableStupidBarracudaVoteNay-pnJLN1cFsTi1lBD1 descartado: no es bueno (nada, nota 3: Es una charla casual entre streamers sin gracia ni contexto suficiente para viralizar.)
+2026-10-21T13:07 https://www.twitch.tv/elvirayuki/clip/TalentedDifferentPidgeonPupper-x11q1goW2V1nzTIG descartado: no es bueno (nada, nota 3: Conversacion random sin contexto ni gracia especial para gente ajena al directo)
