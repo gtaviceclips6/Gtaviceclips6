@@ -325,3 +325,4 @@
 2026-10-21T17:08 https://www.twitch.tv/knekro/clip/JazzySeductiveMartenJebaited-TfSlbZ1uE43r_jno descartado: no es bueno (nada, nota 3: Insulto innecesario y falta contexto claro para que haga gracia fuera del directo.)
 2026-10-21T17:09 https://www.twitch.tv/viizzzm/clip/AwkwardSucculentCroissantStrawBeary-mbld8J9sW2bPebBw descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant sin ningun fail gracioso ni clip destacable.)
 2026-10-21T17:09 https://www.twitch.tv/manutegaming/clip/ImportantCourteousGarbageTF2John-dtuzXs0TwRTt9v6z descartado: no es bueno (nada, nota 3: Partida de TFT normal sin comedia ni jugada realmente impactante fuera de contexto.)
+2026-10-21T18:02 https://www.twitch.tv/alvarostorm/clip/AmusedPuzzledTrollPRChase-vf6WBdncuhwfOaP7 descartado: no es bueno (nada, nota 3: Es solo un streamer quejándose en la pantalla de selección de campeón sin contexto claro.)
