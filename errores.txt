@@ -276,3 +276,7 @@
 2026-10-20T23:59 https://www.twitch.tv/auronplay/clip/RudeCallousZebraFloof-o6DFTzNs_hru5KKY descartado: no es bueno (nada, nota 3: Conversación de partida de Among Us sin contexto ni gracia especial para redes.)
 2026-10-21T01:06 https://www.twitch.tv/crystalmolly/clip/ImpossibleCrispyGrasshopperPanicVis-N_mJPKOXTAHOAZYM descartado: no es bueno (nada, nota 3: Conversacion fuera de contexto y poco interesante para un publico general de videojuegos.)
 2026-10-21T01:08 https://www.twitch.tv/nissaxter/clip/FrigidCrowdedJackalSmoocherZ-xoboLnTdJfPkf1HE descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL sin reacción exagerada ni gracia especial.)
+2026-10-21T03:56 https://www.twitch.tv/staryuuki/clip/PlausibleSpicyWerewolfKappaClaus-1VKJpxNC8Rhd6Zd7 descartado: no es bueno (nada, nota 3: Es solo la streamer leyendo donaciones bizarras sin una reaccion fuerte o graciosa.)
+2026-10-21T03:56 https://www.twitch.tv/staryuuki/clip/PoorSpikyKaleSquadGoals-ItXsAjQBTig1XrNO descartado: no es bueno (nada, nota 3: Es Staryuuki haciendo ejercicio siguiendo a unos gatos virtuales, falta chicha o humor.)
+2026-10-21T03:57 https://www.twitch.tv/nenecreative/clip/RespectfulGiftedPigCclamChamp-KfOFEHhj6mHROV5z descartado: no es bueno (nada, nota 3: Es una jugada normal de Rocket League con un comentario flojo, nada gracioso.)
+2026-10-21T03:58 https://www.twitch.tv/godfreddy/clip/ObedientEasyToothKevinTurtle-6uG6UxXlUWNiPmzy descartado: no es bueno (nada, nota 3: Reacción normal viendo una serie, requiere demasiado contexto de la trama para entenderse.)
