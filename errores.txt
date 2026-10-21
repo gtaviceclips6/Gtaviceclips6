@@ -284,3 +284,6 @@
 2026-10-21T07:09 https://www.twitch.tv/lacaluni/clip/InterestingBombasticHamsterDogFace-vlATGPsY2a2Qo9oz descartado: no es bueno (nada, nota 3: Falta contexto y no resulta gracioso fuera de su directo habitual.)
 2026-10-21T07:09 https://www.twitch.tv/cursedfiber78/clip/ObservantSleepyTruffleHassanChop-hWJfqV_Dk4ptg96m descartado: no es bueno (nada, nota 3: Es una jugada normal de videojuego con un enfado genérico sin gracia especial.)
 2026-10-21T07:10 https://www.twitch.tv/ic0nic/clip/RespectfulFuriousSandwichBrainSlug-A2K8B0FRC-7KL5Hb descartado: no es bueno (nada, nota 3: Jugada estándar de Valorant con comentarios tácticos que no resulta graciosa ni destacable fuera de contexto.)
+2026-10-21T08:12 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-21T08:13 https://www.twitch.tv/mumusiraneitor/clip/StrongCrackyFungusStoneLightning-TYvJEjooZFVSET39 descartado: no es bueno (nada, nota 2: Es solo una pantalla de inicio estática con animales de IA y texto genérico.)
+2026-10-21T08:16 https://www.twitch.tv/skyshocktv/clip/HardTentativeKimchiBleedPurple-AiGgeBeBblEq3S53 descartado: no es bueno (nada, nota 3: Conversación de calle irrelevante y sin gracia que requiere demasiado contexto previo.)
