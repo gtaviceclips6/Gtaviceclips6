@@ -307,3 +307,5 @@
 2026-10-21T12:06 https://www.twitch.tv/skain/clip/RepleteLivelyLemur4Head-fHyWLpf3zaBEFA2p descartado: no es bueno (nada, nota 3: Conversación aburrida y caótica sobre buscar una reserva sin contexto claro.)
 2026-10-21T13:07 https://www.twitch.tv/skain/clip/HonorableStupidBarracudaVoteNay-pnJLN1cFsTi1lBD1 descartado: no es bueno (nada, nota 3: Es una charla casual entre streamers sin gracia ni contexto suficiente para viralizar.)
 2026-10-21T13:07 https://www.twitch.tv/elvirayuki/clip/TalentedDifferentPidgeonPupper-x11q1goW2V1nzTIG descartado: no es bueno (nada, nota 3: Conversacion random sin contexto ni gracia especial para gente ajena al directo)
+2026-10-21T13:19 https://www.twitch.tv/pandarina/clip/UnsightlyElatedKumquatBCouch-1mQlen85YvX24gx0 descartado: no es bueno (nada, nota 3: Conversacion normal de streamer agradeciendo a la comunidad, falta contexto y humor fuerte.)
+2026-10-21T13:21 https://www.twitch.tv/elpelotasssss/clip/ArtsyGrossBulgogiBigBrother-vi5UiJqiRrica7d_ descartado: no es bueno (nada, nota 3: Es solo un menú de juego sin ninguna reacción destacable ni gracia.)
