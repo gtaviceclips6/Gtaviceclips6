@@ -302,3 +302,6 @@
 2026-10-21T11:07 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-21T11:07 https://www.twitch.tv/xixauxas/clip/UglySpinelessYakMau5-QE4xC9lN8fCW7rqK descartado: no es bueno (nada, nota 2: Es solo el streamer jugando al LoL y abriendo la tienda, no pasa nada gracioso.)
 2026-10-21T11:08 https://www.twitch.tv/gerardromero/clip/HardGlamorousLatteBIRB-MVKaw9IR3HObjLzF descartado: no es bueno (nada, nota 3: Es una charla de fútbol seria y debate táctico, no hay ningún momento gracioso ni escena visualmente impactante.)
+2026-10-21T12:04 https://www.twitch.tv/mada/clip/BlitheTalentedAlfalfaTF2John-oEUKsWoBTgWMMBnR descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-21T12:05 https://www.twitch.tv/skain/clip/BoringSavoryBearCoolCat-3873x9l_z1o9qV7c descartado: no es bueno (nada, nota 3: Comentario sin gracia y falta de contexto impactante para redes.)
+2026-10-21T12:06 https://www.twitch.tv/skain/clip/RepleteLivelyLemur4Head-fHyWLpf3zaBEFA2p descartado: no es bueno (nada, nota 3: Conversación aburrida y caótica sobre buscar una reserva sin contexto claro.)
