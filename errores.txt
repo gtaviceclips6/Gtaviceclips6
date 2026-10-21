@@ -338,4 +338,4 @@
 2026-10-21T21:03 https://www.twitch.tv/rubius/clip/BillowingAssiduousBatteryTBTacoLeft-Vm1YceHmKqt5q7dK descartado: no es bueno (nada, nota 3: Comentario absurdo sin contexto ni gracia real para un público general.)
 2026-10-21T21:04 https://www.twitch.tv/auronplay/clip/SpicyVainDonkeyNotLikeThis-vRXJ3_ixcpj4zg3W descartado: no es bueno (nada, nota 3: Es una queja normal del streamer hablando sin contexto relevante para fuera.)
 2026-10-21T21:04 https://www.twitch.tv/illojuan/clip/ImpossibleSaltyVultureBrainSlug-iUutDYWldbCh4Do- descartado: no es bueno (nada, nota 3: IlloJuan comentando un juego de miedo sin ninguna reacción fuerte ni momento gracioso.)
-2026-10-21T22:02 https://www.twitch.tv/muchamiel/clip/RefinedWimpyOwlSoBayed-jEtvSrw__ml8d0i5 descartado: no es bueno (nada, nota 3: Es solo un creador de personajes sin nada gracioso ni relevante.)
+2026-10-21T22:05 https://www.twitch.tv/missasinfonia/clip/VivaciousFaithfulKiwiFutureMan-DjOHcuVnbK00DQj8 descartado: no es bueno (nada, nota 3: Es un momento confuso jugando a Minecraft que requiere mucho contexto para entender la broma.)
