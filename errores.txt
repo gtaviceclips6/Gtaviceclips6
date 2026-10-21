@@ -339,3 +339,5 @@
 2026-10-21T21:04 https://www.twitch.tv/auronplay/clip/SpicyVainDonkeyNotLikeThis-vRXJ3_ixcpj4zg3W descartado: no es bueno (nada, nota 3: Es una queja normal del streamer hablando sin contexto relevante para fuera.)
 2026-10-21T21:04 https://www.twitch.tv/illojuan/clip/ImpossibleSaltyVultureBrainSlug-iUutDYWldbCh4Do- descartado: no es bueno (nada, nota 3: IlloJuan comentando un juego de miedo sin ninguna reacción fuerte ni momento gracioso.)
 2026-10-21T22:05 https://www.twitch.tv/missasinfonia/clip/VivaciousFaithfulKiwiFutureMan-DjOHcuVnbK00DQj8 descartado: no es bueno (nada, nota 3: Es un momento confuso jugando a Minecraft que requiere mucho contexto para entender la broma.)
+2026-10-21T23:01 https://www.twitch.tv/rubius/clip/AcceptableKawaiiCocoaJonCarnage-2jG4ccDEyK6JetlH descartado: no es bueno (nada, nota 3: Es Rubius hablando solo despues de morir en Minecraft, falta contexto y gracia.)
+2026-10-21T23:02 https://www.twitch.tv/auronplay/clip/ShakingTenderUdonSMOrc-UOSG0CbsGTvrwHUH descartado: no es bueno (nada, nota 3: Es solo el streamer leyendo mensajes absurdos del chat sin contexto ni gracia visual.)
