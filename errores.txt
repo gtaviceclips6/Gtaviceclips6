@@ -316,3 +316,5 @@
 2026-10-21T15:13 https://www.twitch.tv/llunaclark/clip/CrowdedPlainWalletMikeHogu-vbTbgaNdKBe7PfpN descartado: no es bueno (nada, nota 3: Conversacion cotidiana sin gracia ni interes general fuera de su comunidad.)
 2026-10-21T15:14 https://www.twitch.tv/agorafutbol/clip/ShyOriginalPigeonMau5-4EQztiuCQiQX1km1 descartado: no es bueno (nada, nota 3: Es una charla de futbol sin gracia ni contexto visual relevante.)
 2026-10-21T15:15 https://www.twitch.tv/llunaclark/clip/SuaveIncredulousKittenFreakinStinkin-vQV2ngvkGO-GQzhw descartado: no es bueno (nada, nota 3: Conversación aburrida probándose ropa sin gracia ni momento viral.)
+2026-10-21T15:57 https://www.twitch.tv/lolitofdez/clip/PuzzledBloodyLasagnaDoggo-2HVCVYNqGoHzCY0H descartado: no es bueno (nada, nota 3: Es una queja sobre el mapa y un juego lento, no pasa nada gracioso.)
+2026-10-21T16:00 https://www.twitch.tv/baptistao/clip/FantasticSpookyBulgogiTheTarFu-mZHyIP2dHqSWaUd3 descartado: no es bueno (nada, nota 3: Es solo un partido de EA Sports FC normal y corriente sin gracia ni jugada épica.)
