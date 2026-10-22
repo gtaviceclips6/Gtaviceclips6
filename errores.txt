@@ -351,3 +351,5 @@
 2026-10-22T07:10 https://www.twitch.tv/natymoon/clip/ConsiderateMotionlessAniseSuperVinlin-7xqLI_IU50JrJt5F descartado: no es bueno (nada, nota 3: Es solo la streamer saludando al chat, no pasa nada gracioso ni impactante.)
 2026-10-22T07:10 https://www.twitch.tv/ic0nic/clip/NaiveCooperativePotCmonBruh-Rvv2zpwz6j4VS8WS descartado: no es bueno (nada, nota 4: Jugada estándar de shooter táctico, falta contexto humorístico o visual impactante.)
 2026-10-22T07:11 https://www.twitch.tv/natymoon/clip/ReliableTawdryStarlingPartyTime-BF89DT_8XEYiNi4G descartado: no es bueno (nada, nota 3: Es un clip de ASMR típico de charla normal, sin ninguna situación graciosa o relevante.)
+2026-10-22T08:15 https://www.twitch.tv/illojuan/clip/AntsySpikyRhinocerosDerp-oGcOUj_Nun_YXOqI descartado: no es bueno (nada, nota 3: Es una reflexion de IlloJuan hablando de juegos sin ninguna reaccion exagerada ni fail.)
+2026-10-22T08:16 https://www.twitch.tv/jimrsng/clip/IntelligentDiligentPotatoCclamChamp-DxUPa5j9BY2b4Jc9 descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que solo interesa a su comunidad.)
