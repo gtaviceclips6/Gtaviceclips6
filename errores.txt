@@ -383,3 +383,4 @@
 2026-10-22T21:51 https://www.twitch.tv/peereira7/clip/DistinctCulturedNuggetsJebaited-NrVmPKgsNCdv_Pe1 descartado: no es bueno (nada, nota 3: Conversación aburrida y sin gracia que requiere demasiado contexto previo.)
 2026-10-22T21:53 https://www.twitch.tv/ryux/clip/SmoothFancyElkAMPEnergyCherry-EX26o758FKXnVSpL descartado: no es bueno (nada, nota 3: Conversacion cotidiana sin gracia ni interes para TikTok, falta contexto y humor.)
 2026-10-22T21:53 https://www.twitch.tv/paache_/clip/RealNastyBunnyDeIlluminati-qsC-eq_ePiR0TY5P descartado: no es bueno (nada, nota 3: Es una charla interna sin gracia ni contexto claro para redes sociales.)
+2026-10-22T23:20 https://www.twitch.tv/knekro/clip/SmoothAlertNostrilSoBayed-iyGYi_e45f95MRep descartado: no es bueno (nada, nota 3: Solo se escucha a Knekro quejarse de un golpe sin contexto visual del juego.)
