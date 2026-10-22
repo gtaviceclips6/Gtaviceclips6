@@ -363,3 +363,4 @@
 2026-10-22T12:16 https://www.twitch.tv/x6flipin/clip/PleasantDreamySlothShadyLulu-m9n-wT3K8GpiThZV descartado: no es bueno (nada, nota 3: Conversacion aleatoria jugando al CS sin gracia ni accion destacable.)
 2026-10-22T12:17 https://www.twitch.tv/pausenpaii/clip/GleamingTrappedCasetteBleedPurple-AOJum2har92RCcJJ descartado: no es bueno (nada, nota 3: Es una charla normal sobre lectura sin gracia ni accion relevante para redes.)
 2026-10-22T12:20 https://www.twitch.tv/rodenasink/clip/SneakyImportantSlothNerfRedBlaster-GYZK6EBwaAYJYm9O descartado: no es bueno (nada, nota 2: Es solo un saludo normal de inicio de stream sin gracia ni contexto especial.)
+2026-10-22T13:10 https://www.twitch.tv/perxitaa/clip/TriangularGrossHorseradishM4xHeh-E7XEwsuUBuPUIFch descartado: no es bueno (nada, nota 3: Es un directo benéfico, charlando y contando donaciones, sin gancho cómico ni acción.)
