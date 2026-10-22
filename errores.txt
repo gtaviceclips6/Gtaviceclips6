@@ -371,4 +371,6 @@
 2026-10-22T15:11 https://www.twitch.tv/alvarostorm/clip/WildPeppyCroquetteStrawBeary-pKzjNpiym93bbunw descartado: no es bueno (nada, nota 3: Es solo charla normal jugando al League of Legends sin ninguna situación graciosa.)
 2026-10-22T15:12 https://www.twitch.tv/elbokeron/clip/ViscousZanyDoveDeIlluminati-HgSRB3rmyO4pJpZT descartado: no es bueno (nada, nota 3: Es un fragmento de estrategia sin contexto gracioso ni visualmente impactante para redes.)
 2026-10-22T15:12 https://www.twitch.tv/quackitytoo/clip/CogentKnottyOwlTheThing-P_e5qBUpq7SB_I8s descartado: no es bueno (nada, nota 3: Es solo Quackity abriendo Roblox y comentando sin ninguna reaccion fuerte ni momento gracioso.)
-2026-10-22T16:22 https://www.twitch.tv/peereira7/clip/OilyScrumptiousLorisHotPokket-wyRCc36ipfS0-MZl descartado: no es bueno (nada, nota 3: Insultos fuera de tono y gameplay de Mario Kart sin gracia especial.)
+2026-10-22T16:32 https://www.twitch.tv/alvarostorm/clip/HelplessCrazyHumanMoreCowbell-WaCslqUDyZEhmY1W descartado: no es bueno (nada, nota 3: Es solo gameplay habitual de LoL preguntando por un TP sin momento gracioso real)
+2026-10-22T16:33 https://www.twitch.tv/peereira7/clip/OilyScrumptiousLorisHotPokket-wyRCc36ipfS0-MZl descartado: no es bueno (nada, nota 3: Insultos fuera de tono y gameplay sin contexto relevante para nuestra comunidad.)
+2026-10-22T16:35 https://www.twitch.tv/th3antonio/clip/TenaciousSparklingNuggetsRickroll-d42eSpKnt2pG54lb descartado: no es bueno (nada, nota 3: Es una reacción confusa a una jugada de LoL que requiere contexto y no destaca.)
