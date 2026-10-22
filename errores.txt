@@ -342,3 +342,7 @@
 2026-10-21T23:01 https://www.twitch.tv/rubius/clip/AcceptableKawaiiCocoaJonCarnage-2jG4ccDEyK6JetlH descartado: no es bueno (nada, nota 3: Es Rubius hablando solo despues de morir en Minecraft, falta contexto y gracia.)
 2026-10-21T23:02 https://www.twitch.tv/auronplay/clip/ShakingTenderUdonSMOrc-UOSG0CbsGTvrwHUH descartado: no es bueno (nada, nota 3: Es solo el streamer leyendo mensajes absurdos del chat sin contexto ni gracia visual.)
 2026-10-22T01:04 https://www.twitch.tv/staryuuki/clip/StormyAffluentWolverinePeoplesChamp-jqkL2iWxIzQE58Zw descartado: no es bueno (nada, nota 3: Es Staryuuki haciendo una rutina de ejercicio normal, sin momenti gracioso ni fail.)
+2026-10-22T03:55 https://www.twitch.tv/illojuan/clip/ElegantTenuousDuckTheTarFu-zrWWc7T13kp1zYw- descartado: no es bueno (nada, nota 3: Es el streamer jugando a un juego de gestion y hablando, falta accion.)
+2026-10-22T03:57 https://www.twitch.tv/feirlygab/clip/ObedientBelovedAyeayeNotATK-aYpsSInPhxBzqbsj descartado: no es bueno (nada, nota 3: Es una conversacion normal de Minecraft sin ningun fail ni reaccion exagerada graciosa.)
+2026-10-22T03:59 https://www.twitch.tv/feirlygab/clip/YawningRealPoxFailFish-BywNKjfJSwXVB81l descartado: no es bueno (nada, nota 3: Es una partida normal de Minecraft con charla aleatoria y sin gracia.)
+2026-10-22T04:01 https://www.twitch.tv/nenecreative/clip/SilkyEagerLadiesHeyGuys-xYwsuREBa1z4SmcQ descartado: no es bueno (nada, nota 3: Es solo un comentario random jugando sin gracia ni contexto suficiente.)
