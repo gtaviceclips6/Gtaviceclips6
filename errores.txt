@@ -378,3 +378,4 @@
 2026-10-22T17:11 https://www.twitch.tv/illojuan/clip/BlatantRudeSwordFloof-rBlyqf8YDu8BiooP descartado: no es bueno (nada, nota 2: Contiene lenguaje inadecuado y comentarios ofensivos que incumplen las normas de las plataformas.)
 2026-10-22T18:07 https://www.twitch.tv/knekro/clip/MoldySpeedyGazelleChocolateRain-pV3H2vS6mB9eGpUq descartado: no es bueno (nada, nota 3: Es solo un comentario random de Knekro jugando sin contexto suficiente.)
 2026-10-22T19:45 https://www.twitch.tv/rubius/clip/BoredGeniusMushroomSquadGoals-cQ_1V9T7JdqrHc2B descartado: no es bueno (nada, nota 3: Es Rubius jugando a Minecraft hablando solo, no tiene gracia ni es viral.)
+2026-10-22T20:06 https://www.twitch.tv/illojuan/clip/DignifiedCorrectMarjoramTriHard--Dl9vCpMuqlJAnZk descartado: no es bueno (nada, nota 3: Es solo IlloJuan comentando nostálgico sobre otro juego sin gracia ni acción destacable.)
