@@ -364,3 +364,6 @@
 2026-10-22T12:17 https://www.twitch.tv/pausenpaii/clip/GleamingTrappedCasetteBleedPurple-AOJum2har92RCcJJ descartado: no es bueno (nada, nota 3: Es una charla normal sobre lectura sin gracia ni accion relevante para redes.)
 2026-10-22T12:20 https://www.twitch.tv/rodenasink/clip/SneakyImportantSlothNerfRedBlaster-GYZK6EBwaAYJYm9O descartado: no es bueno (nada, nota 2: Es solo un saludo normal de inicio de stream sin gracia ni contexto especial.)
 2026-10-22T13:10 https://www.twitch.tv/perxitaa/clip/TriangularGrossHorseradishM4xHeh-E7XEwsuUBuPUIFch descartado: no es bueno (nada, nota 3: Es un directo benéfico, charlando y contando donaciones, sin gancho cómico ni acción.)
+2026-10-22T14:11 https://www.twitch.tv/toadamarillo/clip/ObliqueThoughtfulPenguinAsianGlow-vnf4F9SCxDHxZeZm descartado: no es bueno (nada, nota 2: Es una partida de League of Legends comentada sin gracia ni nada especial.)
+2026-10-22T14:12 https://www.twitch.tv/perxitaa/clip/EnjoyableTawdryKleePlanking-1medZ-DNFyeCSuGL descartado: no es bueno (nada, nota 3: Conversacion nostalgica sin accion visual ni remate comico claro.)
+2026-10-22T14:15 https://www.twitch.tv/luzu_tv/clip/SlickEphemeralGoatYouDontSay-79Ljy5cUZd1kupKb descartado: no es bueno (nada, nota 3: Conversacion de plató sin contexto claro ni comedia universal para redes.)
