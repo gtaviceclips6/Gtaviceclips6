@@ -376,3 +376,4 @@
 2026-10-22T16:35 https://www.twitch.tv/th3antonio/clip/TenaciousSparklingNuggetsRickroll-d42eSpKnt2pG54lb descartado: no es bueno (nada, nota 3: Es una reacción confusa a una jugada de LoL que requiere contexto y no destaca.)
 2026-10-22T17:11 https://www.twitch.tv/peereira7/clip/ImportantUglyAsteriskBudStar-iAr8kLXDxG69p38j descartado: no es bueno (nada, nota 3: Comentario fuera de lugar y situación sin gracia real, hace falta contexto del juego.)
 2026-10-22T17:11 https://www.twitch.tv/illojuan/clip/BlatantRudeSwordFloof-rBlyqf8YDu8BiooP descartado: no es bueno (nada, nota 2: Contiene lenguaje inadecuado y comentarios ofensivos que incumplen las normas de las plataformas.)
+2026-10-22T18:07 https://www.twitch.tv/knekro/clip/MoldySpeedyGazelleChocolateRain-pV3H2vS6mB9eGpUq descartado: no es bueno (nada, nota 3: Es solo un comentario random de Knekro jugando sin contexto suficiente.)
