@@ -367,3 +367,7 @@
 2026-10-22T14:11 https://www.twitch.tv/toadamarillo/clip/ObliqueThoughtfulPenguinAsianGlow-vnf4F9SCxDHxZeZm descartado: no es bueno (nada, nota 2: Es una partida de League of Legends comentada sin gracia ni nada especial.)
 2026-10-22T14:12 https://www.twitch.tv/perxitaa/clip/EnjoyableTawdryKleePlanking-1medZ-DNFyeCSuGL descartado: no es bueno (nada, nota 3: Conversacion nostalgica sin accion visual ni remate comico claro.)
 2026-10-22T14:15 https://www.twitch.tv/luzu_tv/clip/SlickEphemeralGoatYouDontSay-79Ljy5cUZd1kupKb descartado: no es bueno (nada, nota 3: Conversacion de plató sin contexto claro ni comedia universal para redes.)
+2026-10-22T15:10 https://www.twitch.tv/alvarostorm/clip/CaringObedientLegBudStar-MUb9bE0QP9uqbhPV descartado: no es bueno (nada, nota 3: Es solo un jugador confundido con el teletransporte, falta contexto de humor fuerte.)
+2026-10-22T15:11 https://www.twitch.tv/alvarostorm/clip/WildPeppyCroquetteStrawBeary-pKzjNpiym93bbunw descartado: no es bueno (nada, nota 3: Es solo charla normal jugando al League of Legends sin ninguna situación graciosa.)
+2026-10-22T15:12 https://www.twitch.tv/elbokeron/clip/ViscousZanyDoveDeIlluminati-HgSRB3rmyO4pJpZT descartado: no es bueno (nada, nota 3: Es un fragmento de estrategia sin contexto gracioso ni visualmente impactante para redes.)
+2026-10-22T15:12 https://www.twitch.tv/quackitytoo/clip/CogentKnottyOwlTheThing-P_e5qBUpq7SB_I8s descartado: no es bueno (nada, nota 3: Es solo Quackity abriendo Roblox y comentando sin ninguna reaccion fuerte ni momento gracioso.)
