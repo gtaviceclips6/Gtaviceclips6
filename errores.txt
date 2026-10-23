@@ -448,3 +448,5 @@
 2026-10-23T21:53 https://www.twitch.tv/nachez98/clip/QuaintBelovedKaleShazBotstix-TaUFcgnZXCmlFS7c descartado: no es bueno (nada, nota 3: Es una charla sobre F1 que requiere contexto de la comunidad, no es gracioso por si solo.)
 2026-10-23T22:04 https://www.twitch.tv/mfreak00/clip/SassyUglyBottleYouDontSay-aL5XbAGJtsMmLwa2 descartado: no es bueno (nada, nota 3: Insultos genéricos sin gracia ni contexto suficiente de humor.)
 2026-10-23T22:04 https://www.twitch.tv/tozeo/clip/RacySuaveBarracudaEleGiggle-QKwk0JrbAxv7B5lx descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni nada especial.)
+2026-10-23T23:00 https://www.twitch.tv/mfreak00/clip/VenomousCredulousBarracudaAsianGlow-pnqQqc8kJRHIxtfq descartado: no es bueno (nada, nota 3: Reacción exagerada y repetitiva a una partida de esports sin contexto suficiente.)
+2026-10-23T23:00 https://www.twitch.tv/ibai/clip/FairDeliciousCroissantTBTacoLeft-2zN67D8zHVgxa6-D descartado: no es bueno (nada, nota 3: Conversacion confusa sin contexto claro ni remate gracioso para redes.)
