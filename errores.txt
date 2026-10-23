@@ -411,3 +411,7 @@
 2026-10-23T11:06 https://www.twitch.tv/elpelotasssss/clip/AlluringMistyJackalKeepo-wZ-WIsttvkvhx4vF descartado: no es bueno (nada, nota 3: Es un clip explicativo de un evento sin momentos graciosos ni reacciones potentes.)
 2026-10-23T11:07 https://www.twitch.tv/karchez/clip/SmokyTenuousYamPraiseIt-Yhn3XPw5Pt6CCjhg descartado: no es bueno (nada, nota 3: Es solo un streamer intentando hablar coreano sin ninguna reaccion graciosa ni momentazo.)
 2026-10-23T11:07 https://www.twitch.tv/illojuan/clip/IntelligentCleverRavenDoritosChip-Y3M3Ho35jb_SgE3N descartado: no es bueno (nada, nota 3: Son solo pantallas de carga y arte conceptual, falta acción real en pantalla.)
+2026-10-23T12:03 https://www.twitch.tv/ernesbarbeq/clip/CrepuscularStrongFoxDerp-6ZHWsU3SJG6tl6Gf descartado: no es bueno (nada, nota 3: Es una simple pantalla de inicio de directo sin contexto ni gracia real.)
+2026-10-23T12:04 https://www.twitch.tv/aurorafractubela_uwu/clip/GrossDeadOysterMcaT-3eFbA3aGfpXlhAMC descartado: no es bueno (nada, nota 1: Es un stream de ASMR sin ninguna relacion con GTA ni situacion graciosa.)
+2026-10-23T12:04 https://www.twitch.tv/aurorafractubela_uwu/clip/DeadTiredSpiderPastaThat-y17bL4KAkWrJF1Yk descartado: no es bueno (nada, nota 2: Es un clip de ASMR que no tiene relación con GTA ni aporta humor o espectáculo.)
+2026-10-23T12:04 https://www.twitch.tv/putupau/clip/EmpathicFurryWoodpeckerKreygasm-ba11o7A_htFS2yQ1 descartado: no es bueno (nada, nota 3: Es solo el streamer comentando un título y un retraso sin gracia ni acción.)
