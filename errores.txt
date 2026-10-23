@@ -443,3 +443,6 @@
 2026-10-23T21:05 https://www.twitch.tv/ibai/clip/LovelyDignifiedPepperoniRedCoat-VTDjalZpJVT-KfUC descartado: no es bueno (nada, nota 3: Es una jugada de League of Legends con gritos normales, falta contexto general.)
 2026-10-23T21:07 https://www.twitch.tv/paache_/clip/AwkwardSavageJackalNerfBlueBlaster-pEMSQR7bV3J4zlT- descartado: no es bueno (nada, nota 3: Comentario sin sentido y caida repentina que no aporta ninguna gracia especial.)
 2026-10-23T21:08 https://www.twitch.tv/illojuan/clip/PhilanthropicColdbloodedPineappleUncleNox-p66YkW1WNoOaaz3o descartado: no es bueno (nada, nota 3: Es una secuencia de juego normal disparando desde una furgoneta sin nada especial.)
+2026-10-23T21:51 https://www.twitch.tv/aldo_geo/clip/BloodyOriginalFerretSaltBae-nhIzCDwTTaRfb5_u descartado: no es bueno (nada, nota 3: Es un momento aleatorio de Minecraft sin gracia fuera de contexto ni viralidad real.)
+2026-10-23T21:53 https://www.twitch.tv/paache_/clip/SmoothStupidDadDogFace-boK3jOXnoaga87zh descartado: no es bueno (nada, nota 3: Es una charla seria de un streamer y no aporta humor ni contexto visual relevante.)
+2026-10-23T21:53 https://www.twitch.tv/nachez98/clip/QuaintBelovedKaleShazBotstix-TaUFcgnZXCmlFS7c descartado: no es bueno (nada, nota 3: Es una charla sobre F1 que requiere contexto de la comunidad, no es gracioso por si solo.)
