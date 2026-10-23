@@ -388,3 +388,6 @@
 2026-10-23T01:11 https://www.twitch.tv/djmariio/clip/CharmingDoubtfulMosquitoTinyFace-FSfvKRs368nPrj_n descartado: no es bueno (nada, nota 3: Es una partida normal de Among Us sin momentos realmente graciosos o destacados.)
 2026-10-23T01:12 https://www.twitch.tv/thegrefg/clip/TriumphantFantasticSnakePraiseIt-qJETdxSc06uq89FZ descartado: no es bueno (nada, nota 3: Muestra una partida normal de Fortnite terminando en segundo puesto sin reacción especial.)
 2026-10-23T01:13 https://www.twitch.tv/yanya/clip/SeductiveObesePresidentCoolStoryBro-1K2LeRjAvRSkAoZ6 descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin contexto ni gracia especial para redes.)
+2026-10-23T03:54 https://www.twitch.tv/crystalmolly/clip/ThoughtfulSillyAyeayeHassaanChop-UE8K8PBoocUYMVHF descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin gracia ni contexto suficiente.)
+2026-10-23T03:56 https://www.twitch.tv/jimcarona/clip/SmoggyNeighborlyBisonNerfBlueBlaster-TAMXvI_g2wL-FRJ_ descartado: no es bueno (nada, nota 3: Es una charla de streamers organizándose y no tiene gracia fuera de contexto.)
+2026-10-23T03:56 https://www.twitch.tv/sofikimmy/clip/EphemeralEndearingNigiriChefFrank-_zj1dSCBTt20LcTI descartado: no es bueno (nada, nota 3: Es una charla normal comiendo snacks sin contexto relevante ni gracia destacable.)
