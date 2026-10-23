@@ -422,3 +422,6 @@
 2026-10-23T13:51 https://www.twitch.tv/auronplay/clip/EnergeticExpensiveTildeJKanStyle-r9c4v1p0HOuS7ykP descartado: no es bueno (nada, nota 3: Conversacion aburrida de juego sin una reaccion visualmente fuerte ni momento gracioso.)
 2026-10-23T14:14 https://www.twitch.tv/pazos64/clip/MoralSecretiveBearSquadGoals-mSFhedlwesMMgIMy descartado: no es bueno (nada, nota 3: El streamer lee un chiste del chat y se ríe, falta contexto y gracia.)
 2026-10-23T14:16 https://www.twitch.tv/zeling/clip/TenuousAgileCheddarBibleThump-2U5_ghe0pdC2wA1s descartado: no es bueno (nada, nota 3: Es una partida normal de Deadlock jugando sin reacciones destacables ni salseo real.)
+2026-10-23T15:47 https://www.twitch.tv/zeling/clip/GleamingDignifiedOstrichDoubleRainbow-MN5bJwrxhIn5mXj9 descartado: no es bueno (nada, nota 3: Comentario flojo sobre un video de internet sin gracia ni contexto suficiente.)
+2026-10-23T15:48 https://www.twitch.tv/zeling/clip/PeacefulNimbleDuckRickroll-zZnsKawnqaInRv4N descartado: no es bueno (nada, nota 3: Es solo la streamer explicando mecánicas de un juego sin que pase nada especialmente gracioso.)
+2026-10-23T15:48 https://www.twitch.tv/auronplay/clip/JollyBlitheAlbatrossFunRun-E3ISlyB13-Vk_90w descartado: no es bueno (nada, nota 3: Es una charla normal leyendo un mensaje, no destaca ni hace gracia sin contexto.)
