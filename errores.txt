@@ -425,3 +425,7 @@
 2026-10-23T15:47 https://www.twitch.tv/zeling/clip/GleamingDignifiedOstrichDoubleRainbow-MN5bJwrxhIn5mXj9 descartado: no es bueno (nada, nota 3: Comentario flojo sobre un video de internet sin gracia ni contexto suficiente.)
 2026-10-23T15:48 https://www.twitch.tv/zeling/clip/PeacefulNimbleDuckRickroll-zZnsKawnqaInRv4N descartado: no es bueno (nada, nota 3: Es solo la streamer explicando mecánicas de un juego sin que pase nada especialmente gracioso.)
 2026-10-23T15:48 https://www.twitch.tv/auronplay/clip/JollyBlitheAlbatrossFunRun-E3ISlyB13-Vk_90w descartado: no es bueno (nada, nota 3: Es una charla normal leyendo un mensaje, no destaca ni hace gracia sin contexto.)
+2026-10-23T17:08 https://www.twitch.tv/menostrece/clip/HumbleRelentlessFriseePeteZarollTie-q72_sTuCU557_73Q descartado: no es bueno (nada, nota 3: Es una broma interna entre streamers que requiere contexto y no resulta graciosa sin más.)
+2026-10-23T17:15 https://www.twitch.tv/peereira7/clip/ModernConfidentWoodpeckerFunRun-X2iiwl7jUBJqvSxs descartado: no es bueno (nada, nota 3: Es solo un streamer jugando sin una reacción destacable o graciosa fuera de contexto.)
+2026-10-23T17:16 https://www.twitch.tv/mrsoki/clip/SwissExpensiveBunnyShadyLulu-Ib1c9PTAoPx70Ccc descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter hablando solo, sin gracia ni epicidad.)
+2026-10-23T17:16 https://www.twitch.tv/sekiam/clip/RacyOddFerretGOWSkull-XUIJSQeVNqAOTiuY descartado: no es bueno (nada, nota 3: Requiere contexto de nuzlocke de Pokémon y no resulta gracioso fuera de su comunidad.)
