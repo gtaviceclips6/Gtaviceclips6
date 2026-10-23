@@ -384,3 +384,7 @@
 2026-10-22T21:53 https://www.twitch.tv/ryux/clip/SmoothFancyElkAMPEnergyCherry-EX26o758FKXnVSpL descartado: no es bueno (nada, nota 3: Conversacion cotidiana sin gracia ni interes para TikTok, falta contexto y humor.)
 2026-10-22T21:53 https://www.twitch.tv/paache_/clip/RealNastyBunnyDeIlluminati-qsC-eq_ePiR0TY5P descartado: no es bueno (nada, nota 3: Es una charla interna sin gracia ni contexto claro para redes sociales.)
 2026-10-22T23:20 https://www.twitch.tv/knekro/clip/SmoothAlertNostrilSoBayed-iyGYi_e45f95MRep descartado: no es bueno (nada, nota 3: Solo se escucha a Knekro quejarse de un golpe sin contexto visual del juego.)
+2026-10-23T01:10 https://www.twitch.tv/feirlygab/clip/MushyAbstemiousPandaRaccAttack-_HzOoaP5FRs-24r3 descartado: no es bueno (nada, nota 3: Es una partida de Minecraft sin gracia evidente ni contexto para espectadores generales.)
+2026-10-23T01:11 https://www.twitch.tv/djmariio/clip/CharmingDoubtfulMosquitoTinyFace-FSfvKRs368nPrj_n descartado: no es bueno (nada, nota 3: Es una partida normal de Among Us sin momentos realmente graciosos o destacados.)
+2026-10-23T01:12 https://www.twitch.tv/thegrefg/clip/TriumphantFantasticSnakePraiseIt-qJETdxSc06uq89FZ descartado: no es bueno (nada, nota 3: Muestra una partida normal de Fortnite terminando en segundo puesto sin reacción especial.)
+2026-10-23T01:13 https://www.twitch.tv/yanya/clip/SeductiveObesePresidentCoolStoryBro-1K2LeRjAvRSkAoZ6 descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin contexto ni gracia especial para redes.)
