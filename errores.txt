@@ -446,3 +446,5 @@
 2026-10-23T21:51 https://www.twitch.tv/aldo_geo/clip/BloodyOriginalFerretSaltBae-nhIzCDwTTaRfb5_u descartado: no es bueno (nada, nota 3: Es un momento aleatorio de Minecraft sin gracia fuera de contexto ni viralidad real.)
 2026-10-23T21:53 https://www.twitch.tv/paache_/clip/SmoothStupidDadDogFace-boK3jOXnoaga87zh descartado: no es bueno (nada, nota 3: Es una charla seria de un streamer y no aporta humor ni contexto visual relevante.)
 2026-10-23T21:53 https://www.twitch.tv/nachez98/clip/QuaintBelovedKaleShazBotstix-TaUFcgnZXCmlFS7c descartado: no es bueno (nada, nota 3: Es una charla sobre F1 que requiere contexto de la comunidad, no es gracioso por si solo.)
+2026-10-23T22:04 https://www.twitch.tv/mfreak00/clip/SassyUglyBottleYouDontSay-aL5XbAGJtsMmLwa2 descartado: no es bueno (nada, nota 3: Insultos genéricos sin gracia ni contexto suficiente de humor.)
+2026-10-23T22:04 https://www.twitch.tv/tozeo/clip/RacySuaveBarracudaEleGiggle-QKwk0JrbAxv7B5lx descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni nada especial.)
