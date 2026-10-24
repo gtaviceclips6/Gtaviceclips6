@@ -467,3 +467,6 @@
 2026-10-24T09:03 https://www.twitch.tv/feirlygab/clip/BombasticRelatedCamelRuleFive-WIBlkbAwSpIe54Zb descartado: no es bueno (nada, nota 3: Es solo un gameplay de Minecraft farmeando sin gracia ni nada relevante.)
 2026-10-24T09:51 https://www.twitch.tv/ache/clip/SillyElegantDolphinFeelsBadMan-t3w1ZgbslZ7AxZeK descartado: no es bueno (nada, nota 3: Es una charla casual en menús sin contexto suficiente ni gracia general.)
 2026-10-24T10:02 https://www.twitch.tv/agbin3r/clip/ClearPluckyBearSMOrc-i-PkUPpCMTRBONCQ descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter con risas genericas que no aporta nada especial.)
+2026-10-24T10:59 https://www.twitch.tv/mumusiraneitor/clip/GiantIncredulousCaterpillarDendiFace-5TZImkJ2oTFSdORy descartado: no es bueno (nada, nota 3: Es una charla normal del menú sin gracia ni contexto suficiente para viralizar.)
+2026-10-24T10:59 https://www.twitch.tv/agbin3r/clip/ArborealConsiderateMangoKappaClaus-Prjvr6bT1QE6H9Hy descartado: no es bueno (nada, nota 3: Es solo charla de lobby y menús sin ninguna situación graciosa o destacable.)
+2026-10-24T11:00 https://www.twitch.tv/kidi/clip/SlickTubularKuduFrankerZ-FjFKx7sOxNLDUZkc descartado: no es bueno (nada, nota 3: Comentario sin contexto claro, parece charla casual de moto sin momento realmente gracioso.)
