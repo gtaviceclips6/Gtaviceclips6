@@ -451,3 +451,6 @@
 2026-10-23T23:00 https://www.twitch.tv/mfreak00/clip/VenomousCredulousBarracudaAsianGlow-pnqQqc8kJRHIxtfq descartado: no es bueno (nada, nota 3: Reacción exagerada y repetitiva a una partida de esports sin contexto suficiente.)
 2026-10-23T23:00 https://www.twitch.tv/ibai/clip/FairDeliciousCroissantTBTacoLeft-2zN67D8zHVgxa6-D descartado: no es bueno (nada, nota 3: Conversacion confusa sin contexto claro ni remate gracioso para redes.)
 2026-10-23T23:57 https://www.twitch.tv/illojuan/clip/ThirstyIronicNostrilDendiFace-sUg4QjPlH6Zi1IFf descartado: no es bueno (nada, nota 3: Es solo gameplay estándar de shooter sin ninguna acción destacada ni reacción del streamer.)
+2026-10-24T01:22 https://www.twitch.tv/ibai/clip/SteamyScarySpiderPupper-_FYhlFtUhGOh_zyz descartado: no es bueno (nada, nota 3: Es solo Ibai divagando de madrugada por culpa de las horas, sin gracia destacable.)
+2026-10-24T01:24 https://www.twitch.tv/rubius/clip/LaconicFantasticKittenWutFace-iYJlr4-g3K-f4mdK descartado: no es bueno (nada, nota 3: Es solo Rubius comentando el chat sin ninguna situación graciosa o relevante.)
+2026-10-24T01:24 https://www.twitch.tv/rubius/clip/TenderInquisitiveScallionHoneyBadger-8R_jtknhhInYyjhW descartado: no es bueno (nada, nota 3: Es Rubius hablando y comentando un mod sin una reaccion divertida o momento fuerte.)
