@@ -495,3 +495,6 @@
 2026-10-24T21:48 https://www.twitch.tv/feirlygab/clip/MotionlessImportantSlothDxCat-KI2ySl_-f5jTqoPM descartado: no es bueno (nada, nota 3: Es una jugadora en Minecraft intentando entender un mod de llamadas, falta contexto y gracia.)
 2026-10-24T21:48 https://www.twitch.tv/juansguarnizo/clip/AlertSleepyCaribouAsianGlow-1a4SEFhsxtp3aZ9i descartado: no es bueno (nada, nota 3: Es solo charla explicando un chisme viejo sin ninguna reacción especialmente graciosa.)
 2026-10-24T22:00 https://www.twitch.tv/rubius/clip/DarkProtectiveSangAMPTropPunch-7MvobLW3xACsmwFI descartado: no es bueno (nada, nota 3: Es solo un comentario divagando sobre Steam y un pantallazo negro sin gracia real.)
+2026-10-24T22:57 https://www.twitch.tv/ibai/clip/LittleGlutenFreeShieldCurseLit-ZXFSaTxZGu-6C3jh descartado: no es bueno (nada, nota 3: Charla sin contexto sobre peluches y jugada normal de League of Legends.)
+2026-10-24T22:58 https://www.twitch.tv/ibai/clip/SmilingSpoopyRuffGrammarKing-f71DzykbNySAszJr descartado: no es bueno (nada, nota 3: Comentario de esports sin contexto visual fuerte ni gracia universal para redes.)
+2026-10-24T22:58 https://www.twitch.tv/sergicabrer3/clip/BigRoughReubenKippa-SnN53sSHVLDeayc9 descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una conversacion random de stream sin gracia.)
