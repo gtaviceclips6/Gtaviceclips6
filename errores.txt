@@ -455,3 +455,5 @@
 2026-10-24T01:24 https://www.twitch.tv/rubius/clip/LaconicFantasticKittenWutFace-iYJlr4-g3K-f4mdK descartado: no es bueno (nada, nota 3: Es solo Rubius comentando el chat sin ninguna situación graciosa o relevante.)
 2026-10-24T01:24 https://www.twitch.tv/rubius/clip/TenderInquisitiveScallionHoneyBadger-8R_jtknhhInYyjhW descartado: no es bueno (nada, nota 3: Es Rubius hablando y comentando un mod sin una reaccion divertida o momento fuerte.)
 2026-10-24T03:56 https://www.twitch.tv/staryuuki/clip/FineSmellyPepperoniCharlietheUnicorn-o_eU-gPBz4OIRJCj descartado: no es bueno (nada, nota 3: Es solo un stream de cosplay sin humor ni accion destacable.)
+2026-10-24T07:04 https://www.twitch.tv/illojuan/clip/CrepuscularFurryBunnyPJSalt-neG8IPu4U2eiMTDk descartado: no es bueno (nada, nota 3: Es solo IlloJuan escuchando un texto largo sobre IA sin reacción fuerte.)
+2026-10-24T07:06 https://www.twitch.tv/rockstarcr/clip/NimbleUglyKleeBibleThump-UOYAztd2dX0rt7sY descartado: no es bueno (nada, nota 3: Es un clip de Clash Royale, no de GTA, y la rabieta no destaca tanto.)
