@@ -477,3 +477,6 @@
 2026-10-24T13:11 https://www.twitch.tv/elvirayuki/clip/BlatantAnnoyingArugulaTooSpicy-rDySty_ShpOyXcNi descartado: no es bueno (nada, nota 2: Contiene lenguaje prohibido por las normas de las plataformas y no cumple los requisitos.)
 2026-10-24T13:12 https://www.twitch.tv/zeling/clip/ProudIncredulousMallardBuddhaBar-BtjmqaE7RzqGg2BP descartado: no es bueno (nada, nota 3: Es solo la reacción de Zeling a un vídeo random sin gracia especial ni contexto divertido.)
 2026-10-24T14:00 https://www.twitch.tv/yermandayz/clip/DeadGleamingEelHumbleLife-sMRrrMzESyTrNXDP descartado: no es bueno (nada, nota 3: Es una caida tonta en escalera sin dialogo ni gracia especial.)
+2026-10-24T16:20 https://www.twitch.tv/elxokas/clip/AbstemiousImpartialToothBleedPurple-LEv7VI1fmy-cxrX2 descartado: no es bueno (nada, nota 3: Es una charla normal sobre sus planes con el WoW, no hay humor ni accion.)
+2026-10-24T16:22 https://www.twitch.tv/miguelillo_rl/clip/DreamyAbrasiveOstrichAsianGlow-JKN8DL6lpCnaE79G descartado: no es bueno (nada, nota 3: Solo se ve al streamer jugando sin una reaccion destacable ni momento gracioso real.)
+2026-10-24T16:23 https://www.twitch.tv/lolitofdez/clip/BreakableGleamingParrotKevinTurtle-Ex6jdn8tIpG8SOko descartado: no es bueno (nada, nota 3: Es solo el streamer hablando de una paranoia sin que pase nada relevante.)
