@@ -480,3 +480,6 @@
 2026-10-24T16:29 https://www.twitch.tv/l0k0hgaming/clip/GeniusPopularGrouseUWot-7HCAZtNaE5S0KDQm descartado: no es bueno (nada, nota 3: Es una partida normal de Zelda sin ninguna reaccion exagerada ni momento especialmente gracioso.)
 2026-10-24T16:31 https://www.twitch.tv/miguelillo_rl/clip/DreamyAbrasiveOstrichAsianGlow-JKN8DL6lpCnaE79G descartado: no es bueno (nada, nota 3: Es una partida casual en un juego de carreras flotantes sin ninguna reacción destacable.)
 2026-10-24T16:32 https://www.twitch.tv/elxokas/clip/AbstemiousImpartialToothBleedPurple-LEv7VI1fmy-cxrX2 descartado: no es bueno (nada, nota 3: Es una charla sobre sus planes de streaming sin ninguna situacion graciosa ni relevante.)
+2026-10-24T17:00 https://www.twitch.tv/elxokas/clip/PrettyLittleZebraBigBrother-3oxB9Vqy0lZcj5pZ descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro streamer, falta contexto y humor directo.)
+2026-10-24T17:01 https://www.twitch.tv/miguelillo_rl/clip/BreakableRoundPorcupineNotATK-7kA0VqJd8tvcj5gI descartado: no es bueno (nada, nota 3: Contenido inadecuado para las normas de las plataformas y lenguaje demasiado vulgar sin sentido.)
+2026-10-24T17:01 https://www.twitch.tv/elxokas/clip/HorribleProductiveRadishBCouch-Fx_h0KcqfQt7xoXh descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro streamer sin gracia ni accion visual.)
