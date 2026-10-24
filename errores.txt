@@ -473,3 +473,6 @@
 2026-10-24T11:59 https://www.twitch.tv/ibai/clip/BlitheSuspiciousLemurFreakinStinkin-hTjvTAew_O0We5C_ descartado: no es bueno (nada, nota 3: Comentario de esports sin gracia ni contexto suficiente para TikTok.)
 2026-10-24T13:00 https://www.twitch.tv/adcshiiro/clip/ShinyDreamyLyrebirdCeilingCat-o8rRZpF-KhExif_u descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que requiere contexto del juego.)
 2026-10-24T13:00 https://www.twitch.tv/elvirayuki/clip/DelightfulUninterestedLapwingJKanStyle-yngE5WbekCsHM_aR descartado: no es bueno (nada, nota 3: Es una charla de cotilleo sin gracia ni contexto suficiente para TikTok.)
+2026-10-24T13:11 https://www.twitch.tv/elvirayuki/clip/InnocentHumbleClipsdadVoteNay-hd2sLLjpib_9ADdE descartado: no es bueno (nada, nota 3: Es una charla seria y de agradecimiento, no tiene gracia ni es una escena del juego.)
+2026-10-24T13:11 https://www.twitch.tv/elvirayuki/clip/BlatantAnnoyingArugulaTooSpicy-rDySty_ShpOyXcNi descartado: no es bueno (nada, nota 2: Contiene lenguaje prohibido por las normas de las plataformas y no cumple los requisitos.)
+2026-10-24T13:12 https://www.twitch.tv/zeling/clip/ProudIncredulousMallardBuddhaBar-BtjmqaE7RzqGg2BP descartado: no es bueno (nada, nota 3: Es solo la reacción de Zeling a un vídeo random sin gracia especial ni contexto divertido.)
