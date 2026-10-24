@@ -483,3 +483,5 @@
 2026-10-24T17:00 https://www.twitch.tv/elxokas/clip/PrettyLittleZebraBigBrother-3oxB9Vqy0lZcj5pZ descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro streamer, falta contexto y humor directo.)
 2026-10-24T17:01 https://www.twitch.tv/miguelillo_rl/clip/BreakableRoundPorcupineNotATK-7kA0VqJd8tvcj5gI descartado: no es bueno (nada, nota 3: Contenido inadecuado para las normas de las plataformas y lenguaje demasiado vulgar sin sentido.)
 2026-10-24T17:01 https://www.twitch.tv/elxokas/clip/HorribleProductiveRadishBCouch-Fx_h0KcqfQt7xoXh descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro streamer sin gracia ni accion visual.)
+2026-10-24T17:57 https://www.twitch.tv/paache_/clip/HonorableProudChowderFutureMan-2S4uhH3_O2bwHV3n descartado: no es bueno (nada, nota 3: El comentario del streamer está fuera de tono para redes y falta contexto claro.)
+2026-10-24T17:57 https://www.twitch.tv/paache_/clip/EvilLachrymoseButterNononoCat-nQITLoEzA5i7Y-vt descartado: no es bueno (nada, nota 3: Conversacion normal de gameplay sin ningun momento gracioso o susto destacado.)
