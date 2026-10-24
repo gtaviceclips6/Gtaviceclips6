@@ -488,3 +488,6 @@
 2026-10-24T18:54 https://www.twitch.tv/sergicabrer3/clip/HorribleSincereWolverineSpicyBoy-h4VKrY7uUAmgiVbK descartado: no es bueno (nada, nota 3: Es un paseo por la calle sin contexto claro ni gracia destacable.)
 2026-10-24T18:55 https://www.twitch.tv/x9nium/clip/HappyCrypticYakTebowing-0pbXjcm67Bcr815R descartado: no es bueno (nada, nota 3: Es solo el streamer comentando una partida de CS2 sin que pase nada relevante ni gracioso.)
 2026-10-24T19:03 https://www.twitch.tv/sergicabrer3/clip/PatientFaithfulKeyboardRlyTho-TmPCLD2_zN7Ga3dv descartado: no es bueno (nada, nota 3: Charla informal de calle sin contexto fuerte ni humor directo para redes.)
+2026-10-24T19:55 https://www.twitch.tv/rubius/clip/SuaveModernAardvarkGrammarKing-U45HsL7tfM-cCegM descartado: no es bueno (nada, nota 3: Es Rubius jugando y decidiendo el camino, pero sin ningun momento realmente gracioso o memorable.)
+2026-10-24T19:55 https://www.twitch.tv/ibai/clip/MotionlessSparklyDurianSMOrc-is0WtW9A28nA3N4I descartado: no es bueno (nada, nota 3: Es solo un comentario de esports sin contexto visual ni gracia.)
+2026-10-24T19:56 https://www.twitch.tv/illojuan/clip/FineInventiveLadiesOMGScoots-Uk96QGx2b9GmbTUm descartado: no es bueno (nada, nota 3: IlloJuan mostrando merchandising oficial sin reacción destacable ni momento gracioso.)
