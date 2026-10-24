@@ -485,3 +485,5 @@
 2026-10-24T17:01 https://www.twitch.tv/elxokas/clip/HorribleProductiveRadishBCouch-Fx_h0KcqfQt7xoXh descartado: no es bueno (nada, nota 3: Es una charla opinando sobre otro streamer sin gracia ni accion visual.)
 2026-10-24T17:57 https://www.twitch.tv/paache_/clip/HonorableProudChowderFutureMan-2S4uhH3_O2bwHV3n descartado: no es bueno (nada, nota 3: El comentario del streamer está fuera de tono para redes y falta contexto claro.)
 2026-10-24T17:57 https://www.twitch.tv/paache_/clip/EvilLachrymoseButterNononoCat-nQITLoEzA5i7Y-vt descartado: no es bueno (nada, nota 3: Conversacion normal de gameplay sin ningun momento gracioso o susto destacado.)
+2026-10-24T18:54 https://www.twitch.tv/sergicabrer3/clip/HorribleSincereWolverineSpicyBoy-h4VKrY7uUAmgiVbK descartado: no es bueno (nada, nota 3: Es un paseo por la calle sin contexto claro ni gracia destacable.)
+2026-10-24T18:55 https://www.twitch.tv/x9nium/clip/HappyCrypticYakTebowing-0pbXjcm67Bcr815R descartado: no es bueno (nada, nota 3: Es solo el streamer comentando una partida de CS2 sin que pase nada relevante ni gracioso.)
