@@ -501,3 +501,7 @@
 2026-10-25T01:01 https://www.twitch.tv/staryuuki/clip/FancySmoggyFlyAliens-hpPZzqcWygbzDpZ6 descartado: no es bueno (nada, nota 3: Es solo la streamer enseñando un zapatito de juguete, no pasa nada relevante ni divertido.)
 2026-10-25T01:05 https://www.twitch.tv/mfreak00/clip/SpeedySleepyDragonLeeroyJenkins-ybrapE8dd8HkbZp2 descartado: no es bueno (nada, nota 3: Streamer hablando a cámara sobre esports, requiere contexto y no hay escena gameplay.)
 2026-10-25T01:05 https://www.twitch.tv/cahos_gaming/clip/ModernDullWolverineCoolStoryBro-Z6cWez_LwD1F_Zqg descartado: no es bueno (nada, nota 3: Reacción excesiva con vocabulario inapropiado sin contexto claro ni humor universal.)
+2026-10-25T03:54 https://www.twitch.tv/staryuuki/clip/LovelyLovelyCucumberNomNom-KeEmvDzfOxHnrhqB descartado: no es bueno (nada, nota 3: Comentario flojo sobre un cartel absurdo, falta contexto y gracia real.)
+2026-10-25T03:54 https://www.twitch.tv/cristinini/clip/BoredDistinctLasagnaBabyRage-s5JhilWpa-mrwJAB descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer sin contexto fuerte ni comedia.)
+2026-10-25T03:54 https://www.twitch.tv/staryuuki/clip/StrangeLuckyDogeFreakinStinkin-46MPk5WuTs7k4jaa descartado: no es bueno (nada, nota 3: Es una charla casual de la streamer sin ninguna situacion graciosa ni juego.)
+2026-10-25T03:56 https://www.twitch.tv/caresapo/clip/DreamyOddVelociraptorWutFace-1CtpUxevZA0XGjQT descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que requiere contexto del juego.)
