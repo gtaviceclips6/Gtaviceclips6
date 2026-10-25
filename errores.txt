@@ -505,3 +505,4 @@
 2026-10-25T03:54 https://www.twitch.tv/cristinini/clip/BoredDistinctLasagnaBabyRage-s5JhilWpa-mrwJAB descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer sin contexto fuerte ni comedia.)
 2026-10-25T03:54 https://www.twitch.tv/staryuuki/clip/StrangeLuckyDogeFreakinStinkin-46MPk5WuTs7k4jaa descartado: no es bueno (nada, nota 3: Es una charla casual de la streamer sin ninguna situacion graciosa ni juego.)
 2026-10-25T03:56 https://www.twitch.tv/caresapo/clip/DreamyOddVelociraptorWutFace-1CtpUxevZA0XGjQT descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que requiere contexto del juego.)
+2026-10-25T07:04 https://www.twitch.tv/feirlygab/clip/GlutenFreeFurryBearDxAbomb-Cuu_9VhWbNeHJj-2 descartado: no es bueno (nada, nota 3: Es solo una jugadora extrañada en Minecraft sin contexto claro ni gracia real.)
