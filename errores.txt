@@ -546,3 +546,4 @@
 2026-10-25T19:05 https://www.twitch.tv/djmariio/clip/AwkwardShyWrenOSfrog-VNVb6bLt_hyFQgY3 descartado: no es bueno (nada, nota 3: Es un streamer hablando de su alineación en un videojuego de fútbol, sin gracia especial.)
 2026-10-25T19:56 https://www.twitch.tv/ibai/clip/SwissMistyOilCharlietheUnicorn--96sh48UYvcnXucD descartado: no es bueno (nada, nota 3: Es un fragmento genérico de un directo de esports sin gracia ni impacto visual.)
 2026-10-25T19:57 https://www.twitch.tv/rubius/clip/ExuberantFuriousOxPipeHype-ToqJTlkUNtIktBWX descartado: no es bueno (nada, nota 3: Es una partida normal de juego de ordenador sin ninguna reacción destacable o momento divertido.)
+2026-10-25T21:03 https://www.twitch.tv/rubius/clip/EndearingWonderfulSproutDAESuppy-TwKC1JyWaYEICRrZ descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
