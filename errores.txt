@@ -528,3 +528,6 @@
 2026-10-25T15:03 https://www.twitch.tv/dheylo/clip/LuckyVainAlpacaWutFace-VFCeIB0JiMAwgcJ0 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-25T15:51 https://www.twitch.tv/adcshiiro/clip/SullenSnappySnailMrDestructoid-1f_5qWayoqLOmXqv descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con un comentario aburrido sin gracia.)
 2026-10-25T15:52 https://www.twitch.tv/x9nium/clip/PhilanthropicSpinelessRuffNononoCat-buVLYoLYGZKG9W3Y descartado: no es bueno (nada, nota 3: Es una jugada normal de esports comentada sin gracia especial para gente ajena.)
+2026-10-25T17:01 https://www.twitch.tv/alanalarana/clip/TenuousViscousToadDoritosChip-ocwiJ8APr7ELsOZB descartado: no es bueno (nada, nota 3: Charla informal sin contexto claro ni situacion relevante para redes.)
+2026-10-25T17:02 https://www.twitch.tv/xurreriaivette/clip/BrightPrettyDadYouDontSay-jYwmkU8KyP_BhJJB descartado: no es bueno (nada, nota 3: Reacción floja a un susto cotidiano sin contexto gracioso ni interés para viralizar.)
+2026-10-25T17:02 https://www.twitch.tv/pokealexvgc/clip/PopularSmoggyBubbleteaCurseLit-qkpYhmxYVPwpZGb7 descartado: no es bueno (nada, nota 3: Conversación informal de streamers sobre calor y ropa, falta humor explosivo o juego.)
