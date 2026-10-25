@@ -548,3 +548,5 @@
 2026-10-25T19:57 https://www.twitch.tv/rubius/clip/ExuberantFuriousOxPipeHype-ToqJTlkUNtIktBWX descartado: no es bueno (nada, nota 3: Es una partida normal de juego de ordenador sin ninguna reacción destacable o momento divertido.)
 2026-10-25T21:03 https://www.twitch.tv/rubius/clip/EndearingWonderfulSproutDAESuppy-TwKC1JyWaYEICRrZ descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-25T21:50 https://www.twitch.tv/djmariio/clip/UninterestedInquisitiveCattleKAPOW-M6zGuZ6lA5fA9KFF descartado: no es bueno (nada, nota 3: Es una charla sobre Twitter y salseo de futbolistas sin gracia ni contexto claro.)
+2026-10-25T21:59 https://www.twitch.tv/ibai/clip/FriendlyTriumphantCamelSaltBae-LlZpwJWFa7BDYNCf descartado: no es bueno (nada, nota 3: Comentario fuera de contexto de una partida de LoL, no hace gracia sin explicación.)
+2026-10-25T21:59 https://www.twitch.tv/staryuuki/clip/HedonisticStylishDotterelImGlitch-9Mi8t4feJ5yLsc8P descartado: no es bueno (nada, nota 3: Es solo la streamer comiendo y charlando con el chat sin ningun momento gracioso relevante.)
