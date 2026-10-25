@@ -519,3 +519,5 @@
 2026-10-25T13:00 https://www.twitch.tv/kelianforronin/clip/SmellyTiredDogeWOOP-uGeFvVNbeT9-sWdJ descartado: no es bueno (nada, nota 3: Es un partido de fútbol real, no cumple los requisitos para GTA ni es especialmente gracioso.)
 2026-10-25T13:02 https://www.twitch.tv/pandarina/clip/GrossPunchyMouseBrokeBack-Ejn6KbURl2gXoW9B descartado: no es bueno (nada, nota 3: Es solo un corte de stream por lag de internet sin situacion graciosa.)
 2026-10-25T13:02 https://www.twitch.tv/pandarina/clip/IntelligentPeppyWoodcockJebaited-6bCxfjMdcFssFWwo descartado: no es bueno (nada, nota 3: Es una charla cotidiana sin gracia ni momentos virales claros para redes.)
+2026-10-25T13:11 https://www.twitch.tv/kelianforronin/clip/RenownedCharmingVelociraptorBudStar-WOhth-tiKhUzYAKO descartado: no es bueno (nada, nota 3: Es una jugada de fútbol normal comentada, sin gracia especial ni momento viral.)
+2026-10-25T13:11 https://www.twitch.tv/kelianforronin/clip/HeartlessFitAlbatrossYouWHY-X-zZOotWCEc9Kpgy descartado: no es bueno (nada, nota 3: Es un partido de futbol real comentado, no tiene relevancia ni gracia para una cuenta de GTA.)
