@@ -1,1 +1,1 @@
-2026-10-25 15:03 Gemini sin respuesta: gemini-3.5-flash-lite: 'candidates' | gemini-3.8-flash: 'candidates' | gemini-3.6-flash: 'candidates' | gemini-flash-latest: 'candidates'
+2026-10-25 15:52 Gemini gemini-3.5-flash-lite: OK

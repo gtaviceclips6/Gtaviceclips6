@@ -526,3 +526,5 @@
 2026-10-25T14:01 https://www.twitch.tv/zeling/clip/CharmingBlushingPlumWholeWheat-OGZNcRbnb_HLf4vf descartado: no es bueno (nada, nota 3: Es una charla normal reaccionando a un chat sin gracia ni contexto suficiente.)
 2026-10-25T14:59 https://www.twitch.tv/zeling/clip/SuspiciousNaiveMarjoramAsianGlow-C50fTD-V_4unIiPG descartado: no es bueno (nada, nota 3: Es una jugada normal de Deadlock sin ningun momento gracioso o destacable.)
 2026-10-25T15:03 https://www.twitch.tv/dheylo/clip/LuckyVainAlpacaWutFace-VFCeIB0JiMAwgcJ0 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-25T15:51 https://www.twitch.tv/adcshiiro/clip/SullenSnappySnailMrDestructoid-1f_5qWayoqLOmXqv descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con un comentario aburrido sin gracia.)
+2026-10-25T15:52 https://www.twitch.tv/x9nium/clip/PhilanthropicSpinelessRuffNononoCat-buVLYoLYGZKG9W3Y descartado: no es bueno (nada, nota 3: Es una jugada normal de esports comentada sin gracia especial para gente ajena.)
