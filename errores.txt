@@ -544,3 +544,5 @@
 2026-10-25T18:56 https://www.twitch.tv/viizzzm/clip/HardTenuousSquidArgieB8-PN3td_JTWnYXX7bp descartado: no es bueno (nada, nota 3: Jugada normal de shooter sin contexto ni gracia especial para viralizar.)
 2026-10-25T19:05 https://www.twitch.tv/miguelillo_rl/clip/AbrasiveAttractiveHabaneroKevinTurtle-bjFgorNC0lGnxLXc descartado: no es bueno (nada, nota 3: Es una charla casual del streamer sin gracia real ni contexto visual potente.)
 2026-10-25T19:05 https://www.twitch.tv/djmariio/clip/AwkwardShyWrenOSfrog-VNVb6bLt_hyFQgY3 descartado: no es bueno (nada, nota 3: Es un streamer hablando de su alineación en un videojuego de fútbol, sin gracia especial.)
+2026-10-25T19:56 https://www.twitch.tv/ibai/clip/SwissMistyOilCharlietheUnicorn--96sh48UYvcnXucD descartado: no es bueno (nada, nota 3: Es un fragmento genérico de un directo de esports sin gracia ni impacto visual.)
+2026-10-25T19:57 https://www.twitch.tv/rubius/clip/ExuberantFuriousOxPipeHype-ToqJTlkUNtIktBWX descartado: no es bueno (nada, nota 3: Es una partida normal de juego de ordenador sin ninguna reacción destacable o momento divertido.)
