@@ -553,3 +553,6 @@
 2026-10-25T22:59 https://www.twitch.tv/rubius/clip/InspiringAmazingButterflyRitzMitz-X1Bsw9jzp_RosB7Q descartado: no es bueno (nada, nota 3: Clip de gameplay caótico de juego desconocido sin gracia ni contexto claro.)
 2026-10-25T23:00 https://www.twitch.tv/ibai/clip/AliveRoundAnisePraiseIt-8PlOBRcgcT67s2-L descartado: no es bueno (nada, nota 3: Comentario de una partida de League of Legends sin contexto ni gracia especial.)
 2026-10-25T23:01 https://www.twitch.tv/cursedfiber78/clip/BenevolentSecretiveDonutLitty-2NazAm1JS4Ij2RNZ descartado: no es bueno (nada, nota 3: Conversación caótica en lobby sin gracia universal ni contexto claro.)
+2026-10-25T23:55 https://www.twitch.tv/marinaifx/clip/BloodyGleamingPuppyArsonNoSexy-CjG5JO_6Z7lLqSjC descartado: no es bueno (nada, nota 3: Es una streamer haciendo un test de acentos en una web, falta contexto y gracia.)
+2026-10-25T23:55 https://www.twitch.tv/feirlygab/clip/ShakingScaryWolfWholeWheat-dtYYMffESfciXv9t descartado: no es bueno (nada, nota 3: Conversacion normal de directo en Minecraft sin gracia ni contexto viral.)
+2026-10-25T23:55 https://www.twitch.tv/ibai/clip/CrazyStormyAsparagusFeelsBadMan-CDAgk92Yb6BVM557 descartado: no es bueno (nada, nota 3: Es un comentario random de Ibai viendo una partida de League of Legends sin contexto gracioso.)
