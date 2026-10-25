@@ -513,3 +513,5 @@
 2026-10-25T09:02 https://www.twitch.tv/danielaazuaje_/clip/EphemeralDoubtfulPorcupineThunBeast-UW8Z2Mg8W842Bxbr descartado: no es bueno (nada, nota 3: Es solo charla normal de la streamer mostrando su cosplay sin ninguna situación graciosa.)
 2026-10-25T09:03 https://www.twitch.tv/blackelespanolito/clip/BraveDiligentRuffDBstyle--aqMPaLyIgyL2uQD descartado: no es bueno (nada, nota 3: Es una reaccion a una jugada de esports de CS sin gracia especial.)
 2026-10-25T09:03 https://www.twitch.tv/natymoon/clip/ShinyHandsomeShrewLitty-89iX1GrkCqbvev16 descartado: no es bueno (nada, nota 2: Es un clip de ASMR típico sin contexto ni humor para una cuenta de juegos.)
+2026-10-25T11:01 https://www.twitch.tv/phobyac/clip/TolerantExcitedCheesecakeGingerPower-w4XNVMCoCObkImU6 descartado: no es bueno (nada, nota 3: El streamer se queja de un clip sin contexto visual claro ni gracia.)
+2026-10-25T11:01 https://www.twitch.tv/maximocuevas/clip/AttractiveRelatedOilRuleFive-znjbh3FORMCWwsdt descartado: no es bueno (nada, nota 3: Es un momento de menú de EA Sports FC sin gracia ni contexto suficiente.)
