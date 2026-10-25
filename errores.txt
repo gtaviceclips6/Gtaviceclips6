@@ -506,3 +506,6 @@
 2026-10-25T03:54 https://www.twitch.tv/staryuuki/clip/StrangeLuckyDogeFreakinStinkin-46MPk5WuTs7k4jaa descartado: no es bueno (nada, nota 3: Es una charla casual de la streamer sin ninguna situacion graciosa ni juego.)
 2026-10-25T03:56 https://www.twitch.tv/caresapo/clip/DreamyOddVelociraptorWutFace-1CtpUxevZA0XGjQT descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que requiere contexto del juego.)
 2026-10-25T07:04 https://www.twitch.tv/feirlygab/clip/GlutenFreeFurryBearDxAbomb-Cuu_9VhWbNeHJj-2 descartado: no es bueno (nada, nota 3: Es solo una jugadora extrañada en Minecraft sin contexto claro ni gracia real.)
+2026-10-25T08:03 https://www.twitch.tv/feirlygab/clip/UnsightlyLovelyHornetArsonNoSexy-ni9wYS3qKO03IH82 descartado: no es bueno (nada, nota 3: Es una charla normal de Minecraft y falta contexto para que haga gracia.)
+2026-10-25T08:06 https://www.twitch.tv/natymoon/clip/SavoryAmorphousLasagnaJKanStyle-AtntXlPGryguObpu descartado: no es bueno (nada, nota 3: Es un clip de ASMR sin contexto ni situaciones graciosas o espectaculares para redes.)
+2026-10-25T08:10 https://www.twitch.tv/agbin3r/clip/HomelyDifferentSoybeanKlappa-8Hvyoqkj_rN3TXpD descartado: no es bueno (nada, nota 3: Es solo el streamer hablando de configuraciones y jugando sin ninguna jugada destacable o graciosa.)
