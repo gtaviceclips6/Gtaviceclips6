@@ -605,3 +605,6 @@
 2026-10-26T19:54 https://www.twitch.tv/rickyedit/clip/ConsideratePluckyLeopardBabyRage-bMu9Fgy3huoQb_Fs descartado: no es bueno (nada, nota 2: Es una charla seria dando una noticia luctuosa, no encaja en humor ni escena visual.)
 2026-10-26T19:55 https://www.twitch.tv/cabramaravilla/clip/SnappyHumbleSalamanderMoreCowbell-8j2ybFL_1TSdu4BJ descartado: no es bueno (nada, nota 3: Es solo un comentario de una jugada de League of Legends sin gracia visual ni humor.)
 2026-10-26T19:56 https://www.twitch.tv/rickyedit/clip/VictoriousStormyCoyoteNerfRedBlaster-g5J7h-NGsTOv30uJ descartado: no es bueno (nada, nota 3: Es una charla seria y reflexiva del streamer, no tiene humor ni accion.)
+2026-10-26T21:22 https://www.twitch.tv/knekro/clip/PrettiestBashfulClamDoubleRainbow-2cT5vnZ52jileMvg descartado: no es bueno (nada, nota 3: Requiere contexto interno de comunidad y usa lenguaje prohibido por las normas de las plataformas.)
+2026-10-26T21:22 https://www.twitch.tv/dydy/clip/TenuousBloodySquirrelMVGame-3dwsmG06jwQnshDf descartado: no es bueno (nada, nota 3: Es una jugada normal de videojuego sin una gracia especial ni contexto divertido.)
+2026-10-26T21:23 https://www.twitch.tv/ibai/clip/BashfulSolidTitanSquadGoals-79HA0A_b56uDq2TL descartado: no es bueno (nada, nota 3: Comentario de esports sin contexto relevante ni gracia destacable fuera de la comunidad.)
