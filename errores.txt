@@ -592,3 +592,5 @@
 2026-10-26T15:08 https://www.twitch.tv/jaimemellado_/clip/FrailUglyAlpacaWOOP-3jUKzq2QQpe-uGp- descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni contenido visual relevante para redes.)
 2026-10-26T15:55 https://www.twitch.tv/luzu_tv/clip/DistinctBoldEggDBstyle-rfm05MVfSaGjmQc3 descartado: no es bueno (nada, nota 3: Es un fragmento de un programa IRL hablando sin contexto claro de humor.)
 2026-10-26T15:56 https://www.twitch.tv/stradi/clip/TawdryBlueArtichokeAliens-e4_dm6xQvF6INlW3 descartado: no es bueno (nada, nota 3: Es una jugada de simulador de carreras normal, falta contexto de humor potente o impacto visual.)
+2026-10-26T16:20 https://www.twitch.tv/menostrece/clip/PoisedMoistDugongWoofer-AXL4RLUNDHFq_Rob descartado: no es bueno (nada, nota 3: Es solo MenosTrece jugando y comentando la jugada sin llegar a ser un momento gracioso.)
+2026-10-26T16:21 https://www.twitch.tv/toniki/clip/SleepyBenevolentGaurPeanutButterJellyTime-ulRQ9f8mo5rNsHsE descartado: no es bueno (nada, nota 3: Conversación random jugando, sin gracia especial ni momento viral para redes.)
