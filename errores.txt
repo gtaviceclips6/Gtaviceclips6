@@ -569,3 +569,7 @@
 2026-10-26T07:16 https://www.twitch.tv/skyshocktv/clip/SparklingEvilHamburgerTheRinger-TP0nCVrng-glBzxp descartado: no es bueno (nada, nota 3: Requiere demasiado contexto sobre una noticia externa y charla de chat.)
 2026-10-26T07:16 https://www.twitch.tv/pompeyo4/clip/OilyAmorphousReindeerTBCheesePull-QtdzJazyn6R6ZKH2 descartado: no es bueno (nada, nota 3: Conversacion normal de chat con humor interno, falta contexto general.)
 2026-10-26T07:17 https://www.twitch.tv/auronplay/clip/ZealousDrabWatermelonPlanking-Q51gyKbSIYOCh7nI descartado: no es bueno (nada, nota 4: Es solo una opinión hablada de Auronplay sin ninguna reacción graciosa o gameplay.)
+2026-10-26T08:21 https://www.twitch.tv/mumusiraneitor/clip/PrettiestJollyNikudonDatBoi-tmlGr3o8Gs3igIw2 descartado: no es bueno (nada, nota 2: Conversación aburrida y caótica de la streamer sin ninguna gracia ni momento relevante.)
+2026-10-26T08:21 https://www.twitch.tv/mumusiraneitor/clip/SuaveSaltyChinchillaDAESuppy-UQIAHQ67Ct_C_FP9 descartado: no es bueno (nada, nota 2: Es una streamer bailando sin contexto de juego ni situación graciosa.)
+2026-10-26T08:21 https://www.twitch.tv/danielaazuaje_/clip/GiftedFuriousGarlicVoteYea-bYmJkuDJXrR2R8fZ descartado: no es bueno (nada, nota 3: Es solo la streamer mostrando un disfraz y charlando, sin gracia ni accion relevante.)
+2026-10-26T08:23 https://www.twitch.tv/rene8808/clip/ManlyFunCrabTBTacoRight-UdQFP1h9w-82rVD1 descartado: no es bueno (nada, nota 3: Charla reflexiva del streamer sobre temas ajenos, sin gracia ni contenido visual potente.)
