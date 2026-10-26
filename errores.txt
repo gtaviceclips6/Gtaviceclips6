@@ -556,3 +556,6 @@
 2026-10-25T23:55 https://www.twitch.tv/marinaifx/clip/BloodyGleamingPuppyArsonNoSexy-CjG5JO_6Z7lLqSjC descartado: no es bueno (nada, nota 3: Es una streamer haciendo un test de acentos en una web, falta contexto y gracia.)
 2026-10-25T23:55 https://www.twitch.tv/feirlygab/clip/ShakingScaryWolfWholeWheat-dtYYMffESfciXv9t descartado: no es bueno (nada, nota 3: Conversacion normal de directo en Minecraft sin gracia ni contexto viral.)
 2026-10-25T23:55 https://www.twitch.tv/ibai/clip/CrazyStormyAsparagusFeelsBadMan-CDAgk92Yb6BVM557 descartado: no es bueno (nada, nota 3: Es un comentario random de Ibai viendo una partida de League of Legends sin contexto gracioso.)
+2026-10-26T01:17 https://www.twitch.tv/aldo_geo/clip/SmallUninterestedDoveBudStar-ESeUYHBopldMBFvl descartado: no es bueno (nada, nota 3: Es Minecraft con mods y no se entiende bien la jugada ni hace gracia.)
+2026-10-26T01:17 https://www.twitch.tv/rubius/clip/RepleteCautiousWatermelonDoritosChip-orJfoOv18ahc16mi descartado: no es bueno (nada, nota 3: Es un momento caótico de gameplay sin gracia fuera de contexto ni valor visual.)
+2026-10-26T01:18 https://www.twitch.tv/djmariio/clip/StylishPlumpToadPupper-3UZ2QraY2zgsdD7x descartado: no es bueno (nada, nota 3: Es una charla normal de fútbol y opinión, sin gracia ni acción destacable.)
