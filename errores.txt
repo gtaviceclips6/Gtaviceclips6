@@ -595,3 +595,6 @@
 2026-10-26T16:20 https://www.twitch.tv/menostrece/clip/PoisedMoistDugongWoofer-AXL4RLUNDHFq_Rob descartado: no es bueno (nada, nota 3: Es solo MenosTrece jugando y comentando la jugada sin llegar a ser un momento gracioso.)
 2026-10-26T16:21 https://www.twitch.tv/toniki/clip/SleepyBenevolentGaurPeanutButterJellyTime-ulRQ9f8mo5rNsHsE descartado: no es bueno (nada, nota 3: Conversación random jugando, sin gracia especial ni momento viral para redes.)
 2026-10-26T17:19 https://www.twitch.tv/viizzzm/clip/HonorableFunnyTurnipCorgiDerp-V6x57XOYzjuw_R35 descartado: no es bueno (nada, nota 3: Conversación confusa y repetitiva jugando sin que ocurra nada relevante ni gracioso.)
+2026-10-26T18:12 https://www.twitch.tv/noni/clip/SpeedyCallousDaikonMau5-wjgBgJ_jrqf8WsQX descartado: no es bueno (nada, nota 2: Charla seria y emotiva de un streamer, sin humor ni juego, no sirve para redes.)
+2026-10-26T18:14 https://www.twitch.tv/noni/clip/CuriousEncouragingWasabiCharlieBitMe-UlWT_orxMT9j-hBM descartado: no es bueno (nada, nota 3: Es simplemente un streamer leyendo una lista de suscriptores sin ninguna situación graciosa ni relevante.)
+2026-10-26T18:14 https://www.twitch.tv/knekro/clip/LovelyAstuteAsteriskDendiFace-G8qJ55oqv3HDayeZ descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin contexto ni gracia especial para redes.)
