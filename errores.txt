@@ -573,3 +573,5 @@
 2026-10-26T08:21 https://www.twitch.tv/mumusiraneitor/clip/SuaveSaltyChinchillaDAESuppy-UQIAHQ67Ct_C_FP9 descartado: no es bueno (nada, nota 2: Es una streamer bailando sin contexto de juego ni situación graciosa.)
 2026-10-26T08:21 https://www.twitch.tv/danielaazuaje_/clip/GiftedFuriousGarlicVoteYea-bYmJkuDJXrR2R8fZ descartado: no es bueno (nada, nota 3: Es solo la streamer mostrando un disfraz y charlando, sin gracia ni accion relevante.)
 2026-10-26T08:23 https://www.twitch.tv/rene8808/clip/ManlyFunCrabTBTacoRight-UdQFP1h9w-82rVD1 descartado: no es bueno (nada, nota 3: Charla reflexiva del streamer sobre temas ajenos, sin gracia ni contenido visual potente.)
+2026-10-26T09:19 https://www.twitch.tv/danielaazuaje_/clip/ScarySquareRedpandaKappaWealth-ceLmMs0gWKqw-b5_ descartado: no es bueno (nada, nota 3: Charla informal de la streamer saludando al chat sin ninguna situación graciosa.)
+2026-10-26T09:20 https://www.twitch.tv/aldo_geo/clip/DeadTalentedFalconHoneyBadger-8zck2FyWk0JqBtK4 descartado: no es bueno (nada, nota 2: Es solo charla aburrida de un directo sin ninguna gracia ni momento destacable.)
