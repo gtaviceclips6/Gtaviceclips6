@@ -590,3 +590,5 @@
 2026-10-26T15:06 https://www.twitch.tv/luzu_tv/clip/DistinctBoldEggDBstyle-rfm05MVfSaGjmQc3 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-26T15:07 https://www.twitch.tv/llunaclark/clip/HyperDistinctChinchillaItsBoshyTime-EIj_s1ftrt51cPt9 descartado: no es bueno (nada, nota 3: Charla seria y queja sobre el chat, no es gracioso ni escena visualmente atractiva.)
 2026-10-26T15:08 https://www.twitch.tv/jaimemellado_/clip/FrailUglyAlpacaWOOP-3jUKzq2QQpe-uGp- descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni contenido visual relevante para redes.)
+2026-10-26T15:55 https://www.twitch.tv/luzu_tv/clip/DistinctBoldEggDBstyle-rfm05MVfSaGjmQc3 descartado: no es bueno (nada, nota 3: Es un fragmento de un programa IRL hablando sin contexto claro de humor.)
+2026-10-26T15:56 https://www.twitch.tv/stradi/clip/TawdryBlueArtichokeAliens-e4_dm6xQvF6INlW3 descartado: no es bueno (nada, nota 3: Es una jugada de simulador de carreras normal, falta contexto de humor potente o impacto visual.)
