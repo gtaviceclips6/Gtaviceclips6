@@ -617,3 +617,5 @@
 2026-10-26T22:42 https://www.twitch.tv/ibai/clip/PlausibleSpotlessKittenShadyLulu-WGXJWk-RmkSYByVY descartado: no es bueno (nada, nota 3: Conversacion casual sobre videojuegos que carece de gracia real sin contexto.)
 2026-10-26T22:43 https://www.twitch.tv/agentemaxo/clip/ScrumptiousChillySquidTebowing-6uYAjShbdzRveYUG descartado: no es bueno (nada, nota 3: Falta contexto general y la broma del chat no destaca lo suficiente.)
 2026-10-26T23:07 https://www.twitch.tv/tozeo/clip/EagerPlausibleEagleBIRB-AvHlYv3o1SJTbnGt descartado: no es bueno (nada, nota 3: Es una jugada normal de partida sin ninguna reacción destacable ni gracia.)
+2026-10-27T00:30 https://www.twitch.tv/polispol1/clip/BrightCheerfulWalrusLitty-nqWNqjBmZGJmFqgY descartado: no es bueno (nada, nota 3: Momento emotivo y serio de charla, no cumple los requisitos de humor ni de escena visual.)
+2026-10-27T00:30 https://www.twitch.tv/polispol1/clip/BlushingSlipperyBasenjiDatSheffy-jFG9VYQ_JK_iKogd descartado: no es bueno (nada, nota 3: Es una charla emotiva sobre Komanche sin gracia ni accion para redes.)
