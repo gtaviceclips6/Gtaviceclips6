@@ -671,3 +671,5 @@
 2026-10-27T19:14 https://www.twitch.tv/shainny_/clip/CogentStylishGoblinFloof-j0kM5WHgeS-LEf6m descartado: no es bueno (nada, nota 3: Charla cotidiana sin humor ni accion relevante para redes.)
 2026-10-27T19:15 https://www.twitch.tv/elxokas/clip/CovertUnsightlyClipzOSkomodo-WQ9wWoz3aJG7xkQi descartado: no es bueno (nada, nota 3: Contiene lenguaje vulgar y comentarios innecesarios que no aportan valor para redes.)
 2026-10-27T19:17 https://www.twitch.tv/pokealexvgc/clip/SavoryBlitheHawkOneHand-jvFIzvKtbGpcBQmS descartado: no es bueno (nada, nota 3: Dialogo de un NPC en un juego, falta contexto para hacer gracia.)
+2026-10-27T19:53 https://www.twitch.tv/knekro/clip/DirtyAthleticHippoPartyTime-wHLuImxFXYmG5a7Q descartado: no es bueno (nada, nota 3: Es una queja sobre precios en un menú, falta contexto y gracia general.)
+2026-10-27T19:53 https://www.twitch.tv/elcalvolol/clip/BillowingCuteDunlinDatBoi-aMkH0kG7wFJdI9GF descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
