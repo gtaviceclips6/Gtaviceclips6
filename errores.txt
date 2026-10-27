@@ -680,3 +680,8 @@
 2026-10-27T21:11 https://www.twitch.tv/dydy/clip/AntediluvianClearQueleaPeanutButterJellyTime-dv0J2YNHyuIYuBAk descartado: no es bueno (nada, nota 3: Es una partida normal de videojuego sin ninguna reaccion destacable o momento gracioso.)
 2026-10-27T21:12 https://www.twitch.tv/marinaifx/clip/GlamorousTemperedSalsifyBCWarrior-xGVGxiUKQ_IXih-f descartado: no es bueno (nada, nota 3: Conversacion random de charla sin ningun momento gracioso o destacable para redes.)
 2026-10-27T21:14 https://www.twitch.tv/syaazfnn/clip/CrypticPiercingChinchillaAMPTropPunch-Rl_LgaA1BMNx9GIP descartado: no es bueno (nada, nota 3: Es una charla sin contexto sobre configuraciones y menús que no resulta graciosa ni impactante.)
+2026-10-27T21:55 https://www.twitch.tv/marinaifx/clip/SneakyObedientHawkMikeHogu-HcklZopIWRms0fOo descartado: no es bueno (nada, nota 3: Comentario random del chat sin suficiente gracia ni contexto general para destacar.)
+2026-10-27T21:55 https://www.twitch.tv/baitybait/clip/ColdbloodedInexpensiveGoatBrokeBack-Mk0Z00pZgi5V1UmV descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-27T21:57 https://www.twitch.tv/suja/clip/TriumphantEnjoyableOwlMVGame-UViibvw3nwAucJSM descartado: no es bueno (nada, nota 3: Charla confusa y gameplay plano sin ningun momento gracioso o destacable.)
+2026-10-27T21:57 https://www.twitch.tv/paache_/clip/CredulousCrypticIguanaPlanking-mqCEDjmIKcrXzwk1 descartado: no es bueno (nada, nota 3: Comentario insulso de inventario de juego sin gracia ni contexto viral.)
+2026-10-27T21:57 https://www.twitch.tv/suja/clip/PoisedAntediluvianCasettePoooound-k1g4bJb5cR9g4Foo descartado: no es bueno (nada, nota 3: El streamer habla de configuraciones y menús sin que pase nada relevante.)
