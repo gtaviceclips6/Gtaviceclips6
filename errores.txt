@@ -646,3 +646,5 @@
 2026-10-27T10:01 https://www.twitch.tv/el_yuste/clip/TriumphantSeductiveMangetoutTBTacoRight-522Cb2WxmjAEvr8C descartado: no es bueno (nada, nota 3: Es una charla seria y reflexiva sobre el acoso online, no es gracioso ni una escena visual.)
 2026-10-27T10:03 https://www.twitch.tv/mumusiraneitor/clip/LivelyZanyPicklesKippa-P7hJA-uqYPK1AFmr descartado: no es bueno (nada, nota 3: Es solo un saludo y agradecimiento de follows sin ninguna gracia ni momento destacable.)
 2026-10-27T10:06 https://www.twitch.tv/elcamacho24/clip/ThankfulWittyGullImGlitch-ooAnj0ii9uVZwzUP descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una conversacion random sin gracia evidente.)
+2026-10-27T11:13 https://www.twitch.tv/golyentwitch/clip/LongSassyGullMau5-8MyjswWvBgyy-7cs descartado: no es bueno (nada, nota 1: Contenido inadecuado y prohibido por las normas de las plataformas sobre violencia sexual.)
+2026-10-27T11:15 https://www.twitch.tv/zeling/clip/HandsomeObesePresidentImGlitch-hhDN9igaRuXAxo-h descartado: no es bueno (nada, nota 3: Es una conversacion sin contexto relevante ni gracia destacable fuera de su comunidad.)
