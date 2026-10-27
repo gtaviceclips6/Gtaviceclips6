@@ -657,3 +657,5 @@
 2026-10-27T15:23 https://www.twitch.tv/llunaclark/clip/SavoryBombasticSlothRaccAttack-E9MZ20TqQPFo1NVd descartado: no es bueno (nada, nota 3: Es una charla casual sobre móviles y maquillaje sin ninguna gracia especial ni momento viral.)
 2026-10-27T15:24 https://www.twitch.tv/hawnktv/clip/TenuousBreakableGnatKappaRoss-1DTxQXlRTEchifDr descartado: no es bueno (nada, nota 3: Charla sobre streamers y alianzas sin contexto ni gracia visual.)
 2026-10-27T15:29 https://www.twitch.tv/hawnktv/clip/AffluentMushyBaboonSwiftRage-2qwEzPOV3vEL9Qlw descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-27T16:13 https://www.twitch.tv/mi_miau/clip/PhilanthropicCheerfulHorseradishDancingBanana-4H5cF15jJginwTFS descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer contando una anécdota con su perrita, sin gracia especial.)
+2026-10-27T16:13 https://www.twitch.tv/alvarostorm/clip/BetterInterestingCakeChocolateRain-p0XxEyYRZ6cVnJqt descartado: no es bueno (nada, nota 3: Jugada normal de League of Legends sin gracia especial ni contexto divertido.)
