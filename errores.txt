@@ -648,3 +648,5 @@
 2026-10-27T10:06 https://www.twitch.tv/elcamacho24/clip/ThankfulWittyGullImGlitch-ooAnj0ii9uVZwzUP descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una conversacion random sin gracia evidente.)
 2026-10-27T11:13 https://www.twitch.tv/golyentwitch/clip/LongSassyGullMau5-8MyjswWvBgyy-7cs descartado: no es bueno (nada, nota 1: Contenido inadecuado y prohibido por las normas de las plataformas sobre violencia sexual.)
 2026-10-27T11:15 https://www.twitch.tv/zeling/clip/HandsomeObesePresidentImGlitch-hhDN9igaRuXAxo-h descartado: no es bueno (nada, nota 3: Es una conversacion sin contexto relevante ni gracia destacable fuera de su comunidad.)
+2026-10-27T13:11 https://www.twitch.tv/gerardromero/clip/NaiveLightSpiderFrankerZ-GxQ8mG_4wQitiQAj descartado: no es bueno (nada, nota 3: Conversación aburrida y caótica de stream sin contexto gracioso comprensible.)
+2026-10-27T13:12 https://www.twitch.tv/sirmaza/clip/OriginalMagnificentDiamondTebowing-eIxbzOn0EP5HVgGr descartado: no es bueno (nada, nota 3: Es una caida normal en un juego, nada especialmente gracioso ni fuera de lo comun.)
