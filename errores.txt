@@ -629,3 +629,7 @@
 2026-10-27T03:59 https://www.twitch.tv/norgannonhh/clip/TardyUnsightlyRingDeIlluminati-pYu_QRXr-pZKtlwv descartado: no es bueno (nada, nota 3: Conversacion normal entre streamers sin remate gracioso ni accion destacable.)
 2026-10-27T03:59 https://www.twitch.tv/jennsanli/clip/DependableExpensiveCiderKappaPride-9kozHANeT5JXUA55 descartado: no es bueno (nada, nota 3: Es solo la streamer mirando menús de armas y hablando sin contexto relevante.)
 2026-10-27T04:00 https://www.twitch.tv/caresapo/clip/SpikySullenPangolinPoooound-6bzPdqax-C90zEos descartado: no es bueno (nada, nota 3: Comentario vulgar y sin gracia que no aporta nada interesante ni cumple las normas.)
+2026-10-27T07:09 https://www.twitch.tv/jimrsng/clip/CrypticTubularUdonSSSsss-h4kt6L8VyauA8jAG descartado: no es bueno (nada, nota 1: Charla seria y reflexiva sobre un tema delicado, no apto para clips virales de humor.)
+2026-10-27T07:11 https://www.twitch.tv/ic0nic/clip/FunCrazyOrangeNerfRedBlaster-wF0GGhoD5RBiOUOw descartado: no es bueno (nada, nota 3: Es una partida normal de Valorant comentando la jugada sin ninguna gracia especial ni fail.)
+2026-10-27T07:12 https://www.twitch.tv/agbin3r/clip/SeductiveAlluringMoosePupper-4El4siQ7Xrk3l9Ve descartado: no es bueno (nada, nota 3: Es solo charla de menús y no aporta nada gracioso ni visualmente llamativo.)
+2026-10-27T07:12 https://www.twitch.tv/elcamacho24/clip/HelplessVictoriousBadgerMVGame-U7OkJYIktEAHqmGr descartado: no es bueno (nada, nota 3: Conversacion floja y sin contexto claro de gracia en el clip.)
