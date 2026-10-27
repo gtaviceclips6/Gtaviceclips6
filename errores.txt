@@ -619,3 +619,7 @@
 2026-10-26T23:07 https://www.twitch.tv/tozeo/clip/EagerPlausibleEagleBIRB-AvHlYv3o1SJTbnGt descartado: no es bueno (nada, nota 3: Es una jugada normal de partida sin ninguna reacción destacable ni gracia.)
 2026-10-27T00:30 https://www.twitch.tv/polispol1/clip/BrightCheerfulWalrusLitty-nqWNqjBmZGJmFqgY descartado: no es bueno (nada, nota 3: Momento emotivo y serio de charla, no cumple los requisitos de humor ni de escena visual.)
 2026-10-27T00:30 https://www.twitch.tv/polispol1/clip/BlushingSlipperyBasenjiDatSheffy-jFG9VYQ_JK_iKogd descartado: no es bueno (nada, nota 3: Es una charla emotiva sobre Komanche sin gracia ni accion para redes.)
+2026-10-27T01:34 https://www.twitch.tv/crystalmolly/clip/FlaccidEphemeralWaterAsianGlow-41Pe_r7k-ww5ZBiG descartado: no es bueno (nada, nota 3: Charla seria y aburrida sobre rumores sin gracia ni contexto claro.)
+2026-10-27T01:36 https://www.twitch.tv/13steg/clip/TangibleDeafMacaroniBudStar-HVjvuYCzayxYnSdv descartado: no es bueno (nada, nota 3: Conversación absurda y sin gracia que requiere mucho contexto, no sirve para redes.)
+2026-10-27T01:36 https://www.twitch.tv/jennsanli/clip/ProductivePluckyPterodactylArsonNoSexy-4pXkx9EBRo_SzZX- descartado: no es bueno (nada, nota 3: Es una charla del chat sin contexto claro ni situación realmente graciosa fuera de su directo.)
+2026-10-27T01:38 https://www.twitch.tv/roberttson/clip/MushyAbstemiousCookieChocolateRain-S9dPQDBDNZqj7DX8 descartado: no es bueno (nada, nota 3: Comentario político y pausa publicitaria sin gracia universal ni contexto visual claro.)
