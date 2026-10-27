@@ -652,3 +652,8 @@
 2026-10-27T13:12 https://www.twitch.tv/sirmaza/clip/OriginalMagnificentDiamondTebowing-eIxbzOn0EP5HVgGr descartado: no es bueno (nada, nota 3: Es una caida normal en un juego, nada especialmente gracioso ni fuera de lo comun.)
 2026-10-27T13:30 https://www.twitch.tv/danielaazuaje_/clip/DoubtfulSnappyJuiceJebaited-e8TrLz2Ikn3y1Xnv descartado: no es bueno (nada, nota 3: Solo es charla normal de la streamer con sus gatos, falta chicha o clip.)
 2026-10-27T14:23 https://www.twitch.tv/blackelespanolito/clip/ReliableBlightedSalmonCeilingCat-7EnelAFLbK6yqKHq descartado: no es bueno (nada, nota 3: Es una jugada normal de Counter-Strike comentada, requiere contexto competitivo y no destaca especialmente.)
+2026-10-27T15:21 https://www.twitch.tv/zeling/clip/SneakyMoldySheepFutureMan-eKfGqTp59Y__-il2 descartado: no es bueno (nada, nota 3: Explicacion aburrida de mecanicas de juego sin gracia ni accion relevante.)
+2026-10-27T15:22 https://www.twitch.tv/llunaclark/clip/JoyousSmellyDragonPJSalt-s54Mvs82cbRV0GRE descartado: no es bueno (nada, nota 3: Conversación informal sin contexto fuerte ni momentos realmente graciosos o virales.)
+2026-10-27T15:23 https://www.twitch.tv/llunaclark/clip/SavoryBombasticSlothRaccAttack-E9MZ20TqQPFo1NVd descartado: no es bueno (nada, nota 3: Es una charla casual sobre móviles y maquillaje sin ninguna gracia especial ni momento viral.)
+2026-10-27T15:24 https://www.twitch.tv/hawnktv/clip/TenuousBreakableGnatKappaRoss-1DTxQXlRTEchifDr descartado: no es bueno (nada, nota 3: Charla sobre streamers y alianzas sin contexto ni gracia visual.)
+2026-10-27T15:29 https://www.twitch.tv/hawnktv/clip/AffluentMushyBaboonSwiftRage-2qwEzPOV3vEL9Qlw descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
