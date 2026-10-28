@@ -687,3 +687,5 @@
 2026-10-27T21:57 https://www.twitch.tv/suja/clip/PoisedAntediluvianCasettePoooound-k1g4bJb5cR9g4Foo descartado: no es bueno (nada, nota 3: El streamer habla de configuraciones y menús sin que pase nada relevante.)
 2026-10-27T22:09 https://www.twitch.tv/baitybait/clip/GentleCorrectCheetahPlanking-fPA5jwa-ya4Sqclh descartado: no es bueno (nada, nota 3: Falta contexto claro y la reaccion no es suficientemente llamativa sin saber que pasa.)
 2026-10-27T23:09 https://www.twitch.tv/marinaifx/clip/SweetTenderLlamaCmonBruh-j_IqB7coWCiu2Lf9 descartado: no es bueno (nada, nota 3: Muerte típica en Minecraft sin gracia especial ni reacción destacable.)
+2026-10-28T00:03 https://www.twitch.tv/marinaifx/clip/AstuteZanyCodPeteZarollTie-ZPXfFRa4-wvsRFFv descartado: no es bueno (nada, nota 3: Charla normal jugando a Minecraft, sin momentos de humor relevante ni gran fail.)
+2026-10-28T00:03 https://www.twitch.tv/alanalarana/clip/InexpensiveGenerousHeronOSfrog-jFzASNFs5HKhGfah descartado: no es bueno (nada, nota 3: Es una charla seria y personal sin gracia ni contexto de juego.)
