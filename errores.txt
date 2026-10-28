@@ -711,3 +711,6 @@
 2026-10-28T10:07 https://www.twitch.tv/sirolopez56/clip/DreamyNimbleSlothPRChase-OVrCi-BCQO54KVnT descartado: no es bueno (nada, nota 3: Es una charla seria de tertulia deportiva sin momentos graciosos ni visuales impactantes.)
 2026-10-28T10:09 https://www.twitch.tv/aurorafractubela_uwu/clip/WonderfulPleasantHamburgerFloof-PQzQjHoyYNR0hJ55 descartado: no es bueno (nada, nota 3: Es un baile musical sin gracia ni contenido relevante para la comunidad.)
 2026-10-28T10:10 https://www.twitch.tv/araneaelol/clip/AnnoyingPopularDurianYee-aTKjVZSrfK1mPQil descartado: no es bueno (nada, nota 2: Es solo un streamer explicando una build de talentos sin que ocurra nada gracioso ni visual.)
+2026-10-28T10:22 https://www.twitch.tv/send0o/clip/TardyEnjoyableSheepJKanStyle-taaZEc8ayAGBNpHF descartado: no es bueno (nada, nota 3: Es una charla aleatoria sobre buscar trabajo y currículums, sin gracia ni contexto visual potente.)
+2026-10-28T10:22 https://www.twitch.tv/send0o/clip/PlausibleKindApeLeeroyJenkins-Htu-KJP_pi9fM2F2 descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin ninguna reacción especial ni gracia.)
+2026-10-28T10:22 https://www.twitch.tv/chiclanafriends/clip/ExcitedBlueWrenDendiFace-L4oprG7NxvayFesz descartado: no es bueno (nada, nota 3: Comentario sin gracia sobre un juego, falta contexto y no destaca.)
