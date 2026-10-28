@@ -726,3 +726,7 @@
 2026-10-28T13:39 https://www.twitch.tv/martinciriook/clip/DelightfulAgileMochaTwitchRPG-SXbX9I-F6QX1NOqk descartado: no es bueno (nada, nota 2: Es solo una charla entre streamers disfrazados sin momentos graciosos ni gameplay.)
 2026-10-28T14:30 https://www.twitch.tv/elbokeron/clip/AthleticColdUdonDoritosChip-7kVj4r9YMHZNZTtc descartado: no es bueno (nada, nota 3: Es una partida de estrategia compleja y requiere mucho contexto para entender la gracia.)
 2026-10-28T14:33 https://www.twitch.tv/elxokas/clip/HelplessDrabGoshawkImGlitch--vJCShe2VmcMnizY descartado: no es bueno (nada, nota 3: Insultos fuera de tono y lenguaje inadecuado para la monetización en redes.)
+2026-10-28T15:27 https://www.twitch.tv/rxiirl/clip/HeadstrongEnticingStrawberryCclamChamp-CEkeFX1_EECFDp37 descartado: no es bueno (nada, nota 3: Explicacion de una estrategia simple de juego sin ninguna reaccion exagerada ni fail gracioso.)
+2026-10-28T15:27 https://www.twitch.tv/snoodyboo/clip/ConcernedColorfulWoodcockOMGScoots-OTtCQgdC0-wnNBzR descartado: no es bueno (nada, nota 3: Es una jugada táctica de TFT que requiere contexto y no destaca por humor ni gráficos.)
+2026-10-28T15:30 https://www.twitch.tv/auronplay/clip/AverageAmazingWaspJKanStyle-zWuw2m5EtDoCBOr2 descartado: no es bueno (nada, nota 3: Es solo charla normal del streamer sin contexto ni gracia visual clara.)
+2026-10-28T15:31 https://www.twitch.tv/pandarina/clip/ObeseSucculentMelonTBTacoLeft-DfAONFUeuPGJtyu0 descartado: no es bueno (nada, nota 3: Es una charla seria y reflexiva, no es gracioso ni una escena visual.)
