@@ -739,3 +739,7 @@
 2026-10-28T19:11 https://www.twitch.tv/shainny_/clip/CrowdedDependableButterOhMyDog-FKkuOjZGpYeLSjMJ descartado: no es bueno (nada, nota 3: Es charla casual y monólogo sin gracia ni contexto suficiente para redes.)
 2026-10-28T19:11 https://www.twitch.tv/mixwell/clip/SincereMistyCrabPRChase-4rt8lpBqq47C0hdC descartado: no es bueno (nada, nota 3: Conversacion confusa de partida sin un remate gracioso claro fuera de contexto.)
 2026-10-28T19:12 https://www.twitch.tv/pokealexvgc/clip/WanderingAmazingChipmunkCeilingCat-sgQkM3CR23RVsMAs descartado: no es bueno (nada, nota 3: Conversación absurda y sin contexto viral fuera del directo de Pokémon.)
+2026-10-28T19:38 https://www.twitch.tv/ibai/clip/InventiveBreakableLaptopPermaSmug-1El-XpNFsxca_SQt descartado: no es bueno (nada, nota 3: Conversación seria sin gracia ni acción destacable que requiera contexto.)
+2026-10-28T19:38 https://www.twitch.tv/rubius/clip/RefinedHotTireCharlietheUnicorn-72zxGweldhiP0-Zu descartado: no es bueno (nada, nota 2: Es una charla seria sobre redes sociales sin humor ni contexto divertido.)
+2026-10-28T19:39 https://www.twitch.tv/horcus/clip/BitterBoxyStarSuperVinlin-LAkzHbhJk22xA4k9 descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin ninguna reacción especial ni momento gracioso.)
+2026-10-28T19:42 https://www.twitch.tv/rubius/clip/PhilanthropicDaintyShrimpFailFish-5tGWISpk4pleDYcI descartado: no es bueno (nada, nota 2: Es solo el streamer hablando de la prensa, sin gameplay ni humor.)
