@@ -724,3 +724,5 @@
 2026-10-28T13:24 https://www.twitch.tv/llobeti4/clip/CrunchyAggressiveMallardAliens-vPAJjn-byqMia8XN descartado: no es bueno (nada, nota 2: Es solo el streamer mirando la pantalla de carga sin que pase nada relevante.)
 2026-10-28T13:36 https://www.twitch.tv/kidi/clip/SmokyBadJamDancingBaby-BI480f9hdJx7N645 descartado: no es bueno (nada, nota 3: Es una charla informal sin contexto claro ni momento gracioso o impactante.)
 2026-10-28T13:39 https://www.twitch.tv/martinciriook/clip/DelightfulAgileMochaTwitchRPG-SXbX9I-F6QX1NOqk descartado: no es bueno (nada, nota 2: Es solo una charla entre streamers disfrazados sin momentos graciosos ni gameplay.)
+2026-10-28T14:30 https://www.twitch.tv/elbokeron/clip/AthleticColdUdonDoritosChip-7kVj4r9YMHZNZTtc descartado: no es bueno (nada, nota 3: Es una partida de estrategia compleja y requiere mucho contexto para entender la gracia.)
+2026-10-28T14:33 https://www.twitch.tv/elxokas/clip/HelplessDrabGoshawkImGlitch--vJCShe2VmcMnizY descartado: no es bueno (nada, nota 3: Insultos fuera de tono y lenguaje inadecuado para la monetización en redes.)
