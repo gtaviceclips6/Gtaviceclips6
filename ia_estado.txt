@@ -1,1 +1,4 @@
-2026-10-28 16:23 Gemini gemini-3.5-flash-lite: OK
+2026-10-28 16:44 Gemini sin respuesta: gemini-3.5-flash-lite: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60) | gemini-3.8-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60) | gemini-3.6-flash: HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60) | gemini-flash-latest=503:{
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are u
