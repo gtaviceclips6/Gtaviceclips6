@@ -744,3 +744,8 @@
 2026-10-28T19:39 https://www.twitch.tv/horcus/clip/BitterBoxyStarSuperVinlin-LAkzHbhJk22xA4k9 descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin ninguna reacción especial ni momento gracioso.)
 2026-10-28T19:42 https://www.twitch.tv/rubius/clip/PhilanthropicDaintyShrimpFailFish-5tGWISpk4pleDYcI descartado: no es bueno (nada, nota 2: Es solo el streamer hablando de la prensa, sin gameplay ni humor.)
 2026-10-28T20:20 https://www.twitch.tv/paache_/clip/BlushingTastyPigeonHassanChop-6cJdqQhZvAxBlK1L descartado: no es bueno (nada, nota 3: Falta contexto claro y no ocurre nada realmente gracioso o visualmente impactante.)
+2026-10-28T21:32 https://www.twitch.tv/ibai/clip/TriumphantSnappyCrocodileDancingBaby-E6w3u0KpZ_zu2CA_ descartado: no es bueno (nada, nota 3: Es una retransmisión de esports de League of Legends que requiere contexto y no resulta universalmente graciosa.)
+2026-10-28T21:33 https://www.twitch.tv/ibai/clip/SlickBlazingPorcupineSmoocherZ-v7AG4H7Qqjm9tS04 descartado: no es bueno (nada, nota 3: Es una jugada de League of Legends con vocabulario técnico que requiere contexto del juego.)
+2026-10-28T21:33 https://www.twitch.tv/elcalvolol/clip/HedonisticGoodLobsterSoonerLater-HTOQkmz4QyDaOU6R descartado: no es bueno (nada, nota 3: Es un paseo por la calle sin contexto ni gracia aparente.)
+2026-10-28T21:34 https://www.twitch.tv/rubius/clip/FunnyMiniatureReubenHumbleLife-s6dHK_t58HE38xwC descartado: no es bueno (nada, nota 3: Rubius está distraído hablando de la configuración de su pantalla y jugando sin momentos virales claros.)
+2026-10-28T21:34 https://www.twitch.tv/paache_/clip/CrazyHyperGooseBIRB-e0Rlfd2-hri73B3E descartado: no es bueno (nada, nota 2: Es una pantalla de carga y el streamer no hace nada relevante.)
