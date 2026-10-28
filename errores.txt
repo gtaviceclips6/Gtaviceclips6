@@ -689,3 +689,6 @@
 2026-10-27T23:09 https://www.twitch.tv/marinaifx/clip/SweetTenderLlamaCmonBruh-j_IqB7coWCiu2Lf9 descartado: no es bueno (nada, nota 3: Muerte típica en Minecraft sin gracia especial ni reacción destacable.)
 2026-10-28T00:03 https://www.twitch.tv/marinaifx/clip/AstuteZanyCodPeteZarollTie-ZPXfFRa4-wvsRFFv descartado: no es bueno (nada, nota 3: Charla normal jugando a Minecraft, sin momentos de humor relevante ni gran fail.)
 2026-10-28T00:03 https://www.twitch.tv/alanalarana/clip/InexpensiveGenerousHeronOSfrog-jFzASNFs5HKhGfah descartado: no es bueno (nada, nota 3: Es una charla seria y personal sin gracia ni contexto de juego.)
+2026-10-28T01:22 https://www.twitch.tv/alanalarana/clip/HyperMushyAlbatrossPJSalt-ppXE_ZZu7_ykRZGC descartado: no es bueno (nada, nota 3: Es una queja de chat o juego sin contexto claro ni gracia universal.)
+2026-10-28T01:22 https://www.twitch.tv/tvander/clip/LuckyThankfulCardBrokeBack-ptUlz2N_NSSNsu7F descartado: no es bueno (nada, nota 3: Es solo el inicio normal de una partida de Minecraft sin ningun acontecimiento gracioso.)
+2026-10-28T01:24 https://www.twitch.tv/13steg/clip/BenevolentTolerantDogeDogFace-tO0YofG9_3EJayaX descartado: no es bueno (nada, nota 3: Es una charla sobre precios de comida en una app, no hace gracia sin contexto.)
