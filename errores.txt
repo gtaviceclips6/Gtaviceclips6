@@ -736,3 +736,6 @@
 2026-10-28T16:44 https://www.twitch.tv/alvarostorm/clip/MiniatureAdorableClipsdadVoteNay-hW_kiZ52OqGI_3ja descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-10-28T17:41 https://www.twitch.tv/b0rja/clip/SuccessfulDiligentGrasshopperANELE-2d4yRGN8rrrKkWUj descartado: no es bueno (nada, nota 3: Clip de Valorant sin contexto claro ni comedia relevante para el gran público.)
 2026-10-28T17:47 https://www.twitch.tv/viizzzm/clip/SuspiciousPreciousMilkTheTarFu-tmOT0XA9PFBUBdJz descartado: no es bueno (nada, nota 3: Gameplay normal de Valorant con comunicación de partida sin momentos graciosos ni impresionantes.)
+2026-10-28T19:11 https://www.twitch.tv/shainny_/clip/CrowdedDependableButterOhMyDog-FKkuOjZGpYeLSjMJ descartado: no es bueno (nada, nota 3: Es charla casual y monólogo sin gracia ni contexto suficiente para redes.)
+2026-10-28T19:11 https://www.twitch.tv/mixwell/clip/SincereMistyCrabPRChase-4rt8lpBqq47C0hdC descartado: no es bueno (nada, nota 3: Conversacion confusa de partida sin un remate gracioso claro fuera de contexto.)
+2026-10-28T19:12 https://www.twitch.tv/pokealexvgc/clip/WanderingAmazingChipmunkCeilingCat-sgQkM3CR23RVsMAs descartado: no es bueno (nada, nota 3: Conversación absurda y sin contexto viral fuera del directo de Pokémon.)
