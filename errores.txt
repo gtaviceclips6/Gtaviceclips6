@@ -734,3 +734,5 @@
 2026-10-28T16:38 https://www.twitch.tv/sirmaza/clip/TacitBadPenguinTF2John-vIgU44DWTAGD29Wv descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin contexto ni comedia destacable.)
 2026-10-28T16:40 https://www.twitch.tv/rxiirl/clip/StrangeGleamingKeyboardPMSTwin-SjZAlDfUzX9f72oc descartado: no es bueno (nada, nota 3: Comentario random jugando sin contexto fuerte ni comedia clara para redes.)
 2026-10-28T16:44 https://www.twitch.tv/alvarostorm/clip/MiniatureAdorableClipsdadVoteNay-hW_kiZ52OqGI_3ja descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-28T17:41 https://www.twitch.tv/b0rja/clip/SuccessfulDiligentGrasshopperANELE-2d4yRGN8rrrKkWUj descartado: no es bueno (nada, nota 3: Clip de Valorant sin contexto claro ni comedia relevante para el gran público.)
+2026-10-28T17:47 https://www.twitch.tv/viizzzm/clip/SuspiciousPreciousMilkTheTarFu-tmOT0XA9PFBUBdJz descartado: no es bueno (nada, nota 3: Gameplay normal de Valorant con comunicación de partida sin momentos graciosos ni impresionantes.)
