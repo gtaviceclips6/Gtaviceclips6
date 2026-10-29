@@ -804,3 +804,6 @@
 2026-10-29T12:18 https://www.twitch.tv/dheylo/clip/LachrymoseDeadDinosaurHeyGuys--BUWkIgaPYL344r- descartado: no es bueno (nada, nota 3: Es una victoria normal en un juego sin reacción destacable ni momento gracioso.)
 2026-10-29T12:19 https://www.twitch.tv/blackelespanolito/clip/TriumphantSnappyFriesTriHard-8_IZd0Z4WtmlEJR2 descartado: no es bueno (nada, nota 3: Es una reaccion aburrida viendo imagenes estaticas, falta contexto y gracia.)
 2026-10-29T12:19 https://www.twitch.tv/valentisanjuan/clip/BreakablePolishedRaisinPRChase-pHIAoy9pGUcQmdzv descartado: no es bueno (nada, nota 3: Es una charla normal leyendo el chat sin ningún remate gracioso ni situación especial.)
+2026-10-29T13:23 https://www.twitch.tv/sirmaza/clip/UgliestAnimatedKiwiStinkyCheese-BIdHMQlvT4RMpqk0 descartado: no es bueno (nada, nota 3: Es una pantalla de menú con un baneo por AFK sin reacción graciosa.)
+2026-10-29T13:27 https://www.twitch.tv/angrodtralari/clip/FaithfulRacyFinchHoneyBadger-yHccqa9znhsoEtb- descartado: no es bueno (nada, nota 3: Gameplay comun de Overwatch sin momento gracioso ni jugada espectacular destacable.)
+2026-10-29T13:29 https://www.twitch.tv/angrodtralari/clip/IronicBombasticAyeayeFailFish-z-GN-dDcknpojOcF descartado: no es bueno (nada, nota 3: Es una jugada normal de partida con un susto corriente, falta contexto.)
