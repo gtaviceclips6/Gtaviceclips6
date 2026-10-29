@@ -826,3 +826,6 @@
 2026-10-29T19:17 https://www.twitch.tv/shainny_/clip/JollyFilthyJayPermaSmug-Xbd7mtLbxjRcjKn1 descartado: no es bueno (nada, nota 3: Charla normal de la streamer sin gracia ni contenido relevante para redes.)
 2026-10-29T19:19 https://www.twitch.tv/agustin51/clip/AffluentResilientSpindleOSsloth-3opWM-Jq7rE9Eixp descartado: no es bueno (nada, nota 3: Es una charla casual entre streamers jugando a Minecraft, sin gracia especial.)
 2026-10-29T19:21 https://www.twitch.tv/altertimesk/clip/CovertSwissEyeballFutureMan-_iHUAV42EAJV3n3V descartado: no es bueno (nada, nota 3: Es una charla interna de comunidad de WoW que requiere contexto sobre los streamers.)
+2026-10-29T19:28 https://www.twitch.tv/rubius/clip/SwissVenomousLorisFeelsBadMan-K1w94bia6xmeyADf descartado: no es bueno (nada, nota 4: Comentario sin gracia sobre el trailer, falta contexto humorístico real.)
+2026-10-29T19:29 https://www.twitch.tv/agustin51/clip/ClumsyDreamyGoatVoteYea-cAABpS8VQdRMBmnF descartado: no es bueno (nada, nota 3: Es una muerte tonta en Minecraft sin gracia ni impacto suficiente para viralizar.)
+2026-10-29T19:29 https://www.twitch.tv/rubius/clip/AnimatedBlueFungusItsBoshyTime-b0x4pFE1WdZBB6CQ descartado: no es bueno (nada, nota 3: Es Rubius comentando noticias de forma normal, sin reacción exagerada ni momento gracioso.)
