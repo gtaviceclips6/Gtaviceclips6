@@ -754,3 +754,5 @@
 2026-10-28T22:01 https://www.twitch.tv/marinaifx/clip/StormyFaintAlmondTwitchRPG-fOMW4C5qJ3qAfRGe descartado: no es bueno (nada, nota 3: Conversacion normal de streaming sin gracia ni contexto suficiente para viralizar.)
 2026-10-28T22:01 https://www.twitch.tv/rubius/clip/AwkwardLivelyLeopardKeyboardCat-v0SYvmxr3kDh_5NR descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin ninguna situación graciosa o relevante.)
 2026-10-28T22:02 https://www.twitch.tv/deusamir/clip/ConsiderateNiceSmoothiePipeHype-yyVjLv7rWc6n344v descartado: no es bueno (nada, nota 3: Es solo lootear y comentar una baja sin contexto ni gracia especial.)
+2026-10-29T00:07 https://www.twitch.tv/slakuntv/clip/TameSmokyWrenThisIsSparta-n3knOAb-_psuxMsu descartado: no es bueno (nada, nota 3: Es charla normal opinando sobre una votación, falta contexto y humor.)
+2026-10-29T00:07 https://www.twitch.tv/keyboyzzz/clip/GorgeousKindTireStrawBeary-6Vu_OaPSwl3q0hsm descartado: no es bueno (nada, nota 3: Conversación sin contexto claro y humor que no destaca fuera de directo.)
