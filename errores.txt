@@ -756,3 +756,8 @@
 2026-10-28T22:02 https://www.twitch.tv/deusamir/clip/ConsiderateNiceSmoothiePipeHype-yyVjLv7rWc6n344v descartado: no es bueno (nada, nota 3: Es solo lootear y comentar una baja sin contexto ni gracia especial.)
 2026-10-29T00:07 https://www.twitch.tv/slakuntv/clip/TameSmokyWrenThisIsSparta-n3knOAb-_psuxMsu descartado: no es bueno (nada, nota 3: Es charla normal opinando sobre una votación, falta contexto y humor.)
 2026-10-29T00:07 https://www.twitch.tv/keyboyzzz/clip/GorgeousKindTireStrawBeary-6Vu_OaPSwl3q0hsm descartado: no es bueno (nada, nota 3: Conversación sin contexto claro y humor que no destaca fuera de directo.)
+2026-10-29T01:21 https://www.twitch.tv/staryuuki/clip/ProudWrongJuiceDoggo-ZtezTgEmWqR5kzWf descartado: no es bueno (nada, nota 3: Es una broma simple del chat sin gracia visual ni reaccion destacable.)
+2026-10-29T01:21 https://www.twitch.tv/feirlygab/clip/OutstandingOriginalOryxMingLee-DJjNdcJVU8tbs35g descartado: no es bueno (nada, nota 3: Es un momento normal de gameplay de Minecraft, sin gracia especial ni contexto fuerte.)
+2026-10-29T01:22 https://www.twitch.tv/caresapo/clip/AwkwardConfidentPandaEagleEye-OkvM458Azweva8MT descartado: no es bueno (nada, nota 2: Es una partida normal de League of Legends sin ninguna jugada especial ni gracia.)
+2026-10-29T01:24 https://www.twitch.tv/crystalmolly/clip/TriangularMildRaisinOMGScoots-i33LtrB7eOwQyb6y descartado: no es bueno (nada, nota 3: Es solo la streamer hablando a cámara sin gameplay ni situaciones graciosas.)
+2026-10-29T01:25 https://www.twitch.tv/evapartis/clip/StormySarcasticFalconWow-MI0Vu1mG8di21lGV descartado: no es bueno (nada, nota 3: Es solo la streamer leyendo agradecimientos de subs, sin ningun momento gracioso o relevante.)
