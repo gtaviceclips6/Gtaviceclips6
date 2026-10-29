@@ -813,3 +813,6 @@
 2026-10-29T16:34 https://www.twitch.tv/alvarostorm/clip/ThoughtfulSlickShrewPogChamp-sh4lETzr6NZdT_wi descartado: no es bueno (nada, nota 2: Es solo la pantalla de seleccion de campeones de LoL sin contexto.)
 2026-10-29T16:36 https://www.twitch.tv/ibai/clip/IncredulousWildShieldKappa-MwrJ07bkbyEWW9X5 descartado: no es bueno (nada, nota 3: Conversacion absurda sin gracia real ni contexto visual potente para redes.)
 2026-10-29T16:37 https://www.twitch.tv/bale_gg/clip/ResourcefulTenderMinkUWot-3d450Qydl3Bb8WhA descartado: no es bueno (nada, nota 3: Es una partida normal de Clash Royale comentada, sin gracia especial ni viralidad.)
+2026-10-29T17:27 https://www.twitch.tv/viizzzm/clip/EagerGiantKeyboardResidentSleeper-sXL5PxzX6uB7xKwD descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin gracia ni contexto suficiente para viralizar.)
+2026-10-29T17:28 https://www.twitch.tv/alvarostorm/clip/BraveCleanStrawberryDerp-IJjMVFExPx2Rv6ka descartado: no es bueno (nada, nota 3: Clip de gameplay de LoL con jerga interna que no interesa fuera de su comunidad.)
+2026-10-29T17:30 https://www.twitch.tv/mangel/clip/AlluringFurryBadgerPupper-LfVNaWHxff76-SY8 descartado: no es bueno (nada, nota 3: Comentario genérico de partida sin momentos especialmente graciosos ni visuales.)
