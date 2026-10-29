@@ -807,3 +807,6 @@
 2026-10-29T13:23 https://www.twitch.tv/sirmaza/clip/UgliestAnimatedKiwiStinkyCheese-BIdHMQlvT4RMpqk0 descartado: no es bueno (nada, nota 3: Es una pantalla de menú con un baneo por AFK sin reacción graciosa.)
 2026-10-29T13:27 https://www.twitch.tv/angrodtralari/clip/FaithfulRacyFinchHoneyBadger-yHccqa9znhsoEtb- descartado: no es bueno (nada, nota 3: Gameplay comun de Overwatch sin momento gracioso ni jugada espectacular destacable.)
 2026-10-29T13:29 https://www.twitch.tv/angrodtralari/clip/IronicBombasticAyeayeFailFish-z-GN-dDcknpojOcF descartado: no es bueno (nada, nota 3: Es una jugada normal de partida con un susto corriente, falta contexto.)
+2026-10-29T15:35 https://www.twitch.tv/sirmaza/clip/ExuberantLitigiousEndiveJKanStyle-s3nDd09fJoEUyc8D descartado: no es bueno (nada, nota 3: Partida normal de Valorant sin ningun fail gordo o momento especialmente gracioso.)
+2026-10-29T15:40 https://www.twitch.tv/x9nium/clip/BenevolentDignifiedGarlicDatBoi-SzPzMeyEM8hB-p5_ descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-10-29T15:44 https://www.twitch.tv/agorafutbol/clip/CuteMoistEggVoteYea-ds0fFk_KAJOgumUY descartado: no es bueno (nada, nota 3: Conversación de stream sin contexto general y humor muy local que no destaca.)
