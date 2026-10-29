@@ -837,3 +837,8 @@
 2026-10-29T21:19 https://www.twitch.tv/ibai/clip/SuperBelovedEyeballGingerPower-FfQFTP-2I-0I2fe8 descartado: no es bueno (nada, nota 3: Es una charla casual sobre salseo interno que requiere demasiado contexto previo.)
 2026-10-29T21:22 https://www.twitch.tv/miguelillo_rl/clip/FunSpineyChoughPermaSmug-eLcIsM9Ow9LG3H5B descartado: no es bueno (nada, nota 3: Es solo un gameplay normal de Geometry Dash hablando sin gracia especial.)
 2026-10-29T21:23 https://www.twitch.tv/sergicabrer3/clip/ScrumptiousCallousCheddarSoBayed-gF_LRD8Ti8XocVwF descartado: no es bueno (nada, nota 3: Es una situacion real de viaje, no un momento gracioso de juego ni escenico.)
+2026-10-29T21:59 https://www.twitch.tv/aldo_geo/clip/TallComfortableCrocodileCopyThis-TUD2n815zd-c8Qzs descartado: no es bueno (nada, nota 3: Insultos genéricos jugando sin ninguna gracia especial ni contexto divertido.)
+2026-10-29T21:59 https://www.twitch.tv/aldo_geo/clip/DoubtfulFriendlyShrewBatChest-0COWqJRrXdXMzmlw descartado: no es bueno (nada, nota 3: El streamer solo habla solo y se lía con los controles, falta contexto divertido.)
+2026-10-29T22:00 https://www.twitch.tv/chousita___/clip/AstuteAbrasiveWasabiMrDestructoid-T_Ec_FofjZZVjMAt descartado: no es bueno (nada, nota 2: Es un tutorial de ajustes del juego, no es gracioso ni una escena visualmente impactante.)
+2026-10-29T22:02 https://www.twitch.tv/auronplay/clip/SmoothTransparentSoybeanImGlitch-UrofWbi7IeTaEzW7 descartado: no es bueno (nada, nota 3: Charla aburrida sin contexto claro ni comedia relevante.)
+2026-10-29T22:03 https://www.twitch.tv/auronplay/clip/DoubtfulBrainyAlpacaHumbleLife-YXdDpIBLM-kq_yl8 descartado: no es bueno (nada, nota 3: Es una charla opinando sobre el juego, no hay ninguna situacion graciosa ni gameplay.)
