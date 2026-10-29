@@ -832,3 +832,8 @@
 2026-10-29T20:18 https://www.twitch.tv/miguelillo_rl/clip/CuriousMotionlessBisonRalpherZ-VIRJeb_yPNxYdtvg descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve a gente charlando y comiendo pizza.)
 2026-10-29T20:18 https://www.twitch.tv/miguelillo_rl/clip/HelplessImpartialWaspSMOrc-PMj4GIaTNIYj8_mo descartado: no es bueno (nada, nota 3: Es una charla explicativa sobre juegos, falta contexto de humor y no pasa nada gracioso.)
 2026-10-29T20:19 https://www.twitch.tv/rxiirl/clip/AlertOilyPicklesDoggo-sS58RwtXgl9N07V2 descartado: no es bueno (nada, nota 3: Es solo una partida normal de Rocket League sin nada destacable ni gracioso.)
+2026-10-29T21:16 https://www.twitch.tv/ibai/clip/ClumsyInterestingButterDBstyle-j1I9gt_M4EXI_KGn descartado: no es bueno (nada, nota 3: Comentario fuera de tono y contexto random que incumple las normas de moderación.)
+2026-10-29T21:18 https://www.twitch.tv/miguelillo_rl/clip/OddEntertainingGorillaImGlitch-W9Mpli4KuWX_LOXI descartado: no es bueno (nada, nota 3: Conversacion interna sin gracia evidente ni contexto claro para gente ajena.)
+2026-10-29T21:19 https://www.twitch.tv/ibai/clip/SuperBelovedEyeballGingerPower-FfQFTP-2I-0I2fe8 descartado: no es bueno (nada, nota 3: Es una charla casual sobre salseo interno que requiere demasiado contexto previo.)
+2026-10-29T21:22 https://www.twitch.tv/miguelillo_rl/clip/FunSpineyChoughPermaSmug-eLcIsM9Ow9LG3H5B descartado: no es bueno (nada, nota 3: Es solo un gameplay normal de Geometry Dash hablando sin gracia especial.)
+2026-10-29T21:23 https://www.twitch.tv/sergicabrer3/clip/ScrumptiousCallousCheddarSoBayed-gF_LRD8Ti8XocVwF descartado: no es bueno (nada, nota 3: Es una situacion real de viaje, no un momento gracioso de juego ni escenico.)
