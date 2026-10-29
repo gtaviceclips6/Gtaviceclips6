@@ -829,3 +829,6 @@
 2026-10-29T19:28 https://www.twitch.tv/rubius/clip/SwissVenomousLorisFeelsBadMan-K1w94bia6xmeyADf descartado: no es bueno (nada, nota 4: Comentario sin gracia sobre el trailer, falta contexto humorístico real.)
 2026-10-29T19:29 https://www.twitch.tv/agustin51/clip/ClumsyDreamyGoatVoteYea-cAABpS8VQdRMBmnF descartado: no es bueno (nada, nota 3: Es una muerte tonta en Minecraft sin gracia ni impacto suficiente para viralizar.)
 2026-10-29T19:29 https://www.twitch.tv/rubius/clip/AnimatedBlueFungusItsBoshyTime-b0x4pFE1WdZBB6CQ descartado: no es bueno (nada, nota 3: Es Rubius comentando noticias de forma normal, sin reacción exagerada ni momento gracioso.)
+2026-10-29T20:18 https://www.twitch.tv/miguelillo_rl/clip/CuriousMotionlessBisonRalpherZ-VIRJeb_yPNxYdtvg descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve a gente charlando y comiendo pizza.)
+2026-10-29T20:18 https://www.twitch.tv/miguelillo_rl/clip/HelplessImpartialWaspSMOrc-PMj4GIaTNIYj8_mo descartado: no es bueno (nada, nota 3: Es una charla explicativa sobre juegos, falta contexto de humor y no pasa nada gracioso.)
+2026-10-29T20:19 https://www.twitch.tv/rxiirl/clip/AlertOilyPicklesDoggo-sS58RwtXgl9N07V2 descartado: no es bueno (nada, nota 3: Es solo una partida normal de Rocket League sin nada destacable ni gracioso.)
