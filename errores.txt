@@ -842,3 +842,5 @@
 2026-10-29T22:00 https://www.twitch.tv/chousita___/clip/AstuteAbrasiveWasabiMrDestructoid-T_Ec_FofjZZVjMAt descartado: no es bueno (nada, nota 2: Es un tutorial de ajustes del juego, no es gracioso ni una escena visualmente impactante.)
 2026-10-29T22:02 https://www.twitch.tv/auronplay/clip/SmoothTransparentSoybeanImGlitch-UrofWbi7IeTaEzW7 descartado: no es bueno (nada, nota 3: Charla aburrida sin contexto claro ni comedia relevante.)
 2026-10-29T22:03 https://www.twitch.tv/auronplay/clip/DoubtfulBrainyAlpacaHumbleLife-YXdDpIBLM-kq_yl8 descartado: no es bueno (nada, nota 3: Es una charla opinando sobre el juego, no hay ninguna situacion graciosa ni gameplay.)
+2026-10-29T22:14 https://www.twitch.tv/baitybait/clip/ClumsySassyGoldfishDAESuppy-yyVpZMc8_fvGFIW_ descartado: no es bueno (nada, nota 3: El enfado con el juego es caótico y no se entiende bien la situación sin contexto.)
+2026-10-29T22:14 https://www.twitch.tv/marinaifx/clip/HedonisticExquisiteSharkNerfRedBlaster-kfqARvL9wghKhDSd descartado: no es bueno (nada, nota 3: Conversacion aburrida leyendo un mensaje sin ninguna reaccion destacable ni gracia.)
