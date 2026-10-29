@@ -816,3 +816,7 @@
 2026-10-29T17:27 https://www.twitch.tv/viizzzm/clip/EagerGiantKeyboardResidentSleeper-sXL5PxzX6uB7xKwD descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin gracia ni contexto suficiente para viralizar.)
 2026-10-29T17:28 https://www.twitch.tv/alvarostorm/clip/BraveCleanStrawberryDerp-IJjMVFExPx2Rv6ka descartado: no es bueno (nada, nota 3: Clip de gameplay de LoL con jerga interna que no interesa fuera de su comunidad.)
 2026-10-29T17:30 https://www.twitch.tv/mangel/clip/AlluringFurryBadgerPupper-LfVNaWHxff76-SY8 descartado: no es bueno (nada, nota 3: Comentario genérico de partida sin momentos especialmente graciosos ni visuales.)
+2026-10-29T18:20 https://www.twitch.tv/viizzzm/clip/CrazyBrightSquirrelPeteZaroll-BvyXW903j4c09D3u descartado: no es bueno (nada, nota 3: Conversación interna sobre jugar con un compañero sin ninguna reacción o momento realmente gracioso.)
+2026-10-29T18:20 https://www.twitch.tv/skain/clip/UnusualPlayfulPigeonHumbleLife-2yvo34PaUpVfA6A- descartado: no es bueno (nada, nota 3: Reacción exagerada sin contexto claro ni situación realmente graciosa para el espectador.)
+2026-10-29T18:21 https://www.twitch.tv/seii__/clip/FunnyStylishManateeTBTacoLeft-sHtebeeWAYHlAFo2 descartado: no es bueno (nada, nota 3: Es una navegación por Google sin gracia ni interés real para redes.)
+2026-10-29T18:21 https://www.twitch.tv/knekro/clip/BovineLongFiddleheadsWoofer-3oQiLzLBRdk7to8W descartado: no es bueno (nada, nota 3: Comentario de gameplay genérico sin reacción destacable ni momento viral claro.)
