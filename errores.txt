@@ -852,3 +852,5 @@
 2026-10-30T04:07 https://www.twitch.tv/sofikimmy/clip/TubularMuddyBatAMPEnergy-haJNSO7rknDtkXYN descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con menús de tienda, falta contexto y gracia.)
 2026-10-30T04:08 https://www.twitch.tv/caprimint/clip/CrispyPoisedRuffShazBotstix-EaQXV_q0amg0QPMN descartado: no es bueno (nada, nota 3: Es una anécdota larga hablando sin gracia real ni contexto visual potente.)
 2026-10-30T04:09 https://www.twitch.tv/caprimint/clip/MistyMoistReubenCoolCat-5jPv6JoGKgm393wW descartado: no es bueno (nada, nota 3: Es una charla cotidiana sobre unos roomies y escaleras, falta contexto y gracia.)
+2026-10-30T07:20 https://www.twitch.tv/aurorafractubela_uwu/clip/HonestEphemeralSalsifyTBCheesePull-ecINEEDcDkOYwCxV descartado: no es bueno (nada, nota 1: Es un stream sin contenido ni accion, solo una pose estatica.)
+2026-10-30T07:20 https://www.twitch.tv/elcamacho24/clip/DirtyTalentedNewtSquadGoals-3YVbuRFmY6nWsbL9 ERROR: unable to download video data: HTTP Error 403: Forbidden
