@@ -875,3 +875,7 @@
 2026-10-30T13:18 https://www.twitch.tv/elbokeron/clip/SuspiciousAverageMomChocolateRain-FwzWkOnCFTtpTEAq descartado: no es bueno (nada, nota 3: El streamer habla solo sin que ocurra nada impactante ni gracioso.)
 2026-10-30T14:31 https://www.twitch.tv/feeckz/clip/FurryInterestingRatTwitchRPG-9z5HVc3aklJC__fs descartado: no es bueno (nada, nota 3: Ausencia de gracia o espectacularidad visual, solo un personaje AFK muriendo.)
 2026-10-30T14:36 https://www.twitch.tv/alvarostorm/clip/SincereExpensiveWalrusTTours-Oq8OcxlXODkwOL1l descartado: no es bueno (nada, nota 3: Solo enseña menús de estadísticas tras la partida sin ninguna situación graciosa o destacable)
+2026-10-30T17:18 https://www.twitch.tv/pepe/clip/AntediluvianPowerfulKathyWTRuck-11Cqi0X6xorT0RLD descartado: no es bueno (nada, nota 1: Solo muestra menús y pantallas de carga sin nada de acción ni contenido gracioso.)
+2026-10-30T17:19 https://www.twitch.tv/sirmaza/clip/FriendlyFitBaboonPeanutButterJellyTime-FyAZZnImvwywTAFE descartado: no es bueno (nada, nota 3: Jugando a Valorant, falta de contexto y poca gracia sin conocer la partida.)
+2026-10-30T17:19 https://www.twitch.tv/pepe/clip/HealthyCautiousStrawberryWOOP-bqplzqqg55mXvCji descartado: no es bueno (nada, nota 1: Es solo un menú de carga y selección de servidor, no pasa nada interesante.)
+2026-10-30T17:19 https://www.twitch.tv/vegetta777/clip/HelplessCourageousPassionfruitSpicyBoy-2Q57EZolzrqPvlv5 descartado: no es bueno (nada, nota 3: Vegetta comentando un mapa de Minecraft sin nada gracioso ni impactante.)
