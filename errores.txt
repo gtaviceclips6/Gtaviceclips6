@@ -847,3 +847,8 @@
 2026-10-29T23:13 https://www.twitch.tv/fesbak/clip/CloudyPricklyHabaneroArgieB8-0C13oYE5c1SI82Qx descartado: no es bueno (nada, nota 3: Es una jugada normal de esports sin ninguna reacción realmente graciosa o épica.)
 2026-10-30T01:27 https://www.twitch.tv/elmariana/clip/ColdCheerfulRaccoonArsonNoSexy-83bKO-j5BzmMZPOA descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni accion relevante.)
 2026-10-30T01:27 https://www.twitch.tv/elmariana/clip/ThoughtfulReliableSquirrelTwitchRaid-rt_yXNxXct1Nz_WE descartado: no es bueno (nada, nota 3: Es una charla seria del streamer sobre redes sociales, sin humor ni juego.)
+2026-10-30T04:06 https://www.twitch.tv/cursedfiber78/clip/RamshackleAstuteToadDoubleRainbow-6hud4nVucoNFkpq2 descartado: no es bueno (nada, nota 3: Es solo un comentario de chat random, falta contexto y gracia real.)
+2026-10-30T04:07 https://www.twitch.tv/safiro01/clip/HilariousConfidentTofuAMPTropPunch-kGyfWIQYLdH2qgp9 descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant sin ningun toque especialmente gracioso ni cinematico.)
+2026-10-30T04:07 https://www.twitch.tv/sofikimmy/clip/TubularMuddyBatAMPEnergy-haJNSO7rknDtkXYN descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con menús de tienda, falta contexto y gracia.)
+2026-10-30T04:08 https://www.twitch.tv/caprimint/clip/CrispyPoisedRuffShazBotstix-EaQXV_q0amg0QPMN descartado: no es bueno (nada, nota 3: Es una anécdota larga hablando sin gracia real ni contexto visual potente.)
+2026-10-30T04:09 https://www.twitch.tv/caprimint/clip/MistyMoistReubenCoolCat-5jPv6JoGKgm393wW descartado: no es bueno (nada, nota 3: Es una charla cotidiana sobre unos roomies y escaleras, falta contexto y gracia.)
