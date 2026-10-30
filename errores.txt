@@ -845,3 +845,5 @@
 2026-10-29T22:14 https://www.twitch.tv/baitybait/clip/ClumsySassyGoldfishDAESuppy-yyVpZMc8_fvGFIW_ descartado: no es bueno (nada, nota 3: El enfado con el juego es caótico y no se entiende bien la situación sin contexto.)
 2026-10-29T22:14 https://www.twitch.tv/marinaifx/clip/HedonisticExquisiteSharkNerfRedBlaster-kfqARvL9wghKhDSd descartado: no es bueno (nada, nota 3: Conversacion aburrida leyendo un mensaje sin ninguna reaccion destacable ni gracia.)
 2026-10-29T23:13 https://www.twitch.tv/fesbak/clip/CloudyPricklyHabaneroArgieB8-0C13oYE5c1SI82Qx descartado: no es bueno (nada, nota 3: Es una jugada normal de esports sin ninguna reacción realmente graciosa o épica.)
+2026-10-30T01:27 https://www.twitch.tv/elmariana/clip/ColdCheerfulRaccoonArsonNoSexy-83bKO-j5BzmMZPOA descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni accion relevante.)
+2026-10-30T01:27 https://www.twitch.tv/elmariana/clip/ThoughtfulReliableSquirrelTwitchRaid-rt_yXNxXct1Nz_WE descartado: no es bueno (nada, nota 3: Es una charla seria del streamer sobre redes sociales, sin humor ni juego.)
