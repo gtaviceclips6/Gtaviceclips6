@@ -865,3 +865,4 @@
 2026-10-30T09:24 https://www.twitch.tv/el_yuste/clip/TawdrySpeedyNigiriFeelsBadMan-QtVabVhmKEUkU6z0 descartado: no es bueno (nada, nota 2: Es debate político serio y opinión de un streamer, no encaja en humor ni cinemática.)
 2026-10-30T10:08 https://www.twitch.tv/mumusiraneitor/clip/NaiveDeafSproutSpicyBoy-keNDz0gPSd6TntS5 descartado: no es bueno (nada, nota 3: Es solo la streamer mostrando su ropa y hablando sin que pase nada relevante.)
 2026-10-30T10:09 https://www.twitch.tv/champi14/clip/AgreeableAlluringSalsifyFreakinStinkin-vE_Xj7OJqK5GjMDO descartado: no es bueno (nada, nota 3: Es una charla aburrida analizando datos de eSports sin ninguna gracia ni momento épico.)
+2026-10-30T10:22 https://www.twitch.tv/rubius/clip/PolishedObservantRingHassanChop-8GZHAbvRS_zMgtX3 descartado: no es bueno (nada, nota 3: Rubius leyendo un texto largo y aburrido sin ninguna reacción graciosa destacable.)
