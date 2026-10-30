@@ -885,3 +885,5 @@
 2026-10-30T20:13 https://www.twitch.tv/ibai/clip/ScrumptiousStylishWatermelonJKanStyle-ze2LwtjZnBo32p8v descartado: no es bueno (nada, nota 3: Es una charla normal de Ibai hablando de esports y Worlds sin ningún momento gracioso.)
 2026-10-30T20:14 https://www.twitch.tv/beniju03/clip/ObedientSmellyAxeSwiftRage-_VZtHWU5EJCmAG00 descartado: no es bueno (nada, nota 3: Es una partida larga de Clash Royale comentada con normalidad, sin momentos graciosos ni virales.)
 2026-10-30T20:14 https://www.twitch.tv/trebor/clip/FragileMiniatureWeaselPartyTime-ABajFfZsje6aDQ5f descartado: no es bueno (nada, nota 3: Comentario de stream sin contexto visual relevante ni situación cómica destacable para redes.)
+2026-10-30T21:14 https://www.twitch.tv/roier/clip/OddTriumphantHerbsCorgiDerp-TSe2he77El-szfcz descartado: no es bueno (nada, nota 3: Falta contexto para entender la broma y no resulta gracioso sin saber de qué va.)
+2026-10-30T21:15 https://www.twitch.tv/paache_/clip/HelplessAltruisticWolfAMPTropPunch--dLdaKoUQp3RYimP descartado: no es bueno (nada, nota 3: Es una jugada normal de Rocket League sin gracia ni impacto visual.)
