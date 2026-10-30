@@ -873,3 +873,5 @@
 2026-10-30T12:14 https://www.twitch.tv/dheylo/clip/CaringBillowingSpiderWoofer-cpVZ9HmMKmNl5-ue descartado: no es bueno (nada, nota 3: Comentario de juego aburrido sin gracia ni accion relevante para redes.)
 2026-10-30T12:15 https://www.twitch.tv/elbokeron/clip/FreezingCallousPorcupinePhilosoraptor-md2GQVhuMAqTKXUV descartado: no es bueno (nada, nota 3: Comentario sin gracia y sin contexto visual potente para enganchar en redes.)
 2026-10-30T13:18 https://www.twitch.tv/elbokeron/clip/SuspiciousAverageMomChocolateRain-FwzWkOnCFTtpTEAq descartado: no es bueno (nada, nota 3: El streamer habla solo sin que ocurra nada impactante ni gracioso.)
+2026-10-30T14:31 https://www.twitch.tv/feeckz/clip/FurryInterestingRatTwitchRPG-9z5HVc3aklJC__fs descartado: no es bueno (nada, nota 3: Ausencia de gracia o espectacularidad visual, solo un personaje AFK muriendo.)
+2026-10-30T14:36 https://www.twitch.tv/alvarostorm/clip/SincereExpensiveWalrusTTours-Oq8OcxlXODkwOL1l descartado: no es bueno (nada, nota 3: Solo enseña menús de estadísticas tras la partida sin ninguna situación graciosa o destacable)
