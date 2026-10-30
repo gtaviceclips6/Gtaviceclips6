@@ -860,3 +860,6 @@
 2026-10-30T08:28 https://www.twitch.tv/aurorafractubela_uwu/clip/HeartlessFrailYakSeemsGood-Vn6WrRqFQxO_qIHb descartado: no es bueno (nada, nota 3: Streamer saludando o posando sin contexto ni humor relevante para redes.)
 2026-10-30T08:28 https://www.twitch.tv/betitodeidadsygod/clip/HonorableSpunkyChipmunkBigBrother-tLrpFqhLD84C-3-D descartado: no es bueno (nada, nota 3: Es una cinemática de Resident Evil 6, no un momento propio del streamer ni de GTA.)
 2026-10-30T08:28 https://www.twitch.tv/natymoon/clip/LongCoyPlumagePeanutButterJellyTime-zifh9SRiISGvWk1c descartado: no es bueno (nada, nota 2: Es un stream típico de ASMR sin ninguna situación graciosa o relevante.)
+2026-10-30T09:23 https://www.twitch.tv/opoartstudy/clip/BlushingFunShingleTBCheesePull-nUBcyagB5Lidkbzv descartado: no es bueno (nada, nota 3: Es un momento tierno con un perro pero sin gracia ni relevancia para viralizar.)
+2026-10-30T09:23 https://www.twitch.tv/el_yuste/clip/CalmAstuteWrenchCharlietheUnicorn-z9Uro_EaXlchUrkn descartado: no es bueno (nada, nota 2: Es un discurso político serio y enfadado, no cumple con los criterios de entretenimiento.)
+2026-10-30T09:24 https://www.twitch.tv/el_yuste/clip/TawdrySpeedyNigiriFeelsBadMan-QtVabVhmKEUkU6z0 descartado: no es bueno (nada, nota 2: Es debate político serio y opinión de un streamer, no encaja en humor ni cinemática.)
