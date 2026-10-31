@@ -892,3 +892,8 @@
 2026-10-30T21:59 https://www.twitch.tv/cahos_gaming/clip/MotionlessSmallShrimpBIRB-uDvRurBevfjkKr5O descartado: no es bueno (nada, nota 3: Contenido genérico de MMO sin gracia ni valor visual relevante para viralizar.)
 2026-10-30T22:13 https://www.twitch.tv/ibai/clip/SnappyHardPeafowlTheRinger-_QEb1ddiDTvgA0C_ descartado: no es bueno (nada, nota 3: Comentario fuera de contexto y sin gracia sin la situación completa.)
 2026-10-31T00:09 https://www.twitch.tv/miriam_petricor/clip/PoisedGentleOtterSaltBae-n4bgPOe0ZpRJpBNl descartado: no es bueno (nada, nota 3: El clip transcurre en el menú de pausa con charla sin acción destacable)
+2026-10-31T01:22 https://www.twitch.tv/ibai/clip/ArtisticCalmRhinocerosMingLee-ZZgVCsM9nFjIxvZ3 descartado: no es bueno (nada, nota 3: Reacción típica de directo comentando un sorteo que requiere contexto de esports.)
+2026-10-31T01:22 https://www.twitch.tv/crystalmolly/clip/TiredShortKoupreyFunRun-H6fBO_BdolR7o93L descartado: no es bueno (nada, nota 3: Es un stream normal charlando y mostrando un disfraz, sin momento gracioso ni impacto visual fuerte.)
+2026-10-31T01:22 https://www.twitch.tv/ibai/clip/RealFairCoyoteTheTarFu-EyRWvK_CGmuG6yl3 descartado: no es bueno (nada, nota 3: Charla normal de Ibai comentando una partida sin gracia ni momentos impactantes.)
+2026-10-31T01:23 https://www.twitch.tv/marinaifx/clip/KnottyHilariousWalletKippa-aPtc3CCT0VPoOEc9 descartado: no es bueno (nada, nota 3: Es una charla de chat sin gracia ni momento destacable.)
+2026-10-31T01:26 https://www.twitch.tv/marinaifx/clip/IronicPrettiestSandpiperPraiseIt-tbga7K5oKH8OHr5r descartado: no es bueno (nada, nota 3: Es una charla cotidiana sin gracia ni contexto suficiente para destacar en redes.)
