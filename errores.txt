@@ -898,3 +898,7 @@
 2026-10-31T01:23 https://www.twitch.tv/marinaifx/clip/KnottyHilariousWalletKippa-aPtc3CCT0VPoOEc9 descartado: no es bueno (nada, nota 3: Es una charla de chat sin gracia ni momento destacable.)
 2026-10-31T01:26 https://www.twitch.tv/marinaifx/clip/IronicPrettiestSandpiperPraiseIt-tbga7K5oKH8OHr5r descartado: no es bueno (nada, nota 3: Es una charla cotidiana sin gracia ni contexto suficiente para destacar en redes.)
 2026-10-31T04:03 https://www.twitch.tv/nenecreative/clip/GentleElegantQueleaBleedPurple-MlckBCFaLC7t8BD0 descartado: no es bueno (nada, nota 3: Es una jugada de Rocket League sin gracia ni contexto suficiente para viralizar.)
+2026-10-31T07:16 https://www.twitch.tv/rockstarcr/clip/FaithfulSmoggyParrotTBTacoLeft-GIgDrEjjiHYSD-Sq descartado: no es bueno (nada, nota 3: Es una charla normal del streamer explicando algo, sin golpe humorístico claro.)
+2026-10-31T07:17 https://www.twitch.tv/aurorafractubela_uwu/clip/AlluringCorrectTireCurseLit-EwQdFc2C2UxGP_2_ descartado: no es bueno (nada, nota 2: Streamer sin hablar, no ocurre nada relevante ni gracioso en el clip.)
+2026-10-31T07:17 https://www.twitch.tv/srtumbao/clip/SpicyGloriousKimchiSpicyBoy-aaC0zQBmEFT6OM2k descartado: no es bueno (nada, nota 3: Falta contexto y no tiene suficiente gracia o impacto visual para redes.)
+2026-10-31T07:17 https://www.twitch.tv/rubius/clip/ExquisiteIcyJackalMVGame-TdRG2fvjLKE-Af6w descartado: no es bueno (nada, nota 3: Comentario sin gracia sobre Halloween que requiere contexto y no aporta nada divertido.)
