@@ -917,3 +917,8 @@
 2026-10-31T11:07 https://www.twitch.tv/adcshiiro/clip/InventiveLovelyBisonSwiftRage-OEMCvKfEMeVdodyU descartado: no es bueno (nada, nota 3: Es una charla aburrida sobre salseo o relaciones jugando al LoL sin gracia.)
 2026-10-31T11:07 https://www.twitch.tv/ache/clip/SpicyGentleAnteaterChefFrank-aE8H5K0eNGdGOS2y descartado: no es bueno (nada, nota 3: Es solo una opinion seria hablando de otro jugador sin ninguna gracia ni accion epica.)
 2026-10-31T11:08 https://www.twitch.tv/ache/clip/StupidCarelessTarsierTheThing-4zjMKAW_NL8Ts4le descartado: no es bueno (nada, nota 3: Es una charla casual del streamer corriendo por el mapa, sin gracia ni acción destacable.)
+2026-10-31T12:07 https://www.twitch.tv/aurorafractubela_uwu/clip/NeighborlyFamousEchidnaTheTarFu-zFshyXX8FyiB2xbz descartado: no es bueno (nada, nota 2: Contenido genérico de ASMR sin relación con GTA ni humor viral.)
+2026-10-31T12:07 https://www.twitch.tv/pokealexvgc/clip/SmokyGleamingRuffAliens-ButgHW8zO8fr3UBn descartado: no es bueno (nada, nota 3: Es una jugada normal de Pokémon sin gracia ni contexto suficiente para viralizar.)
+2026-10-31T12:08 https://www.twitch.tv/angrodtralari/clip/AgreeableShortHornetShadyLulu-OWf07LX3rS7O91T8 descartado: no es bueno (nada, nota 3: Es una jugada normal de videojuego sin una reaccion especialmente graciosa o epica.)
+2026-10-31T12:10 https://www.twitch.tv/phobyac/clip/TawdryDeafBubbleteaWTRuck-b0Ep7ilrUJJYN0cl descartado: no es bueno (nada, nota 3: Es una charla interna sobre anécdotas de un amigo que requiere contexto previo.)
+2026-10-31T12:11 https://www.twitch.tv/ache/clip/MistyAwkwardMeerkatTinyFace-LQdqtF-gmDb4Cjv5 descartado: no es bueno (nada, nota 3: Es solo charla interna del streamer sin contexto ni gracia especial para redes.)
