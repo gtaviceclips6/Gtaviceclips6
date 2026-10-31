@@ -941,3 +941,4 @@
 2026-10-31T21:58 https://www.twitch.tv/marinaifx/clip/CaringRamshackleOxMcaT-RS1KcgqF7cwuER2Q descartado: no es bueno (nada, nota 3: Conversación absurda y confusa sobre comida que requiere demasiado contexto y no hace gracia.)
 2026-10-31T22:00 https://www.twitch.tv/willyrex/clip/NicePerfectIguanaDancingBaby-QYswIHTJJQcck0nY descartado: no es bueno (nada, nota 3: Es Willyrex jugando a un juego indie genérico dando las gracias por una suscripción sin más.)
 2026-10-31T22:00 https://www.twitch.tv/alexelcapo/clip/QuaintSucculentRingNerfRedBlaster-26JEdVg6n62Xp3Ew descartado: no es bueno (nada, nota 3: Conversacion random sin gracia ni accion relevante para redes.)
+2026-10-31T22:08 https://www.twitch.tv/cabramaravilla/clip/SmokyCrazyRaccoonCmonBruh-9VhQDTQcM1ZLL5a9 descartado: no es bueno (nada, nota 3: Es solo un streamer comentando una partida de esports sin una reaccion impactante.)
