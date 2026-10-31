@@ -910,3 +910,6 @@
 2026-10-31T09:18 https://www.twitch.tv/mumusiraneitor/clip/TriumphantSavagePlumBigBrother-NFWxO7lyKPaRNdkj descartado: no es bueno (nada, nota 3: Es una charla aburrida leyendo mensajes y divagando sin contexto.)
 2026-10-31T09:18 https://www.twitch.tv/aurorafractubela_uwu/clip/CreativeGlutenFreeParrotShazBotstix-yTjvzvzeI1QsNBAY descartado: no es bueno (nada, nota 2: Es contenido de ASMR sin contexto de juego ni gracia evidente para el público general.)
 2026-10-31T09:18 https://www.twitch.tv/aurorafractubela_uwu/clip/DeliciousFilthyMoonLitty-KufDwZnkTNnP0cIV descartado: no es bueno (nada, nota 2: Es un clip de interacción con chat sin contexto ni gracia real para TikTok.)
+2026-10-31T10:12 https://www.twitch.tv/aurorafractubela_uwu/clip/SecretiveFrigidFlamingoOSfrog-qqT3cNSYjSf96Xar descartado: no es bueno (nada, nota 1: Contenido ASMR sin chiste ni juego, no cumple los requisitos para redes.)
+2026-10-31T10:13 https://www.twitch.tv/ibai/clip/DifficultIronicFungusTF2John-fELDSLWrp_UAcVOE descartado: no es bueno (nada, nota 3: Es una charla técnica sobre eSports que requiere contexto y no tiene gancho humorístico.)
+2026-10-31T10:13 https://www.twitch.tv/drogo_gg/clip/InquisitiveTriangularSandstormANELE-E6ywWYRuGBm2qoH_ descartado: no es bueno (nada, nota 3: Es solo un menú de juego de cartas abriendo cofres sin ninguna reacción graciosa.)
