@@ -907,3 +907,6 @@
 2026-10-31T08:20 https://www.twitch.tv/hellouwpuppies/clip/TacitRoughNightingalePraiseIt-hMeEojw42XcSBAJX descartado: no es bueno (nada, nota 3: Es una streamer con disfraz sin contexto, no pasa nada gracioso ni espectacular.)
 2026-10-31T08:20 https://www.twitch.tv/anabanana/clip/PricklySecretiveLocustSuperVinlin-5sIJ3d5hHY2jl_Ck descartado: no es bueno (nada, nota 3: Es solo la streamer charlando sobre redes y Daddy Yankee mientras navega por menús.)
 2026-10-31T08:21 https://www.twitch.tv/rockstarcr/clip/CogentBrightFalconBIRB-kn653ZB7IPAd_6Xx descartado: no es bueno (nada, nota 3: Comentario aleatorio de chat y menus sin contexto gracioso ni visualmente llamativo.)
+2026-10-31T09:18 https://www.twitch.tv/mumusiraneitor/clip/TriumphantSavagePlumBigBrother-NFWxO7lyKPaRNdkj descartado: no es bueno (nada, nota 3: Es una charla aburrida leyendo mensajes y divagando sin contexto.)
+2026-10-31T09:18 https://www.twitch.tv/aurorafractubela_uwu/clip/CreativeGlutenFreeParrotShazBotstix-yTjvzvzeI1QsNBAY descartado: no es bueno (nada, nota 2: Es contenido de ASMR sin contexto de juego ni gracia evidente para el público general.)
+2026-10-31T09:18 https://www.twitch.tv/aurorafractubela_uwu/clip/DeliciousFilthyMoonLitty-KufDwZnkTNnP0cIV descartado: no es bueno (nada, nota 2: Es un clip de interacción con chat sin contexto ni gracia real para TikTok.)
