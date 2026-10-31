@@ -922,3 +922,4 @@
 2026-10-31T12:08 https://www.twitch.tv/angrodtralari/clip/AgreeableShortHornetShadyLulu-OWf07LX3rS7O91T8 descartado: no es bueno (nada, nota 3: Es una jugada normal de videojuego sin una reaccion especialmente graciosa o epica.)
 2026-10-31T12:10 https://www.twitch.tv/phobyac/clip/TawdryDeafBubbleteaWTRuck-b0Ep7ilrUJJYN0cl descartado: no es bueno (nada, nota 3: Es una charla interna sobre anécdotas de un amigo que requiere contexto previo.)
 2026-10-31T12:11 https://www.twitch.tv/ache/clip/MistyAwkwardMeerkatTinyFace-LQdqtF-gmDb4Cjv5 descartado: no es bueno (nada, nota 3: Es solo charla interna del streamer sin contexto ni gracia especial para redes.)
+2026-10-31T13:09 https://www.twitch.tv/snoodyboo/clip/SolidAltruisticSpaghettiPunchTrees-_9Frczw4dPoptBeq descartado: no es bueno (nada, nota 3: Partida normal de Teamfight Tactics sin una reaccion especialmente llamativa ni divertida.)
