@@ -897,3 +897,4 @@
 2026-10-31T01:22 https://www.twitch.tv/ibai/clip/RealFairCoyoteTheTarFu-EyRWvK_CGmuG6yl3 descartado: no es bueno (nada, nota 3: Charla normal de Ibai comentando una partida sin gracia ni momentos impactantes.)
 2026-10-31T01:23 https://www.twitch.tv/marinaifx/clip/KnottyHilariousWalletKippa-aPtc3CCT0VPoOEc9 descartado: no es bueno (nada, nota 3: Es una charla de chat sin gracia ni momento destacable.)
 2026-10-31T01:26 https://www.twitch.tv/marinaifx/clip/IronicPrettiestSandpiperPraiseIt-tbga7K5oKH8OHr5r descartado: no es bueno (nada, nota 3: Es una charla cotidiana sin gracia ni contexto suficiente para destacar en redes.)
+2026-10-31T04:03 https://www.twitch.tv/nenecreative/clip/GentleElegantQueleaBleedPurple-MlckBCFaLC7t8BD0 descartado: no es bueno (nada, nota 3: Es una jugada de Rocket League sin gracia ni contexto suficiente para viralizar.)
