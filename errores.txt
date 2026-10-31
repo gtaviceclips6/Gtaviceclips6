@@ -913,3 +913,7 @@
 2026-10-31T10:12 https://www.twitch.tv/aurorafractubela_uwu/clip/SecretiveFrigidFlamingoOSfrog-qqT3cNSYjSf96Xar descartado: no es bueno (nada, nota 1: Contenido ASMR sin chiste ni juego, no cumple los requisitos para redes.)
 2026-10-31T10:13 https://www.twitch.tv/ibai/clip/DifficultIronicFungusTF2John-fELDSLWrp_UAcVOE descartado: no es bueno (nada, nota 3: Es una charla técnica sobre eSports que requiere contexto y no tiene gancho humorístico.)
 2026-10-31T10:13 https://www.twitch.tv/drogo_gg/clip/InquisitiveTriangularSandstormANELE-E6ywWYRuGBm2qoH_ descartado: no es bueno (nada, nota 3: Es solo un menú de juego de cartas abriendo cofres sin ninguna reacción graciosa.)
+2026-10-31T11:06 https://www.twitch.tv/mada/clip/CuteBreakableRuffSSSsss-E0yeDgYdFiv0SLum descartado: no es bueno (nada, nota 3: Es solo el streamer quejándose al volante sin que ocurra nada visualmente gracioso o impactante.)
+2026-10-31T11:07 https://www.twitch.tv/adcshiiro/clip/InventiveLovelyBisonSwiftRage-OEMCvKfEMeVdodyU descartado: no es bueno (nada, nota 3: Es una charla aburrida sobre salseo o relaciones jugando al LoL sin gracia.)
+2026-10-31T11:07 https://www.twitch.tv/ache/clip/SpicyGentleAnteaterChefFrank-aE8H5K0eNGdGOS2y descartado: no es bueno (nada, nota 3: Es solo una opinion seria hablando de otro jugador sin ninguna gracia ni accion epica.)
+2026-10-31T11:08 https://www.twitch.tv/ache/clip/StupidCarelessTarsierTheThing-4zjMKAW_NL8Ts4le descartado: no es bueno (nada, nota 3: Es una charla casual del streamer corriendo por el mapa, sin gracia ni acción destacable.)
