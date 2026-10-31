@@ -928,3 +928,7 @@
 2026-10-31T15:11 https://www.twitch.tv/evangelion0/clip/PerfectFragileCurlewSmoocherZ-SZt5fUoADlNRl-OZ descartado: no es bueno (nada, nota 3: Explicacion tecnica de un juego de rol que no resulta graciosa ni epica fuera de contexto.)
 2026-10-31T15:12 https://www.twitch.tv/dheylo/clip/PeppyResoluteEyeballJebaited-O4cluJ0ZgxE_08Q6 descartado: no es bueno (nada, nota 3: Es solo el streamer comentando una jugada normal sin gracia ni contexto suficiente.)
 2026-10-31T16:08 https://www.twitch.tv/llunaclark/clip/BetterHomelyCamelPanicVis-uETZS80KsHNwHqBi descartado: no es bueno (nada, nota 3: Es solo un saludo de Halloween y agradecimientos a suscriptores, sin humor ni acción.)
+2026-10-31T17:09 https://www.twitch.tv/knekro/clip/PatientGenerousTeaBudStar-RIiZ1w4pps0fDT7Q descartado: no es bueno (nada, nota 3: Es un streamer reaccionando en silencio a un torneo, sin gracia ni contexto suficiente.)
+2026-10-31T17:10 https://www.twitch.tv/xurreriaivette/clip/PlausibleShinyDuckMingLee-efgcLeFVb7hiTi7W descartado: no es bueno (nada, nota 3: Reacción exagerada a un donativo que requiere contexto sobre el stream y no es gracioso.)
+2026-10-31T17:10 https://www.twitch.tv/ibai/clip/AlertVibrantSquidSoBayed-EWzAYG79mShXrQsX descartado: no es bueno (nada, nota 3: Comentario fuera de lugar sin contexto ni gracia real para TikTok.)
+2026-10-31T17:10 https://www.twitch.tv/xurreriaivette/clip/SmoothCrepuscularDotterelANELE-3Yw47fG2x8pxhKU- descartado: no es bueno (nada, nota 3: Es solo un comentario random de la streamer leyendo una donación sin gracia especial.)
