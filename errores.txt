@@ -937,3 +937,4 @@
 2026-10-31T19:23 https://www.twitch.tv/feirlygab/clip/PiercingBombasticBorkBCWarrior-wQW8lL-Zn8ZZNsKA descartado: no es bueno (nada, nota 3: Es un evento presencial sin contexto claro ni situacion graciosa o epica.)
 2026-10-31T20:05 https://www.twitch.tv/viizzzm/clip/OnerousPiliableSharkPJSalt-9NvgCwiksXLZjf-v descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin contexto ni gracia real para TikTok.)
 2026-10-31T20:07 https://www.twitch.tv/altertimesk/clip/SmoothBovinePeanutOSkomodo-ukTGzC9gfQSwrd5j descartado: no es bueno (nada, nota 3: Es una charla sobre salseo de WoW que requiere mucho contexto previo.)
+2026-10-31T21:09 https://www.twitch.tv/rubius/clip/AuspiciousHonorableNightingalePRChase-QOs2TFJSvtmrGypw descartado: no es bueno (nada, nota 3: Rubius lee comentarios aleatorios antiguos sin contexto fuerte ni gracia real.)
