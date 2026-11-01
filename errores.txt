@@ -966,3 +966,7 @@
 2026-11-01T12:08 https://www.twitch.tv/alliopodcast/clip/AttractiveTentativeGuanacoTooSpicy-zQgXqkRHi_xO1MeT descartado: no es bueno (nada, nota 3: Es una charla explicativa sobre fichajes, falta humor y no es gracioso ni visualmente llamativo.)
 2026-11-01T12:08 https://www.twitch.tv/cone1996fc/clip/ArtsySpicyButterBrokeBack-7hBRcLtHSsJbfDTq descartado: no es bueno (nada, nota 3: Es una queja normal del streamer en un menú y no tiene gracia.)
 2026-11-01T12:09 https://www.twitch.tv/auronplay/clip/SmoothTsundereDiscDuDudu--zfD9JHGd9mQin7X descartado: no es bueno (nada, nota 3: Es una opinion seria y reflexiva de Auronplay, no un momento gracioso ni un fail.)
+2026-11-01T13:14 https://www.twitch.tv/kelianforronin/clip/SpicyBlatantHamOSfrog-ogMaF8r3QRNX0Qqy descartado: no es bueno (nada, nota 3: Es un partido de fútbol amateur sin gracia especial ni jugada visualmente impresionante.)
+2026-11-01T13:15 https://www.twitch.tv/thegrefg/clip/EncouragingBlazingAniseEleGiggle-8hE1OuLDenZoI-Y- descartado: no es bueno (nada, nota 3: Conversación interna y contexto de streamer que no hace gracia fuera de su comunidad.)
+2026-11-01T13:15 https://www.twitch.tv/sirmaza/clip/NimbleInspiringReubenChefFrank-o4acbuFFiyVVaBME descartado: no es bueno (nada, nota 3: Comentarios sin sentido jugando a Valorant, falta contexto y gracia real.)
+2026-11-01T13:16 https://www.twitch.tv/thegrefg/clip/CrackyBlazingPepperMau5-su4Xn2ws7xw4lPrC descartado: no es bueno (nada, nota 3: Conversacion aburrida sobre anime en un menu sin ningun tipo de gracia ni accion.)
