@@ -986,3 +986,7 @@
 2026-11-01T16:10 https://www.twitch.tv/gorilon/clip/HonorableMushyCheetahItsBoshyTime-CDD2S2C519GVwk8Y descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni momentos impactantes.)
 2026-11-01T16:10 https://www.twitch.tv/ibai/clip/HyperAveragePrariedogKevinTurtle-fsRqJ6SiV7dWycZK descartado: no es bueno (nada, nota 3: Es una retransmisión de esports de League of Legends; no aporta nada especial ni gracioso fuera de contexto.)
 2026-11-01T16:11 https://www.twitch.tv/auronplay/clip/DifficultAmericanMomStinkyCheese-x3TPjfSPmNTtPn4d descartado: no es bueno (nada, nota 3: Es una charla reflexiva de Auronplay, no es gracioso ni una escena del juego.)
+2026-11-01T18:07 https://www.twitch.tv/elxokas/clip/MotionlessBlindingWoodpeckerGingerPower-nJNhbTUuIf3s7iIE descartado: no es bueno (nada, nota 3: Es una opinion politica y charla de streamer, no es gracioso ni escena visualmente llamativa.)
+2026-11-01T18:07 https://www.twitch.tv/shainny_/clip/ConsiderateSillyRatMingLee-jBusrFetBHPCTwmx descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer maquillándose sin contexto ni gracia especial.)
+2026-11-01T18:08 https://www.twitch.tv/elxokas/clip/OptimisticGeniusStarlingMau5-pUbAWZRqMBjg_Tha descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-01T18:08 https://www.twitch.tv/revenant/clip/SavoryHeartlessDoveYouWHY-o3LxlurXSnrupP25 descartado: no es bueno (nada, nota 3: Charla leyendo notas de un parche, falta contexto y no genera risa ni sorpresa.)
