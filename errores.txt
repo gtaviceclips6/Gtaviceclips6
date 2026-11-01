@@ -980,3 +980,6 @@
 2026-11-01T15:10 https://www.twitch.tv/rodenasink/clip/EnthusiasticRealBoarLitFam-SAqfOu6HBO0T__vh descartado: no es bueno (nada, nota 3: Es solo la lectura de un diálogo del juego sin ninguna reacción especial ni humor.)
 2026-11-01T15:10 https://www.twitch.tv/gonsabellla/clip/StrangeThankfulGrouseFailFish-PEEX0XQUX_lcSg2D descartado: no es bueno (nada, nota 3: Es una charla casual maquillándose, sin humor ni momentos virales claros.)
 2026-11-01T15:10 https://www.twitch.tv/tozeo/clip/SmoggySpookyPorpoiseSquadGoals-Wbo9tc_s_oTsdIzN descartado: no es bueno (nada, nota 1: Es solo un menú de juego sin ninguna gracia ni acción relevante.)
+2026-11-01T15:54 https://www.twitch.tv/carola/clip/FancyProtectiveEyeballDerp-bwehTwgAEuKSpO2w descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin ninguna reaccion destacable o momento gracioso.)
+2026-11-01T15:54 https://www.twitch.tv/gonsabellla/clip/PlacidFrozenBillBatChest-p49IrMkeX6s8Lwxr descartado: no es bueno (nada, nota 3: Falta contexto y no tiene la gracia ni la calidad requerida para redes.)
+2026-11-01T15:55 https://www.twitch.tv/pausenpaii/clip/AcceptableDirtyTruffleJebaited-2yqSbWt3XVwC8SL3 descartado: no es bueno (nada, nota 3: Falta contexto y es una simple charla de concurso sin gracia ni momentazos.)
