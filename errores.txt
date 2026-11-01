@@ -983,3 +983,6 @@
 2026-11-01T15:54 https://www.twitch.tv/carola/clip/FancyProtectiveEyeballDerp-bwehTwgAEuKSpO2w descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin ninguna reaccion destacable o momento gracioso.)
 2026-11-01T15:54 https://www.twitch.tv/gonsabellla/clip/PlacidFrozenBillBatChest-p49IrMkeX6s8Lwxr descartado: no es bueno (nada, nota 3: Falta contexto y no tiene la gracia ni la calidad requerida para redes.)
 2026-11-01T15:55 https://www.twitch.tv/pausenpaii/clip/AcceptableDirtyTruffleJebaited-2yqSbWt3XVwC8SL3 descartado: no es bueno (nada, nota 3: Falta contexto y es una simple charla de concurso sin gracia ni momentazos.)
+2026-11-01T16:10 https://www.twitch.tv/gorilon/clip/HonorableMushyCheetahItsBoshyTime-CDD2S2C519GVwk8Y descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni momentos impactantes.)
+2026-11-01T16:10 https://www.twitch.tv/ibai/clip/HyperAveragePrariedogKevinTurtle-fsRqJ6SiV7dWycZK descartado: no es bueno (nada, nota 3: Es una retransmisión de esports de League of Legends; no aporta nada especial ni gracioso fuera de contexto.)
+2026-11-01T16:11 https://www.twitch.tv/auronplay/clip/DifficultAmericanMomStinkyCheese-x3TPjfSPmNTtPn4d descartado: no es bueno (nada, nota 3: Es una charla reflexiva de Auronplay, no es gracioso ni una escena del juego.)
