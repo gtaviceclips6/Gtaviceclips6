@@ -993,3 +993,6 @@
 2026-11-01T19:03 https://www.twitch.tv/shainny_/clip/CallousSpunkyPeanutWOOP-YoSwfTXS_J2ava_5 descartado: no es bueno (nada, nota 3: Conversacion aleatoria sin contexto ni gracia real para un clip corto.)
 2026-11-01T19:04 https://www.twitch.tv/elxokas/clip/OptimisticGeniusStarlingMau5-pUbAWZRqMBjg_Tha descartado: no es bueno (nada, nota 3: Es una opinion politica y polemica, no cumple los requisitos de humor o juego.)
 2026-11-01T19:05 https://www.twitch.tv/carola/clip/GoldenCheerfulPancakeNerfBlueBlaster-tq8hVf5AcyhMNzoh descartado: no es bueno (nada, nota 3: Es una opinion seria y larga del streamer, no es gracioso ni escena visual.)
+2026-11-01T19:18 https://www.twitch.tv/thegrefg/clip/UnsightlyViscousLobsterWholeWheat-Anvvk-3w9CuLHjIW descartado: no es bueno (nada, nota 3: Es solo TheGrefg explicando algo aburrido y mirando fijamente a la cámara.)
+2026-11-01T19:19 https://www.twitch.tv/shainny_/clip/BlueOutstandingPlumberOpieOP-WqM0DgOrHHY8nzfi descartado: no es bueno (nada, nota 3: Conversación absurda y sin gracia que no aporta nada relevante para gaming.)
+2026-11-01T19:19 https://www.twitch.tv/baitybait/clip/JoyousYawningHedgehogPJSalt-ykxGzqbXzMTrwX7X descartado: no es bueno (nada, nota 3: Es solo charla sobre leaks y copyright, falta contexto y no es gracioso.)
