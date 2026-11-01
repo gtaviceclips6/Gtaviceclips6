@@ -990,3 +990,6 @@
 2026-11-01T18:07 https://www.twitch.tv/shainny_/clip/ConsiderateSillyRatMingLee-jBusrFetBHPCTwmx descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer maquillándose sin contexto ni gracia especial.)
 2026-11-01T18:08 https://www.twitch.tv/elxokas/clip/OptimisticGeniusStarlingMau5-pUbAWZRqMBjg_Tha descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-01T18:08 https://www.twitch.tv/revenant/clip/SavoryHeartlessDoveYouWHY-o3LxlurXSnrupP25 descartado: no es bueno (nada, nota 3: Charla leyendo notas de un parche, falta contexto y no genera risa ni sorpresa.)
+2026-11-01T19:03 https://www.twitch.tv/shainny_/clip/CallousSpunkyPeanutWOOP-YoSwfTXS_J2ava_5 descartado: no es bueno (nada, nota 3: Conversacion aleatoria sin contexto ni gracia real para un clip corto.)
+2026-11-01T19:04 https://www.twitch.tv/elxokas/clip/OptimisticGeniusStarlingMau5-pUbAWZRqMBjg_Tha descartado: no es bueno (nada, nota 3: Es una opinion politica y polemica, no cumple los requisitos de humor o juego.)
+2026-11-01T19:05 https://www.twitch.tv/carola/clip/GoldenCheerfulPancakeNerfBlueBlaster-tq8hVf5AcyhMNzoh descartado: no es bueno (nada, nota 3: Es una opinion seria y larga del streamer, no es gracioso ni escena visual.)
