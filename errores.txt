@@ -970,3 +970,6 @@
 2026-11-01T13:15 https://www.twitch.tv/thegrefg/clip/EncouragingBlazingAniseEleGiggle-8hE1OuLDenZoI-Y- descartado: no es bueno (nada, nota 3: Conversación interna y contexto de streamer que no hace gracia fuera de su comunidad.)
 2026-11-01T13:15 https://www.twitch.tv/sirmaza/clip/NimbleInspiringReubenChefFrank-o4acbuFFiyVVaBME descartado: no es bueno (nada, nota 3: Comentarios sin sentido jugando a Valorant, falta contexto y gracia real.)
 2026-11-01T13:16 https://www.twitch.tv/thegrefg/clip/CrackyBlazingPepperMau5-su4Xn2ws7xw4lPrC descartado: no es bueno (nada, nota 3: Conversacion aburrida sobre anime en un menu sin ningun tipo de gracia ni accion.)
+2026-11-01T13:28 https://www.twitch.tv/gonsabellla/clip/PlayfulAdventurousBubbleteaMrDestructoid-8doJAErLpb9_9Dg7 descartado: no es bueno (nada, nota 3: Conversación informal sin contexto cómico claro ni situación relevante para el formato corto.)
+2026-11-01T13:29 https://www.twitch.tv/sajonarco/clip/FrigidEndearingParrotDuDudu-0Gz1bZ_0E8Rvv5t5 descartado: no es bueno (nada, nota 3: Falta contexto claro y la situación confusa no genera risa genuina sin saber qué pasa.)
+2026-11-01T13:29 https://www.twitch.tv/auronplay/clip/AggressiveTangentialMageLitFam-9wxRjTmmDolCQsSA descartado: no es bueno (nada, nota 3: Es una charla normal explicando algo personal sin gracia especial ni momento viral.)
