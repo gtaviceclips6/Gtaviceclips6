@@ -949,3 +949,4 @@
 2026-11-01T01:31 https://www.twitch.tv/auronplay/clip/UglyLittleStinkbugFreakinStinkin-WOEgtsbzofS7QnZP descartado: no es bueno (nada, nota 3: Es charla opinativa normal de salseo sin remate gracioso ni accion destacable.)
 2026-11-01T01:31 https://www.twitch.tv/mictia00/clip/ResilientSuccessfulDunlinBatChest-rrcMr4k1zGWZnCML descartado: no es bueno (nada, nota 3: Es una broma simple de stream sin impacto fuera de comunidad ni gracia real.)
 2026-11-01T04:13 https://www.twitch.tv/iaaras2/clip/ShakingVainHabaneroDerp-Ov_SfSNH9P1vReLv descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-01T07:23 https://www.twitch.tv/jaadezz/clip/FrailPunchyWoodpeckerRalpherZ-GN2CTPcGii9HbrR8 descartado: no es bueno (nada, nota 3: Es una queja de juego sin contexto ni gracia especial para viralizar.)
