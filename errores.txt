@@ -950,3 +950,7 @@
 2026-11-01T01:31 https://www.twitch.tv/mictia00/clip/ResilientSuccessfulDunlinBatChest-rrcMr4k1zGWZnCML descartado: no es bueno (nada, nota 3: Es una broma simple de stream sin impacto fuera de comunidad ni gracia real.)
 2026-11-01T04:13 https://www.twitch.tv/iaaras2/clip/ShakingVainHabaneroDerp-Ov_SfSNH9P1vReLv descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-01T07:23 https://www.twitch.tv/jaadezz/clip/FrailPunchyWoodpeckerRalpherZ-GN2CTPcGii9HbrR8 descartado: no es bueno (nada, nota 3: Es una queja de juego sin contexto ni gracia especial para viralizar.)
+2026-11-01T08:21 https://www.twitch.tv/danielaazuaje_/clip/PluckyCuriousEggSoonerLater--6CMQhlRhq79-s1V descartado: no es bueno (nada, nota 3: Es solo agradecimiento a suscriptores, falta contenido gracioso o cinemático.)
+2026-11-01T08:22 https://www.twitch.tv/danielaazuaje_/clip/BoxyMoralBananaTakeNRG-qHx3bwC39yM6JKLm descartado: no es bueno (nada, nota 3: Es solo charla de la streamer contando una anecdota sin gracia ni accion.)
+2026-11-01T08:22 https://www.twitch.tv/auronplay/clip/RenownedPunchyYakinikuShadyLulu-3mtC3iRC8I_3eHjM descartado: no es bueno (nada, nota 3: Es una anécdota larga que necesita contexto y no tiene suficiente gracia por sí sola.)
+2026-11-01T08:24 https://www.twitch.tv/auronplay/clip/DignifiedPreciousAyeayeShadyLulu-amzat1vckiy61qWn descartado: no es bueno (nada, nota 3: Es una charla reflexiva de Auronplay sin humor ni juego, no sirve para viralizar.)
