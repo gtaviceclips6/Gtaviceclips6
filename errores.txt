@@ -954,3 +954,5 @@
 2026-11-01T08:22 https://www.twitch.tv/danielaazuaje_/clip/BoxyMoralBananaTakeNRG-qHx3bwC39yM6JKLm descartado: no es bueno (nada, nota 3: Es solo charla de la streamer contando una anecdota sin gracia ni accion.)
 2026-11-01T08:22 https://www.twitch.tv/auronplay/clip/RenownedPunchyYakinikuShadyLulu-3mtC3iRC8I_3eHjM descartado: no es bueno (nada, nota 3: Es una anécdota larga que necesita contexto y no tiene suficiente gracia por sí sola.)
 2026-11-01T08:24 https://www.twitch.tv/auronplay/clip/DignifiedPreciousAyeayeShadyLulu-amzat1vckiy61qWn descartado: no es bueno (nada, nota 3: Es una charla reflexiva de Auronplay sin humor ni juego, no sirve para viralizar.)
+2026-11-01T09:20 https://www.twitch.tv/matuzcl/clip/ReliableBoredStrawberryNerfBlueBlaster-9jPgWRgm26PaDKvp descartado: no es bueno (nada, nota 3: Es solo el streamer mostrando los menús de un pase de batalla sin reacción graciosa.)
+2026-11-01T09:20 https://www.twitch.tv/matuzcl/clip/MagnificentBoringOstrichRlyTho-DlnFwLlI2D2XFarM descartado: no es bueno (nada, nota 2: Es solo el streamer mirando menús y explicando fechas de un pase, sin gracia.)
