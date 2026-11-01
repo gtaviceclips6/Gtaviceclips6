@@ -977,3 +977,6 @@
 2026-11-01T14:18 https://www.twitch.tv/snoodyboo/clip/HedonisticObservantPuffinTBTacoLeft-cJKWDsQdB1sFc2Zi descartado: no es bueno (nada, nota 3: Es una partida de TFT sin ninguna reaccion destacable o momento realmente gracioso.)
 2026-11-01T14:18 https://www.twitch.tv/dheylo/clip/ObliqueStormyCobraMau5-bqgj8SzxGnqFb8Vr descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia especial ni momento impactante.)
 2026-11-01T14:18 https://www.twitch.tv/gonsabellla/clip/PoisedAdventurousShingleDogFace-3fwteGwoEFr1NbZG descartado: no es bueno (nada, nota 2: Es una charla cotidiana sin gracia ni contenido relevante para redes.)
+2026-11-01T15:10 https://www.twitch.tv/rodenasink/clip/EnthusiasticRealBoarLitFam-SAqfOu6HBO0T__vh descartado: no es bueno (nada, nota 3: Es solo la lectura de un diálogo del juego sin ninguna reacción especial ni humor.)
+2026-11-01T15:10 https://www.twitch.tv/gonsabellla/clip/StrangeThankfulGrouseFailFish-PEEX0XQUX_lcSg2D descartado: no es bueno (nada, nota 3: Es una charla casual maquillándose, sin humor ni momentos virales claros.)
+2026-11-01T15:10 https://www.twitch.tv/tozeo/clip/SmoggySpookyPorpoiseSquadGoals-Wbo9tc_s_oTsdIzN descartado: no es bueno (nada, nota 1: Es solo un menú de juego sin ninguna gracia ni acción relevante.)
