@@ -948,3 +948,4 @@
 2026-11-01T01:31 https://www.twitch.tv/rubius/clip/SuaveEnergeticKimchiBleedPurple-jH92XtfI7ekNGw-T descartado: no es bueno (nada, nota 3: Rubius jugando a oscuras sin ninguna reacción viral destacable o momento realmente gracioso.)
 2026-11-01T01:31 https://www.twitch.tv/auronplay/clip/UglyLittleStinkbugFreakinStinkin-WOEgtsbzofS7QnZP descartado: no es bueno (nada, nota 3: Es charla opinativa normal de salseo sin remate gracioso ni accion destacable.)
 2026-11-01T01:31 https://www.twitch.tv/mictia00/clip/ResilientSuccessfulDunlinBatChest-rrcMr4k1zGWZnCML descartado: no es bueno (nada, nota 3: Es una broma simple de stream sin impacto fuera de comunidad ni gracia real.)
+2026-11-01T04:13 https://www.twitch.tv/iaaras2/clip/ShakingVainHabaneroDerp-Ov_SfSNH9P1vReLv descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
