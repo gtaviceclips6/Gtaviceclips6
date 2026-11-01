@@ -999,3 +999,6 @@
 2026-11-01T20:07 https://www.twitch.tv/carola/clip/DeadCrepuscularTitanCopyThis-qWdIMCB_gOW16Ygh descartado: no es bueno (nada, nota 3: Es una charla opinativa de Carola sin contexto de juego ni momento realmente gracioso o viral.)
 2026-11-01T20:07 https://www.twitch.tv/thegrefg/clip/ThoughtfulSpookyEggplantVoHiYo-JYe914Kv55jD2qc_ descartado: no es bueno (nada, nota 3: Es solo un clip jugando normal sin ninguna reacción especial ni fail gracioso.)
 2026-11-01T20:08 https://www.twitch.tv/auronplay/clip/AbstruseEmpathicCarrotCmonBruh-zEbGj5MSsrwLU0FS descartado: no es bueno (nada, nota 3: Comentario serio e inapropiado sobre suicidio, no apto para viralizar ni cumple requisitos de humor.)
+2026-11-01T21:08 https://www.twitch.tv/elrichmc/clip/EasyObedientPanPunchTrees-TkQ5Yl9yPJQ2P-nm descartado: no es bueno (nada, nota 3: Es charla técnica de menús sin contexto ni gracia fuera de su comunidad.)
+2026-11-01T21:08 https://www.twitch.tv/rubius/clip/TameBetterRedpandaNotLikeThis-3aodz9Icc4kzqGFO descartado: no es bueno (nada, nota 3: Rubius abre un cofre normal y corriente, sin ninguna reacción destacable ni gracia.)
+2026-11-01T21:10 https://www.twitch.tv/paache_/clip/AttractiveMagnificentAnteaterOhMyDog-JO65KJF_0fy-8OuC descartado: no es bueno (nada, nota 3: Falta contexto de Minecraft y la gracia depende demasiado de seguir al streamer.)
