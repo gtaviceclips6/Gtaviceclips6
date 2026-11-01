@@ -956,3 +956,5 @@
 2026-11-01T08:24 https://www.twitch.tv/auronplay/clip/DignifiedPreciousAyeayeShadyLulu-amzat1vckiy61qWn descartado: no es bueno (nada, nota 3: Es una charla reflexiva de Auronplay sin humor ni juego, no sirve para viralizar.)
 2026-11-01T09:20 https://www.twitch.tv/matuzcl/clip/ReliableBoredStrawberryNerfBlueBlaster-9jPgWRgm26PaDKvp descartado: no es bueno (nada, nota 3: Es solo el streamer mostrando los menús de un pase de batalla sin reacción graciosa.)
 2026-11-01T09:20 https://www.twitch.tv/matuzcl/clip/MagnificentBoringOstrichRlyTho-DlnFwLlI2D2XFarM descartado: no es bueno (nada, nota 2: Es solo el streamer mirando menús y explicando fechas de un pase, sin gracia.)
+2026-11-01T10:17 https://www.twitch.tv/knekro/clip/LachrymoseElegantKuduSmoocherZ-kPPNjkoud_LISYHL descartado: no es bueno (nada, nota 3: Charla sobre un torneo de pokemon sin contexto gracioso claro para redes.)
+2026-11-01T10:18 https://www.twitch.tv/ache/clip/SpicyMoldyDelicataKAPOW-j1iNzdHxe7Vi7GEh descartado: no es bueno (nada, nota 3: Es solo cháchara del streamer corriendo por el mapa sin que ocurra nada relevante.)
