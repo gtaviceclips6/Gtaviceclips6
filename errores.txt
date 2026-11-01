@@ -973,3 +973,7 @@
 2026-11-01T13:28 https://www.twitch.tv/gonsabellla/clip/PlayfulAdventurousBubbleteaMrDestructoid-8doJAErLpb9_9Dg7 descartado: no es bueno (nada, nota 3: Conversación informal sin contexto cómico claro ni situación relevante para el formato corto.)
 2026-11-01T13:29 https://www.twitch.tv/sajonarco/clip/FrigidEndearingParrotDuDudu-0Gz1bZ_0E8Rvv5t5 descartado: no es bueno (nada, nota 3: Falta contexto claro y la situación confusa no genera risa genuina sin saber qué pasa.)
 2026-11-01T13:29 https://www.twitch.tv/auronplay/clip/AggressiveTangentialMageLitFam-9wxRjTmmDolCQsSA descartado: no es bueno (nada, nota 3: Es una charla normal explicando algo personal sin gracia especial ni momento viral.)
+2026-11-01T14:17 https://www.twitch.tv/snoodyboo/clip/FlirtyPhilanthropicUdonPrimeMe-Rfn4erbkbVUyUSY5 descartado: no es bueno (nada, nota 3: Es una partida de TFT sin ninguna reaccion destacable o momento gracioso.)
+2026-11-01T14:18 https://www.twitch.tv/snoodyboo/clip/HedonisticObservantPuffinTBTacoLeft-cJKWDsQdB1sFc2Zi descartado: no es bueno (nada, nota 3: Es una partida de TFT sin ninguna reaccion destacable o momento realmente gracioso.)
+2026-11-01T14:18 https://www.twitch.tv/dheylo/clip/ObliqueStormyCobraMau5-bqgj8SzxGnqFb8Vr descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia especial ni momento impactante.)
+2026-11-01T14:18 https://www.twitch.tv/gonsabellla/clip/PoisedAdventurousShingleDogFace-3fwteGwoEFr1NbZG descartado: no es bueno (nada, nota 2: Es una charla cotidiana sin gracia ni contenido relevante para redes.)
