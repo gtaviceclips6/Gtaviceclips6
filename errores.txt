@@ -945,3 +945,6 @@
 2026-10-31T23:10 https://www.twitch.tv/les/clip/AthleticFaithfulClipsdadMrDestructoid-Nmm6dGAFS4Sao06e descartado: no es bueno (nada, nota 3: Conversacion de entrevista de esports sin gracia ni contexto suficiente para viralizar.)
 2026-11-01T00:08 https://www.twitch.tv/rubius/clip/YawningEnticingElkHeyGuys-9bJxohrYXy2-waH9 descartado: no es bueno (nada, nota 3: Es una escena de dialogo normal de un videojuego sin una reaccion destacable.)
 2026-11-01T00:08 https://www.twitch.tv/auronplay/clip/AliveAbrasiveStrawberryNinjaGrumpy-dCo4hA0cAllkiNx9 descartado: no es bueno (nada, nota 3: Es una charla normal de Auronplay contando una anécdota sin gracia ni contexto visual.)
+2026-11-01T01:31 https://www.twitch.tv/rubius/clip/SuaveEnergeticKimchiBleedPurple-jH92XtfI7ekNGw-T descartado: no es bueno (nada, nota 3: Rubius jugando a oscuras sin ninguna reacción viral destacable o momento realmente gracioso.)
+2026-11-01T01:31 https://www.twitch.tv/auronplay/clip/UglyLittleStinkbugFreakinStinkin-WOEgtsbzofS7QnZP descartado: no es bueno (nada, nota 3: Es charla opinativa normal de salseo sin remate gracioso ni accion destacable.)
+2026-11-01T01:31 https://www.twitch.tv/mictia00/clip/ResilientSuccessfulDunlinBatChest-rrcMr4k1zGWZnCML descartado: no es bueno (nada, nota 3: Es una broma simple de stream sin impacto fuera de comunidad ni gracia real.)
