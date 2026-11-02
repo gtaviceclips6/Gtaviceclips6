@@ -1025,3 +1025,6 @@
 2026-11-02T11:27 https://www.twitch.tv/send0o/clip/AbrasiveTangibleJaguarUnSane-J-ijCN0YR5Bi9pCu descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que solo interesa a su comunidad.)
 2026-11-02T11:28 https://www.twitch.tv/reventxz/clip/DependableGenerousCoffeeAMPTropPunch-DP0wApYtTFELJ9GU descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin gracia especial ni contexto divertido.)
 2026-11-02T11:30 https://www.twitch.tv/knekro/clip/PolishedViscousWerewolfPhilosoraptor-cArEuPNnb7STs7XE descartado: no es bueno (nada, nota 3: Es solo el streamer caminando por la ciudad mientras se queja sin ninguna accion especial.)
+2026-11-02T12:28 https://www.twitch.tv/alimentacionchino/clip/TubularStrongKoupreyPMSTwin-azz-EQlL8Ui0-1Zw descartado: no es bueno (nada, nota 3: Conversación normal de stream sin humor destacable ni situación graciosa clara para espectadores generales.)
+2026-11-02T12:28 https://www.twitch.tv/alimentacionchino/clip/RelievedMuddyAuberginePastaThat-RRuqsL7DE_K6OBw5 descartado: no es bueno (nada, nota 3: Charla normal de fondo sin gracia ni accion relevante.)
+2026-11-02T12:28 https://www.twitch.tv/evangelion0/clip/GracefulPlausibleClipzGivePLZ-fbtX_iRIcLXFN6oH descartado: no es bueno (nada, nota 3: Comentario aburrido de creacion de personaje sin gracia real.)
