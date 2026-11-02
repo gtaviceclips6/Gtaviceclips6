@@ -1037,3 +1037,5 @@
 2026-11-02T15:29 https://www.twitch.tv/alexelcapo/clip/InspiringCrackyHerringRitzMitz-dvKwsqiN_WiJ70Gx descartado: no es bueno (nada, nota 3: Es una queja normal del juego sin gracia ni contexto suficiente para TikTok.)
 2026-11-02T15:31 https://www.twitch.tv/elbokeron/clip/OptimisticOriginalTeaBCWarrior-Mjb2gzqDaP8IDJBt descartado: no es bueno (nada, nota 3: Es una escena de juego normal interactuando con un teléfono, falta contexto.)
 2026-11-02T15:31 https://www.twitch.tv/llunaclark/clip/IgnorantFurtiveKiwiPipeHype-3__XKml-QJ8LXdHC descartado: no es bueno (nada, nota 2: Es solo la intro saludando al chat y charlando sin que ocurra nada relevante.)
+2026-11-02T16:22 https://www.twitch.tv/tvander/clip/AttractiveTemperedWerewolfKlappa-BGhZesD1cxuaXmEm descartado: no es bueno (nada, nota 3: Comentario fuera de contexto y sin gracia real para redes.)
+2026-11-02T16:23 https://www.twitch.tv/tvander/clip/SuaveSwissTildeOhMyDog-6RRtn4-KJ-H_b0fM descartado: no es bueno (nada, nota 3: Charla larga y aburrida sobre malentendidos de horarios sin contexto claro.)
