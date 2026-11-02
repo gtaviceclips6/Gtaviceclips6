@@ -1022,3 +1022,6 @@
 2026-11-02T10:33 https://www.twitch.tv/agbin3r/clip/ConfidentLitigiousSharkWholeWheat-1a_t57Zo2hRULNnV descartado: no es bueno (nada, nota 2: Es un menú de Minecraft sin contexto ni ninguna situación graciosa o visualmente impactante.)
 2026-11-02T10:36 https://www.twitch.tv/mumusiraneitor/clip/AlluringDiligentPoxLitFam-dKFPK0Z8ZdIrMqnj descartado: no es bueno (nada, nota 3: Es una charla normal maquillándose, falta chicha y humor para redes.)
 2026-11-02T10:37 https://www.twitch.tv/x9nium/clip/CharmingPeacefulAdminDatSheffy-n47ZDOVUiSPVbUNi descartado: no es bueno (nada, nota 3: Es una charla normal viendo una partida sin ningun momento gracioso o destacable.)
+2026-11-02T11:27 https://www.twitch.tv/send0o/clip/AbrasiveTangibleJaguarUnSane-J-ijCN0YR5Bi9pCu descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends que solo interesa a su comunidad.)
+2026-11-02T11:28 https://www.twitch.tv/reventxz/clip/DependableGenerousCoffeeAMPTropPunch-DP0wApYtTFELJ9GU descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin gracia especial ni contexto divertido.)
+2026-11-02T11:30 https://www.twitch.tv/knekro/clip/PolishedViscousWerewolfPhilosoraptor-cArEuPNnb7STs7XE descartado: no es bueno (nada, nota 3: Es solo el streamer caminando por la ciudad mientras se queja sin ninguna accion especial.)
