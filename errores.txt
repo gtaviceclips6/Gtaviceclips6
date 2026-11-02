@@ -1028,3 +1028,7 @@
 2026-11-02T12:28 https://www.twitch.tv/alimentacionchino/clip/TubularStrongKoupreyPMSTwin-azz-EQlL8Ui0-1Zw descartado: no es bueno (nada, nota 3: Conversación normal de stream sin humor destacable ni situación graciosa clara para espectadores generales.)
 2026-11-02T12:28 https://www.twitch.tv/alimentacionchino/clip/RelievedMuddyAuberginePastaThat-RRuqsL7DE_K6OBw5 descartado: no es bueno (nada, nota 3: Charla normal de fondo sin gracia ni accion relevante.)
 2026-11-02T12:28 https://www.twitch.tv/evangelion0/clip/GracefulPlausibleClipzGivePLZ-fbtX_iRIcLXFN6oH descartado: no es bueno (nada, nota 3: Comentario aburrido de creacion de personaje sin gracia real.)
+2026-11-02T13:32 https://www.twitch.tv/perfilraro/clip/RudeWildClamShadyLulu-KDD8ymo16ykzSTc4 descartado: no es bueno (nada, nota 3: Es una charla normal contando una anécdota, no tiene gracia ni es impactante.)
+2026-11-02T13:32 https://www.twitch.tv/sirmaza/clip/CredulousWealthyPeachPoooound--psDrlMlzfkT86D5 descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter con queja típica sin gracia especial.)
+2026-11-02T13:33 https://www.twitch.tv/send0o/clip/SnappyLazyBulgogiFeelsBadMan-EiGNPj_NxBhqeXwt descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin gracia especial ni contexto divertido.)
+2026-11-02T13:33 https://www.twitch.tv/elpgp1/clip/BlushingAggressiveAsparagusOpieOP-rtuSAMdK7VvdzjO8 descartado: no es bueno (nada, nota 2: Es un tutorial aburrido sobre cómo usar una VPN y comprar en una web.)
