@@ -1051,3 +1051,6 @@
 2026-11-02T19:22 https://www.twitch.tv/s3kox/clip/PhilanthropicCarefulInternSwiftRage-anaf0pUOB4xHAEOz descartado: no es bueno (nada, nota 3: Es una jugada normal de juego sin ninguna reacción destacable ni gracia.)
 2026-11-02T20:21 https://www.twitch.tv/knekro/clip/TrustworthyFlirtyEyeballFUNgineer-BD5C4CT3Id38cNOE descartado: no es bueno (nada, nota 3: Charla normal del streamer jugando sin contexto ni gracia especial.)
 2026-11-02T20:22 https://www.twitch.tv/revenant/clip/DignifiedScaryTireHassanChop-F4cXUFbAlP2xSEZU descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una conversacion random del streamer jugando.)
+2026-11-02T21:21 https://www.twitch.tv/thegrefg/clip/WittyInterestingSamosaSpicyBoy-y1YeERBq0_HDau2z descartado: no es bueno (nada, nota 3: Es solo el streamer despistado intentando abrir un cofre sin gracia ni acción destacable.)
+2026-11-02T21:21 https://www.twitch.tv/thegrefg/clip/GiftedInexpensivePeafowlRedCoat-rbqOuR6UghNO8I8f descartado: no es bueno (nada, nota 3: Es solo TheGrefg hablando de abrir cofres en un juego, falta chicha y contexto fuerte.)
+2026-11-02T21:22 https://www.twitch.tv/marinaifx/clip/HelplessShakingPorpoisePanicVis-FlbACRDB76M3d4pn descartado: no es bueno (nada, nota 3: Conversacion aleatoria sin contexto claro y lenguaje no apto para redes.)
