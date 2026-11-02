@@ -1034,3 +1034,6 @@
 2026-11-02T13:33 https://www.twitch.tv/elpgp1/clip/BlushingAggressiveAsparagusOpieOP-rtuSAMdK7VvdzjO8 descartado: no es bueno (nada, nota 2: Es un tutorial aburrido sobre cómo usar una VPN y comprar en una web.)
 2026-11-02T13:46 https://www.twitch.tv/send0o/clip/DeterminedTallRingMoreCowbell-KiLrJGnFp9CMB6G8 descartado: no es bueno (nada, nota 3: Insultos genéricos jugando al LoL sin gracia especial ni contexto viral.)
 2026-11-02T13:46 https://www.twitch.tv/perfilraro/clip/CourteousEagerSalsifyNerfRedBlaster-BqHnuce_0xOu-RK1 descartado: no es bueno (nada, nota 3: Conversacion casual sobre planes y anecdotas personales sin relevancia ni humor destacado.)
+2026-11-02T15:29 https://www.twitch.tv/alexelcapo/clip/InspiringCrackyHerringRitzMitz-dvKwsqiN_WiJ70Gx descartado: no es bueno (nada, nota 3: Es una queja normal del juego sin gracia ni contexto suficiente para TikTok.)
+2026-11-02T15:31 https://www.twitch.tv/elbokeron/clip/OptimisticOriginalTeaBCWarrior-Mjb2gzqDaP8IDJBt descartado: no es bueno (nada, nota 3: Es una escena de juego normal interactuando con un teléfono, falta contexto.)
+2026-11-02T15:31 https://www.twitch.tv/llunaclark/clip/IgnorantFurtiveKiwiPipeHype-3__XKml-QJ8LXdHC descartado: no es bueno (nada, nota 2: Es solo la intro saludando al chat y charlando sin que ocurra nada relevante.)
