@@ -1042,3 +1042,4 @@
 2026-11-02T16:36 https://www.twitch.tv/alvarostorm/clip/PleasantCrypticBearTinyFace-dsK9LnjDT8hjBSjx descartado: no es bueno (nada, nota 3: Jugada típica de LoL fallando habilidades, sin gracia especial ni viralidad.)
 2026-11-02T16:36 https://www.twitch.tv/alvarostorm/clip/CallousVibrantBaconCharlieBitMe-kFFsT6OcWO1ySw1j descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con quejas típicas, sin gracia ni epicidad.)
 2026-11-02T17:32 https://www.twitch.tv/rxiirl/clip/RepleteDrabEggnogCharlieBitMe-788x4STLebPcE48H descartado: no es bueno (nada, nota 3: Es una jugada normal de Rocket League sin momentos graciosos ni reacciones destacables.)
+2026-11-02T18:26 https://www.twitch.tv/auronplay/clip/StylishSpotlessMushroomPastaThat-gQKH2hAZojOcDPj8 descartado: no es bueno (nada, nota 3: Aurónplay buscando una caja sin gracia ni reacción fuerte, falta contexto.)
