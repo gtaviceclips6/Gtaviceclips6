@@ -1084,3 +1084,5 @@
 2026-11-03T11:28 https://www.twitch.tv/zeling/clip/TrappedObeseTeaStoneLightning-wYAZSsah-8t9jA3O descartado: no es bueno (nada, nota 3: Es una charla normal pidiendo que paren de regalar subs, falta contexto y gracia.)
 2026-11-03T11:28 https://www.twitch.tv/golyentwitch/clip/BlithePerfectBorkBloodTrail--ek0ErT9yyLWseMK descartado: no es bueno (nada, nota 3: Comentario fuera de tono que incumple las normas de moderación de las plataformas.)
 2026-11-03T12:22 https://www.twitch.tv/elbokeron/clip/HeadstrongPiliableFiddleheadsStinkyCheese-KzNUOJXbOjGPRd6G descartado: no es bueno (nada, nota 3: Comentario estereotipado sin gracia ni contexto de juego, poco viralizable.)
+2026-11-03T13:28 https://www.twitch.tv/elxokas/clip/YummyPrettiestAntelopeCoolStoryBro-poO-qaHn7J3d0TIi descartado: no es bueno (nada, nota 3: Es una opinion seria de ElXokas hablando de proyectos, sin ninguna gracia ni gameplay.)
+2026-11-03T13:29 https://www.twitch.tv/zeling/clip/BlushingSlipperyGoldfishANELE-kaaZScFbUYmSBOyl descartado: no es bueno (nada, nota 3: Comentario sin contexto y charla normal del stream, no resulta gracioso ni destaca visualmente.)
