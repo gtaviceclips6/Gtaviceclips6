@@ -1110,3 +1110,5 @@
 2026-11-03T20:47 https://www.twitch.tv/paache_/clip/GentleRelievedLobsterTakeNRG-lvIxWrk2QlNTyPm5 descartado: no es bueno (nada, nota 3: Conversación absurda y sin contexto sobre narices que no aporta nada interesante para viralizar.)
 2026-11-03T22:48 https://www.twitch.tv/thegrefg/clip/AcceptableLivelyLobsterFreakinStinkin-uHVrcBlyJaYUG-af descartado: no es bueno (nada, nota 3: Es una simple charla sobre un evento y un pequeño spoiler sin gracia especial.)
 2026-11-03T22:49 https://www.twitch.tv/ibai/clip/BlazingTardyTardigradePicoMause-bR2IULoV13-WnPI5 descartado: no es bueno (nada, nota 3: Es una charla técnica sobre fichajes y esports sin ningún remate cómico ni momento visual destacable.)
+2026-11-03T23:19 https://www.twitch.tv/thegrefg/clip/HardHandsomeOkapiDeIlluminati-bp9VzO9gVQvzx432 descartado: no es bueno (nada, nota 3: Es una charla normal navegando por menús, hace falta más contexto de la situación.)
+2026-11-03T23:21 https://www.twitch.tv/baitybait/clip/SarcasticSmallToadNotATK-0CaI2Y53DT1Gu0Sv descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
