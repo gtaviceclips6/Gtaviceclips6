@@ -1073,3 +1073,5 @@
 2026-11-03T08:32 https://www.twitch.tv/mumusiraneitor/clip/FreezingZanyWombatCoolStoryBob-CHfIbNhcoSPvFn3i descartado: no es bueno (nada, nota 3: Es una charla cotidiana sobre un panteón cerrado, sin gracia ni humor real.)
 2026-11-03T08:32 https://www.twitch.tv/ladarliing/clip/CooperativeBlitheHippoMingLee-PpIvGFMVqj5l6YSe descartado: no es bueno (nada, nota 3: La streamer se ríe con un gato en brazos mientras juega, faltan contexto y gracia.)
 2026-11-03T08:34 https://www.twitch.tv/ache/clip/InterestingGorgeousAdminVoteNay-uO_ZYnQEH5vL3d9b descartado: no es bueno (nada, nota 3: Es solo el streamer leyendo un tuit y comentando una teoria del juego.)
+2026-11-03T09:24 https://www.twitch.tv/ache/clip/KathishFunnyPassionfruitPastaThat-E7HxjazITrSMoB8l descartado: no es bueno (nada, nota 3: El streamer habla de un token sin contexto ni gracia real para TikTok.)
+2026-11-03T09:25 https://www.twitch.tv/cesgod/clip/HotProtectiveFerretSquadGoals-5s55awA5YEwmavAz descartado: no es bueno (nada, nota 3: Es una partida normal de un juego de lucha móvil sin ninguna reacción destacable.)
