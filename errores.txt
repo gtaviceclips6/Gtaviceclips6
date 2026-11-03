@@ -1079,3 +1079,7 @@
 2026-11-03T10:27 https://www.twitch.tv/mumusiraneitor/clip/FlaccidAdventurousBeeDerp-ZUsbBy7MF1hiyeKL descartado: no es bueno (nada, nota 3: Charla normal de agradecimiento sin ninguna situación graciosa o relevante.)
 2026-11-03T10:28 https://www.twitch.tv/chiclanafriends/clip/DullClearEggplantKreygasm-m-wGHZkHXZ-15toR descartado: no es bueno (nada, nota 3: Es una charla aburrida comprando un disfraz por internet sin gracia ni golpe final.)
 2026-11-03T10:29 https://www.twitch.tv/pccomponenteses/clip/RamshacklePhilanthropicDuckTinyFace-rDN-pYN_ml_L-6gl descartado: no es bueno (nada, nota 3: Es una charla técnica sobre componentes y memorias sin un remate cómico claro ni viral.)
+2026-11-03T11:25 https://www.twitch.tv/evangelion0/clip/MiniatureInnocentDadDerp-CwoBfiM6I0T69q8D descartado: no es bueno (nada, nota 2: Es solo un streamer leyendo un tuit y comentando sin gracia ni accion.)
+2026-11-03T11:25 https://www.twitch.tv/ache/clip/VibrantLuckyWoodpeckerShazBotstix-24tVU7iU3gs8YDGa descartado: no es bueno (nada, nota 3: Es un gameplay normal probando una mecánica sin ninguna reacción graciosa o épica.)
+2026-11-03T11:28 https://www.twitch.tv/zeling/clip/TrappedObeseTeaStoneLightning-wYAZSsah-8t9jA3O descartado: no es bueno (nada, nota 3: Es una charla normal pidiendo que paren de regalar subs, falta contexto y gracia.)
+2026-11-03T11:28 https://www.twitch.tv/golyentwitch/clip/BlithePerfectBorkBloodTrail--ek0ErT9yyLWseMK descartado: no es bueno (nada, nota 3: Comentario fuera de tono que incumple las normas de moderación de las plataformas.)
