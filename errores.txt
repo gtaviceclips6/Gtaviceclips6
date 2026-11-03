@@ -1063,3 +1063,7 @@
 2026-11-02T22:08 https://www.twitch.tv/juniorhealy/clip/KitschyHilariousSandstormRalpherZ-Kb8_qxepSVqQe3w0 descartado: no es bueno (nada, nota 3: Es el streamer imitando un acento y hablando solo, sin gracia real ni contexto de juego.)
 2026-11-02T23:17 https://www.twitch.tv/elxokas/clip/GlutenFreeBreakableWrenchDxCat-Wp4iZdd1saqd5oQS descartado: no es bueno (nada, nota 3: Es solo charla hablando de stream snipers sin ninguna situación graciosa.)
 2026-11-03T01:26 https://www.twitch.tv/elxokas/clip/HonestHonestLettucePicoMause-HjxypwM0OU7eGINs descartado: no es bueno (nada, nota 3: Es solo elxokas charlando sobre sus horarios sin ninguna situacion graciosa ni juego.)
+2026-11-03T04:11 https://www.twitch.tv/crystalmolly/clip/HumbleDullCarrotKappaRoss-7s3r4WKWk_CbltoA descartado: no es bueno (nada, nota 3: Reacción exagerada a un vídeo de internet sin gracia ni contexto suficiente.)
+2026-11-03T04:11 https://www.twitch.tv/amablitz/clip/SpikyAmorphousHerbsGOWSkull-AJNEACC6Dp-j1xhf descartado: no es bueno (nada, nota 2: Charla seria y reflexiva sobre ser figura pública sin gracia ni acción.)
+2026-11-03T04:12 https://www.twitch.tv/safiro01/clip/ZealousConcernedSkunkSMOrc-BAb5aN0R1SY8Z7OK descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant sin ningun fail gordo ni gracia especial.)
+2026-11-03T04:13 https://www.twitch.tv/safiro01/clip/CrazyFancyDiscDatBoi-VZXlpaErZhejsyIx descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant comentando la partida, sin gracia ni epicidad.)
