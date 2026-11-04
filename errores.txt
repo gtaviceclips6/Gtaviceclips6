@@ -1158,3 +1158,5 @@
 2026-11-04T20:24 https://www.twitch.tv/tvander/clip/RelentlessEasyKimchiBloodTrail-x-Z0S9lE49b-b5mu descartado: no es bueno (nada, nota 3: Es el streamer mirando una página web hablando de cosas sin gracia ni contexto visual.)
 2026-11-04T21:22 https://www.twitch.tv/elxokas/clip/CogentCredulousHippoBuddhaBar-ZDl9Kwm-zVfJX_1F descartado: no es bueno (nada, nota 3: Es solo Xokas sentado con gafas raras y un gato sin que pase nada.)
 2026-11-04T21:26 https://www.twitch.tv/peereira7/clip/BigBlightedLampStoneLightning--AKtVnoyr3Q1F8Hf descartado: no es bueno (nada, nota 3: Conversación interna y contexto de directos que no se entiende fuera.)
+2026-11-04T22:04 https://www.twitch.tv/aldo_geo/clip/AttractiveKathishSnakeCoolCat-q4EP5PngB6TJPbdb descartado: no es bueno (nada, nota 3: Es un clip de Minecraft sin contexto ni gracia especial para el gran público.)
+2026-11-04T22:05 https://www.twitch.tv/auronplay/clip/GiantInventiveSnoodBibleThump-P_PFmSky0lDmoyiM descartado: no es bueno (nada, nota 3: Es una charla seria y explicativa de Auronplay sin gracia ni accion relevante.)
