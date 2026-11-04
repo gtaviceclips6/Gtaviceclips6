@@ -1112,3 +1112,5 @@
 2026-11-03T22:49 https://www.twitch.tv/ibai/clip/BlazingTardyTardigradePicoMause-bR2IULoV13-WnPI5 descartado: no es bueno (nada, nota 3: Es una charla técnica sobre fichajes y esports sin ningún remate cómico ni momento visual destacable.)
 2026-11-03T23:19 https://www.twitch.tv/thegrefg/clip/HardHandsomeOkapiDeIlluminati-bp9VzO9gVQvzx432 descartado: no es bueno (nada, nota 3: Es una charla normal navegando por menús, hace falta más contexto de la situación.)
 2026-11-03T23:21 https://www.twitch.tv/baitybait/clip/SarcasticSmallToadNotATK-0CaI2Y53DT1Gu0Sv descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-04T00:11 https://www.twitch.tv/ibai/clip/CleverWiseLardPlanking-wmjMvDV0eBvDZyyU descartado: no es bueno (nada, nota 3: Es una charla interna y un chiste flojo que requiere contexto y no resulta gracioso.)
+2026-11-04T00:12 https://www.twitch.tv/baitybait/clip/SarcasticSmallToadNotATK-0CaI2Y53DT1Gu0Sv descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
