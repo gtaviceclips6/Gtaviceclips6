@@ -1123,3 +1123,7 @@
 2026-11-04T04:22 https://www.twitch.tv/rubius/clip/ChillyObeseCrabsEagleEye-2YdGNihrSXEpPDsR descartado: no es bueno (nada, nota 3: Es solo Rubius analizando detalles gráficos aburridos, no genera risa ni impresiona.)
 2026-11-04T07:37 https://www.twitch.tv/aurorafractubela_uwu/clip/RichFriendlyRuffHumbleLife-4DJM5gmr8OUm8VyK descartado: no es bueno (nada, nota 3: Es solo un clip de ASMR saludando, no pasa nada relevante ni divertido.)
 2026-11-04T07:40 https://www.twitch.tv/ibai/clip/MoldyRudeVanillaNomNom-Z2TSNR5_1i1QRHPC descartado: no es bueno (nada, nota 3: Conversacion confusa y sin gracia evidente que requiere demasiado contexto previo.)
+2026-11-04T08:34 https://www.twitch.tv/natymoon/clip/HardSilkyDaikonSoBayed-ALCyO5cBB5dlZdIY descartado: no es bueno (nada, nota 2: Es solo ASMR sin contexto ni gracia para el formato de la cuenta.)
+2026-11-04T08:35 https://www.twitch.tv/danielaazuaje_/clip/TardyLachrymoseMomTTours-PKRaLbIwUDJ28ZHa descartado: no es bueno (nada, nota 3: Es solo la streamer posando con un disfraz y hablando sin contexto relevante.)
+2026-11-04T08:35 https://www.twitch.tv/danielaazuaje_/clip/BreakableCautiousNoodleYee-8H57heh-7L1Ezn-o descartado: no es bueno (nada, nota 2: Es solo la streamer saludando sin contexto ni humor ni gameplay relevante.)
+2026-11-04T08:35 https://www.twitch.tv/outconsumer/clip/CuteIntelligentJayMikeHogu-CcCLl7xHglj-kZXX descartado: no es bueno (nada, nota 3: Es solo un comentario político sin humor visual ni nada gracioso.)
