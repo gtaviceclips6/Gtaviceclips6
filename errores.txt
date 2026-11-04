@@ -1140,3 +1140,5 @@
 2026-11-04T15:23 https://www.twitch.tv/elcalvolol/clip/BlueGentleBillWow-ZxMqnDcv9wdBenmo descartado: no es bueno (nada, nota 3: Es un streamer conduciendo en la vida real comentando jugadas sin gracia especial.)
 2026-11-04T15:26 https://www.twitch.tv/rxiirl/clip/ScaryZanyLouseSoonerLater-RPZIsmoh3pZ6dMIM descartado: no es bueno (nada, nota 3: Es solo gameplay normal de Rocket League sin momentos graciosos ni espectaculares.)
 2026-11-04T15:27 https://www.twitch.tv/agorafutbol/clip/PlainChillyCormorantMau5-Fs7ndjIeD3lj3s4g descartado: no es bueno (nada, nota 3: Es una charla sobre estadísticas de fútbol sin gracia ni reacción exagerada.)
+2026-11-04T16:12 https://www.twitch.tv/gonsabellla/clip/SpookyDifferentAlbatrossBloodTrail-2WGpVusbZbCSaw6Q descartado: no es bueno (nada, nota 3: Conversación casual sin contexto ni gracia especial para redes.)
+2026-11-04T16:16 https://www.twitch.tv/l0k0hgaming/clip/AveragePoisedWhaleKappaClaus-6qwNC0bsbZgTHNOi descartado: no es bueno (nada, nota 3: Es el streamer leyendo un artículo y divagando, falta chicha y humor para redes.)
