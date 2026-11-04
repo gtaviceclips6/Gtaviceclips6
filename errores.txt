@@ -1127,3 +1127,5 @@
 2026-11-04T08:35 https://www.twitch.tv/danielaazuaje_/clip/TardyLachrymoseMomTTours-PKRaLbIwUDJ28ZHa descartado: no es bueno (nada, nota 3: Es solo la streamer posando con un disfraz y hablando sin contexto relevante.)
 2026-11-04T08:35 https://www.twitch.tv/danielaazuaje_/clip/BreakableCautiousNoodleYee-8H57heh-7L1Ezn-o descartado: no es bueno (nada, nota 2: Es solo la streamer saludando sin contexto ni humor ni gameplay relevante.)
 2026-11-04T08:35 https://www.twitch.tv/outconsumer/clip/CuteIntelligentJayMikeHogu-CcCLl7xHglj-kZXX descartado: no es bueno (nada, nota 3: Es solo un comentario político sin humor visual ni nada gracioso.)
+2026-11-04T09:31 https://www.twitch.tv/phobyac/clip/ElatedHomelyKoala4Head-ljVeBgFRzt2EMDhE descartado: no es bueno (nada, nota 3: Es una queja seria del streamer sobre su guild sin gracia ni contexto suficiente.)
+2026-11-04T09:31 https://www.twitch.tv/el_yuste/clip/AggressiveBlightedCatAMPEnergyCherry-PJCMfGnFv5Ui_ipX descartado: no es bueno (nada, nota 3: Es una opinion seria sobre alquileres y centralismo, no es gracioso ni escena de juego.)
