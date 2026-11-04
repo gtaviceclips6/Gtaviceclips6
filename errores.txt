@@ -1142,3 +1142,7 @@
 2026-11-04T15:27 https://www.twitch.tv/agorafutbol/clip/PlainChillyCormorantMau5-Fs7ndjIeD3lj3s4g descartado: no es bueno (nada, nota 3: Es una charla sobre estadísticas de fútbol sin gracia ni reacción exagerada.)
 2026-11-04T16:12 https://www.twitch.tv/gonsabellla/clip/SpookyDifferentAlbatrossBloodTrail-2WGpVusbZbCSaw6Q descartado: no es bueno (nada, nota 3: Conversación casual sin contexto ni gracia especial para redes.)
 2026-11-04T16:16 https://www.twitch.tv/l0k0hgaming/clip/AveragePoisedWhaleKappaClaus-6qwNC0bsbZgTHNOi descartado: no es bueno (nada, nota 3: Es el streamer leyendo un artículo y divagando, falta chicha y humor para redes.)
+2026-11-04T17:28 https://www.twitch.tv/b0rja/clip/SmoggyGleamingHabaneroDxCat-us31J5diADVn0D05 descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve al streamer jugando a Valorant sin gracia especial.)
+2026-11-04T17:30 https://www.twitch.tv/sekiam/clip/ImpartialSneakyLocustBloodTrail-ykgC7-pUXjoGEOED descartado: no es bueno (nada, nota 2: Es solo charla de podcast sobre Pokémon sin nada gracioso ni visualmente espectacular.)
+2026-11-04T17:34 https://www.twitch.tv/mangel/clip/ClumsyDrabNostrilVoteNay-qF-wm-RgnXK3wZtp descartado: no es bueno (nada, nota 3: Es solo el streamer hablando tranquilamente mientras conduce sin que pase nada relevante.)
+2026-11-04T17:34 https://www.twitch.tv/viizzzm/clip/HardSnappyDragonfruitHotPokket-W0ePAyrZga9f87hi descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant sin ninguna reaccion destacable ni gracia.)
