@@ -1130,3 +1130,5 @@
 2026-11-04T09:31 https://www.twitch.tv/phobyac/clip/ElatedHomelyKoala4Head-ljVeBgFRzt2EMDhE descartado: no es bueno (nada, nota 3: Es una queja seria del streamer sobre su guild sin gracia ni contexto suficiente.)
 2026-11-04T09:31 https://www.twitch.tv/el_yuste/clip/AggressiveBlightedCatAMPEnergyCherry-PJCMfGnFv5Ui_ipX descartado: no es bueno (nada, nota 3: Es una opinion seria sobre alquileres y centralismo, no es gracioso ni escena de juego.)
 2026-11-04T10:25 https://www.twitch.tv/mumusiraneitor/clip/TangibleViscousStinkbugWoofer-ZjSffDWnD3bVtHHo descartado: no es bueno (nada, nota 3: Es un fragmento de stream hablando y mostrando un cartel, falta contexto y humor.)
+2026-11-04T10:39 https://www.twitch.tv/cahos_gaming/clip/ShinySparklyGuanacoPJSugar-DlXiXIcOgGnJUP1l descartado: no es bueno (nada, nota 3: Muerte random en raid sin contexto ni reacción graciosa destacable.)
+2026-11-04T10:40 https://www.twitch.tv/phobyac/clip/SmilingHungryReindeerCharlietheUnicorn-Ccc2kjzE3Tc_PbO4 descartado: no es bueno (nada, nota 3: Es una charla explicativa sobre profesiones de videojuegos, nada gracioso ni visualmente impactante.)
