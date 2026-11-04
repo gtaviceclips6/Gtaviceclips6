@@ -1137,3 +1137,6 @@
 2026-11-04T13:30 https://www.twitch.tv/skain/clip/IronicTawdrySparrowPraiseIt-mQi6w8Xcs_6ivOY_ descartado: no es bueno (nada, nota 3: Interacción aburrida en un baño sin gracia ni contexto suficiente para destacar.)
 2026-11-04T13:45 https://www.twitch.tv/elcalvolol/clip/FuriousTriumphantBeefKeepo-J6Ib0kxCwbHKGD8o descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-04T13:47 https://www.twitch.tv/cahos_gaming/clip/DullFurtiveStingrayPhilosoraptor-b1m7WJ47NVbu364G descartado: no es bueno (nada, nota 3: Es una charla interna de chat y un saludo largo que no hace gracia general.)
+2026-11-04T15:23 https://www.twitch.tv/elcalvolol/clip/BlueGentleBillWow-ZxMqnDcv9wdBenmo descartado: no es bueno (nada, nota 3: Es un streamer conduciendo en la vida real comentando jugadas sin gracia especial.)
+2026-11-04T15:26 https://www.twitch.tv/rxiirl/clip/ScaryZanyLouseSoonerLater-RPZIsmoh3pZ6dMIM descartado: no es bueno (nada, nota 3: Es solo gameplay normal de Rocket League sin momentos graciosos ni espectaculares.)
+2026-11-04T15:27 https://www.twitch.tv/agorafutbol/clip/PlainChillyCormorantMau5-Fs7ndjIeD3lj3s4g descartado: no es bueno (nada, nota 3: Es una charla sobre estadísticas de fútbol sin gracia ni reacción exagerada.)
