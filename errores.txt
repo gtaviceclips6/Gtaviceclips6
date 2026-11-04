@@ -1121,3 +1121,5 @@
 2026-11-04T04:19 https://www.twitch.tv/rubius/clip/PlacidKnottySnoodSeemsGood-8U2bCipPoCsXveQH descartado: demasiado corto (5 s)
 2026-11-04T04:21 https://www.twitch.tv/putupau/clip/HumbleRepletePistachioWOOP-S_96VfMWFH_6x0-V descartado: no es bueno (nada, nota 3: Es una tirada gacha normal y corriente sin una reaccion exagerada o graciosa.)
 2026-11-04T04:22 https://www.twitch.tv/rubius/clip/ChillyObeseCrabsEagleEye-2YdGNihrSXEpPDsR descartado: no es bueno (nada, nota 3: Es solo Rubius analizando detalles gráficos aburridos, no genera risa ni impresiona.)
+2026-11-04T07:37 https://www.twitch.tv/aurorafractubela_uwu/clip/RichFriendlyRuffHumbleLife-4DJM5gmr8OUm8VyK descartado: no es bueno (nada, nota 3: Es solo un clip de ASMR saludando, no pasa nada relevante ni divertido.)
+2026-11-04T07:40 https://www.twitch.tv/ibai/clip/MoldyRudeVanillaNomNom-Z2TSNR5_1i1QRHPC descartado: no es bueno (nada, nota 3: Conversacion confusa y sin gracia evidente que requiere demasiado contexto previo.)
