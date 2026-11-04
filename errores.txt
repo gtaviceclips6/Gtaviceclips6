@@ -1160,3 +1160,5 @@
 2026-11-04T21:26 https://www.twitch.tv/peereira7/clip/BigBlightedLampStoneLightning--AKtVnoyr3Q1F8Hf descartado: no es bueno (nada, nota 3: Conversación interna y contexto de directos que no se entiende fuera.)
 2026-11-04T22:04 https://www.twitch.tv/aldo_geo/clip/AttractiveKathishSnakeCoolCat-q4EP5PngB6TJPbdb descartado: no es bueno (nada, nota 3: Es un clip de Minecraft sin contexto ni gracia especial para el gran público.)
 2026-11-04T22:05 https://www.twitch.tv/auronplay/clip/GiantInventiveSnoodBibleThump-P_PFmSky0lDmoyiM descartado: no es bueno (nada, nota 3: Es una charla seria y explicativa de Auronplay sin gracia ni accion relevante.)
+2026-11-04T22:21 https://www.twitch.tv/elxokas/clip/SavageArtisticPastaRaccAttack-ggJJheUVaKAKTNM_ descartado: no es bueno (nada, nota 3: Es un clip de World of Warcraft que requiere contexto del juego y no resulta gracioso fuera de él.)
+2026-11-04T22:22 https://www.twitch.tv/knekro/clip/StormyFreezingPoultrySuperVinlin-aqzJF8E6Ss0oowZM descartado: no es bueno (nada, nota 3: Requiere demasiado contexto del directo y no destaca por sí solo fuera de él.)
