@@ -1184,3 +1184,6 @@
 2026-11-05T11:34 https://www.twitch.tv/pandarina/clip/GrotesqueVainBeaverBleedPurple-UR9LqzoNcGeKjuLr descartado: no es bueno (nada, nota 3: Es solo charla normal de la streamer jugando WoW sin ningun momento destacado)
 2026-11-05T12:29 https://www.twitch.tv/elvirayuki/clip/FurtiveHonorableWormTBCheesePull-3oaCcDjbxDXDT35q descartado: no es bueno (nada, nota 3: Reacción confusa sin contexto claro sobre lo que le molesta.)
 2026-11-05T12:34 https://www.twitch.tv/zeling/clip/DepressedAmazonianOstrichSMOrc-pxwJx68F2eoySslb descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-05T13:37 https://www.twitch.tv/ache/clip/BadDiligentLasagnaPeanutButterJellyTime-oBauxR7D3JtmEc8Y descartado: no es bueno (nada, nota 4: Jugada estándar de Fortnite sin momentos graciosos ni visualmente impactantes.)
+2026-11-05T13:38 https://www.twitch.tv/abby_/clip/MoralHeadstrongWallabyRalpherZ-6OFblwmOW9FavvQ5 descartado: no es bueno (nada, nota 3: Charla sin contexto sobre rumores, no hace gracia ni aporta nada visual.)
+2026-11-05T13:38 https://www.twitch.tv/reventxz/clip/EnchantingSavoryAlfalfaFunRun-p4Q1QlnKPeSeyxg9 descartado: no es bueno (nada, nota 2: Es un streamer enseñando una lista de addons de un juego, cero viralidad.)
