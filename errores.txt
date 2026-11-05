@@ -1202,3 +1202,4 @@
 2026-11-05T19:22 https://www.twitch.tv/jujalag/clip/DeterminedDeliciousRaccoonMoreCowbell-dnNaivqqGp24dHW7 descartado: no es bueno (nada, nota 3: Es una charla del streamer hablando de la flauta y juegos sin gracia destacable.)
 2026-11-05T19:30 https://www.twitch.tv/peereira7/clip/MagnificentInterestingNewtKippa-ZiggAIYQ1MW8jhUQ descartado: no es bueno (nada, nota 3: Es un paseo por la calle sin gracia ni contexto claro, solo risas flojas.)
 2026-11-05T19:33 https://www.twitch.tv/juansguarnizo/clip/RelievedCrepuscularGaurArsonNoSexy-TvLOPAoQXCBLsTji descartado: no es bueno (nada, nota 3: Es una charla reflexiva y seria, no hay humor ni momentos espectaculares.)
+2026-11-05T20:20 https://www.twitch.tv/peereira7/clip/ResoluteGoodPineappleHoneyBadger-uL_YclBk4uJJ3yvU descartado: no es bueno (nada, nota 3: Es un directo IRL con gente en un concierto, falta contexto y no es gracioso ni una escena de juego.)
