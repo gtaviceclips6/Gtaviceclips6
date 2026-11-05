@@ -1176,3 +1176,5 @@
 2026-11-05T08:37 https://www.twitch.tv/peereira7/clip/ElatedSmokyPangolinThisIsSparta-KQ4uYoqEVY48pOJz descartado: no es bueno (nada, nota 3: Es un streamer durmiendo en directo, falta accion y contexto para TikTok.)
 2026-11-05T08:38 https://www.twitch.tv/rubius/clip/InnocentBigTaroMikeHogu-uIkmDqhZ95JOjrNA descartado: no es bueno (nada, nota 3: Es solo Rubius caminando por un juego sin ninguna reaccion o momento gracioso real.)
 2026-11-05T08:42 https://www.twitch.tv/elxokas/clip/SuperFrigidLettuceKappaRoss-6RHfA-BOeg0yPCnH descartado: no es bueno (nada, nota 3: Solo habla a camara con un contador de fondo sin ninguna accion relevante.)
+2026-11-05T09:35 https://www.twitch.tv/peereira7/clip/KitschyBraveLionTebowing-3viqyCdTNT1cpz3Y descartado: no es bueno (nada, nota 3: Es un momento interno de una retransmisión 24 horas sin contexto gracioso.)
+2026-11-05T09:38 https://www.twitch.tv/evangelion0/clip/SweetLightLocustDuDudu-POLtu5X8DuCvDXT8 descartado: no es bueno (nada, nota 2: El streamer solo está explicando menús y addons sin gracia ni acción espectacular.)
