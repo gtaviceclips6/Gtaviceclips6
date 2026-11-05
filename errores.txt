@@ -1168,3 +1168,6 @@
 2026-11-05T01:32 https://www.twitch.tv/thegrefg/clip/LongUglyBottleStinkyCheese-u1Q5ZtK1czoOlyOO descartado: no es bueno (nada, nota 3: Comentario random sin contexto ni gracia real, solo un streamer divagando tarde.)
 2026-11-05T01:33 https://www.twitch.tv/knekro/clip/QuaintYummyHumanBrainSlug-FD2Nf75mYOMcMyaF descartado: no es bueno (nada, nota 3: Es solo un menú y un comentario sin gracia ni reacción potente.)
 2026-11-05T01:34 https://www.twitch.tv/silithur/clip/AbstemiousPricklyPieLeeroyJenkins-fB4m4D3G1HERW2Zt descartado: no es bueno (nada, nota 3: Es una queja simple sobre la iluminación del juego sin gracia ni acción destacable.)
+2026-11-05T04:16 https://www.twitch.tv/peereira7/clip/CrypticPiliableChowderKeepo-yKJ8kRSgTkh744Hd descartado: no es bueno (nada, nota 3: Es un streamer durmiendo en directo, nada relevante ni gracioso fuera de contexto.)
+2026-11-05T04:17 https://www.twitch.tv/aldo_geo/clip/MiniatureClumsyIcecreamVoteNay-AcKkkk27P93VC4QS descartado: no es bueno (nada, nota 3: Es una interacción normal en un servidor multijugador sin gracia especial ni momento viral.)
+2026-11-05T04:17 https://www.twitch.tv/rubius/clip/DrabCrazySpaghettiArsonNoSexy-reh_VV4PM1toeRR- descartado: no es bueno (nada, nota 3: Comentario insulso de gameplay sin gracia ni contexto suficiente para viralizar.)
