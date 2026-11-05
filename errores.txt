@@ -1197,3 +1197,6 @@
 2026-11-05T17:42 https://www.twitch.tv/dazrbn/clip/EmpathicGorgeousZucchiniDansGame-9wb5y23qlstX4mte descartado: no es bueno (nada, nota 3: Solo se ríe tocando la ocarina, falta contexto y no destaca.)
 2026-11-05T17:44 https://www.twitch.tv/elxokas/clip/DreamyHorribleWatermelonMrDestructoid-iaTorcu2v1Xv9P_x descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-05T18:21 https://www.twitch.tv/baitybait/clip/TemperedCarelessBarracudaPanicVis-MB9PQMfns6Uvef1b descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-05T19:19 https://www.twitch.tv/peereira7/clip/AnnoyingBlitheBibimbapArsonNoSexy-4km_z5M3eTjipEAc descartado: no es bueno (nada, nota 3: Conversación de calle irrelevante y sin gracia que requiere mucho contexto.)
+2026-11-05T19:21 https://www.twitch.tv/jujalag/clip/SpookyHandsomeRedpandaBleedPurple-nwssFglgCxQyyEEu descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-05T19:22 https://www.twitch.tv/jujalag/clip/DeterminedDeliciousRaccoonMoreCowbell-dnNaivqqGp24dHW7 descartado: no es bueno (nada, nota 3: Es una charla del streamer hablando de la flauta y juegos sin gracia destacable.)
