@@ -1182,3 +1182,5 @@
 2026-11-05T11:30 https://www.twitch.tv/peereira7/clip/AggressiveLaconicPastaPeoplesChamp-Wgn6joDNXctyr7Q7 descartado: no es bueno (nada, nota 2: Es solo charla en coche sin ninguna gracia ni accion relevante.)
 2026-11-05T11:32 https://www.twitch.tv/phobyac/clip/HeartlessWanderingCheeseKAPOW-VlmM6uEfkDxOnBuO descartado: no es bueno (nada, nota 3: Es una conversacion de juego interno que requiere contexto de su comunidad.)
 2026-11-05T11:34 https://www.twitch.tv/pandarina/clip/GrotesqueVainBeaverBleedPurple-UR9LqzoNcGeKjuLr descartado: no es bueno (nada, nota 3: Es solo charla normal de la streamer jugando WoW sin ningun momento destacado)
+2026-11-05T12:29 https://www.twitch.tv/elvirayuki/clip/FurtiveHonorableWormTBCheesePull-3oaCcDjbxDXDT35q descartado: no es bueno (nada, nota 3: Reacción confusa sin contexto claro sobre lo que le molesta.)
+2026-11-05T12:34 https://www.twitch.tv/zeling/clip/DepressedAmazonianOstrichSMOrc-pxwJx68F2eoySslb descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
