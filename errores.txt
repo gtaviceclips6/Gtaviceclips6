@@ -1163,3 +1163,5 @@
 2026-11-04T22:21 https://www.twitch.tv/elxokas/clip/SavageArtisticPastaRaccAttack-ggJJheUVaKAKTNM_ descartado: no es bueno (nada, nota 3: Es un clip de World of Warcraft que requiere contexto del juego y no resulta gracioso fuera de él.)
 2026-11-04T22:22 https://www.twitch.tv/knekro/clip/StormyFreezingPoultrySuperVinlin-aqzJF8E6Ss0oowZM descartado: no es bueno (nada, nota 3: Requiere demasiado contexto del directo y no destaca por sí solo fuera de él.)
 2026-11-04T23:17 https://www.twitch.tv/revenant/clip/HandsomeDirtyGoshawkTakeNRG-2P_GE79OV0Zbc-0s descartado: no es bueno (nada, nota 2: Es una explicación técnica de addons sin gracia ni valor visual.)
+2026-11-05T00:27 https://www.twitch.tv/toadamarillo/clip/JollyBlindingHedgehogHassanChop-SdYo8uebNj59wV7S descartado: no es bueno (nada, nota 2: Es una partida de League of Legends aburrida sin ninguna reacción graciosa ni jugada épica.)
+2026-11-05T00:27 https://www.twitch.tv/toadamarillo/clip/FriendlySpookyCatTriHard-LNHI-8RFFr65DqPV descartado: no es bueno (nada, nota 3: Es un comentario caótico de una partida de LoL sin contexto ni gracia especial.)
