@@ -1165,3 +1165,6 @@
 2026-11-04T23:17 https://www.twitch.tv/revenant/clip/HandsomeDirtyGoshawkTakeNRG-2P_GE79OV0Zbc-0s descartado: no es bueno (nada, nota 2: Es una explicación técnica de addons sin gracia ni valor visual.)
 2026-11-05T00:27 https://www.twitch.tv/toadamarillo/clip/JollyBlindingHedgehogHassanChop-SdYo8uebNj59wV7S descartado: no es bueno (nada, nota 2: Es una partida de League of Legends aburrida sin ninguna reacción graciosa ni jugada épica.)
 2026-11-05T00:27 https://www.twitch.tv/toadamarillo/clip/FriendlySpookyCatTriHard-LNHI-8RFFr65DqPV descartado: no es bueno (nada, nota 3: Es un comentario caótico de una partida de LoL sin contexto ni gracia especial.)
+2026-11-05T01:32 https://www.twitch.tv/thegrefg/clip/LongUglyBottleStinkyCheese-u1Q5ZtK1czoOlyOO descartado: no es bueno (nada, nota 3: Comentario random sin contexto ni gracia real, solo un streamer divagando tarde.)
+2026-11-05T01:33 https://www.twitch.tv/knekro/clip/QuaintYummyHumanBrainSlug-FD2Nf75mYOMcMyaF descartado: no es bueno (nada, nota 3: Es solo un menú y un comentario sin gracia ni reacción potente.)
+2026-11-05T01:34 https://www.twitch.tv/silithur/clip/AbstemiousPricklyPieLeeroyJenkins-fB4m4D3G1HERW2Zt descartado: no es bueno (nada, nota 3: Es una queja simple sobre la iluminación del juego sin gracia ni acción destacable.)
