@@ -1171,3 +1171,5 @@
 2026-11-05T04:16 https://www.twitch.tv/peereira7/clip/CrypticPiliableChowderKeepo-yKJ8kRSgTkh744Hd descartado: no es bueno (nada, nota 3: Es un streamer durmiendo en directo, nada relevante ni gracioso fuera de contexto.)
 2026-11-05T04:17 https://www.twitch.tv/aldo_geo/clip/MiniatureClumsyIcecreamVoteNay-AcKkkk27P93VC4QS descartado: no es bueno (nada, nota 3: Es una interacción normal en un servidor multijugador sin gracia especial ni momento viral.)
 2026-11-05T04:17 https://www.twitch.tv/rubius/clip/DrabCrazySpaghettiArsonNoSexy-reh_VV4PM1toeRR- descartado: no es bueno (nada, nota 3: Comentario insulso de gameplay sin gracia ni contexto suficiente para viralizar.)
+2026-11-05T07:40 https://www.twitch.tv/knekro/clip/FurryFantasticCobblerSaltBae-pdyyCccpjGRp6Pew descartado: no es bueno (nada, nota 2: Es Knekro repasando menús y addons de WoW de forma aburrida, cero viralidad.)
+2026-11-05T07:41 https://www.twitch.tv/ibai/clip/ExpensiveRudeSquidItsBoshyTime-ek39X2JKFTWfK0uz descartado: no es bueno (nada, nota 3: Conversacion casual entre streamers, falta contexto y no ocurre nada realmente gracioso ni visual.)
