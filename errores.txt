@@ -1200,3 +1200,5 @@
 2026-11-05T19:19 https://www.twitch.tv/peereira7/clip/AnnoyingBlitheBibimbapArsonNoSexy-4km_z5M3eTjipEAc descartado: no es bueno (nada, nota 3: Conversación de calle irrelevante y sin gracia que requiere mucho contexto.)
 2026-11-05T19:21 https://www.twitch.tv/jujalag/clip/SpookyHandsomeRedpandaBleedPurple-nwssFglgCxQyyEEu descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-05T19:22 https://www.twitch.tv/jujalag/clip/DeterminedDeliciousRaccoonMoreCowbell-dnNaivqqGp24dHW7 descartado: no es bueno (nada, nota 3: Es una charla del streamer hablando de la flauta y juegos sin gracia destacable.)
+2026-11-05T19:30 https://www.twitch.tv/peereira7/clip/MagnificentInterestingNewtKippa-ZiggAIYQ1MW8jhUQ descartado: no es bueno (nada, nota 3: Es un paseo por la calle sin gracia ni contexto claro, solo risas flojas.)
+2026-11-05T19:33 https://www.twitch.tv/juansguarnizo/clip/RelievedCrepuscularGaurArsonNoSexy-TvLOPAoQXCBLsTji descartado: no es bueno (nada, nota 3: Es una charla reflexiva y seria, no hay humor ni momentos espectaculares.)
