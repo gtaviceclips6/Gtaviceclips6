@@ -1189,3 +1189,6 @@
 2026-11-05T13:38 https://www.twitch.tv/reventxz/clip/EnchantingSavoryAlfalfaFunRun-p4Q1QlnKPeSeyxg9 descartado: no es bueno (nada, nota 2: Es un streamer enseñando una lista de addons de un juego, cero viralidad.)
 2026-11-05T13:49 https://www.twitch.tv/bystaxx/clip/WimpyHyperCobraSMOrc-xVKKH4PO6KtFLaKi descartado: no es bueno (nada, nota 3: Jugada normal de shooter sin ninguna reaccion exagerada ni momento especialmente divertido.)
 2026-11-05T15:31 https://www.twitch.tv/zeling/clip/SleepyZanyTurtleCoolStoryBob-ZWX5msIWLk3ZaKLo descartado: no es bueno (nada, nota 3: Simples quejas de gameplay en WoW sin un momento desternillante ni espectacular.)
+2026-11-05T16:37 https://www.twitch.tv/peereira7/clip/CharmingOpenDragonfruitDatBoi-DQ0gxHa8fBRQwzJH descartado: no es bueno (nada, nota 3: Conversacion de aeropuerto sin gracia ni contexto suficiente para destacar en redes.)
+2026-11-05T16:38 https://www.twitch.tv/peereira7/clip/AltruisticPoliteMangoMrDestructoid-RTKzjg8NbK8lMCJ2 descartado: no es bueno (nada, nota 3: Conversacion entre streamers poco relevante y sin contexto claro para fuera de su comunidad)
+2026-11-05T16:39 https://www.twitch.tv/menostrece/clip/ThankfulBloodyChamoisGOWSkull-qrQgRNmBO6_bFPVy descartado: no es bueno (nada, nota 3: Es solo el streamer comentando mecánicas de un juego en una pantalla estática.)
