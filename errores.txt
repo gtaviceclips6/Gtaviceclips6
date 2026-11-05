@@ -1179,3 +1179,6 @@
 2026-11-05T09:35 https://www.twitch.tv/peereira7/clip/KitschyBraveLionTebowing-3viqyCdTNT1cpz3Y descartado: no es bueno (nada, nota 3: Es un momento interno de una retransmisión 24 horas sin contexto gracioso.)
 2026-11-05T09:38 https://www.twitch.tv/evangelion0/clip/SweetLightLocustDuDudu-POLtu5X8DuCvDXT8 descartado: no es bueno (nada, nota 2: El streamer solo está explicando menús y addons sin gracia ni acción espectacular.)
 2026-11-05T10:35 https://www.twitch.tv/peereira7/clip/StupidTallButterflyWholeWheat-RngkBxBbObSzkAqD descartado: no es bueno (nada, nota 3: Conversacion cotidiana de directos sin gracia especial ni contexto divertido fuera de su comunidad.)
+2026-11-05T11:30 https://www.twitch.tv/peereira7/clip/AggressiveLaconicPastaPeoplesChamp-Wgn6joDNXctyr7Q7 descartado: no es bueno (nada, nota 2: Es solo charla en coche sin ninguna gracia ni accion relevante.)
+2026-11-05T11:32 https://www.twitch.tv/phobyac/clip/HeartlessWanderingCheeseKAPOW-VlmM6uEfkDxOnBuO descartado: no es bueno (nada, nota 3: Es una conversacion de juego interno que requiere contexto de su comunidad.)
+2026-11-05T11:34 https://www.twitch.tv/pandarina/clip/GrotesqueVainBeaverBleedPurple-UR9LqzoNcGeKjuLr descartado: no es bueno (nada, nota 3: Es solo charla normal de la streamer jugando WoW sin ningun momento destacado)
