@@ -1225,3 +1225,6 @@
 2026-11-06T09:29 https://www.twitch.tv/agbin3r/clip/DistinctBraveBaguetteHeyGuys-1FdJHCffnEkjl6Y9 descartado: no es bueno (nada, nota 3: Conversación en coche sin gracia destacable ni impacto visual para TikTok.)
 2026-11-06T09:31 https://www.twitch.tv/skyshocktv/clip/TacitHilariousWasabiJebaited-lC94VakywxXSscd5 descartado: no es bueno (nada, nota 3: Es una reacción típica de juego sin contexto visual claro para TikTok.)
 2026-11-06T09:31 https://www.twitch.tv/gerardromero/clip/BlitheBelovedZucchiniMikeHogu-yhxMGlAaIPcTS5eU descartado: no es bueno (nada, nota 2: Es solo un streamer leyendo agradecimientos de subs, sin gracia ni nada especial.)
+2026-11-06T10:35 https://www.twitch.tv/peereira7/clip/HotAssiduousCheesecakeMikeHogu-6R_IX-KGwjrmb8Y_ descartado: no es bueno (nada, nota 3: Charla absurda y sin gracia que requiere contexto del directo.)
+2026-11-06T10:36 https://www.twitch.tv/zeling/clip/AbrasiveCoweringFoxBigBrother-RaT9Js_fVnlo32zd descartado: no es bueno (nada, nota 3: Es una muerte típica de videojuego sin reacción exagerada ni gracia especial.)
+2026-11-06T10:40 https://www.twitch.tv/skain/clip/LittleDoubtfulMomUnSane-kntzeY0EPRckMwUE descartado: no es bueno (nada, nota 3: Es solo el streamer hablando a cámara sobre un juego sin momentos graciosos ni gameplay.)
