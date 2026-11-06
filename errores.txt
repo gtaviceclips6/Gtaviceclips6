@@ -1242,3 +1242,6 @@
 2026-11-06T15:18 https://www.twitch.tv/peereira7/clip/GrossCoyQueleaAMPEnergy-ibyMAucoGj3teN8t descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una reaccion dentro de una stream house.)
 2026-11-06T15:18 https://www.twitch.tv/peereira7/clip/SullenBoringKathyCmonBruh-r28jkCqqKoTJMh85 descartado: no es bueno (nada, nota 3: Es una broma simple de stream sin gracia fuera de contexto.)
 2026-11-06T15:18 https://www.twitch.tv/reventxz/clip/SweetUninterestedBubbleteaDAESuppy-fHSBtSrXWVmwk22F descartado: no es bueno (nada, nota 3: Es una charla normal de chat sin gracia ni salseo real.)
+2026-11-06T16:07 https://www.twitch.tv/revenant/clip/TenaciousExcitedGoldfishDansGame-20X_RnKzusMc2wka descartado: no es bueno (nada, nota 2: Es solo un streamer mostrando addons de World of Warcraft, no tiene gracia ni es viral.)
+2026-11-06T16:08 https://www.twitch.tv/nachez98/clip/BeautifulQuaintSwallowVoteNay-YibXDl-KHy6l31Ou descartado: no es bueno (nada, nota 2: Contenido inadecuado e inapropiado que infringe las normas de la comunidad.)
+2026-11-06T16:08 https://www.twitch.tv/radossb/clip/RespectfulEsteemedElkTwitchRaid-WaLFFujdxQbnux8j descartado: no es bueno (nada, nota 3: Charla confusa sobre sonidos del juego sin ninguna reaccion destacable ni gracia real.)
