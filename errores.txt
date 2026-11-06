@@ -1260,3 +1260,5 @@
 2026-11-06T21:59 https://www.twitch.tv/titochapee/clip/SpookyAlertScorpionPunchTrees-c7xe_o8JMEfAjWtq descartado: no es bueno (nada, nota 3: Es una broma interna y el contexto resulta confuso sin ver qué pasa realmente.)
 2026-11-06T22:00 https://www.twitch.tv/paache_/clip/SpineyFlaccidWalrusTBCheesePull-SL41yRorAfDaaOZL descartado: no es bueno (nada, nota 3: Jugando a Fortnite sin nada reseñable ni gracioso fuera de contexto.)
 2026-11-06T22:00 https://www.twitch.tv/titochapee/clip/HomelyUninterestedChoughSwiftRage-ngwkqZSU2TFv3Sqr descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una charla random de streamers sin gracia especial.)
+2026-11-06T22:15 https://www.twitch.tv/peereira7/clip/MoldyCharmingSamosaBloodTrail-6w5JAYaqk1I9dZuQ descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni nada sorprendente.)
+2026-11-06T22:16 https://www.twitch.tv/elxokas/clip/WildGenerousAnacondaSoonerLater-cisVKslc90qUnHFG descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
