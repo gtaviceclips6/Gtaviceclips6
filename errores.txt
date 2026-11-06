@@ -1208,3 +1208,6 @@
 2026-11-05T22:05 https://www.twitch.tv/aldo_geo/clip/ExuberantSpotlessDuckDxAbomb-ngn6ua4IQR5roIVi descartado: no es bueno (nada, nota 3: Conversación interna sin contexto claro y juego lento, requiere saber mucho del lore.)
 2026-11-05T22:22 https://www.twitch.tv/peereira7/clip/RealApatheticQuailRlyTho-rewU1Z77TEqv0KNz descartado: no es bueno (nada, nota 3: Conversacion random de streamers en una habitacion, falta contexto y gracia directa.)
 2026-11-05T22:23 https://www.twitch.tv/deusamir/clip/UglyFriendlyOctopusResidentSleeper-p4n5Tgfw57a9HbT9 descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin ninguna situación graciosa o destacable.)
+2026-11-06T00:14 https://www.twitch.tv/knekro/clip/SneakyFineButterflyChocolateRain-MyRRR3SYNwEUpFsD descartado: no es bueno (nada, nota 3: Es una queja rutinaria por lag o rollback en un juego sin ninguna gracia especial.)
+2026-11-06T00:15 https://www.twitch.tv/ibai/clip/FlirtyTransparentMallardMoreCowbell-ZUp8zuDMCEYzUazP descartado: no es bueno (nada, nota 3: Conversacion larga de salseo sin remate claro ni gracia espontanea para redes rapidas.)
+2026-11-06T00:15 https://www.twitch.tv/jonnijuro/clip/ThirstyDepressedDragonfruitSwiftRage-GfMBuanMtGDzLuZi descartado: no es bueno (nada, nota 3: Reaccion exagerada a la seleccion de campeones en competitivo, requiere contexto de esports.)
