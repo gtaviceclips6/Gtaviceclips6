@@ -1239,3 +1239,6 @@
 2026-11-06T13:48 https://www.twitch.tv/elpelotasssss/clip/DrabOptimisticPigeonTriHard-4Y9K2ekELqv-BUI8 descartado: no es bueno (nada, nota 3: Conversación confusa de chat de voz sin contexto ni gracia clara.)
 2026-11-06T13:49 https://www.twitch.tv/elvirayuki/clip/EnergeticConfidentDoveTheThing-SDK7huZQPdp5DpiD descartado: no es bueno (nada, nota 3: Conversación sin sentido y confusa que requiere contexto previo para entenderse.)
 2026-11-06T13:49 https://www.twitch.tv/abby_/clip/CulturedStupidSaladRuleFive-V163OYaJa3tK014G descartado: no es bueno (nada, nota 3: Reacción genérica de juego sin gracia ni contexto suficiente para viralizar.)
+2026-11-06T15:18 https://www.twitch.tv/peereira7/clip/GrossCoyQueleaAMPEnergy-ibyMAucoGj3teN8t descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una reaccion dentro de una stream house.)
+2026-11-06T15:18 https://www.twitch.tv/peereira7/clip/SullenBoringKathyCmonBruh-r28jkCqqKoTJMh85 descartado: no es bueno (nada, nota 3: Es una broma simple de stream sin gracia fuera de contexto.)
+2026-11-06T15:18 https://www.twitch.tv/reventxz/clip/SweetUninterestedBubbleteaDAESuppy-fHSBtSrXWVmwk22F descartado: no es bueno (nada, nota 3: Es una charla normal de chat sin gracia ni salseo real.)
