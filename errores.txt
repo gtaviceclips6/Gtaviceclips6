@@ -1255,3 +1255,8 @@
 2026-11-06T21:18 https://www.twitch.tv/knekro/clip/HedonisticPeppyCrabBibleThump-DNnqV4nMKNEb5WHN descartado: no es bueno (nada, nota 3: Falta contexto y la reaccion es muy floja para alguien que no sea seguidor.)
 2026-11-06T21:20 https://www.twitch.tv/elxokas/clip/AstuteFlaccidDinosaurUnSane-O3ktrW0mqMTU-z-5 descartado: no es bueno (nada, nota 3: Es una charla normal sobre un evento de videojuegos sin ninguna gracia especial ni fail.)
 2026-11-06T21:20 https://www.twitch.tv/peereira7/clip/SincereBlitheTubersPJSugar-m_vmp0WOvxdm7FNp descartado: no es bueno (nada, nota 3: El streamer solo repite frases del juego sin aportar una reaccion realmente graciosa.)
+2026-11-06T21:58 https://www.twitch.tv/aldo_geo/clip/EntertainingResourcefulNightingalePoooound-FcAy6kqe2_t3Hamx descartado: no es bueno (nada, nota 3: El clip no tiene contexto claro y es solo un monólogo hablando solo.)
+2026-11-06T21:58 https://www.twitch.tv/knekro/clip/TransparentPlumpJamDatBoi-Dq9aqxgPRzm1cjq2 descartado: no es bueno (nada, nota 3: Insultos y lenguaje soez sin gracia real ni contexto divertido.)
+2026-11-06T21:59 https://www.twitch.tv/titochapee/clip/SpookyAlertScorpionPunchTrees-c7xe_o8JMEfAjWtq descartado: no es bueno (nada, nota 3: Es una broma interna y el contexto resulta confuso sin ver qué pasa realmente.)
+2026-11-06T22:00 https://www.twitch.tv/paache_/clip/SpineyFlaccidWalrusTBCheesePull-SL41yRorAfDaaOZL descartado: no es bueno (nada, nota 3: Jugando a Fortnite sin nada reseñable ni gracioso fuera de contexto.)
+2026-11-06T22:00 https://www.twitch.tv/titochapee/clip/HomelyUninterestedChoughSwiftRage-ngwkqZSU2TFv3Sqr descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una charla random de streamers sin gracia especial.)
