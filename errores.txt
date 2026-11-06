@@ -1262,3 +1262,7 @@
 2026-11-06T22:00 https://www.twitch.tv/titochapee/clip/HomelyUninterestedChoughSwiftRage-ngwkqZSU2TFv3Sqr descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una charla random de streamers sin gracia especial.)
 2026-11-06T22:15 https://www.twitch.tv/peereira7/clip/MoldyCharmingSamosaBloodTrail-6w5JAYaqk1I9dZuQ descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni nada sorprendente.)
 2026-11-06T22:16 https://www.twitch.tv/elxokas/clip/WildGenerousAnacondaSoonerLater-cisVKslc90qUnHFG descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-06T23:16 https://www.twitch.tv/ibai/clip/ArtsyStormyMonkeyCorgiDerp-rWcmIL8F_iKKXX2i descartado: no es bueno (nada, nota 3: Es una jugada de League of Legends que requiere contexto y no resulta graciosa ni impactante fuera de su comunidad.)
+2026-11-06T23:17 https://www.twitch.tv/ibai/clip/GleamingTalentedSoymilkAMPTropPunch-d6HRJzE3Fcd901fs descartado: no es bueno (nada, nota 3: Es una partida de League of Legends aburrida sin ninguna jugada destacable ni gracia.)
+2026-11-06T23:17 https://www.twitch.tv/elxokas/clip/LitigiousCogentOtterKappa-uTOlzN2-egwTn187 descartado: no es bueno (nada, nota 3: Es el Xokas explicando una build de World of Warcraft, no sirve para TikTok.)
+2026-11-06T23:18 https://www.twitch.tv/peereira7/clip/ExuberantCorrectCarabeefPermaSmug-gZ4UDPWWN8irTOtc descartado: no es bueno (nada, nota 3: Solo se ve al streamer jugando sin que ocurra nada especialmente gracioso o llamativo.)
