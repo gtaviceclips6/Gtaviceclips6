@@ -1251,3 +1251,4 @@
 2026-11-06T18:26 https://www.twitch.tv/orslok/clip/WildFamousWerewolfPMSTwin-Pz4gYv-6hmVvLaDt descartado: no es bueno (nada, nota 2: Es solo un tutorial aburrido explicando addons sin ninguna gracia ni momento viral.)
 2026-11-06T18:28 https://www.twitch.tv/djmariio/clip/ClearTrappedNewtSeemsGood-RloGqvgKlsxU292p descartado: no es bueno (nada, nota 3: El streamer solo comenta imágenes estáticas sin aportar nada gracioso ni relevante.)
 2026-11-06T20:02 https://www.twitch.tv/elxokas/clip/AnnoyingPopularLeopardBrokeBack-zJLv_VWWxQ-d9UHq descartado: no es bueno (nada, nota 3: Configurando addons en un menú, falta contexto y gracia.)
+2026-11-06T20:22 https://www.twitch.tv/rubius/clip/BloodyFuriousWatermelonHassaanChop-JCayW4jFaZvIlKP2 descartado: no es bueno (nada, nota 3: Charla normal de stream respondiendo al chat sin ninguna situacion especialmente graciosa.)
