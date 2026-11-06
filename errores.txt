@@ -1245,3 +1245,6 @@
 2026-11-06T16:07 https://www.twitch.tv/revenant/clip/TenaciousExcitedGoldfishDansGame-20X_RnKzusMc2wka descartado: no es bueno (nada, nota 2: Es solo un streamer mostrando addons de World of Warcraft, no tiene gracia ni es viral.)
 2026-11-06T16:08 https://www.twitch.tv/nachez98/clip/BeautifulQuaintSwallowVoteNay-YibXDl-KHy6l31Ou descartado: no es bueno (nada, nota 2: Contenido inadecuado e inapropiado que infringe las normas de la comunidad.)
 2026-11-06T16:08 https://www.twitch.tv/radossb/clip/RespectfulEsteemedElkTwitchRaid-WaLFFujdxQbnux8j descartado: no es bueno (nada, nota 3: Charla confusa sobre sonidos del juego sin ninguna reaccion destacable ni gracia real.)
+2026-11-06T17:27 https://www.twitch.tv/utbh_oficial/clip/PoisedLuckyBulgogiDancingBanana-HGfqKEH6z7LtuzSf descartado: no es bueno (nada, nota 3: Es un debate político serio sin reacción graciosa ni momento espectacular del juego.)
+2026-11-06T17:28 https://www.twitch.tv/shainny_/clip/ViscousVastGazelleEagleEye-z89LdsppEQfojnx3 descartado: no es bueno (nada, nota 3: Es solo una charla cotidiana sobre teñirse el pelo sin ningun remate gracioso.)
+2026-11-06T17:28 https://www.twitch.tv/elxokas/clip/StrangeResourcefulJamTBCheesePull-rxiTvhqF-5yPflsA descartado: no es bueno (nada, nota 3: Es solo el Xokas hablando de que le van a matar en el juego sin gracia.)
