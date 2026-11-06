@@ -1252,3 +1252,6 @@
 2026-11-06T18:28 https://www.twitch.tv/djmariio/clip/ClearTrappedNewtSeemsGood-RloGqvgKlsxU292p descartado: no es bueno (nada, nota 3: El streamer solo comenta imágenes estáticas sin aportar nada gracioso ni relevante.)
 2026-11-06T20:02 https://www.twitch.tv/elxokas/clip/AnnoyingPopularLeopardBrokeBack-zJLv_VWWxQ-d9UHq descartado: no es bueno (nada, nota 3: Configurando addons en un menú, falta contexto y gracia.)
 2026-11-06T20:22 https://www.twitch.tv/rubius/clip/BloodyFuriousWatermelonHassaanChop-JCayW4jFaZvIlKP2 descartado: no es bueno (nada, nota 3: Charla normal de stream respondiendo al chat sin ninguna situacion especialmente graciosa.)
+2026-11-06T21:18 https://www.twitch.tv/knekro/clip/HedonisticPeppyCrabBibleThump-DNnqV4nMKNEb5WHN descartado: no es bueno (nada, nota 3: Falta contexto y la reaccion es muy floja para alguien que no sea seguidor.)
+2026-11-06T21:20 https://www.twitch.tv/elxokas/clip/AstuteFlaccidDinosaurUnSane-O3ktrW0mqMTU-z-5 descartado: no es bueno (nada, nota 3: Es una charla normal sobre un evento de videojuegos sin ninguna gracia especial ni fail.)
+2026-11-06T21:20 https://www.twitch.tv/peereira7/clip/SincereBlitheTubersPJSugar-m_vmp0WOvxdm7FNp descartado: no es bueno (nada, nota 3: El streamer solo repite frases del juego sin aportar una reaccion realmente graciosa.)
