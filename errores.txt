@@ -1234,3 +1234,5 @@
 2026-11-06T12:24 https://www.twitch.tv/peereira7/clip/PlainRamshackleLaptopTBTacoRight-O7hDeFENnQBdCpWt descartado: no es bueno (nada, nota 3: Muerte random en Fortnite sin ninguna reaccion epica ni momento gracioso destacable.)
 2026-11-06T12:24 https://www.twitch.tv/phobyac/clip/RelatedBovineGoshawkPeoplesChamp-gWkYC4SiNSrnq379 descartado: no es bueno (nada, nota 3: Es una charla casual del streamer sin contexto suficiente ni gracia para redes.)
 2026-11-06T12:25 https://www.twitch.tv/kunen_tv/clip/WildAmazingSquidUnSane-9ocwsozZjaU8Rnzz descartado: no es bueno (nada, nota 2: Es un tutorial aburrido de World of Warcraft explicandocómo importar un addon. Cero viralidad.)
+2026-11-06T13:29 https://www.twitch.tv/abby_/clip/DepressedTenuousHareBCWarrior-7MAX8VvFzQSum-7S descartado: no es bueno (nada, nota 3: Es una charla normal contando una anecdota de viaje, no hay gracia ni juego.)
+2026-11-06T13:29 https://www.twitch.tv/sirmaza/clip/BoredMagnificentRamenTBTacoRight-XoNEnawyAZNVFZzH descartado: no es bueno (nada, nota 3: Quejas en partida sin contexto visual gracioso ni jugada relevante para redes.)
