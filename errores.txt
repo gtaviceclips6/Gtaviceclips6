@@ -1236,3 +1236,6 @@
 2026-11-06T12:25 https://www.twitch.tv/kunen_tv/clip/WildAmazingSquidUnSane-9ocwsozZjaU8Rnzz descartado: no es bueno (nada, nota 2: Es un tutorial aburrido de World of Warcraft explicandocómo importar un addon. Cero viralidad.)
 2026-11-06T13:29 https://www.twitch.tv/abby_/clip/DepressedTenuousHareBCWarrior-7MAX8VvFzQSum-7S descartado: no es bueno (nada, nota 3: Es una charla normal contando una anecdota de viaje, no hay gracia ni juego.)
 2026-11-06T13:29 https://www.twitch.tv/sirmaza/clip/BoredMagnificentRamenTBTacoRight-XoNEnawyAZNVFZzH descartado: no es bueno (nada, nota 3: Quejas en partida sin contexto visual gracioso ni jugada relevante para redes.)
+2026-11-06T13:48 https://www.twitch.tv/elpelotasssss/clip/DrabOptimisticPigeonTriHard-4Y9K2ekELqv-BUI8 descartado: no es bueno (nada, nota 3: Conversación confusa de chat de voz sin contexto ni gracia clara.)
+2026-11-06T13:49 https://www.twitch.tv/elvirayuki/clip/EnergeticConfidentDoveTheThing-SDK7huZQPdp5DpiD descartado: no es bueno (nada, nota 3: Conversación sin sentido y confusa que requiere contexto previo para entenderse.)
+2026-11-06T13:49 https://www.twitch.tv/abby_/clip/CulturedStupidSaladRuleFive-V163OYaJa3tK014G descartado: no es bueno (nada, nota 3: Reacción genérica de juego sin gracia ni contexto suficiente para viralizar.)
