@@ -1228,3 +1228,6 @@
 2026-11-06T10:35 https://www.twitch.tv/peereira7/clip/HotAssiduousCheesecakeMikeHogu-6R_IX-KGwjrmb8Y_ descartado: no es bueno (nada, nota 3: Charla absurda y sin gracia que requiere contexto del directo.)
 2026-11-06T10:36 https://www.twitch.tv/zeling/clip/AbrasiveCoweringFoxBigBrother-RaT9Js_fVnlo32zd descartado: no es bueno (nada, nota 3: Es una muerte típica de videojuego sin reacción exagerada ni gracia especial.)
 2026-11-06T10:40 https://www.twitch.tv/skain/clip/LittleDoubtfulMomUnSane-kntzeY0EPRckMwUE descartado: no es bueno (nada, nota 3: Es solo el streamer hablando a cámara sobre un juego sin momentos graciosos ni gameplay.)
+2026-11-06T11:28 https://www.twitch.tv/kunen_tv/clip/PlayfulTolerantSowAMPEnergyCherry-dyxg4dlvrhMn5Ooz descartado: no es bueno (nada, nota 1: Es un tutorial aburrido explicando cómo configurar un addon, cero gracia ni nada visual.)
+2026-11-06T11:28 https://www.twitch.tv/evangelion0/clip/EntertainingFreezingLegResidentSleeper-tQq97QkYNCYROTS5 descartado: no es bueno (nada, nota 3: Explicacion tecnica aburrida de un juego sin gracia ni accion visual potente.)
+2026-11-06T11:29 https://www.twitch.tv/skain/clip/FlaccidFrigidBorkTriHard-7lzEguku0QnwrmUd descartado: no es bueno (nada, nota 3: Es el streamer comentando una mecanica de Minecraft tecnica, falta contexto dinamico.)
