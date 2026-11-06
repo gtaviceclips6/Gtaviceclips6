@@ -1231,3 +1231,6 @@
 2026-11-06T11:28 https://www.twitch.tv/kunen_tv/clip/PlayfulTolerantSowAMPEnergyCherry-dyxg4dlvrhMn5Ooz descartado: no es bueno (nada, nota 1: Es un tutorial aburrido explicando cómo configurar un addon, cero gracia ni nada visual.)
 2026-11-06T11:28 https://www.twitch.tv/evangelion0/clip/EntertainingFreezingLegResidentSleeper-tQq97QkYNCYROTS5 descartado: no es bueno (nada, nota 3: Explicacion tecnica aburrida de un juego sin gracia ni accion visual potente.)
 2026-11-06T11:29 https://www.twitch.tv/skain/clip/FlaccidFrigidBorkTriHard-7lzEguku0QnwrmUd descartado: no es bueno (nada, nota 3: Es el streamer comentando una mecanica de Minecraft tecnica, falta contexto dinamico.)
+2026-11-06T12:24 https://www.twitch.tv/peereira7/clip/PlainRamshackleLaptopTBTacoRight-O7hDeFENnQBdCpWt descartado: no es bueno (nada, nota 3: Muerte random en Fortnite sin ninguna reaccion epica ni momento gracioso destacable.)
+2026-11-06T12:24 https://www.twitch.tv/phobyac/clip/RelatedBovineGoshawkPeoplesChamp-gWkYC4SiNSrnq379 descartado: no es bueno (nada, nota 3: Es una charla casual del streamer sin contexto suficiente ni gracia para redes.)
+2026-11-06T12:25 https://www.twitch.tv/kunen_tv/clip/WildAmazingSquidUnSane-9ocwsozZjaU8Rnzz descartado: no es bueno (nada, nota 2: Es un tutorial aburrido de World of Warcraft explicandocómo importar un addon. Cero viralidad.)
