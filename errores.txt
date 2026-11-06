@@ -1217,3 +1217,8 @@
 2026-11-06T01:33 https://www.twitch.tv/safiro01/clip/RelatedGloriousStarlingDAESuppy-GzTIuNS_xwfWX6zI descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant sin gracia ni momentos épicos claros.)
 2026-11-06T01:34 https://www.twitch.tv/feirlygab/clip/BusyToughArugulaTTours-OpW6VwgZaDuGjfSm descartado: no es bueno (nada, nota 3: Comentario normal explorando el juego sin gran relevancia ni momento gracioso real.)
 2026-11-06T07:37 https://www.twitch.tv/danielaazuaje_/clip/ScrumptiousSaltyStarHotPokket-cecrhPdBss7ujITS descartado: no es bueno (nada, nota 3: Es una streamer mostrando un disfraz de cosplay charlando, no hay juego ni humor viral.)
+2026-11-06T09:05 https://www.twitch.tv/peereira7/clip/FrozenOutstandingHorseMau5-hEic40h0Uo1YHGnT descartado: no es bueno (nada, nota 3: Es una interacción normal en un aeropuerto, falta contexto y gracia real.)
+2026-11-06T09:05 https://www.twitch.tv/zyrpesland/clip/MildHungryOrangeDBstyle-nLovphPMi2tyiWJN descartado: no es bueno (nada, nota 3: Solo presume de una jugada sin mostrarla claramente, falta contexto visual.)
+2026-11-06T09:06 https://www.twitch.tv/el_yuste/clip/CorrectAnimatedHeronMoreCowbell-SirI66tl-0CH0mBJ descartado: no es bueno (nada, nota 3: Es una rabieta política con insultos que requiere contexto y no encaja con contenido de juegos.)
+2026-11-06T09:08 https://www.twitch.tv/nezumivy/clip/SpookyAmorphousTildeUWot-ItE81yYvBwfUb8AO descartado: no es bueno (nada, nota 3: Conversación interna sobre un juego sin contexto claro ni reacción viral para redes.)
+2026-11-06T09:08 https://www.twitch.tv/caprimint/clip/BenevolentIntelligentChimpanzeeTheTarFu-0NxB3lTkIqyBXPZX descartado: no es bueno (nada, nota 3: Es una charla normal de menus sin ningun fail gordo ni gracia.)
