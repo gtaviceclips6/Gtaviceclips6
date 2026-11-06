@@ -1222,3 +1222,6 @@
 2026-11-06T09:06 https://www.twitch.tv/el_yuste/clip/CorrectAnimatedHeronMoreCowbell-SirI66tl-0CH0mBJ descartado: no es bueno (nada, nota 3: Es una rabieta política con insultos que requiere contexto y no encaja con contenido de juegos.)
 2026-11-06T09:08 https://www.twitch.tv/nezumivy/clip/SpookyAmorphousTildeUWot-ItE81yYvBwfUb8AO descartado: no es bueno (nada, nota 3: Conversación interna sobre un juego sin contexto claro ni reacción viral para redes.)
 2026-11-06T09:08 https://www.twitch.tv/caprimint/clip/BenevolentIntelligentChimpanzeeTheTarFu-0NxB3lTkIqyBXPZX descartado: no es bueno (nada, nota 3: Es una charla normal de menus sin ningun fail gordo ni gracia.)
+2026-11-06T09:29 https://www.twitch.tv/agbin3r/clip/DistinctBraveBaguetteHeyGuys-1FdJHCffnEkjl6Y9 descartado: no es bueno (nada, nota 3: Conversación en coche sin gracia destacable ni impacto visual para TikTok.)
+2026-11-06T09:31 https://www.twitch.tv/skyshocktv/clip/TacitHilariousWasabiJebaited-lC94VakywxXSscd5 descartado: no es bueno (nada, nota 3: Es una reacción típica de juego sin contexto visual claro para TikTok.)
+2026-11-06T09:31 https://www.twitch.tv/gerardromero/clip/BlitheBelovedZucchiniMikeHogu-yhxMGlAaIPcTS5eU descartado: no es bueno (nada, nota 2: Es solo un streamer leyendo agradecimientos de subs, sin gracia ni nada especial.)
