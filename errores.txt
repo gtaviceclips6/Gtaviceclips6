@@ -1293,3 +1293,4 @@
 2026-11-07T13:16 https://www.twitch.tv/nai23/clip/BoringVibrantMarrowMingLee-LahQ0j3Gh5gKbMVt descartado: no es bueno (nada, nota 3: Conversación informal de bar sin remate cómico claro ni situación viral.)
 2026-11-07T13:16 https://www.twitch.tv/casavegagc/clip/FunnyWrongWhaleThisIsSparta-Wu7snH9pzmFqFzGx descartado: no es bueno (nada, nota 2: Es una charla cotidiana arreglando un tejado, totalmente fuera de la temática de juegos.)
 2026-11-07T13:29 https://www.twitch.tv/shainny_/clip/NeighborlyFlirtyScorpionDBstyle-SBzuwJI_L8KyG6rw descartado: no es bueno (nada, nota 3: Es una anécdota cotidiana sin gracia especial ni momento impactante para redes.)
+2026-11-07T14:21 https://www.twitch.tv/tozeo/clip/SplendidInspiringBadgerNomNom-w-70cnzL5E4IL19C descartado: no es bueno (nada, nota 3: Es un streamer pidiendo que le clipen una jugada normal de juego.)
