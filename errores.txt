@@ -1313,3 +1313,6 @@
 2026-11-07T21:15 https://www.twitch.tv/13steg/clip/AntsyConfidentStingrayCurseLit-0KK3vFSbAggGThnP descartado: no es bueno (nada, nota 3: Jugada normal de videojuego sin ninguna gracia especial ni momento viral.)
 2026-11-07T21:15 https://www.twitch.tv/elxokas/clip/BombasticVenomousGrouseOpieOP-4VQrJx1PBKnDafVW descartado: no es bueno (nada, nota 3: Comentario desafortunado sin contexto de humor real, solo charla casual de stream.)
 2026-11-07T21:16 https://www.twitch.tv/rubius/clip/EasyCuriousCobraJKanStyle-LWhmzcJH18-zYFHr descartado: no es bueno (nada, nota 3: Es una charla chorra de Rubius sin un remate gracioso o visualmente llamativo.)
+2026-11-07T21:55 https://www.twitch.tv/juansguarnizo/clip/FamousBoringBobaResidentSleeper-Pvj_bFNWR0XTTEth descartado: no es bueno (nada, nota 3: Conversacion seria de rol o juego sin gracia ni accion relevante.)
+2026-11-07T21:56 https://www.twitch.tv/marinaifx/clip/BumblingPhilanthropicWallabyPeanutButterJellyTime-h0KS5LciOvyLa_pb descartado: no es bueno (nada, nota 3: Es una charla normal de la streamer contando una anécdota sin especial gracia ni contexto fuerte.)
+2026-11-07T21:56 https://www.twitch.tv/aldo_geo/clip/ThankfulElatedDoveSwiftRage-BkugmQaSen_glptI descartado: no es bueno (nada, nota 3: Es un momento aburrido sin gracia ni contexto suficiente para destacar en redes.)
