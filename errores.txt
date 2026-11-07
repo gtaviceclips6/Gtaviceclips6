@@ -1276,3 +1276,7 @@
 2026-11-07T04:12 https://www.twitch.tv/ibai/clip/AbnegateClumsyDaikonLitty-mLxT2qwAQSWWwYec descartado: no es bueno (nada, nota 3: Es una jugada normal de esports casteada por Ibai, sin gracia especial ni viralidad.)
 2026-11-07T04:15 https://www.twitch.tv/amablitz/clip/SassySpicyPresidentSoonerLater-fcRCmcCOM19m2KrN descartado: no es bueno (nada, nota 3: Conversacion de charla normal entre streamers, falta contexto y humor fuerte.)
 2026-11-07T07:25 https://www.twitch.tv/rubius/clip/IncredulousPlausiblePoultryOpieOP-6-uvC0UlULj0CGI4 descartado: no es bueno (nada, nota 3: Conversación confusa y risa interna que requiere contexto externo para entenderse.)
+2026-11-07T08:24 https://www.twitch.tv/danielaazuaje_/clip/FantasticScaryWheelArsonNoSexy-R4CerU3PZe-COOFB descartado: no es bueno (nada, nota 3: Charla informal sobre ropa, no hay ni comedia ni gameplay destacable.)
+2026-11-07T08:25 https://www.twitch.tv/peereira7/clip/GleamingColdScorpionStoneLightning-Lzjk8W2iVxLQ545o descartado: no es bueno (nada, nota 3: Es una retransmisión durmiendo sin contexto ni acción relevante para redes.)
+2026-11-07T08:25 https://www.twitch.tv/peereira7/clip/AmazonianKawaiiSpaghettiBatChest-5S0bif5rvaUtoiEJ descartado: no es bueno (nada, nota 2: Es un stream durmiendo, no pasa absolutamente nada interesante ni gracioso.)
+2026-11-07T08:25 https://www.twitch.tv/natymoon/clip/BadDrabTardigradeHeyGuys-xB-lLouvl_Uix7FV descartado: no es bueno (nada, nota 1: Contenido ASMR sin relacion con videojuegos ni humor relevante para la comunidad.)
