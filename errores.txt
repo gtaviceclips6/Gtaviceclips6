@@ -1294,3 +1294,6 @@
 2026-11-07T13:16 https://www.twitch.tv/casavegagc/clip/FunnyWrongWhaleThisIsSparta-Wu7snH9pzmFqFzGx descartado: no es bueno (nada, nota 2: Es una charla cotidiana arreglando un tejado, totalmente fuera de la temática de juegos.)
 2026-11-07T13:29 https://www.twitch.tv/shainny_/clip/NeighborlyFlirtyScorpionDBstyle-SBzuwJI_L8KyG6rw descartado: no es bueno (nada, nota 3: Es una anécdota cotidiana sin gracia especial ni momento impactante para redes.)
 2026-11-07T14:21 https://www.twitch.tv/tozeo/clip/SplendidInspiringBadgerNomNom-w-70cnzL5E4IL19C descartado: no es bueno (nada, nota 3: Es un streamer pidiendo que le clipen una jugada normal de juego.)
+2026-11-07T15:18 https://www.twitch.tv/sirmaza/clip/OutstandingProtectiveLadiesBudBlast-gK1O_ROLGxXmTQWB descartado: no es bueno (nada, nota 3: Insultos y toxicidad sin gracia real ni contexto divertido para el público general.)
+2026-11-07T15:18 https://www.twitch.tv/sirmaza/clip/ZealousFrailRabbitNerfBlueBlaster-NMB-wRnqCdzFnzTB descartado: no es bueno (nada, nota 3: Es una jugada normal de Valorant sin ninguna reacción exagerada ni momento especialmente gracioso.)
+2026-11-07T15:18 https://www.twitch.tv/llunaclark/clip/SaltyCrackyBorkPanicBasket-JUJQvYuSNM295OC5 descartado: no es bueno (nada, nota 3: Es un momento tierno con perros pero no es gracioso ni espectacular para redes.)
