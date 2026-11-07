@@ -1280,3 +1280,6 @@
 2026-11-07T08:25 https://www.twitch.tv/peereira7/clip/GleamingColdScorpionStoneLightning-Lzjk8W2iVxLQ545o descartado: no es bueno (nada, nota 3: Es una retransmisión durmiendo sin contexto ni acción relevante para redes.)
 2026-11-07T08:25 https://www.twitch.tv/peereira7/clip/AmazonianKawaiiSpaghettiBatChest-5S0bif5rvaUtoiEJ descartado: no es bueno (nada, nota 2: Es un stream durmiendo, no pasa absolutamente nada interesante ni gracioso.)
 2026-11-07T08:25 https://www.twitch.tv/natymoon/clip/BadDrabTardigradeHeyGuys-xB-lLouvl_Uix7FV descartado: no es bueno (nada, nota 1: Contenido ASMR sin relacion con videojuegos ni humor relevante para la comunidad.)
+2026-11-07T09:21 https://www.twitch.tv/peereira7/clip/CrowdedPoorOxStinkyCheese-Y8zSffKCmJYoIRaG descartado: no es bueno (nada, nota 3: Es solo un streamer despertándose en la cama sin ninguna acción graciosa ni contexto potente.)
+2026-11-07T09:21 https://www.twitch.tv/peereira7/clip/ShinyCalmBeaverBudStar-4p7EG57HvC4Opb8g descartado: no es bueno (nada, nota 2: Es solo el streamer durmiendo en directo, falta contexto y no pasa nada gracioso.)
+2026-11-07T09:23 https://www.twitch.tv/filisgg/clip/RenownedFlirtyDoveNomNom-SKGOkyY3m_W54XT5 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
