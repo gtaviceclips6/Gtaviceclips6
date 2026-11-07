@@ -1310,3 +1310,6 @@
 2026-11-07T20:10 https://www.twitch.tv/k1ng/clip/ViscousObedientFoxPastaThat-Uh83p8VVmYlPt8lZ descartado: no es bueno (nada, nota 3: Jugada estándar de juego sin gracia especial ni momento viral relevante.)
 2026-11-07T20:10 https://www.twitch.tv/elxokas/clip/FragileOptimisticNikudonRaccAttack-GbdcKkNdiW0hwwWD descartado: no es bueno (nada, nota 3: Insultos fuera de tono y lenguaje que incumple normas de las plataformas.)
 2026-11-07T20:10 https://www.twitch.tv/cahos_gaming/clip/ObliqueDeadLeopardNononoCat-Zi5EiI0tO1gCBUOP descartado: no es bueno (nada, nota 3: Es una jugada caótica de un MMO que requiere contexto para entender la gracia.)
+2026-11-07T21:15 https://www.twitch.tv/13steg/clip/AntsyConfidentStingrayCurseLit-0KK3vFSbAggGThnP descartado: no es bueno (nada, nota 3: Jugada normal de videojuego sin ninguna gracia especial ni momento viral.)
+2026-11-07T21:15 https://www.twitch.tv/elxokas/clip/BombasticVenomousGrouseOpieOP-4VQrJx1PBKnDafVW descartado: no es bueno (nada, nota 3: Comentario desafortunado sin contexto de humor real, solo charla casual de stream.)
+2026-11-07T21:16 https://www.twitch.tv/rubius/clip/EasyCuriousCobraJKanStyle-LWhmzcJH18-zYFHr descartado: no es bueno (nada, nota 3: Es una charla chorra de Rubius sin un remate gracioso o visualmente llamativo.)
