@@ -1307,3 +1307,6 @@
 2026-11-07T19:21 https://www.twitch.tv/peereira7/clip/SpunkyFrozenJayGingerPower--7WqBdymkIo8Q8OY descartado: no es bueno (nada, nota 3: Es un stream durmiendo sin contexto ni accion relevante para redes.)
 2026-11-07T19:22 https://www.twitch.tv/kelianforronin/clip/BetterGiftedRamenBigBrother-z4NmQWzRNj_f2Ufj descartado: no es bueno (nada, nota 2: Es un partido de fútbol real retransmitido, no es contenido de videojuegos ni gracioso.)
 2026-11-07T19:22 https://www.twitch.tv/kelianforronin/clip/NastyAbrasiveRabbitTheThing-6_oxD3inRDY5CtpL descartado: no es bueno (nada, nota 3: Es un partido de fútbol amateur sin gracia especial ni momentos virales claros.)
+2026-11-07T20:10 https://www.twitch.tv/k1ng/clip/ViscousObedientFoxPastaThat-Uh83p8VVmYlPt8lZ descartado: no es bueno (nada, nota 3: Jugada estándar de juego sin gracia especial ni momento viral relevante.)
+2026-11-07T20:10 https://www.twitch.tv/elxokas/clip/FragileOptimisticNikudonRaccAttack-GbdcKkNdiW0hwwWD descartado: no es bueno (nada, nota 3: Insultos fuera de tono y lenguaje que incumple normas de las plataformas.)
+2026-11-07T20:10 https://www.twitch.tv/cahos_gaming/clip/ObliqueDeadLeopardNononoCat-Zi5EiI0tO1gCBUOP descartado: no es bueno (nada, nota 3: Es una jugada caótica de un MMO que requiere contexto para entender la gracia.)
