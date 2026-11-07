@@ -1301,3 +1301,6 @@
 2026-11-07T18:08 https://www.twitch.tv/peereira7/clip/BrightLivelyKoupreyPJSugar-x0eOilzepimoFkco descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla sin momentazo gracioso evidente.)
 2026-11-07T18:08 https://www.twitch.tv/peereira7/clip/ImpossibleFunnyClintmullinsTheThing-cZqsHo53B2-h0Rtz descartado: no es bueno (nada, nota 3: Conversación de streamers entrenando sin ninguna situación realmente cómica ni impactante fuera de contexto.)
 2026-11-07T18:09 https://www.twitch.tv/quesadacid/clip/ElatedProudOpossumDancingBanana-IVpiSEzP8-LpUP0V descartado: no es bueno (nada, nota 3: Es una reaccion de un streamer viendo una batalla de rap sin contexto gracioso.)
+2026-11-07T19:06 https://www.twitch.tv/agustin51/clip/SolidTangibleWaterMcaT-PRF6iCEMIDSfy1lv descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni contexto suficiente para TikTok.)
+2026-11-07T19:07 https://www.twitch.tv/paache_/clip/ResourcefulSaltyPastaGrammarKing-ZVvzCu0kar5dp9GJ descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla aleatoria sin gracia universal.)
+2026-11-07T19:08 https://www.twitch.tv/gorilon/clip/ResoluteConfidentCiderDBstyle-ik2X2JDEqQ9wLES- descartado: no es bueno (nada, nota 3: Es una opinion sobre jugadores sin ninguna reaccion graciosa o momento destacable.)
