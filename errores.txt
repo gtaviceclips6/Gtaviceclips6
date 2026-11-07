@@ -1304,3 +1304,6 @@
 2026-11-07T19:06 https://www.twitch.tv/agustin51/clip/SolidTangibleWaterMcaT-PRF6iCEMIDSfy1lv descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni contexto suficiente para TikTok.)
 2026-11-07T19:07 https://www.twitch.tv/paache_/clip/ResourcefulSaltyPastaGrammarKing-ZVvzCu0kar5dp9GJ descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla aleatoria sin gracia universal.)
 2026-11-07T19:08 https://www.twitch.tv/gorilon/clip/ResoluteConfidentCiderDBstyle-ik2X2JDEqQ9wLES- descartado: no es bueno (nada, nota 3: Es una opinion sobre jugadores sin ninguna reaccion graciosa o momento destacable.)
+2026-11-07T19:21 https://www.twitch.tv/peereira7/clip/SpunkyFrozenJayGingerPower--7WqBdymkIo8Q8OY descartado: no es bueno (nada, nota 3: Es un stream durmiendo sin contexto ni accion relevante para redes.)
+2026-11-07T19:22 https://www.twitch.tv/kelianforronin/clip/BetterGiftedRamenBigBrother-z4NmQWzRNj_f2Ufj descartado: no es bueno (nada, nota 2: Es un partido de fútbol real retransmitido, no es contenido de videojuegos ni gracioso.)
+2026-11-07T19:22 https://www.twitch.tv/kelianforronin/clip/NastyAbrasiveRabbitTheThing-6_oxD3inRDY5CtpL descartado: no es bueno (nada, nota 3: Es un partido de fútbol amateur sin gracia especial ni momentos virales claros.)
