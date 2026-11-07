@@ -1283,3 +1283,5 @@
 2026-11-07T09:21 https://www.twitch.tv/peereira7/clip/CrowdedPoorOxStinkyCheese-Y8zSffKCmJYoIRaG descartado: no es bueno (nada, nota 3: Es solo un streamer despertándose en la cama sin ninguna acción graciosa ni contexto potente.)
 2026-11-07T09:21 https://www.twitch.tv/peereira7/clip/ShinyCalmBeaverBudStar-4p7EG57HvC4Opb8g descartado: no es bueno (nada, nota 2: Es solo el streamer durmiendo en directo, falta contexto y no pasa nada gracioso.)
 2026-11-07T09:23 https://www.twitch.tv/filisgg/clip/RenownedFlirtyDoveNomNom-SKGOkyY3m_W54XT5 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-07T10:17 https://www.twitch.tv/akuasmr/clip/BashfulGentlePhoneKappaPride-SZWfwEZSYYPY_k81 descartado: no es bueno (nada, nota 3: Es un stream de ASMR sin contenido de juego ni humor real.)
+2026-11-07T10:18 https://www.twitch.tv/ibai/clip/CoweringSourPeachOpieOP-Vc2euhEfj2SA-4Lq descartado: no es bueno (nada, nota 3: Es una jugada normal de esports de League of Legends sin comedia ni contexto general.)
