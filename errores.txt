@@ -1268,3 +1268,7 @@
 2026-11-06T23:18 https://www.twitch.tv/peereira7/clip/ExuberantCorrectCarabeefPermaSmug-gZ4UDPWWN8irTOtc descartado: no es bueno (nada, nota 3: Solo se ve al streamer jugando sin que ocurra nada especialmente gracioso o llamativo.)
 2026-11-07T00:10 https://www.twitch.tv/peereira7/clip/OddCooperativeMetalEagleEye-UiwdwQ3swZxrGVfU descartado: no es bueno (nada, nota 3: Comentario incómodo sobre un posible descuido sin gracia real ni interés visual.)
 2026-11-07T00:11 https://www.twitch.tv/elxokas/clip/ObservantEvilOstrichCharlieBitMe-TrAKHuKPoCLm6nU1 descartado: no es bueno (nada, nota 3: Es el streamer jugando y hablando solo sin ninguna reaccion fuerte ni momento gracioso.)
+2026-11-07T01:25 https://www.twitch.tv/elxokas/clip/ReliableAltruisticYamKeyboardCat-8iKcBo1SYx62Qp8o descartado: no es bueno (nada, nota 3: Es una situacion normal jugando a un MMO sin gracia especial ni contexto fuerte.)
+2026-11-07T01:25 https://www.twitch.tv/aaronjaureguii/clip/ShakingAgileRadishBIRB-o5c5QPFgIzIv6vi7 descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla normal sin gracia ni salseo real.)
+2026-11-07T01:26 https://www.twitch.tv/feirlygab/clip/SleepyLuckyBarracudaBloodTrail-oEdqtVD7jcKsaQEn descartado: no es bueno (nada, nota 3: Es solo un saludo y un pequeño susto en Minecraft sin contexto fuerte ni gracia.)
+2026-11-07T01:26 https://www.twitch.tv/crystalmolly/clip/FitFunCatANELE-csHkywqVAK7KspRl descartado: no es bueno (nada, nota 3: Conversación casual explicando su altura, falta contexto y humor reseñable para viralizar.)
