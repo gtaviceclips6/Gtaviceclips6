@@ -1354,3 +1354,4 @@
 2026-11-08T16:12 https://www.twitch.tv/gonsabellla/clip/CoyHealthyPassionfruitTTours-C3Vz8QLSE8fRHuQG descartado: no es bueno (nada, nota 3: Conversación informal sin gracia ni momentos impactantes para redes.)
 2026-11-08T17:13 https://www.twitch.tv/pokealexvgc/clip/ArtisticCooperativeOctopusCoolStoryBro-9Z_oT0uF0XpTRad7 descartado: no es bueno (nada, nota 3: Requiere demasiado contexto del directo y la broma interna entre streamers.)
 2026-11-08T17:13 https://www.twitch.tv/mi_miau/clip/FaintObedientBasenjiOpieOP-FvsqRCyY3XQxhm0n descartado: no es bueno (nada, nota 3: Es una charla normal cocinando, falta humor o accion destacable para redes.)
+2026-11-08T18:10 https://www.twitch.tv/marinaifx/clip/FuriousCuriousGrassCoolStoryBob-UbtUxaCdqsBHAwOK descartado: no es bueno (nada, nota 3: Conversación de cocina aburrida y sin gracia, no aporta nada para viralizar.)
