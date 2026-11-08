@@ -1335,3 +1335,5 @@
 2026-11-08T09:23 https://www.twitch.tv/danielaazuaje_/clip/PerfectSleepyPanVoteNay-br_xh2RXYa0S-MZf descartado: no es bueno (nada, nota 2: Streamer mirando una foto sin que ocurra nada relevante ni gracioso.)
 2026-11-08T10:04 https://www.twitch.tv/sebriusvt/clip/EvilEmpathicQueleaStoneLightning-LUzSJtFKrdKWhEhe unknown file format
 2026-11-08T10:05 https://www.twitch.tv/vegetta777/clip/BelovedMagnificentKimchiSMOrc-tYENbQNnM0_4NBpw descartado: no es bueno (nada, nota 3: Es una partida normal comentando la gestion del bar sin momentos realmente graciosos.)
+2026-11-08T10:19 https://www.twitch.tv/peereira7/clip/EntertainingOptimisticLyrebirdHeyGuys-Z2Amnsjzd4nvlUFZ descartado: no es bueno (nada, nota 3: Streamers durmiendo en directo sin que ocurra nada relevante ni gracioso.)
+2026-11-08T10:19 https://www.twitch.tv/rubius/clip/PlausibleFilthyBeeTebowing-CW5-mUl6PwEOTSZg descartado: no es bueno (nada, nota 3: Es una opinion larga sobre mecanicas del WoW, sin gracia ni accion visual.)
