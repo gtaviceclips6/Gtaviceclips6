@@ -1363,3 +1363,4 @@
 2026-11-08T19:12 https://www.twitch.tv/illojuan/clip/BitterSuccessfulCiderPipeHype-xAZ7QaIstXymCFtt descartado: no es bueno (nada, nota 4: Es solo una charla informativa del streamer comentando normas y baneos de Rockstar.)
 2026-11-08T20:14 https://www.twitch.tv/illojuan/clip/WildDarlingJamBatChest-IizCECMFK8G3Yp1n descartado: no es bueno (nada, nota 3: Son solo pantallas en negro y menús sin ningún contenido relevante o gracioso.)
 2026-11-08T20:14 https://www.twitch.tv/illojuan/clip/NurturingRelentlessCheetahDBstyle-hXZoYq2TU4yauwA9 descartado: no es bueno (nada, nota 3: Es solo IlloJuan hablando estático sin mostrar nada de juego ni humor.)
+2026-11-08T21:14 https://www.twitch.tv/revenant/clip/LittleAffluentFriseeHassanChop-OmywLJRLcuFJLTMn descartado: no es bueno (nada, nota 3: Es un comentario chorra mientras juega sin contexto gracioso real.)
