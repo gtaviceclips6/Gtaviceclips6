@@ -1340,3 +1340,5 @@
 2026-11-08T11:16 https://www.twitch.tv/sebriusvt/clip/PluckyFaintAntelopeNerfRedBlaster-vsHJ90UMRFzGnmcY descartado: no es bueno (nada, nota 3: Comentario fuera de contexto y flojo que no llega a hacer gracia en España.)
 2026-11-08T11:16 https://www.twitch.tv/peereira7/clip/SillySmilingRutabagaTooSpicy-0H0aQ5rejYlGdEZj descartado: no es bueno (nada, nota 3: Insultos fuertes y fuera de contexto, no apto para las normas de las redes.)
 2026-11-08T11:17 https://www.twitch.tv/zeling/clip/DeterminedTsundereSnoodPMSTwin-gbfauJLBPqg59KY7 descartado: no es bueno (nada, nota 3: Es una jugadora muriendo en un juego sin ninguna reaccion especial ni gracia.)
+2026-11-08T12:12 https://www.twitch.tv/zeling/clip/ProudSplendidWolverineDancingBanana-eXfs2l_pzc0SNnyv descartado: no es bueno (nada, nota 3: Comentario aleatorio de la streamer hablando de un tema cotidiano sin especial gracia.)
+2026-11-08T12:12 https://www.twitch.tv/ache/clip/SuccessfulCourageousHorseDoritosChip-bcSzlaJBmgIMfxO4 descartado: no es bueno (nada, nota 3: Es una jugada confusa de Fortnite sin gracia especial ni contexto potente.)
