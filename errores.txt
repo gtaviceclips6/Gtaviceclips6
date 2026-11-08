@@ -1333,3 +1333,5 @@
 2026-11-08T09:23 https://www.twitch.tv/srtumbao/clip/AdventurousNimbleGuanacoAllenHuhu-PS2pSF7dKEQQEqOh descartado: no es bueno (nada, nota 3: El streamer se levanta y desaparece de la cámara sin contexto claro ni gracia.)
 2026-11-08T09:23 https://www.twitch.tv/danielaazuaje_/clip/TenuousElegantOrangeOMGScoots-MDF-DPTRPYlnnAp5 descartado: no es bueno (nada, nota 3: Es solo la streamer charlando sin que ocurra nada gracioso ni visualmente llamativo.)
 2026-11-08T09:23 https://www.twitch.tv/danielaazuaje_/clip/PerfectSleepyPanVoteNay-br_xh2RXYa0S-MZf descartado: no es bueno (nada, nota 2: Streamer mirando una foto sin que ocurra nada relevante ni gracioso.)
+2026-11-08T10:04 https://www.twitch.tv/sebriusvt/clip/EvilEmpathicQueleaStoneLightning-LUzSJtFKrdKWhEhe unknown file format
+2026-11-08T10:05 https://www.twitch.tv/vegetta777/clip/BelovedMagnificentKimchiSMOrc-tYENbQNnM0_4NBpw descartado: no es bueno (nada, nota 3: Es una partida normal comentando la gestion del bar sin momentos realmente graciosos.)
