@@ -1320,3 +1320,7 @@
 2026-11-08T00:06 https://www.twitch.tv/knekro/clip/PeacefulAgreeableCobblerBudBlast-KtFyCPUsq6j1GQM- descartado: no es bueno (nada, nota 3: Es solo un clip jugando al WoW sin ninguna reaccion fuerte ni momento gracioso.)
 2026-11-08T01:30 https://www.twitch.tv/staryuuki/clip/StupidFragileJackalANELE-uXgjM0-p6rfTvBuI descartado: no es bueno (nada, nota 3: Es un clip de ASMR sin contexto ni gracia especial para TikTok.)
 2026-11-08T01:35 https://www.twitch.tv/jonnijuro/clip/HelpfulCloudyTrayAMPEnergyCherry-scwBvBJLQeFOY4nu descartado: no es bueno (nada, nota 3: Es una reaccion simple bailando viendo una partida, falta contexto y gracia.)
+2026-11-08T04:13 https://www.twitch.tv/rubius/clip/ClumsyCrackyRatAllenHuhu-tXlIdJkHytOctrRI descartado: no es bueno (nada, nota 3: Es una charla random en un juego sin contexto relevante ni gracia.)
+2026-11-08T04:13 https://www.twitch.tv/thegrefg/clip/DeliciousAmusedFennelNononoCat-vYWNDESM2M_ETW_X descartado: no es bueno (nada, nota 3: Es una queja sobre skins en la tienda que no aporta nada realmente gracioso ni visualmente impactante.)
+2026-11-08T04:14 https://www.twitch.tv/staryuuki/clip/MoistLuckyCatHoneyBadger-Ht4DPvGz6QgMLMUu descartado: no es bueno (nada, nota 3: Es solo Staryuuki bailando Just Dance sin ninguna situacion graciosa o fail relevante.)
+2026-11-08T04:17 https://www.twitch.tv/rubius/clip/AmusedFlirtyChinchillaPoooound-IvCIwSQcRqL6ym2E descartado: no es bueno (nada, nota 3: Es solo Rubius hablando de sus planes de streaming sin mostrar nada relevante.)
