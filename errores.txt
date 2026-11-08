@@ -1348,3 +1348,5 @@
 2026-11-08T13:29 https://www.twitch.tv/gonsabellla/clip/TriumphantDullWombatJKanStyle-A-96yXWMM5nSY8tH descartado: no es bueno (nada, nota 3: Conversación aburrida y cotidiana sin contexto gracioso ni acción relevante.)
 2026-11-08T14:17 https://www.twitch.tv/peereira7/clip/PunchyEasyDogeKlappa-T3o3CwB7hFoUCGev descartado: no es bueno (nada, nota 3: El streamer conduce sin rumbo y habla sin sentido, hace falta contexto para entenderlo.)
 2026-11-08T14:18 https://www.twitch.tv/elvirayuki/clip/SpicyBoxyRingGrammarKing-l1rxTcBY0SlI-Q52 descartado: no es bueno (nada, nota 3: Falta contexto claro y es un momento de juego normal sin gracia especial.)
+2026-11-08T15:16 https://www.twitch.tv/esportmaniacos/clip/SuaveHyperDuckOSsloth-l0wv18-AHnHNBr20 descartado: no es bueno (nada, nota 3: Falta contexto absoluto y solo se le ve desesperado con un disfraz.)
+2026-11-08T15:16 https://www.twitch.tv/elvirayuki/clip/DarlingCarelessGooseCharlietheUnicorn-0kYwX3IKW6l_h_Zd descartado: no es bueno (nada, nota 3: Es una charla aburrida reaccionando a un video sin contexto claro ni gracia.)
