@@ -1361,3 +1361,5 @@
 2026-11-08T19:09 https://www.twitch.tv/vegetta777/clip/AwkwardSmoggyShallotGOWSkull-k7Iy6Ay4c-tgquQe descartado: no es bueno (nada, nota 3: Es solo la despedida normal de un directo sin gracia ni acción destacable.)
 2026-11-08T19:10 https://www.twitch.tv/elrichmc/clip/ImpossibleFineBaguettePeteZarollTie-stiqH1utzkK7SVka descartado: no es bueno (nada, nota 3: Es solo un streamer comentando una noticia sin gracia ni contexto visual relevante.)
 2026-11-08T19:12 https://www.twitch.tv/illojuan/clip/BitterSuccessfulCiderPipeHype-xAZ7QaIstXymCFtt descartado: no es bueno (nada, nota 4: Es solo una charla informativa del streamer comentando normas y baneos de Rockstar.)
+2026-11-08T20:14 https://www.twitch.tv/illojuan/clip/WildDarlingJamBatChest-IizCECMFK8G3Yp1n descartado: no es bueno (nada, nota 3: Son solo pantallas en negro y menús sin ningún contenido relevante o gracioso.)
+2026-11-08T20:14 https://www.twitch.tv/illojuan/clip/NurturingRelentlessCheetahDBstyle-hXZoYq2TU4yauwA9 descartado: no es bueno (nada, nota 3: Es solo IlloJuan hablando estático sin mostrar nada de juego ni humor.)
