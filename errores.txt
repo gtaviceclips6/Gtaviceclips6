@@ -1337,3 +1337,6 @@
 2026-11-08T10:05 https://www.twitch.tv/vegetta777/clip/BelovedMagnificentKimchiSMOrc-tYENbQNnM0_4NBpw descartado: no es bueno (nada, nota 3: Es una partida normal comentando la gestion del bar sin momentos realmente graciosos.)
 2026-11-08T10:19 https://www.twitch.tv/peereira7/clip/EntertainingOptimisticLyrebirdHeyGuys-Z2Amnsjzd4nvlUFZ descartado: no es bueno (nada, nota 3: Streamers durmiendo en directo sin que ocurra nada relevante ni gracioso.)
 2026-11-08T10:19 https://www.twitch.tv/rubius/clip/PlausibleFilthyBeeTebowing-CW5-mUl6PwEOTSZg descartado: no es bueno (nada, nota 3: Es una opinion larga sobre mecanicas del WoW, sin gracia ni accion visual.)
+2026-11-08T11:16 https://www.twitch.tv/sebriusvt/clip/PluckyFaintAntelopeNerfRedBlaster-vsHJ90UMRFzGnmcY descartado: no es bueno (nada, nota 3: Comentario fuera de contexto y flojo que no llega a hacer gracia en España.)
+2026-11-08T11:16 https://www.twitch.tv/peereira7/clip/SillySmilingRutabagaTooSpicy-0H0aQ5rejYlGdEZj descartado: no es bueno (nada, nota 3: Insultos fuertes y fuera de contexto, no apto para las normas de las redes.)
+2026-11-08T11:17 https://www.twitch.tv/zeling/clip/DeterminedTsundereSnoodPMSTwin-gbfauJLBPqg59KY7 descartado: no es bueno (nada, nota 3: Es una jugadora muriendo en un juego sin ninguna reaccion especial ni gracia.)
