@@ -1369,3 +1369,4 @@
 2026-11-08T22:01 https://www.twitch.tv/blackelespanolito/clip/CautiousTubularBearAMPTropPunch-qVezTbFSFaChafXK descartado: no es bueno (nada, nota 3: Es una charla normal enseñando una camiseta, falta contexto y gracia para viralizar.)
 2026-11-08T22:01 https://www.twitch.tv/juniorhealy/clip/YummyIronicBananaTinyFace-tMmq51JNyK_wYoB0 descartado: no es bueno (nada, nota 3: Falta contexto claro y la reaccion del streamer no destaca lo suficiente.)
 2026-11-08T22:05 https://www.twitch.tv/illojuan/clip/PreciousOptimisticFloofCurseLit-mu_k4MfMMArDfsJ7 descartado: demasiado corto (5 s)
+2026-11-08T22:13 https://www.twitch.tv/k1ng/clip/FlirtyAthleticPheasantCurseLit-tFRfUha-gZz8X8sg descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin reacción llamativa ni gracia.)
