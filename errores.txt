@@ -1364,3 +1364,8 @@
 2026-11-08T20:14 https://www.twitch.tv/illojuan/clip/WildDarlingJamBatChest-IizCECMFK8G3Yp1n descartado: no es bueno (nada, nota 3: Son solo pantallas en negro y menús sin ningún contenido relevante o gracioso.)
 2026-11-08T20:14 https://www.twitch.tv/illojuan/clip/NurturingRelentlessCheetahDBstyle-hXZoYq2TU4yauwA9 descartado: no es bueno (nada, nota 3: Es solo IlloJuan hablando estático sin mostrar nada de juego ni humor.)
 2026-11-08T21:14 https://www.twitch.tv/revenant/clip/LittleAffluentFriseeHassanChop-OmywLJRLcuFJLTMn descartado: no es bueno (nada, nota 3: Es un comentario chorra mientras juega sin contexto gracioso real.)
+2026-11-08T21:59 https://www.twitch.tv/illojuan/clip/HungryPunchyKathyNomNom-dbvTgdt_dg4FVONF descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin ninguna situación graciosa o relevante del juego.)
+2026-11-08T22:01 https://www.twitch.tv/paache_/clip/EnjoyableColdbloodedJalapenoTBTacoRight-6wMaAvGFAR5qwgzW descartado: no es bueno (nada, nota 3: Conversación absurda sin contexto claro ni punchline gracioso para el público general.)
+2026-11-08T22:01 https://www.twitch.tv/blackelespanolito/clip/CautiousTubularBearAMPTropPunch-qVezTbFSFaChafXK descartado: no es bueno (nada, nota 3: Es una charla normal enseñando una camiseta, falta contexto y gracia para viralizar.)
+2026-11-08T22:01 https://www.twitch.tv/juniorhealy/clip/YummyIronicBananaTinyFace-tMmq51JNyK_wYoB0 descartado: no es bueno (nada, nota 3: Falta contexto claro y la reaccion del streamer no destaca lo suficiente.)
+2026-11-08T22:05 https://www.twitch.tv/illojuan/clip/PreciousOptimisticFloofCurseLit-mu_k4MfMMArDfsJ7 descartado: demasiado corto (5 s)
