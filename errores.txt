@@ -1402,3 +1402,7 @@
 2026-11-09T13:38 https://www.twitch.tv/martinciriook/clip/HappyTangibleGoshawkUWot-FFlb7EHCU-loIElp descartado: no es bueno (nada, nota 3: Conversacion larga y anecdotica que requiere contexto y no resulta graciosa por si sola.)
 2026-11-09T13:38 https://www.twitch.tv/gonsabellla/clip/DifficultEsteemedWolfTinyFace-ImOj_jbZx9So827J descartado: no es bueno (nada, nota 2: Es solo una streamer en el baño hablando sin contexto ni gracia.)
 2026-11-09T13:40 https://www.twitch.tv/danielaazuaje_/clip/SuspiciousBenevolentAniseHassaanChop-D5fUtBcLUUlQ5xRs descartado: no es bueno (nada, nota 2: Es solo charla normal sin gracia ni contenido visual relevante para redes.)
+2026-11-09T13:49 https://www.twitch.tv/peereira7/clip/CredulousGlutenFreeLorisBleedPurple-aVZGAw9CLJjVXKD6 descartado: no es bueno (nada, nota 3: El streamer solo habla sin contexto claro ni reacción exagerada.)
+2026-11-09T13:50 https://www.twitch.tv/ibai/clip/AbrasiveIgnorantBibimbapCoolStoryBro-2aVGJYUzK6ELPr1e descartado: no es bueno (nada, nota 3: Conversacion aleatoria de Ibai sobre gastos y casas sin contexto claro ni gracia destacable.)
+2026-11-09T13:50 https://www.twitch.tv/bystaxx/clip/UnusualEncouragingAdminNinjaGrumpy--WNAwx7WAvhk8hfk descartado: no es bueno (nada, nota 3: Es solo una jugada normal de shooter sin gracia ni epicidad.)
+2026-11-09T13:50 https://www.twitch.tv/zeling/clip/RoughBombasticMonkeyDoritosChip-xymi8Y5INnIH9-b2 descartado: no es bueno (nada, nota 2: Charla seria y queja sobre hate en chat sin humor ni salseo gracioso.)
