@@ -1399,3 +1399,6 @@
 2026-11-09T11:31 https://www.twitch.tv/zeling/clip/ArtsyPlacidWebEagleEye-rpqAUTjulpLZFIfu descartado: no es bueno (nada, nota 3: Es solo la streamer saludando en el chat del juego, falta contexto y gracia.)
 2026-11-09T12:31 https://www.twitch.tv/peereira7/clip/ObservantFlirtySmoothieThisIsSparta-msCJAcLA0Op0AqOI descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve a alguien despertándose sin gracia.)
 2026-11-09T12:32 https://www.twitch.tv/reventxz/clip/NiceRepleteDiamondThisIsSparta-UH8-PxKqhub5GOjv descartado: no es bueno (nada, nota 3: Es una partida normal de juego con comentarios hablados sin gracia especial.)
+2026-11-09T13:38 https://www.twitch.tv/martinciriook/clip/HappyTangibleGoshawkUWot-FFlb7EHCU-loIElp descartado: no es bueno (nada, nota 3: Conversacion larga y anecdotica que requiere contexto y no resulta graciosa por si sola.)
+2026-11-09T13:38 https://www.twitch.tv/gonsabellla/clip/DifficultEsteemedWolfTinyFace-ImOj_jbZx9So827J descartado: no es bueno (nada, nota 2: Es solo una streamer en el baño hablando sin contexto ni gracia.)
+2026-11-09T13:40 https://www.twitch.tv/danielaazuaje_/clip/SuspiciousBenevolentAniseHassaanChop-D5fUtBcLUUlQ5xRs descartado: no es bueno (nada, nota 2: Es solo charla normal sin gracia ni contenido visual relevante para redes.)
