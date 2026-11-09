@@ -1408,3 +1408,6 @@
 2026-11-09T13:50 https://www.twitch.tv/zeling/clip/RoughBombasticMonkeyDoritosChip-xymi8Y5INnIH9-b2 descartado: no es bueno (nada, nota 2: Charla seria y queja sobre hate en chat sin humor ni salseo gracioso.)
 2026-11-09T15:31 https://www.twitch.tv/peereira7/clip/BitterFitCrocodileImGlitch-nrYp4h70BaQm9MQt descartado: no es bueno (nada, nota 3: El streamer solo comenta un detalle sin gracia ni impacto visual para redes.)
 2026-11-09T15:32 https://www.twitch.tv/abby_/clip/RamshackleTenderCheeseKappaClaus-5WsT6UWGZU1R7Mm8 descartado: no es bueno (nada, nota 3: Es una charla reflexiva y seria de la streamer, no tiene humor ni acción.)
+2026-11-09T16:27 https://www.twitch.tv/carola/clip/ProudColdWrenchDancingBaby-X5ozk7ioABIodrww descartado: no es bueno (nada, nota 3: Comentario sin contexto claro y conducción aburrida por la ciudad.)
+2026-11-09T16:27 https://www.twitch.tv/llunaclark/clip/MiniatureCuteSalsifyBIRB-S2I9Kdkil-KJLyvx descartado: no es bueno (nada, nota 3: Charla larga sobre problemas con sus perros, sin gracia ni accion destacable.)
+2026-11-09T16:27 https://www.twitch.tv/abby_/clip/ImpossibleEsteemedQuailTTours-7RC6tBFxolhA1fmH descartado: no es bueno (nada, nota 1: Silla vacia sin accion ni contexto, no sirve para redes.)
