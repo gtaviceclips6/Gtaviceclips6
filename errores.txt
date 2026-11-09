@@ -1389,3 +1389,5 @@
 2026-11-09T08:50 https://www.twitch.tv/jimrsng/clip/HappyArtisticGarageBCouch-PKnCnFIvxXFFqg0M descartado: no es bueno (nada, nota 3: Es una partida normal de League of Legends sin ninguna jugada destacada o reacción divertida.)
 2026-11-09T08:51 https://www.twitch.tv/danielaazuaje_/clip/ElatedAstutePhoneTBTacoRight-HVsL8BflZ7LHqjjx descartado: no es bueno (nada, nota 3: Es una intro normal de stream hablando sin que pase nada relevante ni gracioso.)
 2026-11-09T08:51 https://www.twitch.tv/xchronofox/clip/UgliestTemperedYogurtSmoocherZ-o5L7URHOp4zxozym descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con risas sin contexto claro.)
+2026-11-09T10:18 https://www.twitch.tv/reventxz/clip/CloudyDarlingJaguarFutureMan-L0Dws4DdzV6LL6eq descartado: no es bueno (nada, nota 3: Reacción genérica de enfado en juego sin contexto suficiente para destacar en redes.)
+2026-11-09T10:19 https://www.twitch.tv/evangelion0/clip/SourMoldyPelicanBudStar-lGOIm3AEJ9ZNLwAw descartado: no es bueno (nada, nota 3: Es un lapsus hablando sin gracia especial ni contexto viral.)
