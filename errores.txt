@@ -1391,3 +1391,5 @@
 2026-11-09T08:51 https://www.twitch.tv/xchronofox/clip/UgliestTemperedYogurtSmoocherZ-o5L7URHOp4zxozym descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con risas sin contexto claro.)
 2026-11-09T10:18 https://www.twitch.tv/reventxz/clip/CloudyDarlingJaguarFutureMan-L0Dws4DdzV6LL6eq descartado: no es bueno (nada, nota 3: Reacción genérica de enfado en juego sin contexto suficiente para destacar en redes.)
 2026-11-09T10:19 https://www.twitch.tv/evangelion0/clip/SourMoldyPelicanBudStar-lGOIm3AEJ9ZNLwAw descartado: no es bueno (nada, nota 3: Es un lapsus hablando sin gracia especial ni contexto viral.)
+2026-11-09T10:29 https://www.twitch.tv/peereira7/clip/BlueHealthyOtterNotLikeThis-yiSiUznSqXUA2ALG descartado: no es bueno (nada, nota 3: Es un streamer durmiendo en directo sin que ocurra ninguna situacion graciosa ni accion.)
+2026-11-09T10:30 https://www.twitch.tv/alexelcapo/clip/MoistSavageToadPRChase-5OQof8dkTPptC6WH descartado: no es bueno (nada, nota 4: Es una queja sobre construccion en Minecraft que requiere mucho contexto previo.)
