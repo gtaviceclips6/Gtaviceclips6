@@ -1417,3 +1417,5 @@
 2026-11-09T17:36 https://www.twitch.tv/jcorko_/clip/WanderingEasyEmuKippa-kT2jDuHE4kDMHEsz descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-09T17:36 https://www.twitch.tv/alliopodcast/clip/TastyHorribleYakRaccAttack-gEB0LgWWOpgYOsfl descartado: no es bueno (nada, nota 3: Es una charla de podcast sin contexto visual ni gracia destacable para redes.)
 2026-11-09T17:37 https://www.twitch.tv/chiclanafriends/clip/RelievedTriangularShingleGingerPower-lZhH--pamzwIFOyF descartado: no es bueno (nada, nota 3: Conversación informal de charla sin un remate gracioso o impactante fuera de contexto.)
+2026-11-09T19:20 https://www.twitch.tv/knekro/clip/BillowingGleamingHerdVoteNay-RddJj7811t37sZiS descartado: no es bueno (nada, nota 3: Depende de contexto interno del chat y lenguaje inapropiado para redes.)
+2026-11-09T19:20 https://www.twitch.tv/rubius/clip/KnottyOilyRingEleGiggle-1FE-Dby4frYRS6A8 descartado: no es bueno (nada, nota 3: Es una charla normal sobre niveles de un juego sin ningun remate gracioso.)
