@@ -1414,3 +1414,6 @@
 2026-11-09T16:37 https://www.twitch.tv/peereira7/clip/StrongCarelessThymeMoreCowbell-FA4OYUpjuNtIQ6y9 descartado: no es bueno (nada, nota 3: Comentario casual sin contexto ni gracia especial para redes)
 2026-11-09T16:38 https://www.twitch.tv/peereira7/clip/QuaintToughDonutPupper-ZShrlWLAzWNVJR29 descartado: no es bueno (nada, nota 3: Comentario fuera de contexto y sin gracia real para redes.)
 2026-11-09T16:41 https://www.twitch.tv/agustin51/clip/AgitatedPolishedMageCmonBruh-5x7xw8ofI0yYfgM_ descartado: no es bueno (nada, nota 3: Reacción exagerada con navegador sin contexto claro ni gracia universal.)
+2026-11-09T17:36 https://www.twitch.tv/jcorko_/clip/WanderingEasyEmuKippa-kT2jDuHE4kDMHEsz descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-09T17:36 https://www.twitch.tv/alliopodcast/clip/TastyHorribleYakRaccAttack-gEB0LgWWOpgYOsfl descartado: no es bueno (nada, nota 3: Es una charla de podcast sin contexto visual ni gracia destacable para redes.)
+2026-11-09T17:37 https://www.twitch.tv/chiclanafriends/clip/RelievedTriangularShingleGingerPower-lZhH--pamzwIFOyF descartado: no es bueno (nada, nota 3: Conversación informal de charla sin un remate gracioso o impactante fuera de contexto.)
