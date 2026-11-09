@@ -1393,3 +1393,7 @@
 2026-11-09T10:19 https://www.twitch.tv/evangelion0/clip/SourMoldyPelicanBudStar-lGOIm3AEJ9ZNLwAw descartado: no es bueno (nada, nota 3: Es un lapsus hablando sin gracia especial ni contexto viral.)
 2026-11-09T10:29 https://www.twitch.tv/peereira7/clip/BlueHealthyOtterNotLikeThis-yiSiUznSqXUA2ALG descartado: no es bueno (nada, nota 3: Es un streamer durmiendo en directo sin que ocurra ninguna situacion graciosa ni accion.)
 2026-11-09T10:30 https://www.twitch.tv/alexelcapo/clip/MoistSavageToadPRChase-5OQof8dkTPptC6WH descartado: no es bueno (nada, nota 4: Es una queja sobre construccion en Minecraft que requiere mucho contexto previo.)
+2026-11-09T11:29 https://www.twitch.tv/peereira7/clip/CaringPuzzledJuiceOSkomodo-uSuwApcF9VTaP6zb descartado: no es bueno (nada, nota 3: Es una partida normal de Rocket League sin ningun momento realmente gracioso ni relevante.)
+2026-11-09T11:31 https://www.twitch.tv/peereira7/clip/GoldenGloriousDillPogChamp-s0hEmFYQQ-3H65IZ descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una charla en stream sin gracia especial.)
+2026-11-09T11:31 https://www.twitch.tv/ache/clip/SpunkyRacyMochaShazBotstix-fE7NrDCV02cKoOp7 descartado: no es bueno (nada, nota 3: Reacción exagerada sin contexto claro ni gracia genuina para fuera de su comunidad.)
+2026-11-09T11:31 https://www.twitch.tv/zeling/clip/ArtsyPlacidWebEagleEye-rpqAUTjulpLZFIfu descartado: no es bueno (nada, nota 3: Es solo la streamer saludando en el chat del juego, falta contexto y gracia.)
