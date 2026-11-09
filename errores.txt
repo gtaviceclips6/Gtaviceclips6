@@ -1374,3 +1374,7 @@
 2026-11-08T23:13 https://www.twitch.tv/aaronjaureguii/clip/SlipperyIgnorantHabaneroOptimizePrime-ZBVIKLo3XsykZkwd descartado: no es bueno (nada, nota 3: Charla casual y comentario sin gracia que requiere contexto del directo.)
 2026-11-09T00:09 https://www.twitch.tv/hazelbe_/clip/BoxyVibrantBobaGrammarKing-ecsNdz6WgrBj6lyK descartado: no es bueno (nada, nota 3: Es solo la streamer revisando ajustes y menús sin ninguna situación graciosa real.)
 2026-11-09T00:09 https://www.twitch.tv/13steg/clip/PiliableVivaciousFungusTBTacoRight-fEBR1TthDp8xnNBH descartado: no es bueno (nada, nota 3: Es una jugada normal de Fortnite sin gracia ni componente visual impactante.)
+2026-11-09T01:33 https://www.twitch.tv/staryuuki/clip/RamshackleRespectfulSquirrelDerp-HRor9h02EcKn2Zmb descartado: no es bueno (nada, nota 3: Es solo un comentario random del chat sin ninguna gracia ni reacción especial.)
+2026-11-09T01:34 https://www.twitch.tv/13steg/clip/ShyStrangeDootUncleNox-_27f2qWLcTmHYEVH descartado: no es bueno (nada, nota 3: Es solo el streamer reflexionando aburrido sobre si jugar o no, falta chicha.)
+2026-11-09T01:34 https://www.twitch.tv/elxokas/clip/CovertIncredulousBeaverSeemsGood-D_CekZwC5nDCe80H descartado: no es bueno (nada, nota 3: Es el Xokas hablando solo con viewers en el WoW sin ninguna gracia especial.)
+2026-11-09T01:35 https://www.twitch.tv/ibai/clip/FastGeniusGarbageTinyFace-rKkgGL9LbUyj8NCx descartado: no es bueno (nada, nota 3: Es una charla normal de retransmisión sin punchline gracioso ni impacto visual.)
