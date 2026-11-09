@@ -1384,3 +1384,8 @@
 2026-11-09T04:24 https://www.twitch.tv/elxokas/clip/DeliciousUgliestStapleYee-htMX_AFvO3y8SnrP descartado: no es bueno (nada, nota 3: Es solo charla normal jugando al WoW sin ninguna gracia especial.)
 2026-11-09T07:51 https://www.twitch.tv/danielaazuaje_/clip/MushyArbitraryQueleaArsonNoSexy-1BtDuPkEWWFey1UY descartado: no es bueno (nada, nota 2: Charla normal saludando al chat, no pasa nada destacable ni gracioso.)
 2026-11-09T07:52 https://www.twitch.tv/crystalmolly/clip/LaconicDeadBeefOptimizePrime-hGvjUQ6zpCegYpfh descartado: no es bueno (nada, nota 3: Es una charla de stream sin gracia ni contexto de videojuego.)
+2026-11-09T08:50 https://www.twitch.tv/peereira7/clip/ScaryVainThymeThunBeast-KhSNU9ecDTB9Ctkp descartado: no es bueno (nada, nota 3: Están durmiendo en stream sin que pase ninguna situación graciosa o relevante.)
+2026-11-09T08:50 https://www.twitch.tv/peereira7/clip/CarelessAggressiveElephantTBCheesePull-QeOFpVeYVM-OjPvA descartado: no es bueno (nada, nota 1: Streamer durmiendo, no pasa absolutamente nada interesante ni gracioso.)
+2026-11-09T08:50 https://www.twitch.tv/jimrsng/clip/HappyArtisticGarageBCouch-PKnCnFIvxXFFqg0M descartado: no es bueno (nada, nota 3: Es una partida normal de League of Legends sin ninguna jugada destacada o reacción divertida.)
+2026-11-09T08:51 https://www.twitch.tv/danielaazuaje_/clip/ElatedAstutePhoneTBTacoRight-HVsL8BflZ7LHqjjx descartado: no es bueno (nada, nota 3: Es una intro normal de stream hablando sin que pase nada relevante ni gracioso.)
+2026-11-09T08:51 https://www.twitch.tv/xchronofox/clip/UgliestTemperedYogurtSmoocherZ-o5L7URHOp4zxozym descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL con risas sin contexto claro.)
