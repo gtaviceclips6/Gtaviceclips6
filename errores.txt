@@ -1433,3 +1433,6 @@
 2026-11-10T00:11 https://www.twitch.tv/gorilon/clip/ColorfulIntelligentPieArgieB8-nj3yzECM4HsiUbCI descartado: no es bueno (nada, nota 3: Es solo una jugada normal de juego sin gracia destacable ni momentos virales.)
 2026-11-10T01:28 https://www.twitch.tv/arigameplays/clip/PleasantTubularJayStinkyCheese-TAH95YN5GG6ZHKjr descartado: no es bueno (nada, nota 3: Conversacion confusa con una suscripcion, sin gracia ni relevancia para el juego.)
 2026-11-10T01:29 https://www.twitch.tv/peereira7/clip/VastSmoggySharkPlanking-pXHUEkjdqVu0LSUG descartado: no es bueno (nada, nota 3: Conversacion en sitio oscuro sin contexto claro ni situacion graciosa.)
+2026-11-10T04:20 https://www.twitch.tv/amablitz/clip/PlumpPoisedHummingbirdPanicBasket-_omy_odP6QknepeU descartado: no es bueno (nada, nota 3: Es un meme interno de reacciones que requiere contexto y no aporta nada relevante.)
+2026-11-10T04:20 https://www.twitch.tv/elxokas/clip/ChillyFairMuleTBCheesePull-32rmnJNKah3jQ4fU descartado: no es bueno (nada, nota 3: Es una rabieta de Xokas criticando a alguien sin contexto claro ni gracia real.)
+2026-11-10T04:21 https://www.twitch.tv/mumusiraneitor/clip/DignifiedTenaciousKleeDxAbomb-f_TFdRO6JGqznH4_ descartado: no es bueno (nada, nota 3: Es una charla casual charlando sobre su flequillo y salud, sin gracia ni juego.)
