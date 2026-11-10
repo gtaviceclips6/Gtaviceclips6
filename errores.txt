@@ -1442,3 +1442,6 @@
 2026-11-10T07:41 https://www.twitch.tv/l1nux_cl/clip/EagerConsiderateNigiriOpieOP-hYFYYAHgnD8YPLqG descartado: no es bueno (nada, nota 1: Es una pantalla de carga falsa o meme, no aporta nada interesante.)
 2026-11-10T07:43 https://www.twitch.tv/ali_jose22/clip/AbstemiousSmoothPassionfruitSoBayed-Gr0NU3X0HkmOvjQS descartado: no es bueno (nada, nota 3: Es una opinion larga y especulativa, sin humor ni accion visual para redes.)
 2026-11-10T07:43 https://www.twitch.tv/ali_jose22/clip/EphemeralFreezingMeerkatSaltBae-J2X8R0L96phxYayD descartado: no es bueno (nada, nota 3: Es una charla normal del streamer comentando una descarga falsa en pantalla.)
+2026-11-10T08:35 https://www.twitch.tv/jimrsng/clip/BombasticFrigidLadiesUnSane-Oe5-LgdQLWe6Smua descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends sin reacción destacable ni gracia.)
+2026-11-10T08:36 https://www.twitch.tv/nezumivy/clip/InterestingNiceMouseCmonBruh-jSJjrDok_OoVRG6p descartado: no es bueno (nada, nota 3: Es una charla normal comentando un juego, falta contexto y gracia directa.)
+2026-11-10T08:36 https://www.twitch.tv/elxokas/clip/ReliableCooperativeHamEleGiggle-RExoK0Ro-thQvBWB descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
