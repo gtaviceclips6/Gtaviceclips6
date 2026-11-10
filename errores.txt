@@ -1462,3 +1462,6 @@
 2026-11-10T13:32 https://www.twitch.tv/elvirayuki/clip/JoyousOriginalDogTBTacoLeft-DSGX849zIZ9_C6a0 descartado: no es bueno (nada, nota 3: Comentario random de la streamer contando una anécdota sin gracia visual ni contexto fuerte.)
 2026-11-10T13:32 https://www.twitch.tv/pausenpaii/clip/CorrectGleamingHamburgerCoolStoryBro-4ImHcLYE6BHVymQd descartado: no es bueno (nada, nota 3: Es una charla seria y un debate de streamer, no es gracioso ni una escena visual.)
 2026-11-10T13:43 https://www.twitch.tv/evangelion0/clip/UgliestSincerePelicanStrawBeary-1BYUhz0q9xi6avFR descartado: no es bueno (nada, nota 3: Es una conversacion interna del juego sin gracia ni interes fuera de contexto.)
+2026-11-10T15:21 https://www.twitch.tv/jcorko_/clip/SmallStupidOstrichSmoocherZ-Hj6qY2hKd6tmRGxb descartado: no es bueno (nada, nota 3: Conversación cotidiana sin gracia ni contexto suficiente para TikTok.)
+2026-11-10T15:21 https://www.twitch.tv/sirmaza/clip/BoringSaltyWallabyFUNgineer-GqcZIlShPzQkMApJ descartado: no es bueno (nada, nota 3: Es una explicacion tactica de Valorant sin accion ni gracia que enganche.)
+2026-11-10T15:22 https://www.twitch.tv/esportmaniacos/clip/ColdbloodedRacyFiddleheadsShadyLulu-XsKiNZ6Qoz1m4-Sv descartado: no es bueno (nada, nota 3: Es una charla de esports demasiado específica que requiere mucho contexto previo.)
