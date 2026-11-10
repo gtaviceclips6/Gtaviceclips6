@@ -1431,3 +1431,5 @@
 2026-11-09T23:21 https://www.twitch.tv/gorilon/clip/ImportantTolerantRhinocerosDerp-GiGOBYvBMvCTgHZ- descartado: no es bueno (nada, nota 3: Es una jugada normal de juego sin ninguna reacción especialmente graciosa o épica.)
 2026-11-10T00:10 https://www.twitch.tv/gorilon/clip/TubularNeighborlyCurryRuleFive-3XDtjjNZBwmBccTq descartado: no es bueno (nada, nota 3: Es solo el streamer farmeando sin ninguna reaccion graciosa ni momento destacable.)
 2026-11-10T00:11 https://www.twitch.tv/gorilon/clip/ColorfulIntelligentPieArgieB8-nj3yzECM4HsiUbCI descartado: no es bueno (nada, nota 3: Es solo una jugada normal de juego sin gracia destacable ni momentos virales.)
+2026-11-10T01:28 https://www.twitch.tv/arigameplays/clip/PleasantTubularJayStinkyCheese-TAH95YN5GG6ZHKjr descartado: no es bueno (nada, nota 3: Conversacion confusa con una suscripcion, sin gracia ni relevancia para el juego.)
+2026-11-10T01:29 https://www.twitch.tv/peereira7/clip/VastSmoggySharkPlanking-pXHUEkjdqVu0LSUG descartado: no es bueno (nada, nota 3: Conversacion en sitio oscuro sin contexto claro ni situacion graciosa.)
