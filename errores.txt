@@ -1482,3 +1482,4 @@
 2026-11-10T19:37 https://www.twitch.tv/agustin51/clip/QuaintArborealRhinocerosDxAbomb-hBqHh7eWE0C7ky1f descartado: no es bueno (nada, nota 3: Conversacion aburrida y sin contexto claro, no hace gracia ni aporta nada visual.)
 2026-11-10T20:22 https://www.twitch.tv/peereira7/clip/PlausibleYawningAirGuitarPrimeMe-j0O94Y8HZIM0zt-T descartado: no es bueno (nada, nota 3: Es solo el streamer explicando una zona del mapa sin ninguna gracia ni momento destacable.)
 2026-11-10T20:23 https://www.twitch.tv/elxokas/clip/BetterAverageRuffImGlitch-aNbJFZH2P-dXT5X_ descartado: no es bueno (nada, nota 3: Es un combate de World of Warcraft que requiere contexto y no destaca especialmente.)
+2026-11-10T21:21 https://www.twitch.tv/rubius/clip/GlutenFreeBoldPepperoniPeteZarollTie-2my0FiFOBYtci46Q descartado: no es bueno (nada, nota 3: Es solo Rubius mirando la interfaz de la consola sin ningun momento gracioso o relevante.)
