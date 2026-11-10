@@ -1469,3 +1469,6 @@
 2026-11-10T16:14 https://www.twitch.tv/martinciriook/clip/OilyWrongDinosaurSoBayed-4128_4sBRmRMxD-R descartado: no es bueno (nada, nota 3: Anécdota larga de charla normal sin remate visual claro ni momento gracioso directo.)
 2026-11-10T16:14 https://www.twitch.tv/hawnktv/clip/TriangularNeighborlyHerringDuDudu-AtoqF82YJosR_a-G descartado: no es bueno (nada, nota 3: Es un bug de menú aburrido que requiere mucho contexto del juego.)
 2026-11-10T16:17 https://www.twitch.tv/erigamer2010/clip/DullLazyLouseHumbleLife-sKjzKLkuOIDY8bQt descartado: no es bueno (nada, nota 3: Conducción normal y comentarios sin gracia ni contexto suficiente para viralizar.)
+2026-11-10T16:29 https://www.twitch.tv/jcorko_/clip/SingleSpotlessCormorantAMPEnergy-8bFGINZ44NG9MyVo descartado: no es bueno (nada, nota 3: Conversación casual en una cocina sin contexto ni gracia especial para redes.)
+2026-11-10T16:29 https://www.twitch.tv/jcorko_/clip/ElatedEmpathicSwordDoritosChip-Hn3VKxboBM9PsvrL descartado: no es bueno (nada, nota 3: Es un baile de TikTok cotidiano sin gracia especial ni nada relevante.)
+2026-11-10T16:30 https://www.twitch.tv/bystaxx/clip/StormyExcitedJuiceTebowing-C26n4cia6hwsECFn descartado: no es bueno (nada, nota 3: Conversacion normal de partida sin ninguna reaccion exagerada ni momento especialmente gracioso.)
