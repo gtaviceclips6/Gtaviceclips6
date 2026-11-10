@@ -1480,3 +1480,5 @@
 2026-11-10T19:35 https://www.twitch.tv/agustin51/clip/DoubtfulSteamyBaboonRedCoat-m1tXfIIp4NNAKj1d descartado: no es bueno (nada, nota 3: Es una rabieta personal con chats privados que requiere demasiado contexto para entenderse.)
 2026-11-10T19:36 https://www.twitch.tv/jujalag/clip/HelpfulLazyAardvarkCorgiDerp-TBX56BPZXNtlpONH descartado: no es bueno (nada, nota 3: Es una escena normal de un videojuego con un comentario flojo del streamer.)
 2026-11-10T19:37 https://www.twitch.tv/agustin51/clip/QuaintArborealRhinocerosDxAbomb-hBqHh7eWE0C7ky1f descartado: no es bueno (nada, nota 3: Conversacion aburrida y sin contexto claro, no hace gracia ni aporta nada visual.)
+2026-11-10T20:22 https://www.twitch.tv/peereira7/clip/PlausibleYawningAirGuitarPrimeMe-j0O94Y8HZIM0zt-T descartado: no es bueno (nada, nota 3: Es solo el streamer explicando una zona del mapa sin ninguna gracia ni momento destacable.)
+2026-11-10T20:23 https://www.twitch.tv/elxokas/clip/BetterAverageRuffImGlitch-aNbJFZH2P-dXT5X_ descartado: no es bueno (nada, nota 3: Es un combate de World of Warcraft que requiere contexto y no destaca especialmente.)
