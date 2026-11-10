@@ -1446,3 +1446,6 @@
 2026-11-10T08:36 https://www.twitch.tv/nezumivy/clip/InterestingNiceMouseCmonBruh-jSJjrDok_OoVRG6p descartado: no es bueno (nada, nota 3: Es una charla normal comentando un juego, falta contexto y gracia directa.)
 2026-11-10T08:36 https://www.twitch.tv/elxokas/clip/ReliableCooperativeHamEleGiggle-RExoK0Ro-thQvBWB descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
 2026-11-10T09:27 https://www.twitch.tv/agbin3r/clip/PiliableCredulousHumanLeeroyJenkins-cwZLnB_j7qdG-SzU descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter con algo de frustración sin gracia destacable.)
+2026-11-10T10:15 https://www.twitch.tv/evangelion0/clip/SpeedyEnticingClintmullinsStoneLightning-6p5pJVcIjcy32ljh descartado: no es bueno (nada, nota 3: Gameplay normal de un MMO con un fallo típico sin gracia especial para redes.)
+2026-11-10T10:16 https://www.twitch.tv/opoartstudy/clip/BelovedBrainyHorsePJSalt-7hvpG-vsCGG4e7MI descartado: no es bueno (nada, nota 3: Es una charla casual sobre peluches sin una gracia destacable fuera de contexto.)
+2026-11-10T10:16 https://www.twitch.tv/gio__tkm/clip/WanderingPlumpRamenOSkomodo-qFN0JwkXtZZ2H0r8 descartado: no es bueno (nada, nota 3: Es solo el streamer despidiéndose del directo de forma normal, falta chicha.)
