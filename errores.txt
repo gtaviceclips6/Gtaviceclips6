@@ -1508,3 +1508,6 @@
 2026-11-11T09:33 https://www.twitch.tv/peereira7/clip/CharmingIncredulousMeatloafCoolCat-aoNhUuz6Ek4epOk1 descartado: no es bueno (nada, nota 3: Es una persona durmiendo en un stream, falta contexto y accion.)
 2026-11-11T09:35 https://www.twitch.tv/rubenmartinweb/clip/BadAuspiciousSageEleGiggle-8YrGL8i12rs5Tals descartado: no es bueno (nada, nota 3: Es una charla de rumores futbolísticos sin gracia ni una reacción viral destacable.)
 2026-11-11T09:36 https://www.twitch.tv/rubenmartinweb/clip/HelplessSteamyRamenChocolateRain-pT5v90-xeqolCpCW descartado: no es bueno (nada, nota 3: Es una charla seria sobre fichajes de futbol sin ningun gag visual o momento gracioso.)
+2026-11-11T10:21 https://www.twitch.tv/peereira7/clip/AbrasivePlainMarjoramArgieB8-ysrJohJ7IMw6X5ZR descartado: no es bueno (nada, nota 3: Es un streamer cantando o pidiendo volumen sin contexto de juego relevante ni humor viral claro.)
+2026-11-11T10:21 https://www.twitch.tv/rubius/clip/LazyCarelessCroissantRedCoat-EYfO5jEtluSGm-XD descartado: no es bueno (nada, nota 3: Es solo charla normal opinando sobre las horas del juego, sin ninguna situacion especial.)
+2026-11-11T10:21 https://www.twitch.tv/alimentacionchino/clip/GiantLazyFennelOMGScoots-33m4L4VbNWQniJH- descartado: no es bueno (nada, nota 2: Es un clip de un streamer entrenando en el gimnasio sin nada relevante.)
