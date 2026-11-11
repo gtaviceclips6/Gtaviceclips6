@@ -1516,3 +1516,7 @@
 2026-11-11T11:31 https://www.twitch.tv/reventxz/clip/ElatedTangentialCheetahGrammarKing-mjx30l5yyKNvaaHn descartado: no es bueno (nada, nota 3: Es una jugada normal de World of Warcraft con explicación técnica sin gracia.)
 2026-11-11T11:31 https://www.twitch.tv/olgaenvivo/clip/VictoriousBashfulWalrusBCouch-IGN-F4S_2QNxyfNw descartado: no es bueno (nada, nota 3: Conversacion de plató sin gracia ni contexto suficiente para viralizar en redes.)
 2026-11-11T11:32 https://www.twitch.tv/juakynen/clip/YummySmallShrimpBlargNaut-Snjt6vrsa8cWMnYe descartado: no es bueno (nada, nota 3: Es solo charla de gimnasio sin ninguna gracia especial ni remate divertido.)
+2026-11-11T12:30 https://www.twitch.tv/peereira7/clip/AttractiveBreakableWaspJKanStyle-O8ZXai2vHfWbNAaV descartado: no es bueno (nada, nota 2: Streamer durmiendo en un directo, no pasa nada relevante ni divertido.)
+2026-11-11T12:30 https://www.twitch.tv/opoartstudy/clip/ZanyGlutenFreeRaisinThisIsSparta-z_8GjAAtc-juuUww descartado: no es bueno (nada, nota 3: Es un directo de estudio sin nada relevante ni gracioso para redes.)
+2026-11-11T12:30 https://www.twitch.tv/bilaldelvalle/clip/RelatedGentleDragonGivePLZ-wWzhb8nQbBYF71ye descartado: no es bueno (nada, nota 3: Es solo un menú de inventario y comentarios sin gracia ni acción visual.)
+2026-11-11T12:31 https://www.twitch.tv/zeling/clip/CaringPlainDolphinVoteNay-g8XdliL7IB2xi_tV descartado: no es bueno (nada, nota 3: Es solo la streamer charlando sobre lo aburrido que es subir nivel en el WoW.)
