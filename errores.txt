@@ -1500,3 +1500,8 @@
 2026-11-11T04:21 https://www.twitch.tv/faello1/clip/HumbleHonorableSamosaPMSTwin-RXtyGQqp1jeGidbw descartado: no es bueno (nada, nota 3: Es solo un menú de juego con un TTS aleatorio de fondo sin gracia.)
 2026-11-11T07:38 https://www.twitch.tv/ache/clip/BitterWanderingTomatoCmonBruh-nmRnuHim6mpX5uUs descartado: no es bueno (nada, nota 3: Es una jugada normal de juego sin gracia ni epicidad destacable.)
 2026-11-11T07:39 https://www.twitch.tv/rubius/clip/BelovedCogentFriseeResidentSleeper-U_9CzzE2IWjlrjaZ descartado: no es bueno (nada, nota 3: Es solo Rubius comentando una jugada o chat sin gracia ni contexto suficiente.)
+2026-11-11T08:35 https://www.twitch.tv/peereira7/clip/EnchantingDependableDragonfruitShazBotstix-egy6VmuykGmPbx8c descartado: no es bueno (nada, nota 3: Streamers durmiendo en colchones en el suelo, falta contexto y gracia.)
+2026-11-11T08:35 https://www.twitch.tv/peereira7/clip/InnocentPleasantJayOSsloth-C1efKENn3OISqiv_ descartado: no es bueno (nada, nota 3: Es una charla informal de streamers sin contexto ni gracia especial.)
+2026-11-11T08:36 https://www.twitch.tv/danielaazuaje_/clip/ArbitraryTubularHorseMau5-BDsDMvyNVyDwsozE descartado: no es bueno (nada, nota 3: Es solo creando un personaje y comentando sin un remate cómico real ni acción destacable.)
+2026-11-11T08:36 https://www.twitch.tv/zeling/clip/FlirtyEnjoyableChimpanzeeSoBayed-jsoRnumD6nYM1NRR ERROR: [twitch:clips] FlirtyEnjoyableChimpanzeeSoBayed-jsoRnumD6nYM1NRR: This clip is no longer available
+2026-11-11T08:37 https://www.twitch.tv/natymoon/clip/ObeseBombasticAxeKlappa-GePXiY2elWrzJV7g descartado: no es bueno (nada, nota 2: Es un clip de ASMR sin relación con GTA ni humor reseñable.)
