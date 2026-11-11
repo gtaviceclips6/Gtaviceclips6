@@ -1527,3 +1527,7 @@
 2026-11-11T17:02 https://www.twitch.tv/elxokas/clip/ClumsyAggressiveKleePJSalt-0F-c-mtcAk5g9vB4 descartado: no es bueno (nada, nota 3: Contenido político y opinión personal del streamer, no apto ni gracioso sin contexto.)
 2026-11-11T17:06 https://www.twitch.tv/llunaclark/clip/CooperativeAthleticTubersBleedPurple-bq2SMeCBQXMYKgxl descartado: no es bueno (nada, nota 4: Momento cotidiano bañando al perro sin ninguna gracia especial ni remate claro.)
 2026-11-11T17:34 https://www.twitch.tv/elxokas/clip/RepleteSingleCrabsPJSalt-gb6_fzCTGomuTgbr descartado: no es bueno (nada, nota 3: Es solo el Xokas jugando al WoW comentando un cumpleaños sin contexto relevante.)
+2026-11-11T18:26 https://www.twitch.tv/auronplay/clip/FragileHonestYakResidentSleeper-jH-wjieOW-bETeoD descartado: no es bueno (nada, nota 3: Conversacion aburrida y sin gracia sobre una serie, no aporta nada visual ni divertido.)
+2026-11-11T18:29 https://www.twitch.tv/peereira7/clip/VenomousLazyPonyBatChest-2MQ6b7FeKSfPkRz1 descartado: no es bueno (nada, nota 3: Es solo el streamer gritando a una cinemática sin nada viral.)
+2026-11-11T18:33 https://www.twitch.tv/knekro/clip/PoorEnjoyableSheepYouDontSay-PKrNlK5-2tNCivoC descartado: no es bueno (nada, nota 3: Es Knekro quejándose del RNG en un sorteo sin contexto visual potente.)
+2026-11-11T18:35 https://www.twitch.tv/lolitofdez/clip/QuaintArtisticSaladNerfRedBlaster-IhJlCpQ6UqNN9Tbi descartado: no es bueno (nada, nota 3: Pantalla a oscuras la mayor parte del tiempo y le falta contexto.)
