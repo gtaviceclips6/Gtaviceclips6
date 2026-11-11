@@ -1534,3 +1534,6 @@
 2026-11-11T19:38 https://www.twitch.tv/b0rja/clip/AwkwardFurryFinchCoolCat-nzrzysbZxNSwKwAF descartado: no es bueno (nada, nota 3: Es una partida normal de Valorant sin ninguna reaccion exagerada ni momento gracioso real.)
 2026-11-11T21:04 https://www.twitch.tv/th3antonio/clip/SweetThoughtfulCamelANELE-AhNyg78rXzrogkx9 descartado: no es bueno (nada, nota 3: Es una charla seria en Twitter sin gracia ni accion relevante para redes.)
 2026-11-11T21:04 https://www.twitch.tv/kelianforronin/clip/RelatedEmpathicDonkeyKappaPride-iWQSFM4Ctpu3q_8p descartado: no es bueno (nada, nota 3: Es una retransmisión de un partido de fútbol normal, sin comedia ni viralidad.)
+2026-11-11T22:24 https://www.twitch.tv/auronplay/clip/HeartlessAggressiveGarbageANELE-bmRXcbweFu7S4RrN descartado: no es bueno (nada, nota 3: Conversacion normal entre streamers, falta contexto y no destaca por ser gracioso.)
+2026-11-11T22:25 https://www.twitch.tv/paache_/clip/OriginalTenaciousLemurTebowing-9xOrMmNFxWi0Utp3 descartado: no es bueno (nada, nota 3: Conversacion seria tras perder un torneo, falta accion o comedia para redes.)
+2026-11-11T22:25 https://www.twitch.tv/aaronjaureguii/clip/PiliableFlaccidHorseradishMingLee-XIZdHs_BstDgDVYy descartado: no es bueno (nada, nota 3: Conversación absurda y faltona sin contexto gracioso ni relación con videojuegos.)
