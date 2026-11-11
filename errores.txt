@@ -1531,3 +1531,7 @@
 2026-11-11T18:29 https://www.twitch.tv/peereira7/clip/VenomousLazyPonyBatChest-2MQ6b7FeKSfPkRz1 descartado: no es bueno (nada, nota 3: Es solo el streamer gritando a una cinemática sin nada viral.)
 2026-11-11T18:33 https://www.twitch.tv/knekro/clip/PoorEnjoyableSheepYouDontSay-PKrNlK5-2tNCivoC descartado: no es bueno (nada, nota 3: Es Knekro quejándose del RNG en un sorteo sin contexto visual potente.)
 2026-11-11T18:35 https://www.twitch.tv/lolitofdez/clip/QuaintArtisticSaladNerfRedBlaster-IhJlCpQ6UqNN9Tbi descartado: no es bueno (nada, nota 3: Pantalla a oscuras la mayor parte del tiempo y le falta contexto.)
+2026-11-11T19:26 https://www.twitch.tv/knekro/clip/WittyGleamingLadiesTebowing-WBZqIi-1JFjzDxUg descartado: no es bueno (nada, nota 4: Donación con texto que requiere conocer a Carzzy y la escena de LoL.)
+2026-11-11T19:28 https://www.twitch.tv/vegetta777/clip/SpeedyMoralSangMoreCowbell-P8msJcIACq-uZe9- descartado: no es bueno (nada, nota 3: Gameplay muy estático mirando un examen, falta contexto y un chiste directo para destacar.)
+2026-11-11T19:30 https://www.twitch.tv/b0rja/clip/AwkwardFurryFinchCoolCat-nzrzysbZxNSwKwAF descartado: no es bueno (nada, nota 3: Falta contexto claro y es una jugada normal de juego sin gracia destacable.)
+2026-11-11T19:30 https://www.twitch.tv/lolitofdez/clip/SingleUnusualDiscJKanStyle-xHFu5D2LUvY5_BvI descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
