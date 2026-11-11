@@ -1522,3 +1522,7 @@
 2026-11-11T12:31 https://www.twitch.tv/zeling/clip/CaringPlainDolphinVoteNay-g8XdliL7IB2xi_tV descartado: no es bueno (nada, nota 3: Es solo la streamer charlando sobre lo aburrido que es subir nivel en el WoW.)
 2026-11-11T13:35 https://www.twitch.tv/eldeanacogamer/clip/BoldUnusualFalconDAESuppy-h1rX1UCNuQlrH_64 descartado: no es bueno (nada, nota 3: Es un fallo de un juego de béisbol sin gracia ni reacción exagerada.)
 2026-11-11T13:37 https://www.twitch.tv/rubius/clip/RealComfortablePelicanWow-859zz4IPRPuqZFGb descartado: no es bueno (nada, nota 3: Es una charla aburrida sobre los FPS de las consolas, sin humor ni nada visualmente interesante.)
+2026-11-11T16:59 https://www.twitch.tv/peereira7/clip/LitigiousPunchyMooseGingerPower-NQtFaAzklfvksnvM descartado: no es bueno (nada, nota 3: El streamer se levanta sin motivo claro y no hay ninguna situación graciosa real.)
+2026-11-11T17:01 https://www.twitch.tv/skain/clip/KathishOutstandingWitchFeelsBadMan-dyqFjOGpArr0dFWr descartado: no es bueno (nada, nota 3: Es una charla seria de Skain sobre fichajes y estrategia, sin gracia ni accion.)
+2026-11-11T17:02 https://www.twitch.tv/elxokas/clip/ClumsyAggressiveKleePJSalt-0F-c-mtcAk5g9vB4 descartado: no es bueno (nada, nota 3: Contenido político y opinión personal del streamer, no apto ni gracioso sin contexto.)
+2026-11-11T17:06 https://www.twitch.tv/llunaclark/clip/CooperativeAthleticTubersBleedPurple-bq2SMeCBQXMYKgxl descartado: no es bueno (nada, nota 4: Momento cotidiano bañando al perro sin ninguna gracia especial ni remate claro.)
