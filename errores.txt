@@ -1490,3 +1490,7 @@
 2026-11-10T23:18 https://www.twitch.tv/tibsonm/clip/CourteousAnnoyingGorillaDatBoi-SyALOakzlqv-FUvk descartado: no es bueno (nada, nota 3: Es una charla normal sin gracia ni contexto suficiente para TikTok.)
 2026-11-11T00:11 https://www.twitch.tv/peereira7/clip/PrettiestHomelyPangolinBibleThump-D73j_7S14zjHxAvW descartado: no es bueno (nada, nota 3: Falta contexto claro y la conversacion es confusa sin entender la situacion previa.)
 2026-11-11T00:11 https://www.twitch.tv/peereira7/clip/BlightedSuccessfulCrowTinyFace-en3SyEzlbaT7Bo_c descartado: no es bueno (nada, nota 3: Es una charla de streamers cocinando sin humor claro ni contexto de juego.)
+2026-11-11T01:30 https://www.twitch.tv/elmariana/clip/UnusualCrunchyDillDxCat-CEheF2mYlHs7LQIP descartado: no es bueno (nada, nota 3: Es solo el streamer hablando solo frente al PC sin ninguna situación graciosa real.)
+2026-11-11T01:32 https://www.twitch.tv/elxokas/clip/PrettyMoralQueleaPeteZarollTie-Y8O2e7_zyBmQTxMU descartado: no es bueno (nada, nota 3: Es una charla técnica sobre World of Warcraft que requiere contexto y no resulta graciosa.)
+2026-11-11T01:35 https://www.twitch.tv/silithur/clip/CautiousSuperPenguinKippa-IMYB0zRmVGypV4fR descartado: no es bueno (nada, nota 3: Requiere contexto de una broma interna entre streamers y no resulta gracioso por sí solo.)
+2026-11-11T01:35 https://www.twitch.tv/rubius/clip/StrangeWonderfulCheesecakeBleedPurple-pbYgMLjTSENi4gOd descartado: demasiado corto (5 s)
