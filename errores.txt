@@ -1532,3 +1532,5 @@
 2026-11-11T18:33 https://www.twitch.tv/knekro/clip/PoorEnjoyableSheepYouDontSay-PKrNlK5-2tNCivoC descartado: no es bueno (nada, nota 3: Es Knekro quejándose del RNG en un sorteo sin contexto visual potente.)
 2026-11-11T18:35 https://www.twitch.tv/lolitofdez/clip/QuaintArtisticSaladNerfRedBlaster-IhJlCpQ6UqNN9Tbi descartado: no es bueno (nada, nota 3: Pantalla a oscuras la mayor parte del tiempo y le falta contexto.)
 2026-11-11T19:38 https://www.twitch.tv/b0rja/clip/AwkwardFurryFinchCoolCat-nzrzysbZxNSwKwAF descartado: no es bueno (nada, nota 3: Es una partida normal de Valorant sin ninguna reaccion exagerada ni momento gracioso real.)
+2026-11-11T21:04 https://www.twitch.tv/th3antonio/clip/SweetThoughtfulCamelANELE-AhNyg78rXzrogkx9 descartado: no es bueno (nada, nota 3: Es una charla seria en Twitter sin gracia ni accion relevante para redes.)
+2026-11-11T21:04 https://www.twitch.tv/kelianforronin/clip/RelatedEmpathicDonkeyKappaPride-iWQSFM4Ctpu3q_8p descartado: no es bueno (nada, nota 3: Es una retransmisión de un partido de fútbol normal, sin comedia ni viralidad.)
