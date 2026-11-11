@@ -1513,3 +1513,6 @@
 2026-11-11T10:21 https://www.twitch.tv/alimentacionchino/clip/GiantLazyFennelOMGScoots-33m4L4VbNWQniJH- descartado: no es bueno (nada, nota 2: Es un clip de un streamer entrenando en el gimnasio sin nada relevante.)
 2026-11-11T10:41 https://www.twitch.tv/elxokas/clip/UglyBraveSalsifyCmonBruh-T7oUeRKc5pFOFd4t descartado: no es bueno (nada, nota 3: Es el Xokas conduciendo por la nieve sin que pase nada relevante ni gracioso.)
 2026-11-11T10:41 https://www.twitch.tv/evangelion0/clip/HorribleArbitraryDadBudBlast-EqGhdoJt_9vvtjde descartado: no es bueno (nada, nota 2: Es una charla aburrida de juego sin gracia ni momentos visuales impactantes.)
+2026-11-11T11:31 https://www.twitch.tv/reventxz/clip/ElatedTangentialCheetahGrammarKing-mjx30l5yyKNvaaHn descartado: no es bueno (nada, nota 3: Es una jugada normal de World of Warcraft con explicación técnica sin gracia.)
+2026-11-11T11:31 https://www.twitch.tv/olgaenvivo/clip/VictoriousBashfulWalrusBCouch-IGN-F4S_2QNxyfNw descartado: no es bueno (nada, nota 3: Conversacion de plató sin gracia ni contexto suficiente para viralizar en redes.)
+2026-11-11T11:32 https://www.twitch.tv/juakynen/clip/YummySmallShrimpBlargNaut-Snjt6vrsa8cWMnYe descartado: no es bueno (nada, nota 3: Es solo charla de gimnasio sin ninguna gracia especial ni remate divertido.)
