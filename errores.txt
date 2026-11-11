@@ -1520,3 +1520,5 @@
 2026-11-11T12:30 https://www.twitch.tv/opoartstudy/clip/ZanyGlutenFreeRaisinThisIsSparta-z_8GjAAtc-juuUww descartado: no es bueno (nada, nota 3: Es un directo de estudio sin nada relevante ni gracioso para redes.)
 2026-11-11T12:30 https://www.twitch.tv/bilaldelvalle/clip/RelatedGentleDragonGivePLZ-wWzhb8nQbBYF71ye descartado: no es bueno (nada, nota 3: Es solo un menú de inventario y comentarios sin gracia ni acción visual.)
 2026-11-11T12:31 https://www.twitch.tv/zeling/clip/CaringPlainDolphinVoteNay-g8XdliL7IB2xi_tV descartado: no es bueno (nada, nota 3: Es solo la streamer charlando sobre lo aburrido que es subir nivel en el WoW.)
+2026-11-11T13:35 https://www.twitch.tv/eldeanacogamer/clip/BoldUnusualFalconDAESuppy-h1rX1UCNuQlrH_64 descartado: no es bueno (nada, nota 3: Es un fallo de un juego de béisbol sin gracia ni reacción exagerada.)
+2026-11-11T13:37 https://www.twitch.tv/rubius/clip/RealComfortablePelicanWow-859zz4IPRPuqZFGb descartado: no es bueno (nada, nota 3: Es una charla aburrida sobre los FPS de las consolas, sin humor ni nada visualmente interesante.)
