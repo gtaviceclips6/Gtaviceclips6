@@ -1505,3 +1505,6 @@
 2026-11-11T08:36 https://www.twitch.tv/danielaazuaje_/clip/ArbitraryTubularHorseMau5-BDsDMvyNVyDwsozE descartado: no es bueno (nada, nota 3: Es solo creando un personaje y comentando sin un remate cómico real ni acción destacable.)
 2026-11-11T08:36 https://www.twitch.tv/zeling/clip/FlirtyEnjoyableChimpanzeeSoBayed-jsoRnumD6nYM1NRR ERROR: [twitch:clips] FlirtyEnjoyableChimpanzeeSoBayed-jsoRnumD6nYM1NRR: This clip is no longer available
 2026-11-11T08:37 https://www.twitch.tv/natymoon/clip/ObeseBombasticAxeKlappa-GePXiY2elWrzJV7g descartado: no es bueno (nada, nota 2: Es un clip de ASMR sin relación con GTA ni humor reseñable.)
+2026-11-11T09:33 https://www.twitch.tv/peereira7/clip/CharmingIncredulousMeatloafCoolCat-aoNhUuz6Ek4epOk1 descartado: no es bueno (nada, nota 3: Es una persona durmiendo en un stream, falta contexto y accion.)
+2026-11-11T09:35 https://www.twitch.tv/rubenmartinweb/clip/BadAuspiciousSageEleGiggle-8YrGL8i12rs5Tals descartado: no es bueno (nada, nota 3: Es una charla de rumores futbolísticos sin gracia ni una reacción viral destacable.)
+2026-11-11T09:36 https://www.twitch.tv/rubenmartinweb/clip/HelplessSteamyRamenChocolateRain-pT5v90-xeqolCpCW descartado: no es bueno (nada, nota 3: Es una charla seria sobre fichajes de futbol sin ningun gag visual o momento gracioso.)
