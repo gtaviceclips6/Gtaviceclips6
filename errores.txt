@@ -1511,3 +1511,5 @@
 2026-11-11T10:21 https://www.twitch.tv/peereira7/clip/AbrasivePlainMarjoramArgieB8-ysrJohJ7IMw6X5ZR descartado: no es bueno (nada, nota 3: Es un streamer cantando o pidiendo volumen sin contexto de juego relevante ni humor viral claro.)
 2026-11-11T10:21 https://www.twitch.tv/rubius/clip/LazyCarelessCroissantRedCoat-EYfO5jEtluSGm-XD descartado: no es bueno (nada, nota 3: Es solo charla normal opinando sobre las horas del juego, sin ninguna situacion especial.)
 2026-11-11T10:21 https://www.twitch.tv/alimentacionchino/clip/GiantLazyFennelOMGScoots-33m4L4VbNWQniJH- descartado: no es bueno (nada, nota 2: Es un clip de un streamer entrenando en el gimnasio sin nada relevante.)
+2026-11-11T10:41 https://www.twitch.tv/elxokas/clip/UglyBraveSalsifyCmonBruh-T7oUeRKc5pFOFd4t descartado: no es bueno (nada, nota 3: Es el Xokas conduciendo por la nieve sin que pase nada relevante ni gracioso.)
+2026-11-11T10:41 https://www.twitch.tv/evangelion0/clip/HorribleArbitraryDadBudBlast-EqGhdoJt_9vvtjde descartado: no es bueno (nada, nota 2: Es una charla aburrida de juego sin gracia ni momentos visuales impactantes.)
