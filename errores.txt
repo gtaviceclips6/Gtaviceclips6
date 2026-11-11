@@ -1498,3 +1498,5 @@
 2026-11-11T04:20 https://www.twitch.tv/staryuuki/clip/DifficultTenaciousDinosaurGivePLZ-iqn9wX7GvIfI4JxV descartado: no es bueno (nada, nota 3: Es solo Staryuuki comentando la hora y el chat, falta humor o accion real.)
 2026-11-11T04:20 https://www.twitch.tv/staryuuki/clip/RoughDoubtfulShrewTBTacoRight-ppAy5cBRi6ubynQl descartado: no es bueno (nada, nota 3: Es Staryuuki haciendo ejercicio siguiendo a unos gatos virtuales, falta chicha y humor real.)
 2026-11-11T04:21 https://www.twitch.tv/faello1/clip/HumbleHonorableSamosaPMSTwin-RXtyGQqp1jeGidbw descartado: no es bueno (nada, nota 3: Es solo un menú de juego con un TTS aleatorio de fondo sin gracia.)
+2026-11-11T07:38 https://www.twitch.tv/ache/clip/BitterWanderingTomatoCmonBruh-nmRnuHim6mpX5uUs descartado: no es bueno (nada, nota 3: Es una jugada normal de juego sin gracia ni epicidad destacable.)
+2026-11-11T07:39 https://www.twitch.tv/rubius/clip/BelovedCogentFriseeResidentSleeper-U_9CzzE2IWjlrjaZ descartado: no es bueno (nada, nota 3: Es solo Rubius comentando una jugada o chat sin gracia ni contexto suficiente.)
