@@ -1574,3 +1574,6 @@
 2026-11-12T16:41 https://www.twitch.tv/alvarostorm/clip/HeartlessApatheticSharkRuleFive-iLlqLfdGR0kMtalE descartado: no es bueno (nada, nota 3: Es una rabieta típica jugando al LoL que requiere contexto y contiene insultos.)
 2026-11-12T16:42 https://www.twitch.tv/llunaclark/clip/HelplessPreciousPassionfruitDAESuppy-dnKufkCi0cryyWb8 descartado: no es bueno (nada, nota 3: Conversación informal sin humor ni acción relevante para redes.)
 2026-11-12T16:43 https://www.twitch.tv/llunaclark/clip/RamshackleGrossQueleaRitzMitz-LW-do1YVYn4po3ZV descartado: no es bueno (nada, nota 3: Es una streamer probándose un vestido y charlando, sin comedia ni momento espectacular.)
+2026-11-12T17:35 https://www.twitch.tv/auronplay/clip/BenevolentSpicyButterShadyLulu-WAj0v5nRmSHDR6ad descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-12T17:37 https://www.twitch.tv/agustin51/clip/HelplessCovertChickpeaMVGame-y4OCd-hD3x1xfvua descartado: no es bueno (nada, nota 3: Comentario aleatorio del chat sin contexto fuerte ni situacion graciosa real.)
+2026-11-12T17:43 https://www.twitch.tv/auronplay/clip/DarkLittleTrayDBstyle-Y4myoamP7pC6O_zt descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
