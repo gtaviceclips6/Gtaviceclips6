@@ -1567,3 +1567,6 @@
 2026-11-12T13:52 https://www.twitch.tv/recuerd0p/clip/BlightedAgitatedReindeerDatBoi-T69h90KKgApkc3lg descartado: no es bueno (nada, nota 3: Conversación caótica sin contexto claro ni remate gracioso fuera del directo.)
 2026-11-12T13:52 https://www.twitch.tv/peereira7/clip/KnottyGiantMushroomDoritosChip-dA6EcpK75OZs34Su descartado: no es bueno (nada, nota 3: Es una conversacion interna del chat sobre resubir clips sin ninguna gracia especial.)
 2026-11-12T13:53 https://www.twitch.tv/agorafutbol/clip/ImportantSillyElkCoolCat-99L1EXunfrt7wijQ descartado: no es bueno (nada, nota 3: Conversacion de debate futbolero sin contexto ni punchline claro para redes.)
+2026-11-12T15:41 https://www.twitch.tv/mi_miau/clip/JoyousRockyPidgeonPraiseIt-w9l4Fm4fMO4yD3kR descartado: no es bueno (nada, nota 3: Conversación absurda y sin gracia sobre una camiseta, falta contexto y humor.)
+2026-11-12T15:41 https://www.twitch.tv/llunaclark/clip/AttractiveDependableElephantSmoocherZ-J3W16x_GXJcwTL1Q descartado: no es bueno (nada, nota 3: Es una charla cotidiana limpiando cristales, no tiene gracia ni acción destacable.)
+2026-11-12T15:42 https://www.twitch.tv/llunaclark/clip/HomelyTriangularRedpandaStoneLightning-MnYfDwTUZMVCZero descartado: no es bueno (nada, nota 3: Es una situacion cotidiana sin gracia ni interes para TikTok.)
