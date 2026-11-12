@@ -1543,3 +1543,6 @@
 2026-11-12T00:25 https://www.twitch.tv/peereira7/clip/SpookyFriendlyTubersNotLikeThis-p8Uv2YQfhZfwDhy7 descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla de piso sin gracia especial fuera de su comunidad.)
 2026-11-12T01:37 https://www.twitch.tv/nenecreative/clip/CrunchyShortAlbatrossTooSpicy-PTskagPQ4tvpwb_8 descartado: no es bueno (nada, nota 3: Es una jugada normal de Rocket League sin gracia ni fail impactante.)
 2026-11-12T01:37 https://www.twitch.tv/deusamir/clip/SpookyRefinedHummingbirdDeIlluminati-I6qlCwIiwp6I4-fA descartado: no es bueno (nada, nota 3: Falta contexto claro y es charla de gameplay sin una situación realmente graciosa.)
+2026-11-12T04:19 https://www.twitch.tv/sebriusvt/clip/PeppyEnthusiasticFloofJonCarnage-L6DLu9BAf73CFo_Z descartado: no es bueno (nada, nota 3: Comentario confuso y sin gracia evidente que requiere contexto externo.)
+2026-11-12T04:19 https://www.twitch.tv/crystalmolly/clip/YawningCrunchyCattleBIRB-0SKm4FmNpk_e24dR descartado: no es bueno (nada, nota 3: Es un diálogo de videojuego sin ninguna gracia especial ni reacción destacable.)
+2026-11-12T04:21 https://www.twitch.tv/rubius/clip/DarlingGlutenFreeBasenjiTheThing-O_1ZGXtOxTEaWdQ_ descartado: no es bueno (nada, nota 3: Es solo Rubius comentando expectativas de juego sin que ocurra nada visual relevante.)
