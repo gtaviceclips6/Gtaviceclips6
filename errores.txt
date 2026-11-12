@@ -1550,3 +1550,7 @@
 2026-11-12T07:44 https://www.twitch.tv/mumusiraneitor/clip/PowerfulDependableJaguarFrankerZ-iH0gmt-vOTpC3xWl descartado: no es bueno (nada, nota 2: Es solo charla rutinaria del stream sin ningun remate gracioso ni momento destacable.)
 2026-11-12T07:45 https://www.twitch.tv/elxokas/clip/AbstemiousCovertArtichokeFrankerZ-YHfxTQAGbpAkcKk4 descartado: no es bueno (nada, nota 3: Xokas reacciona a un tweet sin aportar nada especialmente gracioso ni impactante.)
 2026-11-12T07:45 https://www.twitch.tv/rubius/clip/NeighborlyAntediluvianSashimiCoolStoryBro-PhPn6-GAH8YxM0cM descartado: no es bueno (nada, nota 3: Conducción simple en la luna sin gracia ni acción destacable.)
+2026-11-12T08:41 https://www.twitch.tv/ache/clip/JazzyAdventurousCrabsPunchTrees-Cl1Y1lAbKMr68FiX descartado: no es bueno (nada, nota 3: Muerte rápida en partida sin gracia ni jugada destacable para redes.)
+2026-11-12T08:41 https://www.twitch.tv/peereira7/clip/OddResoluteJayNononoCat-ym-g-vpqnjhhU-Jq descartado: no es bueno (nada, nota 3: Es un directo durmiendo (subathon), no pasa nada relevante ni hay accion ni gracia.)
+2026-11-12T08:42 https://www.twitch.tv/mumusiraneitor/clip/AnnoyingSavageStinkbugFloof-Bc-cKGDgb3JnXhz8 descartado: no es bueno (nada, nota 2: Es solo la streamer arreglándose el pelo sin ninguna situación graciosa o relevante.)
+2026-11-12T08:42 https://www.twitch.tv/knekro/clip/MuddyHumbleParrotDansGame-txXXLUwoxVEUVvmd descartado: no es bueno (nada, nota 3: Es un fragmento de juego de rol sin contexto claro ni gracia destacable para redes.)
