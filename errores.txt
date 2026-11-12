@@ -1564,3 +1564,6 @@
 2026-11-12T12:41 https://www.twitch.tv/peereira7/clip/HumbleYawningSpindleFeelsBadMan-zueBLlw7thF9x4Gf descartado: no es bueno (nada, nota 3: Conversación absurda y sin contexto claro de los streamers en la cocina.)
 2026-11-12T12:41 https://www.twitch.tv/elbokeron/clip/FurtiveBrightHyenaUnSane-jT2JFU1X0KDP3_eM descartado: no es bueno (nada, nota 3: Es solo un combate de MMORPG sin gracia ni nada destacable para redes.)
 2026-11-12T13:38 https://www.twitch.tv/zeling/clip/ViscousSavageDonutVoteNay-aHFx6hCO6MUdGQjz descartado: no es bueno (nada, nota 3: Es solo charla normal jugando sin ninguna reacción graciosa ni momento memorable.)
+2026-11-12T13:52 https://www.twitch.tv/recuerd0p/clip/BlightedAgitatedReindeerDatBoi-T69h90KKgApkc3lg descartado: no es bueno (nada, nota 3: Conversación caótica sin contexto claro ni remate gracioso fuera del directo.)
+2026-11-12T13:52 https://www.twitch.tv/peereira7/clip/KnottyGiantMushroomDoritosChip-dA6EcpK75OZs34Su descartado: no es bueno (nada, nota 3: Es una conversacion interna del chat sobre resubir clips sin ninguna gracia especial.)
+2026-11-12T13:53 https://www.twitch.tv/agorafutbol/clip/ImportantSillyElkCoolCat-99L1EXunfrt7wijQ descartado: no es bueno (nada, nota 3: Conversacion de debate futbolero sin contexto ni punchline claro para redes.)
