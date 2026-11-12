@@ -1560,3 +1560,6 @@
 2026-11-12T10:41 https://www.twitch.tv/el_yuste/clip/CarefulSmokyOcelotDoggo-9lXhtDH6KAsjY59B descartado: no es bueno (nada, nota 3: Comentario de charla sin gracia y fuera de contexto.)
 2026-11-12T10:42 https://www.twitch.tv/outconsumer/clip/KathishBelovedRaccoonWholeWheat-97XltM8hC_yYZ7Qe descartado: no es bueno (nada, nota 3: Es una opinion seria sobre debate y politica, no cumple los requisitos de humor o juego.)
 2026-11-12T11:38 https://www.twitch.tv/x9nium/clip/TransparentCheerfulMelonRickroll-2vamu2xh1UF_w4S6 descartado: no es bueno (nada, nota 3: Comentario habitual de CS2 sin momentos graciosos ni visualmente impactantes.)
+2026-11-12T12:40 https://www.twitch.tv/peereira7/clip/AbrasiveSolidGrassKappaWealth-FzWe8Fkt11FdJnHr descartado: no es bueno (nada, nota 3: Conversación sin sentido y sin gracia que requiere demasiado contexto del directo.)
+2026-11-12T12:41 https://www.twitch.tv/peereira7/clip/HumbleYawningSpindleFeelsBadMan-zueBLlw7thF9x4Gf descartado: no es bueno (nada, nota 3: Conversación absurda y sin contexto claro de los streamers en la cocina.)
+2026-11-12T12:41 https://www.twitch.tv/elbokeron/clip/FurtiveBrightHyenaUnSane-jT2JFU1X0KDP3_eM descartado: no es bueno (nada, nota 3: Es solo un combate de MMORPG sin gracia ni nada destacable para redes.)
