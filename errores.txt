@@ -1556,3 +1556,6 @@
 2026-11-12T08:42 https://www.twitch.tv/knekro/clip/MuddyHumbleParrotDansGame-txXXLUwoxVEUVvmd descartado: no es bueno (nada, nota 3: Es un fragmento de juego de rol sin contexto claro ni gracia destacable para redes.)
 2026-11-12T10:26 https://www.twitch.tv/x9nium/clip/AttractiveAverageBaboonBCouch-zAYoQ3v5A3073FcP descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter sin contexto ni gracia especial para redes.)
 2026-11-12T10:26 https://www.twitch.tv/zeling/clip/SpotlessSavageGuanacoOpieOP-Tn32jMkmTIMBLD2k descartado: no es bueno (nada, nota 3: Conversación normal jugando al WoW sin ninguna reacción exagerada ni momento gracioso.)
+2026-11-12T10:41 https://www.twitch.tv/jimrsng/clip/CrepuscularCarefulHyenaPraiseIt-1vZexU8kbzLa34WI descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends con comentarios repetitivos sin contexto gracioso.)
+2026-11-12T10:41 https://www.twitch.tv/el_yuste/clip/CarefulSmokyOcelotDoggo-9lXhtDH6KAsjY59B descartado: no es bueno (nada, nota 3: Comentario de charla sin gracia y fuera de contexto.)
+2026-11-12T10:42 https://www.twitch.tv/outconsumer/clip/KathishBelovedRaccoonWholeWheat-97XltM8hC_yYZ7Qe descartado: no es bueno (nada, nota 3: Es una opinion seria sobre debate y politica, no cumple los requisitos de humor o juego.)
