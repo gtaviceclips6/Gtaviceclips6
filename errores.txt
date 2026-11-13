@@ -1645,3 +1645,4 @@
 2026-11-13T19:25 https://www.twitch.tv/vegetta777/clip/KitschyInquisitiveCourgetteFunRun-PnrNXY-bvq2k2FSZ descartado: no es bueno (nada, nota 3: Charla normal sobre un juego sin reacción exagerada ni momento impactante.)
 2026-11-13T19:26 https://www.twitch.tv/rubius/clip/ShinyCooperativeFriseeDerp-nK0gA-MwYFTdatCZ descartado: no es bueno (nada, nota 3: Rubius conduciendo por la luna hablando sin unremate gracioso o visual impactante.)
 2026-11-13T19:33 https://www.twitch.tv/illojuan/clip/HorribleBlueWeaselPermaSmug-DbJHdkNls-hy_HU- descartado: no es bueno (nada, nota 3: Comentario fuera de lugar de un espectador pero sin contexto suficiente ni gracia.)
+2026-11-13T20:29 https://www.twitch.tv/illojuan/clip/CrowdedProudMinkFUNgineer-ePsbzVOCqc-QbhET descartado: no es bueno (nada, nota 3: Es solo un comentario hablando sobre los subtítulos, falta contexto y gracia.)
