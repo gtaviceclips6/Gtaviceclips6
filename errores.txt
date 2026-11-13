@@ -1596,3 +1596,7 @@
 2026-11-13T01:32 https://www.twitch.tv/vegetta777/clip/DelightfulSmellyParrotRedCoat-QPKZgfmD6oueKFpa descartado: no es bueno (nada, nota 3: Charla normal de gameplay sin gracia ni accion relevante.)
 2026-11-13T01:33 https://www.twitch.tv/tvander/clip/AgitatedChillyWolverineDerp-OFuBV5U9PmMylM9F descartado: no es bueno (nada, nota 3: Conversacion normal de gameplay sin remate gracioso ni accion destacable.)
 2026-11-13T01:34 https://www.twitch.tv/elxokas/clip/BloodyJazzyStarlingSquadGoals-k5zszTVjEHXV8F-7 descartado: no es bueno (nada, nota 3: Contenido inadecuado para las normas de las plataformas y lenguaje demasiado vulgar.)
+2026-11-13T04:18 https://www.twitch.tv/mumusiraneitor/clip/SquareCuteThymeMingLee-AUgDk5Sq7LjDi74w descartado: no es bueno (nada, nota 2: Es solo una queja técnica sobre ajustes de audio y OBS, cero gracia ni juego.)
+2026-11-13T04:18 https://www.twitch.tv/knekro/clip/WiseHardKeyboardFailFish-tCse69kQ09EqH5kH descartado: no es bueno (nada, nota 3: Es una charla del streamer quejándose de chat, falta contexto y no destaca.)
+2026-11-13T04:18 https://www.twitch.tv/elxokas/clip/TenderGoldenEmuMVGame-cZIYYjZoRq1F70n2 descartado: no es bueno (nada, nota 2: Comentario desafortunado fuera de contexto y juego aburrido, no apto para viralidad.)
+2026-11-13T04:19 https://www.twitch.tv/bobicraftmc/clip/CrackyTardyWalletImGlitch-2TvmKYb4TL_Uk0ve descartado: no es bueno (nada, nota 3: Comentario aleatorio sin contexto ni gracia real para un público general.)
