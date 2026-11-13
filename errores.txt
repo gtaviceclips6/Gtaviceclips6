@@ -1634,3 +1634,7 @@
 2026-11-13T16:34 https://www.twitch.tv/elvirayuki/clip/SweetMuddyGnatJKanStyle-5KHTCgmi2k6RoihE descartado: no es bueno (nada, nota 3: Es una jugadora encontrando su casa en Minecraft sin gracia ni salseo real.)
 2026-11-13T17:35 https://www.twitch.tv/b0rja/clip/AffluentHappyDragonfruitHumbleLife-kaYTuicptSshkGLF descartado: no es bueno (nada, nota 3: Conversacion casual jugando sin ningun momento gracioso o destacable fuera de contexto.)
 2026-11-13T17:35 https://www.twitch.tv/viizzzm/clip/CaringShakingMallardPermaSmug-ALL_-yz1TgTOmz_t descartado: no es bueno (nada, nota 3: Es una charla explicativa sobre partidas pasadas, sin gracia ni acción destacable.)
+2026-11-13T18:24 https://www.twitch.tv/peereira7/clip/BillowingElatedNightingaleArsonNoSexy-sGHhB8GeV7Lu76gu descartado: no es bueno (nada, nota 3: Conversación informal de streamers sin contexto claro ni remate gracioso o visualmente impactante.)
+2026-11-13T18:24 https://www.twitch.tv/viizzzm/clip/HealthySparklyHorseradishShadyLulu-s9dVgJP6Iaxtjtyj descartado: no es bueno (nada, nota 3: Es una conversacion interna y quejas de chat sin gracia ni contexto general.)
+2026-11-13T18:25 https://www.twitch.tv/xurreriaivette/clip/ArborealSpeedyWallabyGrammarKing-gIW-vhxFPLKXQlTg descartado: no es bueno (nada, nota 3: Comentario rutinario en la churrería sin gracia especial ni momento viral claro.)
+2026-11-13T18:26 https://www.twitch.tv/kakytronco/clip/CloudyPlacidPigFloof-6tgvw5qQEAVvI5xg descartado: no es bueno (nada, nota 2: Es solo un menú de juego sin contexto ni gracia.)
