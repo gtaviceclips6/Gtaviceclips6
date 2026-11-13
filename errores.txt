@@ -1591,3 +1591,4 @@
 2026-11-12T22:08 https://www.twitch.tv/aaronjaureguii/clip/ThirstySpeedyPassionfruitPeteZaroll-eYuzgUzLnF_KW2f6 descartado: no es bueno (nada, nota 3: Conversación aburrida y sin sentido, falta humor o acción real para redes.)
 2026-11-12T22:10 https://www.twitch.tv/mixwell/clip/FairFaithfulOctopusMingLee-q26nz0hQtCan3ACD descartado: no es bueno (nada, nota 3: Es una charla normal en fase de compra sin ninguna accion graciosa destacable.)
 2026-11-12T22:10 https://www.twitch.tv/auronplay/clip/MiniaturePerfectDolphinGingerPower-6De7_bSn3l1AGTq6 descartado: no es bueno (nada, nota 3: Es solo charla de corrillo y cotilleo de streamers, sin ninguna reaccion graciosa ni gameplay.)
+2026-11-13T00:21 https://www.twitch.tv/peereira7/clip/StormyWittyAlmondFeelsBadMan-ryAOJHFKQZKElywl descartado: no es bueno (nada, nota 3: Magia de cerca que requiere contexto largo y pierde gracia fuera de directo.)
