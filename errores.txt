@@ -1622,3 +1622,6 @@
 2026-11-13T13:48 https://www.twitch.tv/auronplay/clip/StrangeAlluringNikudonStinkyCheese-k0UeexMM50Bd8GkU descartado: no es bueno (nada, nota 3: Conversación interna de streamers, hace falta demasiado contexto y no resulta gracioso fuera de su comunidad.)
 2026-11-13T13:48 https://www.twitch.tv/auronplay/clip/DrabBoxyCheddarJebaited-52LARCpKDXcjWJpy descartado: no es bueno (nada, nota 3: Conversacion aburrida entre streamers, falta contexto y gracia directa para redes.)
 2026-11-13T13:48 https://www.twitch.tv/knekro/clip/LittleDullTildeKippa-a6TG9FTov_6FREaa descartado: no es bueno (nada, nota 3: Reacción confusa de Knekro sin contexto claro ni gracia evidente para redes.)
+2026-11-13T15:23 https://www.twitch.tv/alvarostorm/clip/FreezingHilariousDootBrokeBack-9bcf35n3xHAoY_np descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends con jerga técnica que no engancha.)
+2026-11-13T15:23 https://www.twitch.tv/zeling/clip/NiceEnchantingWombatOMGScoots-9g1I-uegeJs0KlJ6 descartado: no es bueno (nada, nota 3: Conversación normal con el chat sin ninguna situación graciosa o destacable.)
+2026-11-13T15:24 https://www.twitch.tv/gonsabellla/clip/CrazyAmusedShrewKappa-BsxK57mjOtZ5wuIw descartado: no es bueno (nada, nota 3: Conversacion sin sentido y divagaciones que no aportan ningun momento gracioso ni visualmente llamativo.)
