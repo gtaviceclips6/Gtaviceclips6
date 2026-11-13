@@ -1601,3 +1601,8 @@
 2026-11-13T04:18 https://www.twitch.tv/elxokas/clip/TenderGoldenEmuMVGame-cZIYYjZoRq1F70n2 descartado: no es bueno (nada, nota 2: Comentario desafortunado fuera de contexto y juego aburrido, no apto para viralidad.)
 2026-11-13T04:19 https://www.twitch.tv/bobicraftmc/clip/CrackyTardyWalletImGlitch-2TvmKYb4TL_Uk0ve descartado: no es bueno (nada, nota 3: Comentario aleatorio sin contexto ni gracia real para un público general.)
 2026-11-13T07:43 https://www.twitch.tv/mumusiraneitor/clip/SparklingEasyVultureOhMyDog-xwleky4vr4juZ5ID descartado: no es bueno (nada, nota 3: Conversación aburrida y sin contexto que no aporta ninguna situación graciosa ni visual.)
+2026-11-13T08:39 https://www.twitch.tv/peereira7/clip/ShinySavageWoodpeckerYouWHY-Dd6LHQ43pEdI7wUA descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo una situacion rara sin gracia evidente.)
+2026-11-13T08:39 https://www.twitch.tv/peereira7/clip/HandsomeMotionlessYamThunBeast-hA4FhkweypoKZBpL descartado: no es bueno (nada, nota 3: El streamer está durmiendo en la cama sin que ocurra nada relevante visualmente.)
+2026-11-13T08:40 https://www.twitch.tv/mumusiraneitor/clip/TransparentPuzzledOstrichStrawBeary-VrdApESNJl9T8a2T descartado: no es bueno (nada, nota 3: Charla normal de la streamer sin contexto de juego ni situación graciosa real.)
+2026-11-13T08:40 https://www.twitch.tv/outconsumer/clip/CallousBlatantHippoYouWHY-troy0DhR-swL9RZP descartado: no es bueno (nada, nota 3: Es una charla sin contexto ni gracia visual para redes.)
+2026-11-13T08:41 https://www.twitch.tv/jimrsng/clip/TransparentSincereClipsmomBatChest-aN9_Tv3unttlDf5d descartado: no es bueno (nada, nota 3: Es una charla casual jugando al LoL sin gracia especial ni momento viral.)
