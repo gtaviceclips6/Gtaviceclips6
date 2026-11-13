@@ -1617,3 +1617,5 @@
 2026-11-13T12:32 https://www.twitch.tv/teshrak/clip/ProudGleamingAlfalfaStrawBeary-ddnGhyiv6G3itQw5 descartado: no es bueno (nada, nota 3: Es una charla navegando por una wiki que no resulta graciosa ni impactante fuera de contexto.)
 2026-11-13T12:33 https://www.twitch.tv/skain/clip/DoubtfulFunTaroRedCoat-l3gjqy2Qhhpj51h4 descartado: no es bueno (nada, nota 3: Conversacion confusa sobre recomendaciones sin contexto claro ni gracia para redes.)
 2026-11-13T12:34 https://www.twitch.tv/pccomponenteses/clip/SmokySpikyDogeThunBeast-4yeu6hFH5X59aul8 descartado: no es bueno (nada, nota 3: Es una explicación técnica aburrida sobre monitores, sin gracia ni acción destacable.)
+2026-11-13T13:34 https://www.twitch.tv/martinciriook/clip/SincereRepleteHamburgerTakeNRG-uxSWj7YMLZUXBVp5 descartado: no es bueno (nada, nota 3: Charla informal con risas sin contexto claro ni situación graciosa.)
+2026-11-13T13:36 https://www.twitch.tv/evangelion0/clip/HomelyAlluringPepperDatBoi-gxYNHHZPMeqp-rkT descartado: no es bueno (nada, nota 3: Comentario random de charla sin contexto ni gracia especial para redes.)
