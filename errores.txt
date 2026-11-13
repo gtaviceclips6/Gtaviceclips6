@@ -1625,3 +1625,7 @@
 2026-11-13T15:23 https://www.twitch.tv/alvarostorm/clip/FreezingHilariousDootBrokeBack-9bcf35n3xHAoY_np descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends con jerga técnica que no engancha.)
 2026-11-13T15:23 https://www.twitch.tv/zeling/clip/NiceEnchantingWombatOMGScoots-9g1I-uegeJs0KlJ6 descartado: no es bueno (nada, nota 3: Conversación normal con el chat sin ninguna situación graciosa o destacable.)
 2026-11-13T15:24 https://www.twitch.tv/gonsabellla/clip/CrazyAmusedShrewKappa-BsxK57mjOtZ5wuIw descartado: no es bueno (nada, nota 3: Conversacion sin sentido y divagaciones que no aportan ningun momento gracioso ni visualmente llamativo.)
+2026-11-13T16:12 https://www.twitch.tv/gonsabellla/clip/SpunkyHilariousDonkeyKappaPride-c-zYN_PBAYD15zJY descartado: no es bueno (nada, nota 3: Conversación informal sin humor ni acción destacable que funcione en redes.)
+2026-11-13T16:12 https://www.twitch.tv/bystaxx/clip/AcceptableSuspiciousEggHeyGirl-xyMCNUET5Hg54bVs descartado: no es bueno (nada, nota 3: Es solo insultando y charlando en partida, sin gracia ni contexto claro.)
+2026-11-13T16:12 https://www.twitch.tv/s3kox/clip/RespectfulRealLampDoubleRainbow-xGSty1LMUJbAF1eE descartado: no es bueno (nada, nota 3: Situación confusa en juego sin contexto claro ni gracia destacable.)
+2026-11-13T16:12 https://www.twitch.tv/illojuan/clip/AgitatedGeniusLobsterDoggo-pmr6OXurtPecYao3 descartado: no es bueno (nada, nota 3: Es una cinemática normal del juego sin reacción destacable del streamer.)
