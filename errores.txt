@@ -1592,3 +1592,7 @@
 2026-11-12T22:10 https://www.twitch.tv/mixwell/clip/FairFaithfulOctopusMingLee-q26nz0hQtCan3ACD descartado: no es bueno (nada, nota 3: Es una charla normal en fase de compra sin ninguna accion graciosa destacable.)
 2026-11-12T22:10 https://www.twitch.tv/auronplay/clip/MiniaturePerfectDolphinGingerPower-6De7_bSn3l1AGTq6 descartado: no es bueno (nada, nota 3: Es solo charla de corrillo y cotilleo de streamers, sin ninguna reaccion graciosa ni gameplay.)
 2026-11-13T00:21 https://www.twitch.tv/peereira7/clip/StormyWittyAlmondFeelsBadMan-ryAOJHFKQZKElywl descartado: no es bueno (nada, nota 3: Magia de cerca que requiere contexto largo y pierde gracia fuera de directo.)
+2026-11-13T01:32 https://www.twitch.tv/auronplay/clip/DarkLittleTrayDBstyle-Y4myoamP7pC6O_zt descartado: no es bueno (nada, nota 3: Es una charla de cotilleo que requiere demasiado contexto previo y no hace gracia.)
+2026-11-13T01:32 https://www.twitch.tv/vegetta777/clip/DelightfulSmellyParrotRedCoat-QPKZgfmD6oueKFpa descartado: no es bueno (nada, nota 3: Charla normal de gameplay sin gracia ni accion relevante.)
+2026-11-13T01:33 https://www.twitch.tv/tvander/clip/AgitatedChillyWolverineDerp-OFuBV5U9PmMylM9F descartado: no es bueno (nada, nota 3: Conversacion normal de gameplay sin remate gracioso ni accion destacable.)
+2026-11-13T01:34 https://www.twitch.tv/elxokas/clip/BloodyJazzyStarlingSquadGoals-k5zszTVjEHXV8F-7 descartado: no es bueno (nada, nota 3: Contenido inadecuado para las normas de las plataformas y lenguaje demasiado vulgar.)
