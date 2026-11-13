@@ -1646,3 +1646,5 @@
 2026-11-13T19:26 https://www.twitch.tv/rubius/clip/ShinyCooperativeFriseeDerp-nK0gA-MwYFTdatCZ descartado: no es bueno (nada, nota 3: Rubius conduciendo por la luna hablando sin unremate gracioso o visual impactante.)
 2026-11-13T19:33 https://www.twitch.tv/illojuan/clip/HorribleBlueWeaselPermaSmug-DbJHdkNls-hy_HU- descartado: no es bueno (nada, nota 3: Comentario fuera de lugar de un espectador pero sin contexto suficiente ni gracia.)
 2026-11-13T20:29 https://www.twitch.tv/illojuan/clip/CrowdedProudMinkFUNgineer-ePsbzVOCqc-QbhET descartado: no es bueno (nada, nota 3: Es solo un comentario hablando sobre los subtítulos, falta contexto y gracia.)
+2026-11-13T22:05 https://www.twitch.tv/esvandal/clip/IntelligentAcceptableSashimiSmoocherZ-k1Ukd2I73LIuzFzm descartado: no es bueno (nada, nota 3: Es una jugada normal de Minecraft sin gracia especial ni peligro real.)
+2026-11-13T22:07 https://www.twitch.tv/carola/clip/AgreeableCleanKeyboardHeyGirl-Hb32tCYFJui368pb descartado: no es bueno (nada, nota 3: Es solo un comentario hablando sobre un TikTok sin contexto suficiente ni gracia destacable.)
