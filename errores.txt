@@ -1610,3 +1610,7 @@
 2026-11-13T09:36 https://www.twitch.tv/jimrsng/clip/AmazingEnticingPorcupineShazBotstix-G9db2tWLfvvWd-2j descartado: no es bueno (nada, nota 3: Es una jugada normal de LoL sin reacción exagerada ni gracia especial.)
 2026-11-13T10:33 https://www.twitch.tv/peereira7/clip/AntediluvianEnthusiasticEagleOpieOP-QZo7N_e5ixS1p1j9 descartado: no es bueno (nada, nota 3: Es un streamer durmiendo en directo sin que ocurra nada relevante ni gracioso.)
 2026-11-13T10:33 https://www.twitch.tv/jimrsng/clip/SaltyMushyIcecreamTakeNRG-t5ZFmg-RPgk8btEk descartado: no es bueno (nada, nota 3: El streamer solo habla de mecánicas del juego sin que ocurra nada gracioso.)
+2026-11-13T11:30 https://www.twitch.tv/peereira7/clip/DaintySnappyClipsdadTebowing-nOfMiWFkxAMhRvG9 descartado: no es bueno (nada, nota 3: Es un streamer durmiendo sin contexto interesante para un canal de juegos.)
+2026-11-13T11:30 https://www.twitch.tv/peereira7/clip/OilyCharmingTroutUnSane-1DqifZB1OnuRBGzo descartado: no es bueno (nada, nota 3: Es un streamer durmiendo sin hacer nada relevante, falta contexto y gracia.)
+2026-11-13T11:30 https://www.twitch.tv/evangelion0/clip/AntediluvianSleepyPeppermintFUNgineer-vMIDw0KHmYCAO7d3 descartado: no es bueno (nada, nota 2: Es una charla aburrida jugando a un MMO sin contexto ni gracia.)
+2026-11-13T11:31 https://www.twitch.tv/cheffius/clip/CoweringTolerantDragonLeeroyJenkins-_ttpDwT5FSRhunGN descartado: no es bueno (nada, nota 3: Charla aburrida quejándose de un servidor sin gracia ni acción destacable.)
