@@ -1614,3 +1614,6 @@
 2026-11-13T11:30 https://www.twitch.tv/peereira7/clip/OilyCharmingTroutUnSane-1DqifZB1OnuRBGzo descartado: no es bueno (nada, nota 3: Es un streamer durmiendo sin hacer nada relevante, falta contexto y gracia.)
 2026-11-13T11:30 https://www.twitch.tv/evangelion0/clip/AntediluvianSleepyPeppermintFUNgineer-vMIDw0KHmYCAO7d3 descartado: no es bueno (nada, nota 2: Es una charla aburrida jugando a un MMO sin contexto ni gracia.)
 2026-11-13T11:31 https://www.twitch.tv/cheffius/clip/CoweringTolerantDragonLeeroyJenkins-_ttpDwT5FSRhunGN descartado: no es bueno (nada, nota 3: Charla aburrida quejándose de un servidor sin gracia ni acción destacable.)
+2026-11-13T12:32 https://www.twitch.tv/teshrak/clip/ProudGleamingAlfalfaStrawBeary-ddnGhyiv6G3itQw5 descartado: no es bueno (nada, nota 3: Es una charla navegando por una wiki que no resulta graciosa ni impactante fuera de contexto.)
+2026-11-13T12:33 https://www.twitch.tv/skain/clip/DoubtfulFunTaroRedCoat-l3gjqy2Qhhpj51h4 descartado: no es bueno (nada, nota 3: Conversacion confusa sobre recomendaciones sin contexto claro ni gracia para redes.)
+2026-11-13T12:34 https://www.twitch.tv/pccomponenteses/clip/SmokySpikyDogeThunBeast-4yeu6hFH5X59aul8 descartado: no es bueno (nada, nota 3: Es una explicación técnica aburrida sobre monitores, sin gracia ni acción destacable.)
