@@ -1659,3 +1659,8 @@
 2026-11-14T03:35 https://www.twitch.tv/peereira7/clip/ColdbloodedBombasticGalagoTTours-WO41UbnbIedsak9r descartado: no es bueno (nada, nota 3: Charla filosofica de andar por casa sin contexto claro ni situacion graciosa.)
 2026-11-14T10:41 https://www.twitch.tv/illojuan/clip/VibrantBusyPepperBigBrother-88YW85KJJhYxwOOp descartado: no es bueno (nada, nota 3: Solo conduce y abre el mapa charlando, falta una situacion graciosa real.)
 2026-11-14T10:41 https://www.twitch.tv/paxelol/clip/ShyBoldSeahorseBlargNaut-qrG7ysq32rt2YXme descartado: no es bueno (nada, nota 3: Es una jugada normal de un juego sin gracia ni contexto para redes.)
+2026-11-14T14:30 https://www.twitch.tv/peereira7/clip/ExuberantOutstandingStapleDendiFace-xkHWE8x8iEvijHo6 descartado: no es bueno (nada, nota 3: Falta de contexto claro y humor muy interno del directo.)
+2026-11-14T14:32 https://www.twitch.tv/casavegagc/clip/TallEvilPorpoiseThisIsSparta-jc8cElCBKeNdfFWV descartado: no es bueno (nada, nota 3: Es un clip de limpieza o exploracion urbana, no encaja con contenido de juegos ni es gracioso.)
+2026-11-14T14:32 https://www.twitch.tv/phobyac/clip/WrongSavageTomatoOpieOP-95x4e1mkVecPM5wq descartado: no es bueno (nada, nota 3: Requiere contexto de un juego de rol y MMO que no resulta universalmente gracioso.)
+2026-11-14T14:33 https://www.twitch.tv/karchez/clip/CrazySweetGarlicCeilingCat-F5sghCU4BiOiG570 descartado: no es bueno (nada, nota 3: Comentario desafortunado y toxicidad típica de reportes de LoL, no apto para viralizar.)
+2026-11-14T14:33 https://www.twitch.tv/sekiam/clip/SmoggyAuspiciousRedpandaHassanChop-r81P2cH41YBF_o2g descartado: no es bueno (nada, nota 3: Es una charla reflexiva de desarrollo personal, no es un momento gracioso ni de juego.)
