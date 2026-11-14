@@ -1664,3 +1664,6 @@
 2026-11-14T14:32 https://www.twitch.tv/phobyac/clip/WrongSavageTomatoOpieOP-95x4e1mkVecPM5wq descartado: no es bueno (nada, nota 3: Requiere contexto de un juego de rol y MMO que no resulta universalmente gracioso.)
 2026-11-14T14:33 https://www.twitch.tv/karchez/clip/CrazySweetGarlicCeilingCat-F5sghCU4BiOiG570 descartado: no es bueno (nada, nota 3: Comentario desafortunado y toxicidad típica de reportes de LoL, no apto para viralizar.)
 2026-11-14T14:33 https://www.twitch.tv/sekiam/clip/SmoggyAuspiciousRedpandaHassanChop-r81P2cH41YBF_o2g descartado: no es bueno (nada, nota 3: Es una charla reflexiva de desarrollo personal, no es un momento gracioso ni de juego.)
+2026-11-14T18:19 https://www.twitch.tv/peereira7/clip/GorgeousObliviousDonutShazBotstix-uQpIwmH7YlbduAd6 descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni relevancia real.)
+2026-11-14T18:20 https://www.twitch.tv/k1ng/clip/HandsomeUnsightlyFriesOSsloth-pUh_BhiKA_vk6em8 descartado: no es bueno (nada, nota 3: Es una jugada normal de juego sin gracia ni impacto visual.)
+2026-11-14T18:20 https://www.twitch.tv/jujalag/clip/SpeedySweetMochaTTours-b7VgOmx3SdlDuGrm descartado: no es bueno (nada, nota 3: Es solo el streamer jugando tranquilamente sin ninguna reaccion graciosa ni momento destacable.)
