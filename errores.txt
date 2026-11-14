@@ -1667,3 +1667,5 @@
 2026-11-14T18:19 https://www.twitch.tv/peereira7/clip/GorgeousObliviousDonutShazBotstix-uQpIwmH7YlbduAd6 descartado: no es bueno (nada, nota 3: Es una charla normal del streamer sin gracia ni relevancia real.)
 2026-11-14T18:20 https://www.twitch.tv/k1ng/clip/HandsomeUnsightlyFriesOSsloth-pUh_BhiKA_vk6em8 descartado: no es bueno (nada, nota 3: Es una jugada normal de juego sin gracia ni impacto visual.)
 2026-11-14T18:20 https://www.twitch.tv/jujalag/clip/SpeedySweetMochaTTours-b7VgOmx3SdlDuGrm descartado: no es bueno (nada, nota 3: Es solo el streamer jugando tranquilamente sin ninguna reaccion graciosa ni momento destacable.)
+2026-11-14T19:32 https://www.twitch.tv/xurreriaivette/clip/HyperApatheticNikudonDoritosChip-PlFJQ1008hfmuX74 descartado: no es bueno (nada, nota 3: Conversación cotidiana en la churrería sin grandes reacciones ni momentos realmente graciosos.)
+2026-11-14T19:32 https://www.twitch.tv/elxokas/clip/AntediluvianZealousMouseAMPEnergy-kflopwhs0gkYcOY6 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
