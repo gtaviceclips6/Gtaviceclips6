@@ -1675,3 +1675,6 @@
 2026-11-14T22:44 https://www.twitch.tv/ibai/clip/PhilanthropicSpotlessBurritoAMPEnergyCherry-zvuSFM5gNkJzeIKq descartado: no es bueno (nada, nota 3: Es una jugada normal de League of Legends con un grito generico de Ibai.)
 2026-11-14T22:46 https://www.twitch.tv/paache_/clip/DaintyTolerantPeachOSkomodo-n3B8pIAvWu2G4eOS descartado: no es bueno (nada, nota 3: Es un torneo de fútbol presencial de streamers, nada que ver con GTA.)
 2026-11-14T22:48 https://www.twitch.tv/bulgysteak/clip/ExuberantArtisticPicklesFreakinStinkin-Siku40XZFbiiyknX descartado: no es bueno (nada, nota 3: Es solo el personaje caminando por la calle mientras habla, sin ninguna accion destacable.)
+2026-11-14T23:23 https://www.twitch.tv/peereira7/clip/HelpfulBlitheGoldfishDoritosChip-D9sjN5Z8r7yWyVlU descartado: no es bueno (nada, nota 3: Conversacion normal de stream en coche, falta humor espontaneo o accion relevante.)
+2026-11-14T23:24 https://www.twitch.tv/paache_/clip/SplendidGleamingReubenTheThing-FruBD4qDFabfQD5D descartado: no es bueno (nada, nota 3: Falta contexto claro y la reaccion es floja para tiktok)
+2026-11-14T23:24 https://www.twitch.tv/illojuan/clip/CredulousEmpathicPheasantHumbleLife-oxIy09ty42_wb_oQ descartado: no es bueno (nada, nota 3: Solo sube a una moto y conduce sin que pase nada gracioso ni espectacular.)
