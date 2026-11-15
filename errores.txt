@@ -1690,3 +1690,6 @@
 2026-11-15T15:03 https://www.twitch.tv/abby_/clip/TrustworthySmellyChickpeaAMPTropPunch-iJhCINUt7AWx6xkp descartado: no es bueno (nada, nota 3: Interacción de evento normal, falta gracia o impacto para redes sociales.)
 2026-11-15T15:03 https://www.twitch.tv/abby_/clip/WanderingCrowdedDugongSoonerLater-AUf6BKmlw8ufpAqm descartado: no es bueno (nada, nota 3: Conversación interna y aburrida abriendo cartas sin contexto relevante ni gracia.)
 2026-11-15T16:35 https://www.twitch.tv/xurreriaivette/clip/SuperSpineyCurryPanicBasket--4Fd4JZdBO259P5k descartado: no es bueno (nada, nota 3: Falta contexto y no resulta gracioso fuera de su directo habitual.)
+2026-11-15T20:36 https://www.twitch.tv/paache_/clip/MushyHonestPistachioSSSsss-aizDrZWfgzAv_IhT descartado: no es bueno (nada, nota 3: Conversación confusa de roleplay sin un remate gracioso claro ni acción destacable.)
+2026-11-15T20:36 https://www.twitch.tv/peereira7/clip/SuccessfulSparklingStarlingUWot-yRYSA2UE-NvrRhrL descartado: no es bueno (nada, nota 3: Conversación confusa de roleplay sin un remate gracioso claro ni contexto visual interesante.)
+2026-11-15T20:38 https://www.twitch.tv/minibuyer/clip/YummyInventiveNuggetsPraiseIt-8YUg2o5yqFYgy8PC descartado: no es bueno (nada, nota 3: Charla casual y comentarios absurdos sin contexto ni gracia real para TikTok.)
