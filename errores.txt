@@ -1684,3 +1684,8 @@
 2026-11-15T06:50 https://www.twitch.tv/thegrefg/clip/ClumsyAttractiveAniseBCouch-6eo1LRjVLezE5bdw descartado: no es bueno (nada, nota 3: Es solo TheGrefg explicando su horario, sin gracia ni nada especial.)
 2026-11-15T06:50 https://www.twitch.tv/ibai/clip/HeadstrongSplendidPangolinPeteZaroll-ZG1ssVc4fprGiazp descartado: no es bueno (nada, nota 3: Conversacion aleatoria sin contexto claro ni remate gracioso o visualmente interesante.)
 2026-11-15T06:50 https://www.twitch.tv/ache/clip/FragileColdbloodedRaisinItsBoshyTime-D2faKpiwtviiXAAV descartado: no es bueno (nada, nota 3: Comentario de juego corriente sin ninguna gracia ni reacción destacable.)
+2026-11-15T15:01 https://www.twitch.tv/peereira7/clip/AlluringNimblePineapplePartyTime-CqUP6BGedMQ9l2pA descartado: no es bueno (nada, nota 2: Es una habitacion vacia con gente durmiendo y sin contexto gracioso.)
+2026-11-15T15:01 https://www.twitch.tv/peereira7/clip/PrettyPlainGalagoAMPTropPunch-2L9fLDdJcyRV8a3I descartado: no es bueno (nada, nota 2: Es un directo largo durmiendo sin contexto ni gracia para un clip corto.)
+2026-11-15T15:02 https://www.twitch.tv/bystaxx/clip/KawaiiMildSandpiperMingLee-nN_podOtIt2Nu69c descartado: no es bueno (nada, nota 3: Es solo el inicio de una ronda de Counter-Strike sin nada gracioso ni épico.)
+2026-11-15T15:03 https://www.twitch.tv/abby_/clip/TrustworthySmellyChickpeaAMPTropPunch-iJhCINUt7AWx6xkp descartado: no es bueno (nada, nota 3: Interacción de evento normal, falta gracia o impacto para redes sociales.)
+2026-11-15T15:03 https://www.twitch.tv/abby_/clip/WanderingCrowdedDugongSoonerLater-AUf6BKmlw8ufpAqm descartado: no es bueno (nada, nota 3: Conversación interna y aburrida abriendo cartas sin contexto relevante ni gracia.)
