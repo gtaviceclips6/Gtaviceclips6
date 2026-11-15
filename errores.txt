@@ -1680,3 +1680,7 @@
 2026-11-14T23:24 https://www.twitch.tv/illojuan/clip/CredulousEmpathicPheasantHumbleLife-oxIy09ty42_wb_oQ descartado: no es bueno (nada, nota 3: Solo sube a una moto y conduce sin que pase nada gracioso ni espectacular.)
 2026-11-15T03:04 https://www.twitch.tv/peereira7/clip/PopularTrustworthyCroissantBrokeBack-uGlbJuq_5Nckjr6Y descartado: no es bueno (nada, nota 3: Charla sin contexto y sin gracia evidente para redes.)
 2026-11-15T03:06 https://www.twitch.tv/illojuan/clip/BetterThirstyCrow4Head-8A638XfYpDXhczne descartado: no es bueno (nada, nota 3: Falta contexto fuerte y es solo un comentario normal tras un pequeño accidente.)
+2026-11-15T06:49 https://www.twitch.tv/ibai/clip/ObliqueSneakyWebDxAbomb-HLZxLYSPLZ22cfDy descartado: no es bueno (nada, nota 3: Es solo una opinion de Ibai sobre una ceremonia sin ningunareaccion destacable ni humor.)
+2026-11-15T06:50 https://www.twitch.tv/thegrefg/clip/ClumsyAttractiveAniseBCouch-6eo1LRjVLezE5bdw descartado: no es bueno (nada, nota 3: Es solo TheGrefg explicando su horario, sin gracia ni nada especial.)
+2026-11-15T06:50 https://www.twitch.tv/ibai/clip/HeadstrongSplendidPangolinPeteZaroll-ZG1ssVc4fprGiazp descartado: no es bueno (nada, nota 3: Conversacion aleatoria sin contexto claro ni remate gracioso o visualmente interesante.)
+2026-11-15T06:50 https://www.twitch.tv/ache/clip/FragileColdbloodedRaisinItsBoshyTime-D2faKpiwtviiXAAV descartado: no es bueno (nada, nota 3: Comentario de juego corriente sin ninguna gracia ni reacción destacable.)
