@@ -1689,3 +1689,4 @@
 2026-11-15T15:02 https://www.twitch.tv/bystaxx/clip/KawaiiMildSandpiperMingLee-nN_podOtIt2Nu69c descartado: no es bueno (nada, nota 3: Es solo el inicio de una ronda de Counter-Strike sin nada gracioso ni épico.)
 2026-11-15T15:03 https://www.twitch.tv/abby_/clip/TrustworthySmellyChickpeaAMPTropPunch-iJhCINUt7AWx6xkp descartado: no es bueno (nada, nota 3: Interacción de evento normal, falta gracia o impacto para redes sociales.)
 2026-11-15T15:03 https://www.twitch.tv/abby_/clip/WanderingCrowdedDugongSoonerLater-AUf6BKmlw8ufpAqm descartado: no es bueno (nada, nota 3: Conversación interna y aburrida abriendo cartas sin contexto relevante ni gracia.)
+2026-11-15T16:35 https://www.twitch.tv/xurreriaivette/clip/SuperSpineyCurryPanicBasket--4Fd4JZdBO259P5k descartado: no es bueno (nada, nota 3: Falta contexto y no resulta gracioso fuera de su directo habitual.)
