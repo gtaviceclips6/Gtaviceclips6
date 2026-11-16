@@ -1707,3 +1707,7 @@
 2026-11-16T06:46 https://www.twitch.tv/knekro/clip/InnocentFairHerringKappaRoss-Jj0snp2ZMY25lB5Z descartado: no es bueno (nada, nota 3: Es Knekro jugando al WoW comentando una jugada sin contexto que no hace gracia fuera.)
 2026-11-16T06:47 https://www.twitch.tv/deportedigital01/clip/AbnegateBombasticBorkDerp-U0eLAWQy76qVSZUz descartado: no es bueno (nada, nota 3: Es una charla inicial entre streamers sin contexto ni gracia visual para TikTok.)
 2026-11-16T06:47 https://www.twitch.tv/fahhkies/clip/GracefulHorribleCormorantUnSane-xDx_hTO0dAgABl_C descartado: no es bueno (nada, nota 3: Conversacion absurda sin contexto claro ni gracia espontanea fuera del chat.)
+2026-11-16T17:22 https://www.twitch.tv/peereira7/clip/CheerfulDifficultWrenNerfBlueBlaster-yjDc3LEqy5L2PyDI descartado: no es bueno (nada, nota 3: Es una charla casual entre streamers proponiendo una colaboración musical sin nada especialmente gracioso o visual.)
+2026-11-16T17:23 https://www.twitch.tv/peereira7/clip/PrettiestHealthyGrasshopperYee-CEyRqcqraf5MSI9K descartado: no es bueno (nada, nota 3: Conversacion aleatoria de streamers sin contexto ni gracia especial para redes.)
+2026-11-16T17:27 https://www.twitch.tv/copapotrero1/clip/CleverAmazonianKathyUnSane-B3YalgphuVzKE0u5 descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-16T17:28 https://www.twitch.tv/skain/clip/ProtectiveCourageousNuggetsMoreCowbell-aBIXE3lYdZf4ikw5 descartado: no es bueno (nada, nota 3: Es una charla normal abriendo cofres de Minecraft sin gracia ni salseo.)
