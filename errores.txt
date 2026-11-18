@@ -1738,3 +1738,8 @@
 2026-11-17T17:08 https://www.twitch.tv/sirmaza/clip/ImpartialArbitraryAxeDoggo-JTUQYUDiotkkDerV descartado: no es bueno (nada, nota 3: Insultos genericos jugando sin gracia ni reaccion visual destacable.)
 2026-11-17T17:09 https://www.twitch.tv/miguelillo_rl/clip/SpunkyWealthyDillOptimizePrime-53J1CoQuIcV_htzf descartado: no es bueno (nada, nota 3: Comentario fuera de tono y lenguaje inadecuado que no aporta nada interesante.)
 2026-11-17T17:10 https://www.twitch.tv/shainny_/clip/DeterminedInventiveAlbatrossRiPepperonis-N51MQNyFo4oOx9_D unknown file format
+2026-11-18T00:00 https://www.twitch.tv/rubius/clip/VastGeniusBear4Head-r-dtfgJyldJV22DI descartado: no es bueno (nada, nota 3: Es una charla normal de Rubius comentando anécdotas, sin gracia ni contexto suficiente para redes.)
+2026-11-18T00:01 https://www.twitch.tv/thegrefg/clip/BlightedAdorablePlumageNomNom-UQu8S1x6ktL02kk8 descartado: no es bueno (nada, nota 3: Es solo TheGrefg quejándose con un contador de fondo, falta contexto visual interesante.)
+2026-11-18T00:01 https://www.twitch.tv/elxokas/clip/AthleticRenownedFloofKlappa-WCaaCepGWfcp6RyC descartado: no es bueno (nada, nota 3: Es una charla comentando un stream ajeno sin gracia ni situacion especial.)
+2026-11-18T00:01 https://www.twitch.tv/peereira7/clip/IntelligentBoxyHerbsRedCoat-aWMbQRHb7ROnNEni descartado: no es bueno (nada, nota 3: Conversación de cocina sin gracia ni contexto suficiente para TikTok.)
+2026-11-18T00:02 https://www.twitch.tv/vickypalami/clip/ResilientTenuousBarracudaDoggo-tU_XazC3e8UU5-hL descartado: no es bueno (nada, nota 3: Conversación de Minecraft sin gracia y requiere contexto que no engancha.)
