@@ -1824,3 +1824,6 @@
 2026-11-19T21:09 https://www.twitch.tv/vegetta777/clip/CooperativeCrispySoybeanArsonNoSexy-zYPGG3OJ16d-MeEw descartado: no es bueno (nada, nota 3: Vegetta charlando y conduciendo sin que ocurra nada destacable o gracioso.)
 2026-11-19T21:10 https://www.twitch.tv/alexby11/clip/BoredCrypticPanDansGame-jKOBlhygEsEBGmiR descartado: no es bueno (nada, nota 2: Es solo un menú del juego sin ninguna acción, gracia ni momento destacable.)
 2026-11-19T21:10 https://www.twitch.tv/alexby11/clip/AliveInterestingSandwichCclamChamp-VjJYP7D2-QVMmZMo descartado: no es bueno (nada, nota 3: Es una queja normal del streamer con el móvil, falta contexto del juego.)
+2026-11-19T23:48 https://www.twitch.tv/illojuan/clip/JazzyCrazySlothBatChest-FrP1EI-0vsloLRfG ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-11-19T23:52 https://www.twitch.tv/djmariio/clip/BetterIronicNostrilOSsloth-I7Rha6W1sWUJmo85 descartado: no es bueno (nada, nota 3: Comentario simple de DjMaRiiO explorando el local sin ninguna reaccion destacable ni graciosa.)
+2026-11-19T23:53 https://www.twitch.tv/illojuan/clip/ShortRoundWalrusANELE-68wXEo-TOR6d9Maw descartado: no es bueno (nada, nota 3: Solo conduce de noche escuchando la radio sin pasar nada relevante.)
