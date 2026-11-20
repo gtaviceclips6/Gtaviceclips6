@@ -1879,3 +1879,7 @@
 2026-11-20T20:43 https://www.twitch.tv/thegrefg/clip/SlickRespectfulKuduRickroll-78KDlONlBgKN6wgH descartado: no es bueno (nada, nota 3: Es solo el streamer comentando mecánicas básicas de buceo sin que pase nada relevante.)
 2026-11-20T20:46 https://www.twitch.tv/lolitofdez/clip/RefinedMoldyAlligatorMcaT-lMUUUOj14Agpkty0 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-20T20:46 https://www.twitch.tv/illojuan/clip/UgliestManlyEchidnaMVGame-xlEzvv2_R4kZc1D6 descartado: no es bueno (nada, nota 3: Es solo gameplay sin contexto claro ni ninguna reaccion especialmente graciosa.)
+2026-11-20T22:52 https://www.twitch.tv/djmariio/clip/RelatedBlitheTildeJKanStyle-FadLzJdnukO7hFRy Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-20T22:52 https://www.twitch.tv/illojuan/clip/ObeseBenevolentKalePanicBasket-GgzSln1vRdDwXq-D descartado: no es bueno (nada, nota 3: Solo se ve al personaje en la ducha sin contexto ni ninguna gracia especial.)
+2026-11-20T22:53 https://www.twitch.tv/peereira7/clip/GoldenCrazySangGingerPower-q1k7Bz0rjK2lLImp descartado: no es bueno (nada, nota 3: El streamer solo habla sin contexto claro ni reacción realmente graciosa.)
+2026-11-20T22:53 https://www.twitch.tv/djmariio/clip/SoftIncredulousNightingalePJSugar-P-lIq58jUV36GSxH Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
