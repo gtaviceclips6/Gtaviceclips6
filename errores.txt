@@ -1920,3 +1920,9 @@
 2026-11-21T11:29 https://www.twitch.tv/thegrefg/clip/AssiduousUnsightlyTeaCharlietheUnicorn-5fR2AxSHMO5OYO7F descartado: no es bueno (nada, nota 3: Comentario fuera de tono que incumple las normas de moderación de las plataformas.)
 2026-11-21T11:30 https://www.twitch.tv/alexby11/clip/OutstandingHonestIcecreamLitty-C43ndKMa3La-1F5q Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-21T11:31 https://www.twitch.tv/thegrefg/clip/BrainyEncouragingGerbilOSfrog-iXaYA1tUaK20pqj9 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-21T15:35 https://www.twitch.tv/abby_/clip/AttractivePeppyTirePeoplesChamp-nWJt2S14qqRmyuNd descartado: no es bueno (nada, nota 3: Charla informal de la streamer sin ningun momento gracioso o relevante.)
+2026-11-21T15:37 https://www.twitch.tv/sirmaza/clip/InventiveSolidKaleYouWHY-2ihsiSe-5HjL05zA Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-21T15:40 https://www.twitch.tv/miguelillo_rl/clip/DelightfulToughBorkEleGiggle-o4zx9yP5K6lb6bFx descartado: no es bueno (nada, nota 3: Conversación sin contexto y aburrida sobre cofres y estornudos que no hace gracia fuera de directo.)
+2026-11-21T15:41 https://www.twitch.tv/miguelillo_rl/clip/SincereMistyQuailRaccAttack-fTpgIEIr6Rg7rKZF Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-21T15:41 https://www.twitch.tv/abby_/clip/MoistAntsyYakBrainSlug-9HUsvwDEyStFVtW_ descartado: no es bueno (nada, nota 3: Conversacion random sin ninguna reaccion exagerada ni momento gracioso real.)
+2026-11-21T15:44 https://www.twitch.tv/auronplay/clip/BlushingSmallSproutArgieB8-RDPDYYOn2sojDlLC Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
