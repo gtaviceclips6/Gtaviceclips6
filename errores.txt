@@ -1903,3 +1903,7 @@
 2026-11-21T02:40 https://www.twitch.tv/thegrefg/clip/BumblingHyperWasabiBloodTrail-Fv1hA8GC-D_QrtEH descartado: no es bueno (nada, nota 3: Es un streamer trasteando con los ajustes de sonido sin nada gracioso ni relevante.)
 2026-11-21T02:40 https://www.twitch.tv/alexby11/clip/ExquisiteGoldenSoymilkFloof-PsL4ciP00Q73tfx3 descartado: no es bueno (nada, nota 3: Es el streamer comentando un juego que no es GTA 6 con un poco de confusión.)
 2026-11-21T02:41 https://www.twitch.tv/thegrefg/clip/IgnorantAltruisticPeanutPraiseIt-EW7cu6Aa_0X-R6gO descartado: no es bueno (nada, nota 3: Es solo TheGrefg hablando de misiones y su horario sin que pase nada relevante en pantalla.)
+2026-11-21T04:15 https://www.twitch.tv/illojuan/clip/GrotesqueCrazyMouseYouDontSay-BEO5OVeO9w7l9oOH descartado: no es bueno (nada, nota 3: Comentario soez del streamer que incumple las normas de moderación para redes.)
+2026-11-21T04:16 https://www.twitch.tv/rubius/clip/AgileCourteousSnailChefFrank-aXIZi2PwSvZcyxS2 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-21T04:17 https://www.twitch.tv/thegrefg/clip/RamshackleGiantNostrilPrimeMe-BLoi4Wh8N-kC13Vi Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-21T04:17 https://www.twitch.tv/illojuan/clip/ConsiderateReliableGerbilNinjaGrumpy-UoJIG4MADPXY45VJ descartado: no es bueno (nada, nota 3: Es una cinemática del juego con un comentario simple de IlloJuan, falta chicha.)
