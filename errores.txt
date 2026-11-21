@@ -1945,3 +1945,7 @@
 2026-11-21T19:51 https://www.twitch.tv/vegetta777/clip/QuaintObliqueLasagnaDBstyle-BTZTyzM_VAeF_R83 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-21T19:51 https://www.twitch.tv/elxokas/clip/MushyHedonisticWerewolfUncleNox-4VC0yFXWn4ZDyMo0 descartado: no es bueno (nada, nota 3: Es el streamer leyendo un texto largo en Twitter sin ninguna reacción destacable.)
 2026-11-21T19:51 https://www.twitch.tv/alexby11/clip/CrypticProductiveDunlinTwitchRPG-Esrt8UfGaeczhK4u descartado: no es bueno (nada, nota 3: Es solo gameplay con diálogos del juego, no hay reacción destacable ni nada gracioso.)
+2026-11-21T21:07 https://www.twitch.tv/jaus1/clip/VivaciousCrunchyOwlCharlietheUnicorn-IAO8HOTFboAlapUW descartado: no es bueno (nada, nota 3: Es un streamer quejándose de que no se grabó el audio, sin gracia ni contexto potente.)
+2026-11-21T21:07 https://www.twitch.tv/djmariio/clip/DeafComfortablePizzaPraiseIt-dLNZKryPccdzHwer descartado: no es bueno (nada, nota 3: Es solo un fail aburrido en un menú de pausa sin gracia real.)
+2026-11-21T21:07 https://www.twitch.tv/djmariio/clip/HonorableZanyWerewolfRickroll-aEDwNfnnpDtMsTIZ descartado: no es bueno (nada, nota 3: Es un streamer comentando mecánicas absurdas sin generar una situación realmente graciosa o viral.)
+2026-11-21T21:08 https://www.twitch.tv/viizzzm/clip/VictoriousBenevolentHerringAliens-A3bkQhvZQJItxufM descartado: no es bueno (nada, nota 3: Es solo el streamer navegando por pestañas y pillado cotilleando, falta contexto.)
