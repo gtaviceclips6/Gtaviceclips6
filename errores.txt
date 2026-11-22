@@ -1999,3 +1999,7 @@
 2026-11-22T20:14 https://www.twitch.tv/vegetta777/clip/AcceptableAlertMagpieTriHard-b3Wd5Hi-uu5rt3yU descartado: no es bueno (nada, nota 3: Falta contexto claro y es gameplay confuso con un tigre atacando sin gracia especial.)
 2026-11-22T20:15 https://www.twitch.tv/elxokas/clip/ProductiveEphemeralCheddarOpieOP-vLlJkD6ALIvAbLup Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-22T20:16 https://www.twitch.tv/elxokas/clip/TalentedPreciousSalsifyEagleEye-KEUEdCOK7hxdnHig descartado: no es bueno (nada, nota 3: Es un gameplay normal de World of Warcraft sin ninguna reaccion exagerada ni gracia.)
+2026-11-22T21:17 https://www.twitch.tv/rubius/clip/ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-22T21:18 https://www.twitch.tv/illojuan/clip/IcyFastSalamanderMcaT-1q9qo35WHOn19S-l Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-22T21:18 https://www.twitch.tv/rubius/clip/SaltyBoredTriangleHassanChop-tbM7ffuDKDTUG8i- Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-22T21:18 https://www.twitch.tv/paache_/clip/SoftEphemeralQueleaHumbleLife-LRlcJQ-epWRBdliR descartado: no es bueno (nada, nota 3: Un susto cotidiano sin contexto relevante ni gracia destacable para redes.)
