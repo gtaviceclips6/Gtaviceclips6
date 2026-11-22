@@ -1973,3 +1973,9 @@
 2026-11-22T11:52 https://www.twitch.tv/agbin3r/clip/MildApatheticDinosaurSaltBae-Gg4vDRfP-vAbxKyB Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-22T11:53 https://www.twitch.tv/vegetta777/clip/NiceCallousGullRlyTho-5XDoBo4TSEQQj2l8 descartado: sin IA no puedo juzgarlo y tiene pocas visitas
 2026-11-22T11:54 https://www.twitch.tv/alexby11/clip/DignifiedObliviousNikudonMoreCowbell-orFJHzWeG95AfaOb Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-22T15:38 https://www.twitch.tv/pandarina/clip/RealAbnegatePoultryBCouch-AaSgG6uQneW4mJGk descartado: no es bueno (nada, nota 3: Comentario fuera de contexto y sin gracia real para redes.)
+2026-11-22T15:42 https://www.twitch.tv/zeling/clip/PopularExpensiveKimchiItsBoshyTime-Xs5m5mN7rjnaGxiw descartado: no es bueno (nada, nota 2: Solo camina en WoW con el inventario abierto, no pasa nada destacable ni gracioso.)
+2026-11-22T15:43 https://www.twitch.tv/peereira7/clip/ZealousKnottyHummingbirdTwitchRPG-Fo-GZjbGOKxuCM5S descartado: no es bueno (nada, nota 3: Comentario fuera de lugar y confuso del streamer que no aporta ninguna gracia real.)
+2026-11-22T15:44 https://www.twitch.tv/imantado/clip/InnocentTacitCurlewDansGame-H2UdAi5XKI97SobR Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-22T15:46 https://www.twitch.tv/xamork/clip/FreezingBetterCobraDoggo-caNvxkSYAuheopbd Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-22T15:46 https://www.twitch.tv/danielaazuaje_/clip/WiseTransparentBatteryBigBrother-sCdm_R7OSpyEM3AG descartado: no es bueno (nada, nota 3: Charla normal descubriendo un detalle sin gracia ni accion relevante.)
