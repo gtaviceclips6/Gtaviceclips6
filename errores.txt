@@ -2008,3 +2008,19 @@
 2026-11-23T02:12 https://www.twitch.tv/illojuan/clip/LazyCrepuscularElephantRlyTho-eDm1k29Romx-3A4d Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-23T02:12 https://www.twitch.tv/cursedfiber78/clip/ObliviousDirtyBeanDoritosChip-mbgw_3eomQlx5tcm descartado: no es bueno (nada, nota 3: Contenido polémico y ambiguo que puede incumplir normas de moderación de las plataformas.)
 2026-11-23T02:13 https://www.twitch.tv/thegrefg/clip/HonorableSourLemurDoubleRainbow-ZFpFts0J-2UMxrKF descartado: no es bueno (nada, nota 3: Es una jugada confusa de Clash Royale con poca gracia fuera de contexto.)
+2026-11-23T13:05 https://www.twitch.tv/illojuan/clip/SingleRamshackleWolverineCmonBruh-i0QqKt40zmMyP7xU descartado: no es bueno (nada, nota 3: Contenido demasiado explícito para las normas de las plataformas y formato de streaming ajeno.)
+2026-11-23T13:06 https://www.twitch.tv/juansguarnizo/clip/TenuousCrackyCoffeePhilosoraptor-25zcqRoxT35Qu2k0 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-23T13:06 https://www.twitch.tv/illojuan/clip/ShortSassyHerdDendiFace-dHjvxLCt1GAqKFBq descartado: demasiado corto (5 s)
+2026-11-23T13:10 https://www.twitch.tv/thegrefg/clip/SmoggyBoringWeaselDerp-3uNEqaA8w0_v5woo descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-23T13:13 https://www.twitch.tv/thegrefg/clip/BoxyDirtySnailArgieB8-IMWPL2ap8l9m18ue descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-23T13:14 https://www.twitch.tv/gerardromero/clip/CourteousSuaveReindeerJebaited-SSds6vrLKdNNCZt1 descartado: no es bueno (nada, nota 3: Es una charla táctica de fútbol aburrida sin ningún momento gracioso o viral.)
+2026-11-23T13:15 https://www.twitch.tv/illojuan/clip/UnusualBetterSandwichCorgiDerp-P-yRx264Cba_iG0F descartado: no es bueno (nada, nota 3: Es una charla del streamer comentando una foto de chat, sin contexto suficiente ni gracia.)
+2026-11-23T13:18 https://www.twitch.tv/zeling/clip/AmericanNastySandpiperHoneyBadger-vAU8OSWmN1f2lC6j descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-23T13:19 https://www.twitch.tv/illojuan/clip/ImpartialCharmingElephantRalpherZ-AcEHeOZYUulXP8Vi Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-23T13:19 https://www.twitch.tv/rubius/clip/InventiveExpensiveChoughDerp-p4yPwiCQbwQwEMgZ descartado: no es bueno (nada, nota 3: Rubius probando ropa en una tienda sin que ocurra nada destacable ni gracioso.)
+2026-11-23T13:20 https://www.twitch.tv/vegetta777/clip/ResilientTardyYakOSsloth-ORrg2h7UTHY-T8p_ descartado: no es bueno (nada, nota 3: Es un clip de otro juego (Death Stranding), no encaja con GTA.)
+2026-11-23T13:20 https://www.twitch.tv/thegrefg/clip/PuzzledWildBeeKappaRoss-piBbDPqLzlZITZPH descartado: no es bueno (nada, nota 3: Es charla normal y lectura de chat, no cumple los requisitos de humor o escena guapa.)
+2026-11-23T13:22 https://www.twitch.tv/vegetta777/clip/LaconicHonestCroissantKeepo-l58yTixRBhruI0YP descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-23T13:23 https://www.twitch.tv/elxokas/clip/PerfectAuspiciousWaspVoteYea-MtwVEqEV05xJxt4C descartado: no es bueno (nada, nota 3: Es solo charla explicando por qué no juega, falta contenido visual o gracioso.)
+2026-11-23T13:24 https://www.twitch.tv/alexby11/clip/AcceptableFragileGoshawkDBstyle-ecVvyYJBaIu6t5sG descartado: no es bueno (nada, nota 3: Es solo charla aburrida de Alexby jugando fuera de cámara sin gracia ni salseo.)
+2026-11-23T13:24 https://www.twitch.tv/alexby11/clip/JazzyArtisticPlumageTheThing-7ZK5SWK-_GOLjL-x descartado: no es bueno (nada, nota 3: El streamer habla sin rumbo y no ocurre nada gracioso ni visualmente llamativo.)
