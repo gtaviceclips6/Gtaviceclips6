@@ -2024,3 +2024,9 @@
 2026-11-23T13:23 https://www.twitch.tv/elxokas/clip/PerfectAuspiciousWaspVoteYea-MtwVEqEV05xJxt4C descartado: no es bueno (nada, nota 3: Es solo charla explicando por qué no juega, falta contenido visual o gracioso.)
 2026-11-23T13:24 https://www.twitch.tv/alexby11/clip/AcceptableFragileGoshawkDBstyle-ecVvyYJBaIu6t5sG descartado: no es bueno (nada, nota 3: Es solo charla aburrida de Alexby jugando fuera de cámara sin gracia ni salseo.)
 2026-11-23T13:24 https://www.twitch.tv/alexby11/clip/JazzyArtisticPlumageTheThing-7ZK5SWK-_GOLjL-x descartado: no es bueno (nada, nota 3: El streamer habla sin rumbo y no ocurre nada gracioso ni visualmente llamativo.)
+2026-11-23T19:30 https://www.twitch.tv/illojuan/clip/BitterOddBaconDoritosChip-3R4Xq2FU7ksHYsHu descartado: no es bueno (nada, nota 3: Muestra solo el menú de PS5 y charla sin ninguna situación graciosa o jugada.)
+2026-11-23T19:31 https://www.twitch.tv/knekro/clip/WittyTolerantLemurYee-tPRd5CSAwI6rFtZr Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-23T19:35 https://www.twitch.tv/illojuan/clip/HeartlessCaringTrayBCWarrior-xINJY4hGovwg-nNK descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-23T19:35 https://www.twitch.tv/skain/clip/MotionlessObliqueGarlicKreygasm-Wk41MBMIVqxSLTsc descartado: no es bueno (nada, nota 3: Es un cambio de juego sin contexto claro ni situación graciosa o épica.)
+2026-11-23T19:36 https://www.twitch.tv/knekro/clip/BlindingTangentialBeanMrDestructoid-SrKqda_6wCtZIeDn Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-23T19:36 https://www.twitch.tv/skain/clip/BoldBovineIguanaKreygasm-5rtElkIaMG1XyQUJ descartado: no es bueno (nada, nota 3: Conversación sin contexto y gameplay plano de Minecraft que no aporta nada especial.)
