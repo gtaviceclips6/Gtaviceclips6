@@ -2074,3 +2074,9 @@
 2026-11-24T14:28 https://www.twitch.tv/elxokas/clip/SplendidSparklingWrenchKeepo-pElOfbuhArdXHBkn descartado: sin IA no puedo juzgarlo y tiene pocas visitas
 2026-11-24T14:30 https://www.twitch.tv/elxokas/clip/TenaciousDeafCourgetteKeyboardCat-FpuF_zqHCG5IUGjz descartado: sin IA no puedo juzgarlo y tiene pocas visitas
 2026-11-24T14:31 https://www.twitch.tv/elxokas/clip/TemperedAbrasiveJellyfishVoteYea-8A59DW5z0gKPU1Nd descartado: no es bueno (nada, nota 3: Es una charla opinativa larga y sin ninguna reaccion exagerada ni momento gracioso.)
+2026-11-24T19:09 https://www.twitch.tv/paache_/clip/BillowingGlutenFreeTarsierAllenHuhu-15N8H8Xi4D2M8EY4 descartado: no es bueno (nada, nota 3: Salto sin gracia y comentarios absurdos que no aportan nada divertido.)
+2026-11-24T19:09 https://www.twitch.tv/djmariio/clip/ConfidentRoundOcelotBudStar-UghJ4rEFimhKh-VO descartado: no es bueno (nada, nota 3: Falta contexto claro y solo se ve al streamer intentando rolear sin que pase nada relevante.)
+2026-11-24T19:09 https://www.twitch.tv/djmariio/clip/SoftProtectiveSandpiperFutureMan-7FFb9Ms8_tRcCGN4 descartado: no es bueno (nada, nota 3: Es solo el streamer hablando de menus y guardando partida, sin ninguna reaccion graciosa.)
+2026-11-24T19:10 https://www.twitch.tv/imantado/clip/DiligentBlushingClintmullinsDoubleRainbow-gHs38RQdUkmt2vhc Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-24T19:11 https://www.twitch.tv/b0rja/clip/PuzzledCautiousAlpacaWow-UwtXrbv7a7ZvhWmh descartado: no es bueno (nada, nota 3: Es una jugada normal de shooter con un enfado genérico que necesita contexto.)
+2026-11-24T19:12 https://www.twitch.tv/rubius/clip/NimbleFrigidCamelPanicVis-Xtvwgw_exQE9OrLA descartado: no es bueno (nada, nota 3: Es solo Rubius comentando una jugada sin ninguna reaccion fuerte ni momento gracioso.)
