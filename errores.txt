@@ -2050,3 +2050,7 @@
 2026-11-24T02:52 https://www.twitch.tv/thegrefg/clip/TubularDeafRadishJebaited-FUpLiSM0HOeoPGQc descartado: no es bueno (nada, nota 3: Solo muestra al streamer comentando una cinemática sin aportar ninguna reacción exagerada o graciosa.)
 2026-11-24T02:53 https://www.twitch.tv/rubius/clip/PrettyInquisitiveTubersSaltBae-BkdiwMZO2RIoVvWz Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-24T02:54 https://www.twitch.tv/auronplay/clip/NimbleNeighborlyRadishOhMyDog-zhyL38j2psBTG4Oq descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T04:27 https://www.twitch.tv/rubius/clip/MildTolerantShallotWoofer-AMPsut1_InrqEqPi Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-24T04:28 https://www.twitch.tv/illojuan/clip/TangibleGentleManateeTwitchRPG-tciiQt5HHl9-zOHJ descartado: no es bueno (nada, nota 3: Es solo charla aleatoria del streamer conduciendo sin contexto fuerte.)
+2026-11-24T04:28 https://www.twitch.tv/mirreytv/clip/AlluringBlightedCookieKappaClaus-XYsjPPZArzBCL8rw descartado: no es bueno (nada, nota 3: Conduccion normal y comentarios flojos, sin gracia ni momenti viral.)
+2026-11-24T04:29 https://www.twitch.tv/pattymeza/clip/SpotlessEntertainingHippoKeyboardCat-kC_Q4LGFx065kRPI descartado: no es bueno (nada, nota 3: Es una charla normal viendo una cinemática sin gracia especial ni reacción fuerte.)
