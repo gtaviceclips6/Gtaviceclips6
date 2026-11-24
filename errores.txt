@@ -2054,3 +2054,23 @@
 2026-11-24T04:28 https://www.twitch.tv/illojuan/clip/TangibleGentleManateeTwitchRPG-tciiQt5HHl9-zOHJ descartado: no es bueno (nada, nota 3: Es solo charla aleatoria del streamer conduciendo sin contexto fuerte.)
 2026-11-24T04:28 https://www.twitch.tv/mirreytv/clip/AlluringBlightedCookieKappaClaus-XYsjPPZArzBCL8rw descartado: no es bueno (nada, nota 3: Conduccion normal y comentarios flojos, sin gracia ni momenti viral.)
 2026-11-24T04:29 https://www.twitch.tv/pattymeza/clip/SpotlessEntertainingHippoKeyboardCat-kC_Q4LGFx065kRPI descartado: no es bueno (nada, nota 3: Es una charla normal viendo una cinemática sin gracia especial ni reacción fuerte.)
+2026-11-24T14:00 https://www.twitch.tv/xagepa/clip/AbnegateWimpyWoodpeckerHassaanChop-UbfpeaFROy3GQLHf Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-24T14:03 https://www.twitch.tv/illojuan/clip/AbnegateResolutePistachioTBTacoLeft-uEAEafAt33qt6nYN Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-24T14:06 https://www.twitch.tv/djmariio/clip/SwissProtectiveLardPipeHype-MZeczNGU1eXsZBmd descartado: no es bueno (nada, nota 3: Es solo conducción habitual sin reacciones destacables ni momentos graciosos o espectaculares.)
+2026-11-24T14:10 https://www.twitch.tv/peereira7/clip/CulturedApatheticCheddarPeoplesChamp-qRVuIfnxSr1k297i descartado: los virales solo pasan si la IA los ve graciosos (la IA no responde)
+2026-11-24T14:11 https://www.twitch.tv/gonsabellla/clip/HilariousExquisitePigDoggo-NstXfJVqJB9TOHQ- descartado: no es bueno (nada, nota 2: Es solo la streamer saludando al chat sin que pase nada relevante ni gracioso.)
+2026-11-24T14:12 https://www.twitch.tv/illojuan/clip/FuriousQuaintSquirrelCoolStoryBob-bPLwEr1Ei580T4BH Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-24T14:13 https://www.twitch.tv/rubius/clip/AverageCredulousPuffinBloodTrail-Zydnq654k0B5UZBs descartado: no es bueno (nada, nota 3: Falta contexto claro y es solo un comentario de gameplay sin gracia real.)
+2026-11-24T14:16 https://www.twitch.tv/thegrefg/clip/AmusedCrazyPoxPastaThat-Ra_Wp-vqLiqwfEtc descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:18 https://www.twitch.tv/thegrefg/clip/FancyUninterestedCoffeeKippa-Dv3DKwHJ8S0rgUCI descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:19 https://www.twitch.tv/auronplay/clip/LachrymoseFairLorisWholeWheat-msrq70wRNlswZFjJ descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:20 https://www.twitch.tv/auronplay/clip/ObliqueSaltyMangoVoteNay-lyXAmnse3pPat8oH descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:22 https://www.twitch.tv/alexby11/clip/TameFastMouseGivePLZ-sAGTxibnwZJz-smp descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:23 https://www.twitch.tv/vegetta777/clip/NaiveMistyTitanWOOP-qSWxsnlyfYuQbMYn Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-24T14:24 https://www.twitch.tv/alexby11/clip/DifficultBadDragonflyBuddhaBar-O_1nHJgBJyrfk-C_ descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:24 https://www.twitch.tv/zeling/clip/FrailDeadThymeResidentSleeper-Dpf7VROXeSeZZHRy descartado: no es bueno (nada, nota 3: Charla normal sobre juegos sin contexto fuerte ni comedia clara para redes.)
+2026-11-24T14:25 https://www.twitch.tv/vegetta777/clip/HorribleUgliestAlpacaPeanutButterJellyTime-EXAPuEQNT4QrCYUR descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:27 https://www.twitch.tv/mayichi/clip/PatientStylishNeanderthalCopyThis-500FCdKlIHf0fCEt descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:28 https://www.twitch.tv/elxokas/clip/SplendidSparklingWrenchKeepo-pElOfbuhArdXHBkn descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:30 https://www.twitch.tv/elxokas/clip/TenaciousDeafCourgetteKeyboardCat-FpuF_zqHCG5IUGjz descartado: sin IA no puedo juzgarlo y tiene pocas visitas
+2026-11-24T14:31 https://www.twitch.tv/elxokas/clip/TemperedAbrasiveJellyfishVoteYea-8A59DW5z0gKPU1Nd descartado: no es bueno (nada, nota 3: Es una charla opinativa larga y sin ninguna reaccion exagerada ni momento gracioso.)
