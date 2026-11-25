@@ -2100,3 +2100,7 @@
 2026-11-25T00:11 https://www.twitch.tv/vegetta777/clip/PricklySuccessfulPartridgeCorgiDerp-6yg-VjCL24ya0UCw descartado: no es bueno (nada, nota 3: Vegetta conduce y comenta la conversacion sin que ocurra nada gracioso o destacable.)
 2026-11-25T00:11 https://www.twitch.tv/thegrefg/clip/SavageBashfulCockroachKippa-pou44x090Pt5dgHl descartado: no es bueno (nada, nota 3: Es solo charla de intro y saludos a YouTube sin gracia ni acción.)
 2026-11-25T00:12 https://www.twitch.tv/vegetta777/clip/CrackyAffluentNoodleOMGScoots-9ADBExd3jlC-bTl8 descartado: no es bueno (nada, nota 3: Es una charla casual en un menú y no aporta nada gracioso ni visualmente llamativo.)
+2026-11-25T03:12 https://www.twitch.tv/rubius/clip/SquarePhilanthropicGarbageOSsloth-Cc0LdBQc6lRbz2B8 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-25T03:13 https://www.twitch.tv/rubius/clip/RelievedFriendlyOtterBloodTrail-FHpFzbyVZMfXcpER descartado: no es bueno (nada, nota 3: Es una cinemática del juego y Rubius solo comenta por encima sin aportar nada especialmente gracioso.)
+2026-11-25T03:14 https://www.twitch.tv/marinaifx/clip/TransparentFastVultureDxCat-2Eb8KkxmOrElKgVI Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-25T03:14 https://www.twitch.tv/marinaifx/clip/ExquisiteOnerousMochaPhilosoraptor-O7PIfstRyOHkEpOt descartado: no es bueno (nada, nota 3: Es una jugada normal de Minecraft sin gracia especial ni contexto viral.)
