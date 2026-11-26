@@ -2153,3 +2153,11 @@
 2026-11-26T02:06 https://www.twitch.tv/peereira7/clip/CrowdedStrangeEmuWTRuck-PNYYMCj7lvYcaw4b descartado: no es bueno (nada, nota 3: Es una charla sobre apuestas y subs sin contexto ni remate gracioso.)
 2026-11-26T02:06 https://www.twitch.tv/rubius/clip/SpinelessPeacefulSheepOhMyDog-oownFpuWfxIOE4sv descartado: no es bueno (nada, nota 3: Es solo el gameplay de una misión abriendo una cámara sin reacción real destacable.)
 2026-11-26T02:08 https://www.twitch.tv/peereira7/clip/CloudyAbstruseYamPanicBasket-1uW_6rK6ZFIonyFl Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-26T03:43 https://www.twitch.tv/illojuan/clip/CleverFairCroquetteFrankerZ-UQrk056P6sHmUWK3 Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-26T03:43 https://www.twitch.tv/aldo_geo/clip/InspiringObliqueLampGivePLZ-ZAAA5aRqiKT2V6QU descartado: no es bueno (nada, nota 3: Es solo un tiro normal y un comentario simple, falta gracia o epicidad.)
+2026-11-26T03:44 https://www.twitch.tv/djmariio/clip/OddSpeedyCodBigBrother-E9K7N61ysw8TBv-s descartado: no es bueno (nada, nota 3: El comentario sobre los NPCs desnudos es infantil y puede ser baneado en redes.)
+2026-11-26T03:44 https://www.twitch.tv/knekro/clip/PatientArtsyCockroachLeeroyJenkins-sIbMvwE7omvDpIVp descartado: no es bueno (nada, nota 3: Es Knekro tocando la ocarina sin ninguna reaccion exagerada ni fail gracioso.)
+2026-11-26T03:45 https://www.twitch.tv/sofikimmy/clip/SpookyDifficultNostrilTinyFace-L2tkbWBitkls4cEj Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-26T03:46 https://www.twitch.tv/tommypervan/clip/SweetScrumptiousStarTwitchRPG-gxZMPQJrc66czG8n Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-26T03:47 https://www.twitch.tv/vegetta777/clip/BraveRoughDurianWOOP-RIhuXAQzaWyo8k_T Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-26T03:48 https://www.twitch.tv/auronplay/clip/SpunkySmokyHumanBIRB-WAHjLj5ztvKcCj_q Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
