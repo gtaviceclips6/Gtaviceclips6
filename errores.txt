@@ -2204,3 +2204,9 @@
 2026-11-27T12:51 https://www.twitch.tv/auronplay/clip/WealthyWonderfulBulgogiDeIlluminati-GnMwDrvFdWaCutv- Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
 2026-11-27T12:52 https://www.twitch.tv/auronplay/clip/ShySpikyCaribouMikeHogu-VcAlAPu4ikmpsCNM descartado: no es bueno (nada, nota 3: Es solo Auron hablando de una escena sin mostrarla en directo.)
 2026-11-27T12:52 https://www.twitch.tv/rubius/clip/GloriousIronicHabaneroDendiFace-3u19_3Kf6ei0vYXe descartado: no es bueno (nada, nota 3: Comentario flojo sobre un diálogo del juego sin ninguna reacción destacable.)
+2026-11-27T17:42 https://www.twitch.tv/knekro/clip/CarefulIncredulousLlamaTBTacoLeft-J7x-pkA2DL12c5AB Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-27T17:43 https://www.twitch.tv/xurreriaivette/clip/SplendidTriangularKumquatANELE-n-Y4tTaXF0EqgHOV Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-27T17:44 https://www.twitch.tv/revenant/clip/DoubtfulInspiringOtterTakeNRG-DUX_o2EyHK1sSFJn Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
+2026-11-27T17:44 https://www.twitch.tv/peereira7/clip/RelentlessFunPigFailFish-f43TO1uWRTXkTH2x descartado: no es bueno (nada, nota 3: Es una parrafada soltada sin contexto comprensible para quien no vea el directo entero.)
+2026-11-27T17:45 https://www.twitch.tv/peereira7/clip/ProtectiveLongHorseradishShadyLulu--RyToUHklBRh7cbx descartado: no es bueno (nada, nota 3: Conversacion normal de streamers debatiendo sobre que juego hacer, sin gracia ni accion.)
+2026-11-27T17:45 https://www.twitch.tv/xamork/clip/CarefulCreativeCheetahTakeNRG-mqh2PepTJAc2ukJg descartado: no es bueno (nada, nota 3: Es un combate normal de Pokémon sin una reacción graciosa fuera de lo común.)
