@@ -2230,3 +2230,6 @@
 2026-11-27T23:42 https://www.twitch.tv/knekro/clip/BombasticEsteemedCheeseRalpherZ--rWC24XObx7sa-Mv descartado: no es bueno (nada, nota 3: Es Knekro hablando y leyendo un mensaje random, falta contexto y no tiene gracia.)
 2026-11-27T23:42 https://www.twitch.tv/thegrefg/clip/GrotesqueVibrantBarracudaDansGame-dh2cdkrurYhRnnnB descartado: no es bueno (nada, nota 3: Es solo charla del streamer pidiendo ayuda al chat, no pasa nada relevante ni divertido.)
 2026-11-27T23:43 https://www.twitch.tv/illojuan/clip/HotRichJaguarKreygasm-RZ1lORzxhjiLpK0Q descartado: no es bueno (nada, nota 3: Es solo el streamer hablando cansado mientras guarda partida, sin momentos divertidos ni acción.)
+2026-11-28T01:39 https://www.twitch.tv/peereira7/clip/TsundereAgreeableSwallowPanicVis-H55UrWgYJ7t8o_Kv descartado: no es bueno (nada, nota 3: Falta contexto claro y es una charla interna de streamers sin gracia universal.)
+2026-11-28T01:39 https://www.twitch.tv/knekro/clip/CallousProductiveCheesePRChase-JxXD68-t7hnpf4Rf descartado: no es bueno (nada, nota 3: Es solo Knekro hablando de otro juego mientras limpia dinero sin gracia especial.)
+2026-11-28T01:41 https://www.twitch.tv/tvander/clip/SplendidSneakyKittenDerp--WIc6W-EeIE-2QrY Telegram no aceptó el vídeo: {"ok":false,"error_code":403,"description":"Forbidden: bot was blocked by the user"}
